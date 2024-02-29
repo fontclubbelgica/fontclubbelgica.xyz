@@ -3,6 +3,7 @@
 <head>
     <title>{{ site.name }}</title>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}{{ page.url}}{{ page.css }}" />{% endif %}
 </head>
 <body>
 {{ content }}

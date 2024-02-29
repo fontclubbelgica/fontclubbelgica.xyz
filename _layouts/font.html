@@ -1,0 +1,62 @@
+---
+layout: home
+---
+
+{% if page.splash %}
+
+{% endif %}
+    <img src="{{ page.url }}{{ page.splash }}">
+
+{{ content }}
+
+{% if page.in-use %}
+    <div>
+    <h4>In use:</h4>
+    {% for item in page.in-use %}
+        {% for image in item %}
+            <img src="{{ page.url }}{{ image[0] }}">
+            {{ image[1] }}
+        {% endfor %}
+    {% endfor %}
+    </div>
+{% endif %}
+
+{% for items in page.openTypeFeatures %}
+    <div>
+    <h4>OpenType Features:</h4>
+    {% for openTypeFeature in items%}
+        enable {{ openTypeFeature[0] }}
+        {% for text in openTypeFeature[1] %}
+            {{ text }} --> {{ text }}
+        {% endfor %}
+    {% endfor %}
+    </div>
+{% endfor %}
+
+{% if page.characterSets %}
+    <div>
+    <h4>Character Set:</h4>
+    <ul>
+    {% for item in page.characterSets %}
+        {% for characterSet in item %}
+            <li>{{ characterSet[0] }}</li>
+            {% assign characters = characterSet[1] | split: " " %}
+            {% for char in characters %}
+                <li>{{ char }}</li>
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+    </ul>
+    </div>
+{% endif %}
+
+{% if page.products %}
+    <div>
+    <h4>Fonts:</h4>
+    <ul>
+    {% for product in page.products %}
+        <li>{{ product }}</li>
+    {% endfor %}
+    </ui>
+    </div>
+{% endif %}
