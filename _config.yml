@@ -29,6 +29,9 @@ collections:
   fonts:
     output: true
     permalink: /:collection/:path/
+  articles:
+    output: true
+    permalink: /:collection/:path/
 
 markdown: kramdown
 kramdown:

@@ -1,0 +1,11 @@
+<!-- header -->
+
+<header>
+    <ul>
+        <li><a href="/">Font Club Belgica</a></li>
+        {% if page.layout == "font" %}
+        <li>Add To Cart</li>
+        {% endif %}
+        <li>🛒</li>
+    </ul>
+</header>

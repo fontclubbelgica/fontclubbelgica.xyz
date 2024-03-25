@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 {% if page.splash %}
@@ -34,12 +34,12 @@ layout: home
 {% endfor %}
 
 {% if page.characterSets %}
-    <div>
+    <div class="character-set">
     <h4>Character Set:</h4>
     <ul>
     {% for item in page.characterSets %}
         {% for characterSet in item %}
-            <li>{{ characterSet[0] }}</li>
+            <li class="character-set-divider">{{ characterSet[0] }}</li>
             {% assign characters = characterSet[1] | split: " " %}
             {% for char in characters %}
                 <li>{{ char }}</li>
