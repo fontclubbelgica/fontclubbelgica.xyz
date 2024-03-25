@@ -6,12 +6,6 @@ css: style.css
 
 splash: pdu.svg
 
-in-use:
-    - test.png: |
-        a description
-    - inuse-somethingselse.png: an other discription
-    - more.png: something else
-
 shop-products:
     - pdu-family
     - pdu-regular
