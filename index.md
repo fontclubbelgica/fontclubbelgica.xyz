@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 ![]({{ site.url}}/assets/opening.svg)

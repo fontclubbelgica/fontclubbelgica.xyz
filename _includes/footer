@@ -1,0 +1,23 @@
+<!-- footer -->
+
+<footer>
+    <ul>
+        <li>Socials:</li>
+        <li>Intagram</li>
+        <li>Mastodon</li>
+    </ul>
+    <ul>
+        <li><a href="/fonts">Fonts:</a></li>
+        {% for fontpage in site.fonts %}
+        <li><a href="{{ fontpage.url }}">{{ fontpage.title }}</a></li>
+        {% endfor %}
+    </ul>
+    <ul>
+        <li><a href="/Articles">Articles</a></li>
+    </ul>
+    <ul>
+        <li>Support:</li>
+        <li><a href="/FAQ">FAQ</a></li>
+        <li><a href="/licensing">Licensing</a></li>
+    </ul>
+</footer>

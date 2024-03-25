@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Font Club Belgica
+layout: page
+title: Fonts
 ---
 
 {% for fontpage in site.fonts %}

@@ -1,7 +1,54 @@
 ---
 ---
 
+// reset
 
-path:hover {
-    fill: #DEC33A;
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+// header
+
+header {
+    ul {
+        list-style-type: none;
+        li {
+            display: inline-block;
+        }
+    }
+}
+
+// content
+
+// characeter sets
+
+div.character-set {
+    ul {
+        list-style-type: none;
+        li {
+            font-size: 30pt;
+            display: inline-block;
+            padding: 2px;
+            margin: 2px;
+            border: solid 1px green;
+        }
+        li.character-set-divider {
+            font-size: 15pt;
+            display: block;
+            border: none;
+        }
+    }
+}
+
+
+// footer
+
+footer {
+    ul {
+        vertical-align: text-top;
+        list-style-type: none;
+        display: inline-block;
+        margin-right: 20px;
+    }
 }
