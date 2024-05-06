@@ -11,6 +11,9 @@ shop-products:
     - pdu-regular
     - pdu-fill
 
+preview-fonts:
+    - pdu-regular
+
 openTypeFeatures:
     - smcp:
         - abcd

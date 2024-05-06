@@ -1,3 +1,7 @@
+@font-face {
+  font-family: pdu-regular;
+  src: url(PDU-Regular.ttf);
+}
 
 body {
     background: HotPink;

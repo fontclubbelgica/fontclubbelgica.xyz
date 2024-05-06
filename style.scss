@@ -3,6 +3,9 @@
 
 // reset
 
+body {
+    font-family: sans-serif;
+}
 
 ul {
     margin: 0;
@@ -42,7 +45,7 @@ header {
             display: inline-block;
             background-color: white;
             padding: .4em .6em;
-            border-radius: 1.5em;
+            border-radius: 1em;
             border: 1px solid white;
 
             &:hover {
@@ -58,6 +61,7 @@ header {
                 z-index: 100;
 
                 background-color: white;
+                border-radius: 0 1em 1em 1em;
                 border: 1px solid black;
                 margin-top: .4em;
                 margin-left: .6em;
@@ -65,11 +69,10 @@ header {
 
                 a {
                     display: block;
+                    padding-bottom: .3em;
                 }
             }
         }
-
-
     }
 }
 
@@ -85,7 +88,6 @@ div.character-set {
             display: inline-block;
             padding: 2px;
             margin: 2px;
-            border: solid 1px green;
         }
         li.character-set-divider {
             font-size: 15pt;
@@ -99,10 +101,17 @@ div.character-set {
 // footer
 
 footer {
+    margin-top: 2em;
+    padding-top: 2em;
+    border-top: 1px solid white;
+
+    font-size: 90%;
+
     ul {
         vertical-align: text-top;
         list-style-type: none;
         display: inline-block;
         margin-right: 20px;
+
     }
 }

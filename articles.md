@@ -5,6 +5,6 @@ title: Articles
 
 <ul>
 {% for articlePage in site.articles %}
-    <li>{{ articlePage.title }}</li>
+    <li><a href="{{ articlePage.url }}">{{ articlePage.title }}</a></li>
 {% endfor %}
 </ul>
