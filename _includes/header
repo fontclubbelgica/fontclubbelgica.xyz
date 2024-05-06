@@ -4,7 +4,7 @@
     <nav>
         <div>
             <div class="dropdown">
-                <a href="/"><span class="flag-black">Font</span> <span class="flag-yellow">Club</span> <span class="flag-red">Belgica</span></a></div>
+                <a href="/">🏆&nbsp;<span class="flag-black">Font</span>&nbsp;<span class="flag-yellow">Club</span>&nbsp;<span class="flag-red">Belgica</span></a></div>
                 <div class="dropdown-options">
                     <a href="/fonts">Fonts</a>
                     <a href="/articles">Articles</a>
@@ -13,17 +13,17 @@
         {% if page.layout == "font" %}
             <div>
                 <div class="dropdown">
-                    <div>{{ page.title }} ↕</div>
+                    <div>{{ page.title | replace: ' ', '&nbsp;'}}&nbsp;↕</div>
                     <div class="dropdown-options">
                         {% for fontPage in site.fonts %}
                             {% if fontPage != page %}
-                                <a href="{{ fontPage.url}}">{{ fontPage.title }}</a>
+                                <a href="{{ fontPage.url}}">{{ fontPage.title | replace: ' ', '&nbsp;' }}</a>
                             {% endif %}
                         {% endfor %}
                     </div>
                 </div>
             </div>
-            <div>Add | Show Cart</div>
+            <div>Add&nbsp;|&nbsp;Show&nbsp;Cart</div>
         {% else %}
         <div>show Cart</div>
         {% endif %}
