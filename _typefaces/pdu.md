@@ -6,7 +6,7 @@ css: style.css
 
 splash: pdu.svg
 
-shop-products:
+fastspring-products:
     - pdu-family
     - pdu-regular
     - pdu-fill
@@ -26,8 +26,28 @@ characterSets:
     - uppercase: A B C D E F G J I K L M N O P
     - lowercase: a b c d e f g j i k l m n o p
     - numbers: 0 1 2 3 4 5 6 7 8 9
----
+    - CE: é è ç à
+    - symbols: § &
 
+tags:
+    - display
+    - color font
+
+lanuage-support:
+    - latin
+    - greek
+    - cyrillic
+
+search-library:
+    - pdu.svg:
+        - regular
+        - bold
+        - stencil
+        - light
+        - display
+    - pdu-stencil.svg:
+        - stencil
+---
 
 <section class="story" markdown="1">
 

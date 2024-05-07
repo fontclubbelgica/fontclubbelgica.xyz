@@ -7,8 +7,8 @@
         <li>Mastodon</li>
     </ul>
     <ul>
-        <li><a href="/fonts">Fonts:</a></li>
-        {% for fontpage in site.fonts %}
+        <li><a href="/typefaces">Fonts:</a></li>
+        {% for fontpage in site.typefaces %}
         <li><a href="{{ fontpage.url }}">{{ fontpage.title }}</a></li>
         {% endfor %}
     </ul>
