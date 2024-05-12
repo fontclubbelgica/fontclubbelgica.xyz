@@ -2,31 +2,26 @@
 
 <header>
     <nav>
-        <div>
-            <div class="dropdown">
-                <a href="/"><span class="flag-black">Font</span> <span class="flag-yellow">Club</span> <span class="flag-red">Belgica</span></a></div>
-                <div class="dropdown-options">
-                    <a href="/typefaces">Typefaces</a>
-                    <a href="/articles">Research & News</a>
-                    <a href="/next">What's next</a>
-                </div>
+        <div class="dropdown">
+            <a href="/"><span class="flag-black">Font</span> <span class="flag-yellow">Club</span> <span class="flag-red">Belgica</span></a>
+            <div class="dropdown-options">
+                <a href="/typefaces">Typefaces</a>
+                <a href="/articles">Research & News</a>
+                <a href="/next">What's next</a>
             </div>
+        </div>
         {% if page.layout == "font" %}
-            <div>
-                <div class="dropdown">
-                    <div>{{ page.title }} ↕</div>
-                    <div class="dropdown-options">
-                        {% for fontPage in site.typefaces %}
-                            {% if fontPage != page %}
-                                <a href="{{ fontPage.url}}">{{ fontPage.title }}</a>
-                            {% endif %}
-                        {% endfor %}
-                    </div>
-                </div>
+        <div class="dropdown">
+            <div>{{ page.title }} ↕</div>
+            <div class="dropdown-options">
+                {% for fontPage in site.typefaces %}
+                    {% if fontPage != page %}
+                        <a href="{{ fontPage.url}}">{{ fontPage.title }}</a>
+                    {% endif %}
+                {% endfor %}
             </div>
-            <div>Cart</div>
-        {% else %}
-        <div>Cart</div>
+        </div>
         {% endif %}
+        <div class="dropdown">Cart</div>
     </nav>
 </header>
