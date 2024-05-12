@@ -4,7 +4,7 @@ title: FC PDU
 
 css: style.css
 
-splash: pdu.svg
+splash: pdu-splash.svg
 
 fastspring-products:
     - pdu-family
@@ -53,7 +53,7 @@ search-library:
 
 # the story
 
-![](pdu/imageoftheStory.png)
+<!-- ![](pdu/imageoftheStory.png) -->
 
 the story the story the story
 

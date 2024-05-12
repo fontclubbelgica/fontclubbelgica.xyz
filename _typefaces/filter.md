@@ -4,5 +4,6 @@ title: FC Filter
 
 css: style.css
 
-splash: filter.svg
+splash: filter-splash.svg
 ---
+
