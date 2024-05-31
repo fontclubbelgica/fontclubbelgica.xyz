@@ -3,7 +3,7 @@
 <header>
     <nav>
         <div class="dropdown">
-            <a href="/"><span class="flag-black">Font</span> <span class="flag-yellow">Club</span> <span class="flag-red">Belgica</span></a>
+            {% include fcb %}
             <div class="dropdown-options">
                 <a href="/typefaces">Typefaces</a>
                 <a href="/articles">Research & News</a>
