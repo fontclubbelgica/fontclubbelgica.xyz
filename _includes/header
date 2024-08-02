@@ -1,27 +1,39 @@
 <!-- header -->
 
 <header>
-    <nav>
-        <div class="dropdown">
-            {% include fcb %}
-            <div class="dropdown-options">
-                <a href="/typefaces">Typefaces</a>
-                <a href="/articles">Research & News</a>
-                <a href="/next">What's next</a>
-            </div>
-        </div>
-        {% if page.layout == "font" %}
-        <div class="dropdown">
-            <div>{{ page.title }} ↕</div>
-            <div class="dropdown-options">
-                {% for fontPage in site.typefaces %}
-                    {% if fontPage != page %}
-                        <a href="{{ fontPage.url}}">{{ fontPage.title }}</a>
-                    {% endif %}
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
-        <div class="dropdown">Cart</div>
-    </nav>
+    <div>
+        <nav class="main-menu">
+            <h2>{% include fcb %}</h2>
+            <ul>
+                <li><a href="/typefaces">Typefaces</a></li>
+                <li><a href="/articles">Research & News</a></li>
+                <li><a href="/next">What's next</a></li>
+            </ul>
+        </nav>
+    </div>
+
+
+    <div>
+        <nav class="font-menu">
+            {% if page.layout == "font" %}
+            <h2>{{ page.title }}</h2>
+            {% else %}
+            <h2>Typefaces</h2>
+            {% endif %}
+            <ul>
+            {% for fontPage in site.typefaces %}
+                {% if fontPage != page %}
+                    <li><a href="{{ fontPage.url}}">{{ fontPage.title }}</a></li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </nav>
+    </div>
+
+
+    <div>
+        <nav class="cart">
+            <a href="#">Add to cart</a>
+        </nav>
+    </div>
 </header>

@@ -1,23 +1,57 @@
 <!-- footer -->
 
 <footer>
-    <ul>
-        <li>Socials:</li>
-        <li>Intagram</li>
-        <li>Mastodon</li>
-    </ul>
-    <ul>
-        <li><a href="/typefaces">Fonts:</a></li>
-        {% for fontpage in site.typefaces %}
-        <li><a href="{{ fontpage.url }}">{{ fontpage.title }}</a></li>
-        {% endfor %}
-    </ul>
-    <ul>
-        <li><a href="/Articles">Articles</a></li>
-    </ul>
-    <ul>
-        <li>Support:</li>
-        <li><a href="/FAQ">FAQ</a></li>
-        <li><a href="/licensing">Licensing</a></li>
-    </ul>
+    <div class="ftr-row ftr-top">
+        <div class="col-6">
+            <p>Get access to new fonts and the latest news:</p>
+            <p>[newsletter - depending on service]</p>
+        </div>
+        <div class="col-6">
+            <p>For any enquiries please email us:</p>
+            <p><a href="mailto:info@fontclubbelgica.xyz">info@fontclubbelgica.xyz</a></p>
+        </div>
+    </div>
+    <div class="ftr-row ftr-bottom">
+        <div class="col-4">
+            <h2>{% include fcb %}</h2>
+        </div>
+        <nav class="col-2">
+            <h2>Socials</h2>
+            <ul>
+                <li><a href="https://www.instagram.com/fontclubbelgica">Instagram</a></li>
+                <li><a href="#">Mastodon</a></li>
+            </ul>
+        </nav>
+        <nav class="col-2">
+            <h2><a href="/typefaces">Our typefaces</a></h2>
+            <ul>
+                {% for fontpage in site.typefaces %}
+                    <li><a href="{{ fontpage.url }}">{{ fontpage.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+        <nav class="col-2">
+            <h2>Information</h2>
+            <ul>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Our Team</a></li>
+                <li><a href="#">Our Service</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Trial Fonts</a></li>
+            </ul>
+        </nav>
+        <nav class="col-2">
+            <h2>Support</h2>
+            <ul>
+                <li><a href="#">Payments</a></li>
+                <li><a href="#">Licensing</a></li>
+                <li><a href="#">EULA</a></li>
+                <li><a href="#">Legal</a></li>
+                <li><a href="#">GDPR</a></li>
+            </ul>
+        </nav>
+        <div class="col-12">
+            <p class="copy">&copy; <script>document.write(new Date().getFullYear())</script> {% include fcb %}. All Rights Reserved. Don’t steal fonts!</p>
+        </div>
+    </div>
 </footer>
