@@ -3,65 +3,171 @@ layout: page
 ---
 
 {% if page.splash %}
-    <img src="{{ page.url }}{{ page.splash }}">
+<section class="hero">
+    <figure><img src="{{ page.url }}{{ page.splash }}"></figure>
+</section>
 {% endif %}
 
 {{ content }}
 
-{% if page.in-use %}
-    <div>
-    <h4>In use:</h4>
-    {% for item in page.in-use %}
-        {% for image in item %}
-            <img src="{{ page.url }}{{ image[0] }}">
-            {{ image[1] }}
-        {% endfor %}
-    {% endfor %}
+{% if page.about %}
+<section class="about">
+    <div class="about-title">
+        <h3>Synopsis</h3>
+        <h3>FC.{{ page.date | date: "%Y" }}.{{ page.date | date: "%m" }}</h3>
     </div>
+    <div class="text-content">
+        {% for about in page.about %}
+            {% if about.image %}
+            <figure>
+            <img src="{{ page.url }}{{ about.image }}">
+                {% if about.caption %}<figcaption>{{ about.captoin }}</figcaption>{% endif %}
+            </figure>
+            {% endif %}
+            <p>
+                {{ about.text | markdownify}}
+            </p>
+        {% endfor %}
+    </div>
+</section>
 {% endif %}
 
-{% for previewFont in page.preview-fonts %}
-    {% for items in page.openTypeFeatures %}
-        <div>
-        <h4>OpenType Features:</h4>
-        <div style="font-family:{{ previewFont }}">
-        {% for openTypeFeature in items%}
-            {% for text in openTypeFeature[1] %}
-                <span>{{ text }}</span> --> <span style="font-feature-settings: {{ openTypeFeature[0] }} : 1">{{ text }}</span>
-            {% endfor %}
-        {% endfor %}
+{% if page.testers %}
+<section class="testers">
+{% for tester in page.testers %}
+    <div class="tester" id="tester-{{ forloop.index }}">
+        <div class="controls">
+            <div class="select-font">
+                <div class="select">
+                     <select>
+                     {% for style in page.styles %}
+                        <option value="style-{{ forloop.index }}"{%if style == tester.style %} selected{% endif %}>{{ style }}</option>
+                     {% endfor %}
+                     </select>
+                </div>
+            </div>
+            <div class="select-feature">
+                <div class="select">
+                    <select>
+                     {% for openTypeFeatureItem in page.openTypeFeatures %}
+                        {% for openTypeFeature in openTypeFeatureItem %}
+                            <option value="feature-{{ openTypeFeature[0] }}">{{ openTypeFeature[1].name }}</option>
+                        {% endfor %}
+                    {% endfor %}
+                     </select>
+                </div>
+            </div>
+            <div class="select-size">
+                <input type="range" min="14" max="200" value="100" class="slider" id="size-slider-{{ forloop.index }}">
+            </div>
         </div>
+        <div class="line t-large">
+            <p contenteditable="true" spellcheck="false">{{ tester.text }}</p>
         </div>
-    {% endfor %}
+    </div>
 {% endfor %}
+</section>
+{% endif %}
 
+{% if page.research %}
+<section class="research">
+    <div class="research-title">
+        <h3>Research</h3>
+    </div>
+    <div class="research-content">
+        {{ page.research | markdownify }}
+    </div>
+</section>
+{% endif %}
 
-{% if page.characterSets %}
-    <div class="character-set">
-    <h4>Character Set:</h4>
-    {% for previewFont in page.preview-fonts %}
-        <ul>
-        {% for item in page.characterSets %}
-            {% for characterSet in item %}
-                <li class="character-set-divider">{{ characterSet[0] }}</li>
-                {% assign characters = characterSet[1] | split: " " %}
-                {% for char in characters %}
-                    <li style="font-family:{{ previewFont }}">{{ char }}</li>
+<section class="details">
+    <div class="information">
+        <h2>Information</h2>
+        <div>
+            <p>{{ page.information }}</p>
+            <ul class="short-info">
+                <li><span>Designer: </span>{{ page.designer }}</li>
+                <li><span>Release Date: </span>{{ page.date | date: "%d %B %Y" }}</li>
+                <li><span>Glyph Count: </span>{{ page.glyphCount }}</li>
+            </ul>
+        </div>
+    </div>
+
+    {% if page.openTypeFeatures %}
+    <div class="opentype">
+        <h2>Opentype features</h2>
+        <div>
+            <div class="select-font">
+                <div class="select">
+                    <select>
+                        {% for style in page.styles %}
+                            <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected>{% endif %}{{ style }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            <div class="style-1" id="features">
+                {% for openTypeFeatureItem in page.openTypeFeatures %}
+                    {% for openTypeFeature in openTypeFeatureItem %}
+                        <div class="style-row">
+                            <p class="meta"><span>{{ openTypeFeature[1].name }}</span><span>{{ openTypeFeature[0] }}</span></p>
+                            {% for example in openTypeFeature[1].examples %}
+                                <p class="feature-{{ openTypeFeature[0] }} features-example">{{ example }}</p>
+                            {% endfor %}
+                        </div>
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    {% if page.characterSets %}
+    <div class="characterSets">
+        <h2>Glyphs sheet</h2>
+        <div>
+            <div class="select-font">
+                <div class="select">
+                    <select>
+                        {% for style in page.styles %}
+                            <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected>{% endif %}{{ style }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            <div class="style-1 characterSets-viewer">
+            {% for item in page.characterSets %}
+                {% for characterSet in item %}
+                    <p class="meta">{{ characterSet[0] }}</p>
+                    {% assign characters = characterSet[1] | split: " " %}
+                    {% for char in characters %}
+                        <div class="glyph">
+                            {{ char }}
+                            <div class="h">
+                                <div class="h-top">
+                                    <h3>{{ char }}</h3>
+                                </div>
+                                <span class="letter">{{ char }}</span>
+                                <p class="all">
+                                    <span>Decimal Value: </span><script>document.write("{{ char }}".charCodeAt(0).toString())</script><br>
+                                    <span>UTF-8 HEX Value: </span>0x<script>document.write("{{ char }}".charCodeAt(0).toString(16))</script><br>
+                                    <span>XHTML Value: </span>&#<script>document.write("{{ char }}".charCodeAt(0).toString())</script></p>
+                            </div>
+                        </div>
+                    {% endfor %}
                 {% endfor %}
             {% endfor %}
-        {% endfor %}
-        </ul>
-    {% endfor %}
+            </div>
+        </div>
     </div>
-{% endif %}
+    {% endif %}
+</section>
 
-{% if page.products %}
-    <div>
-    <h4>Fonts:</h4>
-    <ul>
-    {% for product in page.products %}
-        <li>{{ product }}</li>
-    {% endfor %}
-    </ui>
-    </div>
-{% endif %}
+<section class="buy">
+    <h2 class="f2">Get it!</h2>
+    <ul class="buy-btns">
+        <li><a href="#" download>PDF Specimen</a></li>
+        <li><a href="#" download>Get Trials</a></li>
+        <li><a href="#">Buy Font</a></li>
+    </ul>
+</section>
