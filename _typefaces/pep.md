@@ -87,7 +87,13 @@ research: |
 
     In “ABC con fantasia”, Munari takes a unique approach to teaching the alphabet. Each letter can constructed in different ways, often presented in a visually striking and unconventional way. Munari’s goal was to make the learning process enjoyable and to encourage children to think creatively about
 
-
+library_items:
+    - FCB_Library_Pep.svg
+    - FCB_Library_Pep.svg
+    - FCB_Library_Pep.svg
+    - FCB_Library_Pep.svg
+    - FCB_Library_Pep.svg
+    - FCB_Library_Pep.svg
 ---
 
 

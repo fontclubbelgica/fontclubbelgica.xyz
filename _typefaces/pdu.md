@@ -54,6 +54,12 @@ search-library:
         - display
     - pdu-stencil.svg:
         - stencil
+
+library_items:
+    - FCB_Library_PDU.svg
+    - FCB_Library_PDU.svg
+    - FCB_Library_PDU.svg
+    - FCB_Library_PDU.svg
 ---
 
 <section class="story" markdown="1">

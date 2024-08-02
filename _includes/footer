@@ -1,7 +1,7 @@
 <!-- footer -->
 
 <footer>
-    <div class="ftr-row ftr-top">
+    <div class="row top">
         <div class="col-6">
             <p>Get access to new fonts and the latest news:</p>
             <p>[newsletter - depending on service]</p>
@@ -11,7 +11,7 @@
             <p><a href="mailto:info@fontclubbelgica.xyz">info@fontclubbelgica.xyz</a></p>
         </div>
     </div>
-    <div class="ftr-row ftr-bottom">
+    <div class="row bottom">
         <div class="col-4">
             <h2>{% include fcb %}</h2>
         </div>
