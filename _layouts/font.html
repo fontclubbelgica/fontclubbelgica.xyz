@@ -13,7 +13,7 @@ layout: page
 {% if page.about %}
 <section class="about">
     <div class="about-title">
-        <h3>Synopsis</h3>
+        <h3 class="flag-red">Synopsis</h3>
         <h3>FC.{{ page.date | date: "%Y" }}.{{ page.date | date: "%m" }}</h3>
     </div>
     <div class="text-content">
@@ -41,28 +41,26 @@ layout: page
                 <div class="select">
                      <select>
                      {% for style in page.styles %}
-                        <option value="style-{{ forloop.index }}"{%if style == tester.style %} selected{% endif %}>{{ style }}</option>
+                        <option value="{{ style }}"{%if style == tester.style %} selected{% endif %}>{{ style }}</option>
                      {% endfor %}
                      </select>
                 </div>
             </div>
             <div class="select-feature">
-                <div class="select">
-                    <select>
-                     {% for openTypeFeatureItem in page.openTypeFeatures %}
-                        {% for openTypeFeature in openTypeFeatureItem %}
-                            <option value="feature-{{ openTypeFeature[0] }}">{{ openTypeFeature[1].name }}</option>
-                        {% endfor %}
+                <from>
+                {% for openTypeFeatureItem in page.openTypeFeatures %}
+                    {% for openTypeFeature in openTypeFeatureItem %}
+                        <div><input type="checkbox" value="{{ openTypeFeature[0] }}">{{ openTypeFeature[1].name }}</div>
                     {% endfor %}
-                     </select>
-                </div>
+                {% endfor %}
+                </from>
             </div>
             <div class="select-size">
                 <input type="range" min="14" max="200" value="100" class="slider" id="size-slider-{{ forloop.index }}">
             </div>
         </div>
-        <div class="line t-large">
-            <p contenteditable="true" spellcheck="false">{{ tester.text }}</p>
+        <div class="test-preview t-large">
+            <p contenteditable="true" spellcheck="false" style="font-family: '{{ tester.style }}';">{{ tester.text }}</p>
         </div>
     </div>
 {% endfor %}
@@ -72,7 +70,7 @@ layout: page
 {% if page.research %}
 <section class="research">
     <div class="research-title">
-        <h3>Research</h3>
+        <h3 class="flag-red">Research</h3>
     </div>
     <div class="research-content">
         {{ page.research | markdownify }}
