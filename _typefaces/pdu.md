@@ -19,7 +19,7 @@ preview-text:
       fontStyle: SemiCondensed Black
 
     - peel an apple
-    -
+
 
 openTypeFeatures:
     - smcp:

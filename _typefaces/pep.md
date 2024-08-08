@@ -11,20 +11,20 @@ date: 01-03-2023
 glyphCount: 1234
 
 styles:
-    - Pep Shapes Black
-    - Pep Shapes Classic
-    - Pep Shapes Cold
-    - Pep Shapes Grey
-    - Pep Shapes Hot
-    - Pep Shapes Pastel
-    - Pep Shapes RGB
-    - Pep Solid Black
-    - Pep Solid Classic
-    - Pep Solid Cold
-    - Pep Solid Grey
-    - Pep Solid Hot
-    - Pep Solid Pastel
-    - Pep Solid RGB
+  - Pep Pro Shapes Black
+  - Pep Pro Shapes Classic
+  - Pep Pro Shapes Cold
+  - Pep Pro Shapes Grey
+  - Pep Pro Shapes Hot
+  - Pep Pro Shapes Pastel
+  - Pep Pro Shapes RGB
+  - Pep Pro Solid Black
+  - Pep Pro Solid Classic
+  - Pep Pro Solid Cold
+  - Pep Pro Solid Grey
+  - Pep Pro Solid Hot
+  - Pep Pro Solid Pastel
+  - Pep Pro Solid RGB
 
 characterSets:
     - uppercase: A Á Ä Â B C D E F G J I K L M N O P Q R S T U V W X Y Z
@@ -43,11 +43,11 @@ openTypeFeatures:
         name: "Stylistic set 01: Double Story a"
         examples:
             - Laan
-    - onum:
-        name: Old Style Numbers
+    - ss03:
+        name: Rounded I
         examples:
-            - 21334
-            - 123
+            - fiets
+            - bike
 
 css: pep-style.css
 
@@ -55,10 +55,10 @@ splash: pep-splash.svg
 
 testers:
     - text: Pep has a lot of pep. It is loosely based on a series of experimental designs ranging from Fregio Mecano and Futura Schmuck in the 1920s to Bruno Munari’s ABC Con Fantasia in the 1960s.
-      style: Pep Shapes Classic
+      style: Pep Pro Shapes Classic
 
     - text: Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve
-      style: Pep Shapes Cold
+      style: Pep Pro Shapes Cold
 
 about:
     - image: munari1.jpg
@@ -72,8 +72,7 @@ about:
 research: |
     ## BRUNO MUNARI
 
-    ![]("munari2.jpg")
-    ![]("munari2.jpg")
+    ![](munari2.jpg){: style="width: 20%;"}![](munari2.jpg){: style="width: 80%;""}
 
     (1907–1998) was an influential Italian artist, designer, and writer celebrated for his diverse contributions across art, design, and children’s literature. His work is marked by an experimental and multidisciplinary approach.
 
