@@ -55,7 +55,7 @@ search-library:
     - pdu-stencil.svg:
         - stencil
 
-library_items:
+library_preview:
     - FCB_Library_PDU.svg
     - FCB_Library_PDU.svg
     - FCB_Library_PDU.svg

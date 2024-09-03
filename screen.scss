@@ -200,6 +200,7 @@ figcaption {
   font-size: 14px;
   font-family: 'FCBELGICA';
   font-weight: bold;
+  line-height: 100%;
   padding:8px 30px 5px 15px;
   background-color: #fff;
   border: solid 1px rgb(194,194,194);
@@ -349,18 +350,24 @@ section.hero {
 
 // SHOWCASE
 section.showcase {
-    padding-top: 80px;
+    padding-top: 20px;
     text-align: center;
+    font-size: 6vw;
     padding-left: var(--padding);
     padding-right: var(--padding);
-}
-.zone {
-    font-size: 7.8vw;
-    line-height: 1.1;
-    pointer-events: none;
-}
-.fontname {
-    margin: 25px 0 40px;
+
+    .select-font {
+        margin: auto;
+        margin-bottom: 10px;
+        width: 240px;
+        text-align: center;
+    }
+    .zone {
+        line-height: 1.1;
+    }
+    .zone-fontname {
+
+    }
 }
 
 // ABOUT
@@ -414,7 +421,7 @@ section.research {
         font-size: 15px;
         line-height: 24px;
     }
-     p+p {
+    p+p {
         padding-top: 12px;
     }
     .research-content {

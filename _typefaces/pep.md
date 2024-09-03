@@ -43,6 +43,7 @@ openTypeFeatures:
         name: "Stylistic set 01: Double Story a"
         examples:
             - Laan
+        checked: true
     - ss03:
         name: Rounded I
         examples:
@@ -52,6 +53,13 @@ openTypeFeatures:
 css: pep-style.css
 
 splash: pep-splash.svg
+
+showcases:
+    - ABCDEFGHIJKLMN
+    - OPQRSTUVWXYZ
+    - abcdefghijklm
+    - nopqrstuvwxyz
+    - 0123456789
 
 testers:
     - text: Pep has a lot of pep. It is loosely based on a series of experimental designs ranging from Fregio Mecano and Futura Schmuck in the 1920s to Bruno Munari’s ABC Con Fantasia in the 1960s.
@@ -86,7 +94,7 @@ research: |
 
     In “ABC con fantasia”, Munari takes a unique approach to teaching the alphabet. Each letter can constructed in different ways, often presented in a visually striking and unconventional way. Munari’s goal was to make the learning process enjoyable and to encourage children to think creatively about
 
-library_items:
+library_preview:
     - FCB_Library_Pep.svg
     - FCB_Library_Pep.svg
     - FCB_Library_Pep.svg

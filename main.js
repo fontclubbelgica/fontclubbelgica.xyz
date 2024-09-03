@@ -67,6 +67,20 @@ document.addEventListener('DOMContentLoaded', function() {
 
 		  preview.style.fontSize = event.target.value+'px';
 		});
+
+		// showcase
+
+		const zonecontainer = document.querySelector('#zones');
+        const zonefontname = document.querySelector('#zone-fontname');
+        const zones = document.querySelectorAll('.zone');
+        zonecontainer.addEventListener("mousemove", (event) => {
+            let factorY = event.offsetY / event.target.offsetHeight;
+            let index = Math.round(factorY * font_styles.length);
+            if (index < 0) {index = 0};
+            if (index >= font_styles.length) {index = font_styles.length -1};
+            zonecontainer.style.fontFamily = font_styles[index];
+            zonefontname.textContent = font_styles[index];
+        });
 	})
 
 
