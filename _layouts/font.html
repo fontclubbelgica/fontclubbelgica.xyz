@@ -2,9 +2,24 @@
 layout: page
 ---
 
+<script type="text/javascript">
+const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloop.last %},{% endunless -%}{% endfor %}];
+</script>
+
 {% if page.splash %}
 <section class="hero">
     <figure><img src="{{ page.url }}{{ page.splash }}"></figure>
+</section>
+{% endif %}
+
+{% if page.showcases %}
+<section class="showcase">
+    <div id="zones" style="font-family: {{ page.styles[0] }};">
+    {% for showcase in page.showcases %}
+        <p class="zone" spellcheck="false">{{ showcase }}</p>
+    {% endfor %}
+    </div>
+    <div id="zone-fontname" class="btn">{{ page.styles[0] }}</div>
 </section>
 {% endif %}
 
@@ -25,7 +40,7 @@ layout: page
             </figure>
             {% endif %}
             <p>
-                {{ about.text | markdownify}}
+                {{ about.text | markdownify }}
             </p>
         {% endfor %}
     </div>
@@ -50,7 +65,7 @@ layout: page
                 <from>
                 {% for openTypeFeatureItem in page.openTypeFeatures %}
                     {% for openTypeFeature in openTypeFeatureItem %}
-                        <div><input type="checkbox" value="{{ openTypeFeature[0] }}">{{ openTypeFeature[1].name }}</div>
+                        <div><input type="checkbox" value="{{ openTypeFeature[0] }}"{% if openTypeFeature[1].checked %} checked{% endif %}>{{ openTypeFeature[1].name }}</div>
                     {% endfor %}
                 {% endfor %}
                 </from>
@@ -177,9 +192,9 @@ layout: page
         {% for typeface in site.typefaces limit:3 %}
         <div class="preview-font">
             <a href="{{ typeface.url }}">
-                <div class="stack stack-{{ typeface.library_items | size }}">
-                {% for library-item in typeface.library_items %}
-                    <figure><img src="{{ typeface.url }}{{ library-item }}"></figure>
+                <div class="stack stack-{{ typeface.library_preview | size }}">
+                {% for library-preview in typeface.library_preview %}
+                    <figure><img src="{{ typeface.url }}{{ library-preview }}"></figure>
                 {% endfor %}
                 </div>
                 <div class="font-info">
