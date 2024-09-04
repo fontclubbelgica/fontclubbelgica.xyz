@@ -464,16 +464,17 @@ section.lang-support figure.show {
 .t-xsmall p{
     column-count: 3;
 }
-.test-preview {
-    overflow: hidden;
+.tester .preview {
+    overflow-x: scroll;
+    overflow-y: hidden;
     height: 150px;
     margin: 20px 0;
 }
-.test-preview p {
+.tester .preview p {
     font-size: 100px;
     line-height: 1.5;
 }
-.controls {
+.tester .controls {
     display: flex;
     justify-content: space-between;
     padding: 0 var(--padding);
@@ -547,8 +548,9 @@ p.meta span:last-child {
 section.details>div>div {
     width: calc(100% - 300px);
 }
-section.details>div:not(:last-child) {
-    border-bottom: solid 2px var(--black);
+section.details>div {
+    border-top: solid 2px var(--black);
+    padding-top: 20px;
     margin-bottom: 20px;
 }
 .characterSets-viewer {

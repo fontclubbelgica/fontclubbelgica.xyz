@@ -22,50 +22,53 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	// font tester
 
-	const testers = document.querySelectorAll('.testers>.tester');
+	const selectFonts = document.querySelectorAll('select-font');
+	const selectFeatures = document.querySelectorAll('select-feature');
+	const selectSizes = document.querySelectorAll('select-size');
 
-	testers.forEach((tester)=> {
-		const id = "#"+tester.id;
-		const preview = document.querySelector(id + " .test-preview p");
-		const selectSize = document.querySelector(id + " .select-size input");
-		const selectFeature = document.querySelector(id + " .select-feature from");
-		const selectFont = document.querySelector(id + " .select-font select");
-		const container = document.querySelector(id + " .test-preview");
-		selectFeature.addEventListener("change", (event) => {
-			const inputs = selectFeature.querySelectorAll('input');
-			const featureSettings = [];
+	selectFonts.forEach((selectFont)=> {
+		console.log(selectFont)
+		// const id = "#"+tester.id;
+		// const preview = document.querySelector(id + " .test-preview p");
+		// const selectSize = document.querySelector(id + " .select-size input");
+		// const selectFeature = document.querySelector(id + " .select-feature form");
+		// const selectFont = document.querySelector(id + " .select-font select");
+		// const container = document.querySelector(id + " .test-preview");
+		// selectFeature.addEventListener("change", (event) => {
+		// 	const inputs = selectFeature.querySelectorAll('input');
+		// 	const featureSettings = [];
 
-			for (var index = 0; index < inputs.length; index++) {
-				input = inputs[index]
-				if ( input.checked ) {
-					featureSettings.push("'" + input.value + "'");
-				}
-			};
-			preview.style.fontFeatureSettings = featureSettings.join();
-		});
-		selectFont.addEventListener("change", (event) => {
-			preview.style.fontFamily = event.target.value;
-		});
+		// 	for (var index = 0; index < inputs.length; index++) {
+		// 		input = inputs[index]
+		// 		if ( input.checked ) {
+		// 			featureSettings.push("'" + input.value + "'");
+		// 		}
+		// 	};
+		// 	preview.style.fontFeatureSettings = featureSettings.join();
+		// });
+		// selectFont.addEventListener("change", (event) => {
+		// 	preview.style.fontFamily = event.target.value;
+		// });
 
-		selectSize.addEventListener("input", (event) => {
-		  if(event.target.value > 85) {
-			  container.style.height = event.target.value*1.5+'px';
-			  container.className = "t-large test-preview";
-		  }
-		  else if(event.target.value > 40) {
-			  container.style.height = event.target.value*1.5*3+'px';
-			  container.className = "t-medium test-preview";
-		  }
-		  else if(event.target.value > 20) {
-			  container.style.height = event.target.value*1.5*4+'px';
-			  container.className = "t-small test-preview";
-		  }
-		  else {
-			  container.style.height = event.target.value*1.5*5+'px';
-			  container.className = "t-xsmall test-preview";
-		  }
+		// selectSize.addEventListener("input", (event) => {
+		//   if(event.target.value > 85) {
+		// 	  container.style.height = event.target.value*1.5+'px';
+		// 	  container.className = "t-large test-preview";
+		//   }
+		//   else if(event.target.value > 40) {
+		// 	  container.style.height = event.target.value*1.5*3+'px';
+		// 	  container.className = "t-medium test-preview";
+		//   }
+		//   else if(event.target.value > 20) {
+		// 	  container.style.height = event.target.value*1.5*4+'px';
+		// 	  container.className = "t-small test-preview";
+		//   }
+		//   else {
+		// 	  container.style.height = event.target.value*1.5*5+'px';
+		// 	  container.className = "t-xsmall test-preview";
+		//   }
 
-		  preview.style.fontSize = event.target.value+'px';
+		//   preview.style.fontSize = event.target.value+'px';
 		});
 
 		// showcase
