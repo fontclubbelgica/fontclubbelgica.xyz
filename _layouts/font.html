@@ -62,20 +62,20 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
                 </div>
             </div>
             <div class="select-feature">
-                <from>
+                <form>
                 {% for openTypeFeatureItem in page.openTypeFeatures %}
                     {% for openTypeFeature in openTypeFeatureItem %}
-                        <div><input type="checkbox" value="{{ openTypeFeature[0] }}"{% if openTypeFeature[1].checked %} checked{% endif %}>{{ openTypeFeature[1].name }}</div>
+                        <div><input type="checkbox" value="{{ openTypeFeature[0] }}"{% if tester.features contains openTypeFeature[0] %} checked{% endif %}>{{ openTypeFeature[1].name }}</div>
                     {% endfor %}
                 {% endfor %}
-                </from>
+                </form>
             </div>
             <div class="select-size">
                 <input type="range" min="14" max="200" value="100" class="slider" id="size-slider-{{ forloop.index }}">
             </div>
         </div>
-        <div class="test-preview t-large">
-            <p contenteditable="true" spellcheck="false" style="font-family: '{{ tester.style }}';">{{ tester.text }}</p>
+        <div class="preview t-large">
+            <p contenteditable="true" spellcheck="false" style="font-family: '{{ tester.style }}';{% if tester.features %} font-feature-settings: '{{ tester.features | split: " " | join: "', '" }}';{% endif %}">{{ tester.text }}</p>
         </div>
     </div>
 {% endfor %}
@@ -110,16 +110,18 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
     <div class="opentype">
         <h2>Opentype features</h2>
         <div>
-            <div class="select-font">
-                <div class="select">
-                    <select>
-                        {% for style in page.styles %}
-                            <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected>{% endif %}{{ style }}</option>
-                        {% endfor %}
-                    </select>
+            <div class="controls">
+                <div class="select-font">
+                    <div class="select">
+                        <select>
+                            {% for style in page.styles %}
+                                <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected{% endif %}>{{ style }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
                 </div>
             </div>
-            <div class="style-1" id="features">
+            <div class="preview" id="features">
                 {% for openTypeFeatureItem in page.openTypeFeatures %}
                     {% for openTypeFeature in openTypeFeatureItem %}
                         <div class="style-row">
@@ -139,16 +141,18 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
     <div class="characterSets">
         <h2>Glyphs sheet</h2>
         <div>
-            <div class="select-font">
-                <div class="select">
-                    <select>
-                        {% for style in page.styles %}
-                            <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected>{% endif %}{{ style }}</option>
-                        {% endfor %}
-                    </select>
+            <div class="controls">
+                <div class="select-font">
+                    <div class="select">
+                        <select>
+                            {% for style in page.styles %}
+                                <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected{% endif %}>{{ style }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
                 </div>
             </div>
-            <div class="style-1 characterSets-viewer">
+            <div class="preview characterSets-viewer">
             {% for item in page.characterSets %}
                 {% for characterSet in item %}
                     <p class="meta">{{ characterSet[0] }}</p>
@@ -186,24 +190,4 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
 </section>
 
 
-<section class="library">
-    <div class="grid">
-        {% assign typefaces = site.typefaces | sort:"date" %}
-        {% for typeface in site.typefaces limit:3 %}
-        <div class="preview-font">
-            <a href="{{ typeface.url }}">
-                <div class="stack stack-{{ typeface.library_preview | size }}">
-                {% for library-preview in typeface.library_preview %}
-                    <figure><img src="{{ typeface.url }}{{ library-preview }}"></figure>
-                {% endfor %}
-                </div>
-                <div class="font-info">
-                    <h2>{{ typeface.title }}</h2>
-                    <p class="total">{{ typeface.styles | size }} styles</p>
-                </div>
-            </a>
-        </div>
-        {% endfor %}
-    </div>
-    <p><a href="/typefaces" class="library-btn">Explore full library</a></p>
-</section>
+{% include library fontcount=3 %}

@@ -43,7 +43,6 @@ openTypeFeatures:
         name: "Stylistic set 01: Double Story a"
         examples:
             - Laan
-        checked: true
     - ss03:
         name: Rounded I
         examples:
@@ -67,6 +66,7 @@ testers:
 
     - text: Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve
       style: Pep Pro Shapes Cold
+      features: ss01 ss03
 
 about:
     - image: munari1.jpg

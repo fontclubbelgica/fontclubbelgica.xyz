@@ -1,0 +1,23 @@
+<section class="library">
+    <div class="grid">
+        {% assign typefaces = site.typefaces | sort:"date" %}
+        {% for typeface in site.typefaces limit:include.fontcount %}
+        <div class="preview-font">
+            <a href="{{ typeface.url }}">
+                <div class="stack stack-{{ typeface.library_preview | size }}">
+                {% for library-preview in typeface.library_preview %}
+                    <figure><img src="{{ typeface.url }}{{ library-preview }}"></figure>
+                {% endfor %}
+                </div>
+                <div class="font-info">
+                    <h2>{{ typeface.title }}</h2>
+                    <p class="total">{{ typeface.styles | size }} styles</p>
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+    {% if include.fontcount %}
+    <p><a href="/typefaces" class="library-btn">Explore full library</a></p>
+    {% endif %}
+</section>
