@@ -139,17 +139,15 @@ header {
             line-height: 18px;
             font-weight: bold;
         }
-        .font-menu {
+        &.font-menu {
             text-align: center;
-        }
-        .cart {
-           margin-top: 14px;
         }
         &.cart, &.font-menu, &.main-menu {
             background-color: white;
             padding: 14px 20px 10px 20px;
             border-radius: 20px;
             pointer-events: all;
+            box-shadow: 0px 10px 30px rgba(0, 0, 0, .3);
         }
         ul {
             margin-top: 5px;
@@ -452,8 +450,8 @@ section.lang-support figure.show {
 .lang-support .btns .current {
     background-color: var(--red);
 }
-.t-large {
-    overflow: hidden;
+.t-large p {
+    width: 150%;
 }
 .t-small {
     column-count: 2;
@@ -462,7 +460,7 @@ section.lang-support figure.show {
     column-count: 3;
 }
 .tester .preview {
-    overflow: hidden;
+    overflow: clip;
     height: 150px;
     margin: 20px 0;
     font-size: 100px;
