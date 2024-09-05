@@ -22,12 +22,58 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	// font tester
 
-	const selectFonts = document.querySelectorAll('select-font');
-	const selectFeatures = document.querySelectorAll('select-feature');
-	const selectSizes = document.querySelectorAll('select-size');
+	const control_select_font = document.querySelectorAll('.select-font select');
 
-	selectFonts.forEach((selectFont)=> {
-		console.log(selectFont)
+	control_select_font.forEach((element)=> {
+		element.addEventListener("change", (event) => {
+			preview = element.parentElement.parentElement.nextElementSibling;
+			preview.style.fontFamily = event.target.value;
+		});
+	});
+
+	const control_select_feature = document.querySelectorAll('.select-feature form');
+
+	control_select_feature.forEach((element)=> {
+		element.addEventListener("change", (event) => {
+			const inputs = element.querySelectorAll('input');
+			const featureSettings = [];
+			for (var index = 0; index < inputs.length; index++) {
+				input = inputs[index]
+				if ( input.checked ) {
+					featureSettings.push("'" + input.value + "'");
+				}
+			};
+			preview = element.parentElement.parentElement.nextElementSibling;
+			preview.style.fontFeatureSettings = featureSettings.join();
+		});
+	});
+
+	const control_select_size = document.querySelectorAll('.select-size input');
+
+	control_select_size.forEach((element)=> {
+		element.addEventListener("input", (event) => {
+			preview = element.parentElement.parentElement.nextElementSibling;
+			if (event.target.value > 85 ) {
+			  	preview.style.height = event.target.value * 1.5 + 'px';
+			  	preview.className = "t-large preview";
+		  	}
+		  	else if( event.target.value > 40 ) {
+			  	preview.style.height = event.target.value * 1.5 * 3 + 'px';
+			 	preview.className = "t-medium preview";
+		  	}
+		 	else if( event.target.value > 20 ) {
+				preview.style.height = event.target.value * 1.5 * 4 + 'px';
+				preview.className = "t-small preview";
+			}
+			else {
+				preview.style.height = event.target.value * 1.5 * 5 + 'px';
+				preview.className = "t-xsmall preview";
+			}
+
+			preview.style.fontSize = event.target.value+'px';
+		});
+	});
+
 		// const id = "#"+tester.id;
 		// const preview = document.querySelector(id + " .test-preview p");
 		// const selectSize = document.querySelector(id + " .select-size input");
@@ -69,22 +115,22 @@ document.addEventListener('DOMContentLoaded', function() {
 		//   }
 
 		//   preview.style.fontSize = event.target.value+'px';
-		});
+		// });
 
 		// showcase
 
-		const zonecontainer = document.querySelector('#zones');
-        const zonefontname = document.querySelector('#zone-fontname');
-        const zones = document.querySelectorAll('.zone');
-        zonecontainer.addEventListener("mousemove", (event) => {
-            let factorY = event.offsetY / event.target.offsetHeight;
-            let index = Math.round(factorY * font_styles.length);
-            if (index < 0) {index = 0};
-            if (index >= font_styles.length) {index = font_styles.length -1};
-            zonecontainer.style.fontFamily = font_styles[index];
-            zonefontname.textContent = font_styles[index];
-        });
-	})
+	const zonecontainer = document.querySelector('#zones');
+    const zonefontname = document.querySelector('#zone-fontname');
+    const zones = document.querySelectorAll('.zone');
+    zonecontainer.addEventListener("mousemove", (event) => {
+        let factorY = event.offsetY / event.target.offsetHeight;
+        let index = Math.round(factorY * font_styles.length);
+        if (index < 0) {index = 0};
+        if (index >= font_styles.length) {index = font_styles.length -1};
+        zonecontainer.style.fontFamily = font_styles[index];
+        zonefontname.textContent = font_styles[index];
+    });
+})
 
 
 	// const selectOTF2 = document.querySelector('.opentype select');
@@ -142,4 +188,3 @@ document.addEventListener('DOMContentLoaded', function() {
 	// 		current.classList.add('show');
 	// 	});
 	// })
-});

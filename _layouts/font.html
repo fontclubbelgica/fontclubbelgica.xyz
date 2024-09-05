@@ -53,13 +53,11 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
     <div class="tester" id="tester-{{ forloop.index }}">
         <div class="controls">
             <div class="select-font">
-                <div class="select">
-                     <select>
-                     {% for style in page.styles %}
-                        <option value="{{ style }}"{%if style == tester.style %} selected{% endif %}>{{ style }}</option>
-                     {% endfor %}
-                     </select>
-                </div>
+                 <select>
+                 {% for style in page.styles %}
+                    <option value="{{ style }}"{%if style == tester.style %} selected{% endif %}>{{ style }}</option>
+                 {% endfor %}
+                 </select>
             </div>
             <div class="select-feature">
                 <form>
@@ -74,8 +72,8 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
                 <input type="range" min="14" max="200" value="100" class="slider" id="size-slider-{{ forloop.index }}">
             </div>
         </div>
-        <div class="preview t-large">
-            <p contenteditable="true" spellcheck="false" style="font-family: '{{ tester.style }}';{% if tester.features %} font-feature-settings: '{{ tester.features | split: " " | join: "', '" }}';{% endif %}">{{ tester.text }}</p>
+        <div class="preview t-large" contenteditable="true" spellcheck="false" style="font-family: '{{ tester.style }}';{% if tester.features %} font-feature-settings: '{{ tester.features | split: " " | join: "', '" }}';{% endif %}">
+            {{ tester.text }}
         </div>
     </div>
 {% endfor %}
@@ -112,22 +110,20 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
         <div>
             <div class="controls">
                 <div class="select-font">
-                    <div class="select">
-                        <select>
-                            {% for style in page.styles %}
-                                <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected{% endif %}>{{ style }}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
+                    <select>
+                        {% for style in page.styles %}
+                            <option value="{{ style }}" {% if forloop.first == true %}selected{% endif %}>{{ style }}</option>
+                        {% endfor %}
+                    </select>
                 </div>
             </div>
-            <div class="preview" id="features">
+            <div class="preview" id="features" style="font-family: '{{ page.styles[0] }}';">
                 {% for openTypeFeatureItem in page.openTypeFeatures %}
                     {% for openTypeFeature in openTypeFeatureItem %}
                         <div class="style-row">
                             <p class="meta"><span>{{ openTypeFeature[1].name }}</span><span>{{ openTypeFeature[0] }}</span></p>
                             {% for example in openTypeFeature[1].examples %}
-                                <p class="feature-{{ openTypeFeature[0] }} features-example">{{ example }}</p>
+                                <p class="feature-{{ openTypeFeature[0] }} features-example"><span>{{ example }}</span><span style="font-feature-settings: '{{ openTypeFeature[0] }}';">{{ example }}</span></p>
                             {% endfor %}
                         </div>
                     {% endfor %}
@@ -142,17 +138,15 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
         <h2>Glyphs sheet</h2>
         <div>
             <div class="controls">
-                <div class="select-font">
-                    <div class="select">
-                        <select>
-                            {% for style in page.styles %}
-                                <option value="style-{{ forloop.index }}" {% if forloop.first == true %}selected{% endif %}>{{ style }}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
+                <div class="select-font select">
+                    <select>
+                        {% for style in page.styles %}
+                            <option value="{{ style }}" {% if forloop.first == true %}selected{% endif %}>{{ style }}</option>
+                        {% endfor %}
+                    </select>
                 </div>
             </div>
-            <div class="preview characterSets-viewer">
+            <div class="preview characterSets-viewer" style="font-family: '{{ page.styles[0] }}';">
             {% for item in page.characterSets %}
                 {% for characterSet in item %}
                     <p class="meta">{{ characterSet[0] }}</p>

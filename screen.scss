@@ -189,12 +189,12 @@ figcaption {
     margin-bottom: 5px;
     cursor: pointer;
 }
-.select {
+.select-font {
   width: 240px;
   position: relative;
 }
 
-.select select {
+.select-font select {
   appearance: none;
   width: 100%;
   font-size: 14px;
@@ -210,7 +210,7 @@ figcaption {
 
 }
 
-.select::after {
+.select-font::after {
   content: "\2193";
   font-weight: bold;
   position: absolute;
@@ -455,22 +455,16 @@ section.lang-support figure.show {
 .t-large {
     overflow: hidden;
 }
-.t-large p {
-    width: 150vw;
-}
-.t-small p{
+.t-small {
     column-count: 2;
 }
-.t-xsmall p{
+.t-xsmall {
     column-count: 3;
 }
 .tester .preview {
-    overflow-x: scroll;
-    overflow-y: hidden;
+    overflow: hidden;
     height: 150px;
     margin: 20px 0;
-}
-.tester .preview p {
     font-size: 100px;
     line-height: 1.5;
 }
