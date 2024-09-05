@@ -69,6 +69,7 @@ testers:
     - text: Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve
       fontStyle: Pep Pro Shapes Cold
       features: ss01 ss03
+      fontSize: 200
 
     - text: Dries Dries Dries Dries Dries Dries Dries Dries Dries Dries
       fontStyle: Pep Pro Shapes Classic
@@ -106,6 +107,13 @@ library_preview:
     - FCB_Library_Pep.svg
     - FCB_Library_Pep.svg
     - FCB_Library_Pep.svg
+
+font_match:
+    - FC PDU
+    - FC PDU
+    - FC PDU
+    - FC Filter
+
 ---
 
 
