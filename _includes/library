@@ -1,7 +1,16 @@
 <section class="library">
     <div class="grid">
-        {% assign typefaces = site.typefaces | sort:"date" %}
-        {% for typeface in site.typefaces limit:include.fontcount %}
+        {% if page.font_match %}
+            {% assign typefaces = [] %}
+            {% for font_match in page.font_match %}
+                {% assign match = site.typefaces | where: 'title', font_match %}
+                {% assign typefaces = typefaces | concat: match %}
+            {% endfor %}
+        {% else %}
+            {% assign typefaces = site.typefaces limit:include.fontcount %}
+        {% endif %}
+        {% assign typefaces = typefaces | sort:"date" %}
+        {% for typeface in typefaces %}
         <div class="preview-font">
             <a href="{{ typeface.url }}">
                 <div class="stack stack-{{ typeface.library_preview | size }}">
