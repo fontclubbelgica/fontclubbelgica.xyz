@@ -56,38 +56,12 @@ search-library:
         - stencil
 
 library_preview:
-    - FCB_Library_PDU.svg
-    - FCB_Library_PDU.svg
-    - FCB_Library_PDU.svg
-    - FCB_Library_PDU.svg
+    - FCB_Library_PDU_1.svg
+    - FCB_Library_PDU_2.svg
+    - FCB_Library_PDU_3.svg
+    - FCB_Library_PDU_4.svg
+    - FCB_Library_PDU_1.svg
+    - FCB_Library_PDU_2.svg
+    - FCB_Library_PDU_3.svg
+    - FCB_Library_PDU_4.svg
 ---
-
-<section class="story" markdown="1">
-
-# BRUNO MUNARI
-
-(1907–1998) was an influential Italian artist, designer, and
-writer celebrated for his diverse contributions across art,
-design, and children’s literature. His work is marked by an
-experimental and multidisciplinary approach.
-In the art domain, Munari initially associated with the
-Concrete Art movement but later delved into abstract and
-kinetic art. His exploration extended across various mediums,
-encompassing painting, sculpture, and collage.
-As a designer, Munari left a lasting impact on industrial
-design, graphic design, and advertising. His design philosophy
-prioritized the functional and aesthetic aspects, emphasizing
-simplicity and practicality.
-Munari’s acclaim extended to his work in children’s literature,
-where he crafted innovative and interactive books. These
-creations not only entertained but also fostered creative
-thinking and exploration, showcasing Munari’s commitment to
-engaging young minds.
-“ABC con fantasia” is a puzzle by Bruno Munari released
-through Danese in 1960. The title translates to “ABC with
-Imagination” in English. This childrens game is a creative and
-playful exploration of the alphabet, designed to engage and
-stimulate the imagination of kids.
-
-
-</section>

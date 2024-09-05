@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function() {
 
 	// navigation
@@ -61,7 +62,6 @@ document.addEventListener('DOMContentLoaded', function() {
 	const control_select_size = document.querySelectorAll('.select-size input');
 
 	function apply_control_select_size(element) {
-		console.log(element.value)
 		preview = element.parentElement.parentElement.nextElementSibling;
 		if (element.value > 85 ) {
 		  	preview.style.height = element.value * 1.5 + 'px';
@@ -79,9 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			preview.style.height = element.value * 1.5 * 5 + 'px';
 			preview.className = "t-xsmall preview";
 		}
-		console.log(preview)
 		preview.style.fontSize = element.value + 'px';
-		console.log(preview.style.fontSize)
 	};
 
 	control_select_size.forEach((element)=> {
@@ -96,13 +94,58 @@ document.addEventListener('DOMContentLoaded', function() {
 	const zonecontainer = document.querySelector('#zones');
     const zonefontname = document.querySelector('#zone-fontname');
     const zones = document.querySelectorAll('.zone');
-    zonecontainer.addEventListener("mousemove", (event) => {
-        let factorY = event.offsetY / event.target.offsetHeight;
-        let index = Math.round(factorY * font_styles.length);
-        if (index < 0) {index = 0};
-        if (index >= font_styles.length) {index = font_styles.length -1};
-        zonecontainer.style.fontFamily = font_styles[index];
-        zonefontname.textContent = font_styles[index];
-    });
+    if (zonecontainer) {
+	    zonecontainer.addEventListener("mousemove", (event) => {
+	        let factorY = event.offsetY / event.target.offsetHeight;
+	        let index = Math.round(factorY * font_styles.length);
+	        if (index < 0) {index = 0};
+	        if (index >= font_styles.length) {index = font_styles.length -1};
+	        zonecontainer.style.fontFamily = font_styles[index];
+	        zonefontname.textContent = font_styles[index];
+	    });
+	}
+    // library overview
+
+	const libray_stack = document.querySelectorAll('.stack');
+
+    var canUpdate = true;
+    var libray_delta = 0
+
+    function flip_child(event, element) {
+    	if (event.deltaY == 0) { libray_delta = event.deltaX }
+    	else { libray_delta = event.deltaY }
+
+    	if ( canUpdate ) {
+
+    		if ( libray_delta < 0 ) {
+    			child = element.lastElementChild;
+    			if (child) {
+	    			child.classList.add("no-transition")
+					element.removeChild(child);
+					element.insertBefore(child, element.firstElementChild);
+				}
+    		}
+    		else {
+    			child = element.firstElementChild;
+    			if (child) {
+    				child.classList.add("no-transition")
+					element.removeChild(child);
+					element.appendChild(child);
+				}
+    		}
+
+    		setTimeout(() => {
+	    		canUpdate = true;
+    		}, 60)
+    	}
+    	canUpdate = false;
+    }
+
+    libray_stack.forEach((element)=> {
+    	element.addEventListener("wheel", (event) => {
+    		flip_child(event, element);
+    		event.preventDefault();
+    	});
+   	});
 })
 

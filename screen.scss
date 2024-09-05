@@ -147,7 +147,7 @@ header {
             padding: 14px 20px 10px 20px;
             border-radius: 20px;
             pointer-events: all;
-            box-shadow: 0px 10px 30px rgba(0, 0, 0, .3);
+            box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
         }
         ul {
             margin-top: 5px;
@@ -754,13 +754,15 @@ section.library {
         transform-origin: top left;
         background-color: white;
     }
-
 }
 
 .preview-font:hover .stack figure:first-child {
     transform: scale(1.08);
 }
 
+.no-transition {
+    transition: none !important;
+}
 
 @for $count from 1 through 10 {
     @for $i from 1 through $count {
