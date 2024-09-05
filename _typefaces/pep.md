@@ -43,6 +43,8 @@ openTypeFeatures:
         name: "Stylistic set 01: Double Story a"
         examples:
             - Laan
+            - Dries
+            - Frederik
     - ss03:
         name: Rounded I
         examples:
@@ -62,17 +64,20 @@ showcases:
 
 testers:
     - text: Pep has a lot of pep. It is loosely based on a series of experimental designs ranging from Fregio Mecano and Futura Schmuck in the 1920s to Bruno Munari’s ABC Con Fantasia in the 1960s.
-      style: Pep Pro Shapes Classic
+      fontStyle: Pep Pro Shapes Classic
 
     - text: Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve Now the monkey comes out of the sleeve
-      style: Pep Pro Shapes Cold
+      fontStyle: Pep Pro Shapes Cold
       features: ss01 ss03
+
+    - text: Dries Dries Dries Dries Dries Dries Dries Dries Dries Dries
+      fontStyle: Pep Pro Shapes Classic
+      fontSize: 30
 
 about:
     - image: munari1.jpg
       caption: © Devo, Mark Mothersbaugh, 1980
-      text: |
-        **Pep** has a lot of pep. It is loosely based on a series of experimental designs ranging from Fregio Mecano and Futura Schmuck in the 1920s to Bruno Munari’s ABC Con Fantasia in the 1960s. Whilst the UPPERCASE of Pep can be traced back to the latter, the entire typeface takes the six geometric elements much further. Throughout the design process, designer Dries Wiewauters tried to find the extremes within said “rules”. This process resulted in a mixed case type system, even extending into experimental Cyrillic and Greek lettering.
+
     - image: munari1.jpg
       text: |
         **Pep** has a lot of pep. It is loosely based on a series of experimental designs ranging from Fregio Mecano and Futura Schmuck in the 1920s to Bruno Munari’s ABC Con Fantasia in the 1960s. Whilst the UPPERCASE of Pep can be traced back to the latter, the entire typeface takes the six geometric elements much further. Throughout the design process, designer Dries Wiewauters tried to find the extremes within said “rules”. This process resulted in a mixed case type system, even extending into experimental Cyrillic and Greek lettering.
