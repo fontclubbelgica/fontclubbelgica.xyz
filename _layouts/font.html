@@ -123,7 +123,7 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
                         <div class="style-row">
                             <p class="meta"><span>{{ openTypeFeature[1].name }}</span><span>{{ openTypeFeature[0] }}</span></p>
                             {% for example in openTypeFeature[1].examples %}
-                                <p class="feature-{{ openTypeFeature[0] }} features-example"><span>{{ example }}</span>   <span style="font-feature-settings: '{{ openTypeFeature[0] }}';">{{ example }}</span></p>
+                                <p class="feature-{{ openTypeFeature[0] }} features-example"><span>{{ example }}</span><span class="features-example-divider">-></span><span style="font-feature-settings: '{{ openTypeFeature[0] }}';">{{ example }}</span></p>
                             {% endfor %}
                         </div>
                     {% endfor %}
