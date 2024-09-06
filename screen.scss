@@ -520,7 +520,7 @@ p.meta {
     flex-wrap: wrap;
 }
 p.meta span {
-    width: 40%;
+    width: calc(50% + 50px);
 }
 .style-row p.features-example {
     font-size: 50px;
@@ -540,7 +540,7 @@ p.features-example span.features-example-divider {
 p.meta span:last-child {
     width: 20%;
     display: inline-block;
-    text-align: right;
+    text-align: left;
 }
 @media (max-width: 500px) {
     p.meta span, p.meta span:last-child {
