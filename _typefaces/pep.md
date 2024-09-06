@@ -50,6 +50,8 @@ openTypeFeatures:
         examples:
             - fiets
             - bike
+    - ss04:
+        name: Lowercase wide n
 
 css: pep-style.css
 
