@@ -750,7 +750,7 @@ section.library {
         display: block;
         overflow: hidden;
         z-index: 10;
-        transition: transform 0.2s;
+        // transition: transform 0.2s;
         transform-origin: top left;
         background-color: white;
     }
@@ -760,9 +760,6 @@ section.library {
     transform: scale(1.08);
 }
 
-.no-transition {
-    transition: none !important;
-}
 
 @for $count from 1 through 10 {
     @for $i from 1 through $count {

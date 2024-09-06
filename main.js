@@ -120,7 +120,6 @@ document.addEventListener('DOMContentLoaded', function() {
     		if ( libray_delta < 0 ) {
     			child = element.lastElementChild;
     			if (child) {
-	    			child.classList.add("no-transition")
 					element.removeChild(child);
 					element.insertBefore(child, element.firstElementChild);
 				}
@@ -128,7 +127,6 @@ document.addEventListener('DOMContentLoaded', function() {
     		else {
     			child = element.firstElementChild;
     			if (child) {
-    				child.classList.add("no-transition")
 					element.removeChild(child);
 					element.appendChild(child);
 				}
