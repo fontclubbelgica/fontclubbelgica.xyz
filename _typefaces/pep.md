@@ -34,11 +34,11 @@ characterSets:
     - symbols: § & ! @ € $
 
 openTypeFeatures:
-    - smcp:
-        name: Small Caps
+    - ss05:
+        name: Wide smooth zero
         examples:
-            - abcd
-            - xyz
+            - "010"
+
     - ss01:
         name: "Stylistic set 01: Double Story a"
         examples:
