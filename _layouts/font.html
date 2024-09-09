@@ -39,9 +39,9 @@ const font_styles = [{% for style in page.styles %}"{{ style }}"{% unless forloo
                 {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
             </figure>
             {% endif %}
-            <p>
+            {% if about.text %}
                 {{ about.text | markdownify }}
-            </p>
+            {% endif %}
         {% endfor %}
     </div>
 </section>
