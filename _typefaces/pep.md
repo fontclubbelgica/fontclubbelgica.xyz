@@ -1,30 +1,40 @@
 ---
 layout: font
-title: FC pep
+title: FC Pep
 
 information: |
-    FC Pep is an exploration into the limitations of a childrens experimantal game. It pushes elemental based type systems to it’s limits.
+    Pep has a lot of pep. It is loosely based on a series of experimental designs ranging from Fregio Mecano and Futura Schmuck in the 1920s to Bruno Munari’s ABC Con Fantasia in the 1960s. Whilst the UPPERCASE of Pep can be traced back to the latter, the entire typeface takes the six geometric elements much further. Throughout the design process, designer Dries Wiewauters tried to find the extremes within said “rules”. This process resulted in a mixed case type system, even extending into experimental Cyrillic and Greek lettering.
+Pep is a typeface that can easily add playful flair, but also balances with restraint and confidence. Experiment with colors! Stylistic alternates! Break the forms! But, apply and utilize playfully at all times.
+In the words of Devo:
+Vigor, vim, vitality and punch
+The ability to act on a sudden hunch
+Nerve to tackle the hardest thing
+Feet that climb and hands that cling
+A heart that never forgets to sing
+That’s Pep
+© Devo, Mark Mothersbaugh, 1980
+Pep is available in two cuts — Solid and Shapes — both in colourways Classic, Pastel, Hot, Cold, RGN, Gray and Black. It is open to licensing in both Standard (‘STD’) and Professional (‘PRO’) versions, the latter containing language support for Cyrillic and Greek scripts as well as OpenType features, stylistic alternates, and symbols.
 
 designer: Dries Wiewauters
-date: 01-03-2023
+date: 2019
 
-glyphCount: 1234
+glyphCount: 693
 
 styles:
-  - Pep Pro Shapes Black
-  - Pep Pro Shapes Classic
-  - Pep Pro Shapes Cold
-  - Pep Pro Shapes Grey
-  - Pep Pro Shapes Hot
-  - Pep Pro Shapes Pastel
-  - Pep Pro Shapes RGB
-  - Pep Pro Solid Black
-  - Pep Pro Solid Classic
-  - Pep Pro Solid Cold
-  - Pep Pro Solid Grey
-  - Pep Pro Solid Hot
-  - Pep Pro Solid Pastel
-  - Pep Pro Solid RGB
+  - FC Pep Shapes Black
+  - FC Pep Shapes Classic
+  - FC Pep Shapes Cold
+  - FC Pep Shapes Grey
+  - FC Pep Shapes Hot
+  - FC Pep Shapes Pastel
+  - FC Pep Shapes RGB
+  - FC Pep Solid Black
+  - FC Pep Solid Classic
+  - FC Pep Solid Cold
+  - FC Pep Solid Grey
+  - FC Pep Solid Hot
+  - FC Pep Solid Pastel
+  - FC Pep Solid RGB
 
 characterSets:
     - uppercase: A Á Ä Â B C D E F G J I K L M N O P Q R S T U V W X Y Z

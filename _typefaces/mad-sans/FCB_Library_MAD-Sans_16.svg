@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300.07 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 0 2.99;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: #003cff;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x=".04" width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g class="cls-4">
+    <polygon class="cls-5" points=".04 0 .04 300 300.04 300 300.04 0 .04 0 .04 0"/>
+    <line class="cls-2" x1="3.74" y1="203.05" x2="297.83" y2="203.05"/>
+    <path class="cls-3" d="M.75,203.05H.75m298.57,0h0"/>
+    <line class="cls-2" x1="3.74" y1="235.95" x2="297.83" y2="235.95"/>
+    <path class="cls-3" d="M.75,235.95H.75m298.57,0h0"/>
+    <line class="cls-2" x1="3.74" y1="104.03" x2="297.83" y2="104.03"/>
+    <path class="cls-3" d="M.75,104.03H.75m298.57,0h0"/>
+    <line class="cls-2" x1="3.74" y1="64.45" x2="297.83" y2="64.45"/>
+    <path class="cls-3" d="M.75,64.45H.75m298.57,0h0"/>
+  </g>
+  <path class="cls-6" d="M131.38,176.83l1.12,26.04h21.02v-.93l-6.51-136.52v-.74h-20.83L34.85,201.94v.93h20.65l17.48-26.04h58.4Zm-3.91-80.91l2.79,59.89h-43.34l40.55-59.89h0Zm123.69,80.35l19.53-71.61v-.93h-20.83l-6.51,23.99-5.39-10.6-6.7-6.7-13.21-6.7h-6.88l-19.72,6.51-13.39,20.09-6.51,19.53v26.41l6.7,13.21,6.7,6.7,13.21,6.7h6.88l13.21-6.7,10.79-15.81-5.39,21.58v.93h20.83l6.7-26.6h0Zm-52.45,5.58l-6.14-6.14v-25.48l6.32-19.16,12.65-6.32h6.14l24.74,6.14-12.09,44.64-25.67,6.32h-5.95Z"/>
+</svg>
