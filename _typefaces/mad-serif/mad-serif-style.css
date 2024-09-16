@@ -1,0 +1,85 @@
+/* css for FC Mad Serif */
+
+@font-face {
+  font-family: "FC Mad Serif Light";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Light Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Regular";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Regular Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Bold";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Bold Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Black";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Black Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Light";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Light Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Regular";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Regular Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Bold";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Bold Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Black";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+@font-face {
+  font-family: "FC Mad Serif Fill Black Italic";
+  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+}
+
+body {
+    background: #ffffff;
+}

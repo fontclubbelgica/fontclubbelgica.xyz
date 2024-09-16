@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 301.5 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 0 3;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #c2c2c2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: #03f;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #ff0;
+      }
+
+      .cls-8 {
+        fill: #fc9;
+      }
+
+      .cls-9 {
+        fill: red;
+      }
+
+      .cls-10 {
+        fill: #090;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x=".75" width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g class="cls-4">
+    <polygon class="cls-6" points=".75 0 .75 300 300.75 300 300.75 0 .75 0 .75 0"/>
+    <line class="cls-2" x1="3.75" y1="216.73" x2="299.25" y2="216.73"/>
+    <path class="cls-3" d="M.75,216.73H.75m300,0h0"/>
+    <line class="cls-2" x1="3.75" y1="48.82" x2="299.25" y2="48.82"/>
+    <path class="cls-3" d="M.75,48.82H.75m300,0h0"/>
+    <line class="cls-2" x1="3.75" y1="250.32" x2="299.25" y2="250.32"/>
+    <path class="cls-3" d="M.75,250.32H.75m300,0h0"/>
+    <line class="cls-2" x1="3.75" y1="82.42" x2="299.25" y2="82.42"/>
+    <path class="cls-3" d="M.75,82.42H.75m300,0h0"/>
+  </g>
+  <path class="cls-9" d="M54.96,149.65c0-18.41,15.07-33.48,33.48-33.48s33.48,15.07,33.48,33.48h33.48c0-36.83-30.13-66.96-66.96-66.96S21.48,112.82,21.48,149.65H54.96Z"/>
+  <polygon class="cls-10" points="54.96 216.61 54.96 149.65 21.48 149.65 21.48 216.61 54.96 216.61 54.96 216.61"/>
+  <polygon class="cls-7" points="121.92 183.13 121.92 149.65 54.96 149.65 54.96 183.13 121.92 183.13 121.92 183.13"/>
+  <polygon class="cls-5" points="155.4 216.61 155.4 149.65 121.92 149.65 121.92 216.61 155.4 216.61 155.4 216.61"/>
+  <polygon class="cls-5" points="211.2 183.13 211.2 116.17 177.72 116.17 177.72 183.13 211.2 183.13 211.2 183.13"/>
+  <path class="cls-7" d="M244.68,116.17c0-18.41-15.07-33.48-33.48-33.48s-33.48,15.07-33.48,33.48h66.96Z"/>
+  <polygon class="cls-8" points="278.16 216.61 278.16 82.69 244.68 82.69 244.68 216.61 278.16 216.61 278.16 216.61"/>
+  <path class="cls-10" d="M211.2,216.61c18.41,0,33.48-15.07,33.48-33.48h-66.96c0,18.41,15.07,33.48,33.48,33.48h0Z"/>
+</svg>
