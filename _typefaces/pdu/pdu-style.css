@@ -1,0 +1,33 @@
+@font-face {
+  font-family: FC PDU Regular;
+  src: url(PDU-Regular.ttf);
+}
+
+@font-face {
+  font-family: FC PDU Stencil;
+  src: url(XXX);
+}
+
+@font-face {
+  font-family: FC PDU Outline;
+  src: url(XXX);
+}
+
+@font-face {
+  font-family: FC PDU Pattern Regular;
+  src: url(PDU-Regular.ttf);
+}
+
+@font-face {
+  font-family: FC PDU Pattern Stencil;
+  src: url(XXX);
+}
+
+@font-face {
+  font-family: FC PDU Pattern Outline;
+  src: url(XXX);
+}
+
+body {
+    background: ffdfc6;
+}

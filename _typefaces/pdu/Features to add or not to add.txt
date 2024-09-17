@@ -1,0 +1,50 @@
+    - cv01:
+        name: "Character Variant 1"
+        examples:
+            - ACANTHOCEPHALAN
+            
+    - cv02:
+        name: "Character Variant 2"
+        examples:
+            - BACKSTABBINGS
+ 
+    - cv03:
+        name: "Character Variant 3"
+        examples:
+            - CARCINOGENIC
+              
+    - cv04:
+        name: "Character Variant 4"
+        examples:
+            - EFFERVENSCENCE
+            
+    - cv05:
+        name: "Character Variant 5"
+        examples:
+            - FLUFFINESS
+                                    
+    - cv06:
+        name: "Character Variant 6"
+        examples:
+            - AGGREGATE
+
+    - cv07:
+        name: "Character Variant 7"
+        examples:
+            - JIU JITSU
+            
+    - cv08:
+        name: "Character Variant 8"
+        examples:
+            - KNICKKNACKS
+                   
+    - cv09:
+        name: "Character Variant 9"
+        examples:
+            - MAMMOGRAM
+                   
+    - cv10:
+        name: "Character Variant 10"
+        examples:
+            - MAMMOGRAM
+                                             
