@@ -61,11 +61,6 @@ openTypeFeatures:
         name: "Stylistic set 01: Alternate a"
         examples:
             - Abracadabra
- 
-     - ss01:
-        name: "Stylistic set 01: Alternate a"
-        examples:
-            - Abracadabra
   
        - ss02:
         name: "Stylistic set 02: Alternate g"
@@ -98,7 +93,7 @@ openTypeFeatures:
             — "123/456"
                         
     - sups:
-        name: Superior
+        name: Superscript
         examples:
             — "1234567890"
   
@@ -124,6 +119,25 @@ openTypeFeatures:
                       
 css: mad-sans-style.css
 
+fastspring-products:
+    - mad-sans-family
+    - mad-sans-light
+    - mad-sans-light-italic
+    - mad-sans-regular
+    - mad-sans-regular-italic
+    - mad-sans-bold
+    - mad-sans-bold-italic
+    - mad-sans-black
+    - mad-sans-black-italic      
+    - mad-sans-fill-light
+    - mad-sans-fill-light-italic
+    - mad-sans-fill-regular
+    - mad-sans-fill-regular-italic
+    - mad-sans-fill-bold
+    - mad-sans-fill-bold-italic
+    - mad-sans-fill-black
+    - mad-sans-fill-black-italic
+    
 splash: FCB_SVG_Splashes_MAD-Sans.svg
 
 showcases:

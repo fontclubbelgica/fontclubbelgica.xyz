@@ -67,7 +67,7 @@ openTypeFeatures:
         examples:
             - Abracadabra
   
-       - ss02:
+    - ss02:
         name: "Stylistic set 02: Alternate g"
         examples:
             - Lollygagging
@@ -98,7 +98,7 @@ openTypeFeatures:
             — "123/456"
                         
     - sups:
-        name: Superior
+        name: Superscript
         examples:
             — "1234567890"
   
@@ -123,6 +123,25 @@ openTypeFeatures:
             — "1234567890"     
                       
 css: mad-serif-style.css
+
+fastspring-products:
+    - mad-serif-family
+    - mad-serif-light
+    - mad-serif-light-italic
+    - mad-serif-regular
+    - mad-serif-regular-italic
+    - mad-serif-bold
+    - mad-serif-bold-italic
+    - mad-serif-black
+    - mad-saserifns-black-italic      
+    - mad-serif-fill-light
+    - mad-sserifans-fill-light-italic
+    - mad-serif-fill-regular
+    - mad-serif-fill-regular-italic
+    - mad-serif-fill-bold
+    - mad-serif-fill-bold-italic
+    - mad-serif-fill-black
+    - mad-serif-fill-black-italic
 
 splash: FCB_SVG_Splashes_MAD-Serif.svg
 
