@@ -2,82 +2,82 @@
 
 @font-face {
   font-family: "FC Mad Sans Light";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-Light.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Light Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-LightItalic.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Regular";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-Regular.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Regular Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-Italic.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Bold";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-Bold.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Bold Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-BoldItalic.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Black";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-Black.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Black Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSans-BlackItalic.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Light";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-Light.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Light Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-LightItalic.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Regular";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-Regular.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Regular Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-Italic.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Bold";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-Bold.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Bold Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-BoldItalic.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Black";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-Black.ttf);
 }
 
 @font-face {
   font-family: "FC Mad Sans Fill Black Italic";
-  src: url(data:font/woff;base64,INSERT HEX CODE FONT, format('woff2');
+  src: url(FCMADSansFill-BlackItalic.ttf);
 }
 
 body {

@@ -1,31 +1,31 @@
 @font-face {
   font-family: FC PDU Regular;
-  src: url(PDU-Regular.ttf);
+  src: url(FCPDU-Regular.ttf);
 }
 
 @font-face {
   font-family: FC PDU Stencil;
-  src: url(XXX);
+  src: url(FCPDU-Stencil.ttf);
 }
 
 @font-face {
   font-family: FC PDU Outline;
-  src: url(XXX);
+  src: url(FCPDU-Outline.ttf);
 }
 
 @font-face {
   font-family: FC PDU Pattern Regular;
-  src: url(PDU-Regular.ttf);
+  src: url(FCPDU-PatternRegular.ttf);
 }
 
 @font-face {
   font-family: FC PDU Pattern Stencil;
-  src: url(XXX);
+  src: url(FCPDU-PatternStencil.ttf);
 }
 
 @font-face {
   font-family: FC PDU Pattern Outline;
-  src: url(XXX);
+  src: url(FCPDU-PatternOutline.ttf);
 }
 
 body {
