@@ -29,12 +29,13 @@ styles:
     - FC Mad Serif Fill Black Italic
 
 characterSets:
-    - uppercase: A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Zstroke
-    - lowercase: a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek f g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icircumflex idieresis idotaccent igrave imacron iogonek itilde j jdotless jcircumflex k kcommaaccent kgreenlandic l lacute lcaron lcommaaccent ldot lslash m n nacute ncaron ncommaaccent ntilde eng o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls longs t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent zstroke
-    - numbers: 0 1 2 3 4 5 6 7 8 9
-    - CE: é è ç à
-    - symbols: § & ! @ € $
-
+    - uppercase: A Á Ă Ǎ Â Ä À Ā Ą Å Ã Æ Ǽ B C Ć Č Ç Ĉ Ċ D Ď Đ Ð E É Ĕ Ě Ê Ë Ė È Ē Ę F G Ğ Ǧ Ĝ Ģ Ġ H Ħ Ĥ I Ĳ Í Ĭ Î Ï İ Ì Ī Į Ĩ J Ĵ K Ķ L Ĺ Ľ Ļ Ŀ Ł M N Ń Ň Ņ Ñ Ŋ O Ó Ŏ Ô Ö Ò Ő Ō Ø Ǿ Õ Œ P Þ Q R Ŕ Ř Ŗ S Ś Š Ş Ŝ Ș ẞ T Ŧ Ť Ţ Ț U Ú Ŭ Û Ü Ù Ű Ū Ų Ů Ũ V W Ẃ Ŵ Ẅ Ẁ X Y Ý Ŷ Ÿ Ỳ Z Ź Ž Ż Ƶ Δ Ω
+    - lowercase: a á ă ǎ â ä à ā ą å ã æ ǽ b c ć č ç ĉ ċ d ď đ ð e é ĕ ě ê ë ė è ē ę f g ğ ǧ ĝ ģ ġ h ħ ĥ i ı í ĭ î ï ì ī į ĩ j ȷ ĵ k ķ ĸ l ĺ ľ ļ ŀ ł m n ń ň ņ ñ ŋ o ó ŏ ô ö ò ő ō ø ǿ õ œ p þ q r ŕ ř ŗ s ś š ş ŝ ș ß ſ t ŧ ť ţ ț u ú ŭ û ü ù ű ū ų ů ũ v w ẃ ŵ ẅ ẁ x y ý ŷ ÿ ỳ z ź ž ż ƶ ﬁ ﬂ μ π
+    - numbers: 0 1 2 3 4 5 6 7 8 9 ⁄ ½ ⅓ ⅔ ¼ ¾ ⅛ ⅜ ⅝ ⅞ ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+    - punctuation: . , : ; … ! ¡ ? ¿ · • * # / \ - – — _ ( ) { } [ ] ‚ „ “ ” ‘ ’ « » ‹ › " '
+    - symbols: ªº ₿ ¢ ¤ $ ₫ € ₣ ₴ ₭ ₺ ₱ ₽ ₨ ₹ ₪ £ ₸ ₩ ¥ ƒ ฿ ☜ ☝ ☞ ☟ ♥  @ & ¶ § © ® ℗ ™ ° | ¦ † ℓ ‡ ℮ № ℠ ∙ ∕ + − × ÷ = ≠ > < ≥ ≤ ± ≈ ~ ¬ ^ ∞ ∫ Ω ∆ ∏ ∑ √ µ ∂ % ‰ ↑ ↗ → ↘ ↓ ↙ ← ↖ ↔ ↕ ◊
+    — combining marks: ¨ ˙ ` ´ ˝ ˆ ˉ ˇ ˘ ˚ ˜ ¯ ¸ ˛
+    
 openTypeFeatures:
 
     - liga:
