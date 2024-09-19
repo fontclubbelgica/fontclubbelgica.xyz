@@ -19,191 +19,162 @@ styles:
     - FC PDU Pattern Outline
 
 characterSets:
-    - uppercase: A Á Ä Â B C D E F G J I K L M N O P Q R S T U V W X Y Z
-    - lowercase: a b c d e f g j i k l m n o p
-    - numbers: 0 1 2 3 4 5 6 7 8 9
-    - CE: é è ç à f
-    - symbols: § & &-ss10 ! @ € $
+    - uppercase: A Á Ă Â Ä À Ā Ą Å Ã Æ Ǽ B C Ć Č Ç Ĉ Ċ D Ð Ď Đ E É Ĕ Ě Ê Ë Ė È Ē Ę F G Ğ Ĝ Ģ Ġ H Ħ Ĥ I Ĳ Í Ĭ Î Ï İ Ì Ī Į Ĩ J Ĵ K Ķ L Ĺ Ľ Ļ Ŀ Ł M N Ń Ň Ņ Ŋ Ñ O Ó Ŏ Ô Ö Ò Ő Ō Ø Õ Œ P Þ Q R Ŕ Ř Ŗ S Ś Š Ş Ŝ Ș ẞ T Ŧ Ť Ţ Ț U Ú Ŭ Û Ü Ù Ű Ū Ų Ů Ũ V W Ẃ Ŵ Ẅ Ẁ X Y Ý Ŷ Ÿ Ỳ Z Ź Ž Ż Ƶ Δ Ω
+    - lowercase: a á ă â ä à ā ą å ã æ ǽ b c ć č ç ĉ ċ d ð ď đ e é ĕ ě ê ë ė è ē ę f g ğ ĝ ģ ġ h ħ ĥ i ı í ĭ î ï ì ĳ ī į ĩ j ȷ ĵ k ķ ĸ l ĺ ľ ļ ŀ ł m n ń ň ņ ŋ ñ o ó ŏ ô ö ò ő ō ø õ œ p þ q r ŕ ř ŗ s ś š ş ŝ ș ß t ŧ ť ţ ț u ú ŭ û ü ù ű ū ų ů ũ v w ẃ ŵ ẅ ẁ x y ý ŷ ÿ ỳ z ź ž ż ƶ ﬁ ﬂ μ π
+    - numbers: 0 1 2 3 4 5 6 7 8 9 ⁄ ½ ⅓ ⅔ ¼ ¾ ⅛ ⅜ ⅝ ⅞ ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+    - punctuation: . , : ; … ! ¡ ? ¿ · • * # / \ ( ) { } [ ] - – — _ ‚ „ “ ” ‘ ’ « » ‹ › " ' · ;
+    - symbols: ª º ¢ ₡ ¤ $ ₫ € ƒ ₣ ₴ ₭ ₤ ₺ ₦ ₱ ₽ ₨ ₹ ₪ £ ₸ ₮ ₩ ¥ ฿ ₿ ∙ ∕ + − × ÷ = ≠ > < ≥ ≤ ± ≈ ¬ ~ ^ ∞ ∫ Ω ∆ ∏ ∑ √ µ ∂ % ‰ ↑ ↗ → ↘ ↓ ↙ ← ↖ ↔ ↕ ◊  @ & ¶ § © ® ℗ ™ ° | ¦ † ℓ ‡ ℮ № ℠
+    — combining marks: ˉ̈̇̀́̋ ¨ ˙ ` ´ ˝ ˆ ˇ ˘ ˚ ˜ ¯ ¸ ˛
 
 openTypeFeatures:
 
     - liga:
         name: Ligatures
-        fontStyle: FC PDU Regular
         examples:
             - fi fl ff ffi ffl
 
     - dlig:
         name: Discretionary Ligatures
-        fontStyle: FC PDU Regular
         examples:
             - fb fh fj fk ft ffb ffh ffj ffk fft
 
     - case:
         name: All Caps
-        fontStyle: FC PDU Regular
         examples:
             - "(ABCdef123)"
 
     - smcp:
         name: Small Capitals
-        fontStyle: FC PDU Regular
         examples:
             - Smallcaps
 
     - c2sc:
         name: Small Capitals From Capitals
-        fontStyle: FC PDU Regular
         examples:
             - SMALLCAPS
 
     - calt:
         name: Contextual Alternates
-        fontStyle: FC PDU Regular
         examples:
             - "-> /> ^- ^\\- <-"
 
     - salt:
         name: Stylistic Alternates
-        fontStyle: FC PDU Regular
         examples:
             - EXEMPLIFY FLUORENE
 
     - ss01:
         name: "Shorter Crossbars"
-        fontStyle: FC PDU Regular
         examples:
             - AFTEREFFECT EFFORTFULNESSES
 
     - ss02:
         name: "Slab I"
-        fontStyle: FC PDU Regular
         examples:
             - INDIVIDUALISTIC
 
     - ss03:
         name: "Long L"
-        fontStyle: FC PDU Regular
         examples:
             - ALLEGDEDLY
 
     - ss04:
         name: "Curved R"
-        fontStyle: FC PDU Regular
         examples:
             - RETROREFLECTOR
 
     - ss05:
         name: "Single storey a"
-        fontStyle: FC PDU Regular
         examples:
             - Ambassadorial
 
     - ss06:
         name: "Short f"
-        fontStyle: FC PDU Regular
         examples:
             - Chiffchaffs
 
     - ss07:
         name: "Looped g"
-        fontStyle: FC PDU Regular
         examples:
             - Doglegging
 
     - ss08:
         name: "Looped R"
-        fontStyle: FC PDU Regular
         examples:
             - Extracurricular
 
     - ss09:
         name: "Alternate Numbers"
-        fontStyle: FC PDU Regular
         examples:
             - $8.765.432,10
 
     - ss10:
         name: "Alternate Ampersand"
-        fontStyle: FC PDU Regular
         examples:
             - Daugther & Sons
 
     - ss11:
         name: "Randomise Uppercase"
-        fontStyle: FC PDU Regular
         examples:
             - Supercalifragilisticexpialidocious
 
     - ss12:
         name: "Randomise Uppercase"
-        fontStyle: FC PDU Regular
         examples:
             - Supercalifragilisticexpialidocious
 
     - lnum+tnum:
         name: Lining Tabular Numbers
-        fontStyle: FC PDU Regular
         examples:
             — 1234567890€$£%
 
     - onum+tnum:
         name: Oldstyle Tabular Numbers
-        fontStyle: FC PDU Regular
         examples:
             - 1234567890€$£%
 
     - lnum+tnum:
-        name: Oldstyle Proportional Numbers
-        fontStyle: FC PDU Regular
+        name: Oldstyle Proportinal Numbers
         examples:
             - 1234567890€$£%
 
     - zero:
         name: Slashed Zero
-        fontStyle: FC PDU Regular
         examples:
             - "1.000.000,00"
 
     - frac:
         name: Fractions
-        fontStyle: FC PDU Regular
         examples:
             - "123/456"
 
     - sups:
         name: Superscript
-        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - subs:
         name: Subscript
-        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - numr:
         name: Numerators
-        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - dnom:
         name: Denominators
-        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - ordn:
         name: Ordindals
-        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - sinf:
         name: Scientific Inferiors
-        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
