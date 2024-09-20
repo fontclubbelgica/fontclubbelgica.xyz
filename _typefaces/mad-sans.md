@@ -39,81 +39,97 @@ openTypeFeatures:
 
     - liga:
         name: Ligatures
+        style: FC Mad Serif Regular
         examples:
             - fi fl ff ffi ffl
 
     - dlig:
         name: Discretionary Ligatures
+        style: FC Mad Serif Regular
         examples:
             - fj ffj ct st
 
     - case:
         name: "All Caps"
+        style: FC Mad Serif Regular
         examples:
             - "(ABCdef123)"
 
     - calt:
         name: "Contextual Alternates"
+        style: FC Mad Serif Regular
         examples:
             - "-> /> ^- ^\\- <-"
 
     - ss01:
         name: "Stylistic set 01: Alternate a"
+        style: FC Mad Serif Regular
         examples:
             - Abracadabra
 
     - ss02:
         name: "Stylistic set 02: Alternate g"
+        style: FC Mad Serif Regular
         examples:
             - Lollygagging
 
     - lnum+tnum:
         name: Lining Tabular Numbers
+        style: FC Mad Serif Regular
         examples:
             - 1234567890€$£%
 
     - onum+tnum:
         name: Oldstyle Tabular Numbers
+        style: FC Mad Serif Regular
         examples:
             - 1234567890€$£%
 
     - lnum+tnum:
-        name: Oldstyle Proportinal Numbers
+        name: Oldstyle Proportional Numbers
+        style: FC Mad Serif Regular
         examples:
             - 1234567890€$£%
 
     - zero:
         name: Slashed Zero
+        style: FC Mad Serif Regular
         examples:
             - 1.000.000,00
 
     - frac:
         name: Fractions
+        style: FC Mad Serif Regular
         examples:
             - 123/456
 
     - sups:
         name: Superscript
+        style: FC Mad Serif Regular
         examples:
             - "1234567890"
 
     - numr:
         name: Numerators
+        style: FC Mad Serif Regular
         examples:
             - "1234567890"
 
     - dnom:
         name: Denominators
+        style: FC Mad Serif Regular
         examples:
             - "1234567890"
 
     - ordn:
         name: Ordindals
+        style: FC Mad Serif Regular
         examples:
             - "1234567890"
 
     - sinf:
         name: Scientific Inferiors
+        style: FC Mad Serif Regular
         examples:
             - "1234567890"
 

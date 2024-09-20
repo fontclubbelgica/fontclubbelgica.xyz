@@ -22,158 +22,188 @@ characterSets:
     - uppercase: A Á Ä Â B C D E F G J I K L M N O P Q R S T U V W X Y Z
     - lowercase: a b c d e f g j i k l m n o p
     - numbers: 0 1 2 3 4 5 6 7 8 9
-    - CE: é è ç àf
-    - symbols: § & ! @ € $
+    - CE: é è ç à f
+    - symbols: § & &-ss10 ! @ € $
 
 openTypeFeatures:
 
     - liga:
         name: Ligatures
+        fontStyle: FC PDU Regular
         examples:
             - fi fl ff ffi ffl
 
     - dlig:
         name: Discretionary Ligatures
+        fontStyle: FC PDU Regular
         examples:
             - fb fh fj fk ft ffb ffh ffj ffk fft
 
     - case:
         name: All Caps
+        fontStyle: FC PDU Regular
         examples:
             - "(ABCdef123)"
 
     - smcp:
         name: Small Capitals
+        fontStyle: FC PDU Regular
         examples:
             - Smallcaps
 
     - c2sc:
         name: Small Capitals From Capitals
+        fontStyle: FC PDU Regular
         examples:
             - SMALLCAPS
 
     - calt:
         name: Contextual Alternates
+        fontStyle: FC PDU Regular
         examples:
             - "-> /> ^- ^\\- <-"
 
     - salt:
         name: Stylistic Alternates
+        fontStyle: FC PDU Regular
         examples:
             - EXEMPLIFY FLUORENE
 
     - ss01:
         name: "Shorter Crossbars"
+        fontStyle: FC PDU Regular
         examples:
             - AFTEREFFECT EFFORTFULNESSES
 
     - ss02:
         name: "Slab I"
+        fontStyle: FC PDU Regular
         examples:
             - INDIVIDUALISTIC
 
     - ss03:
         name: "Long L"
+        fontStyle: FC PDU Regular
         examples:
             - ALLEGDEDLY
 
     - ss04:
         name: "Curved R"
+        fontStyle: FC PDU Regular
         examples:
             - RETROREFLECTOR
 
     - ss05:
         name: "Single storey a"
+        fontStyle: FC PDU Regular
         examples:
             - Ambassadorial
 
     - ss06:
         name: "Short f"
+        fontStyle: FC PDU Regular
         examples:
             - Chiffchaffs
 
     - ss07:
         name: "Looped g"
+        fontStyle: FC PDU Regular
         examples:
             - Doglegging
 
     - ss08:
         name: "Looped R"
+        fontStyle: FC PDU Regular
         examples:
             - Extracurricular
 
     - ss09:
         name: "Alternate Numbers"
+        fontStyle: FC PDU Regular
         examples:
             - $8.765.432,10
 
     - ss10:
         name: "Alternate Ampersand"
+        fontStyle: FC PDU Regular
         examples:
             - Daugther & Sons
 
     - ss11:
         name: "Randomise Uppercase"
+        fontStyle: FC PDU Regular
         examples:
             - Supercalifragilisticexpialidocious
 
     - ss12:
         name: "Randomise Uppercase"
+        fontStyle: FC PDU Regular
         examples:
             - Supercalifragilisticexpialidocious
 
     - lnum+tnum:
         name: Lining Tabular Numbers
+        fontStyle: FC PDU Regular
         examples:
             — 1234567890€$£%
 
     - onum+tnum:
         name: Oldstyle Tabular Numbers
+        fontStyle: FC PDU Regular
         examples:
             - 1234567890€$£%
 
     - lnum+tnum:
-        name: Oldstyle Proportinal Numbers
+        name: Oldstyle Proportional Numbers
+        fontStyle: FC PDU Regular
         examples:
             - 1234567890€$£%
 
     - zero:
         name: Slashed Zero
+        fontStyle: FC PDU Regular
         examples:
             - "1.000.000,00"
 
     - frac:
         name: Fractions
+        fontStyle: FC PDU Regular
         examples:
             - "123/456"
 
     - sups:
         name: Superscript
+        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - subs:
         name: Subscript
+        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - numr:
         name: Numerators
+        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - dnom:
         name: Denominators
+        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - ordn:
         name: Ordindals
+        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
     - sinf:
         name: Scientific Inferiors
+        fontStyle: FC PDU Regular
         examples:
             - "1234567890"
 
