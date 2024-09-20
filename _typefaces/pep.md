@@ -37,76 +37,91 @@ openTypeFeatures:
 
     - liga:
         name: Ligatures
+        fontStyle: FC Pep Shapes Classic
         examples:
             - fiets floraliën
 
     - dlig:
         name: Discretionary Ligatures
+        fontStyle: FC Pep Shapes Classic
         examples:
             - LIJM Αλλαγή ...
 
     - calt:
         name: Contextual Alternates
+        fontStyle: FC Pep Shapes Classic
         examples:
             - ":) :( -> /> ^- ^\\- <-"
 
     - ss01:
         name: "Stylistic set 01: Double storey a"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Anagrammatical
 
     - ss02:
         name: "Stylistic set 02: Single storey a"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Abracadabra
 
     - ss03:
         name: "Stylistic set 03: Rounded I"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Indivisibility
 
     - ss04:
         name: "Stylistic set 04: Lowercase wide n"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Nonconventional
 
     - ss05:
         name: "Stylistic set 05: Wide smooth Zero"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - $1.000.000,99
 
     - ss06:
         name: "Stylistic set 06: Wide angular Zero"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - €69.420,50
 
     - ss07:
         name: "Stylistic set 07: Dropped T bar"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Trisubstituted
 
     - ss08:
         name: "Stylistic set 08: Cyrillic A alternate"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Адаптация
 
     - ss09:
         name: "Stylistic set 09: Cyrillic De alternate"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Дедовщина Дедушка
 
     - ss10:
         name: "Stylistic set 10: Bulgarian Alternates"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - Чужбинец вижда хубавица на улицата.
 
     - ss11:
         name: "Stylistic set 11: Alternate Apple"
+        fontStyle: FC Pep Shapes Classic
         examples:
             - 
 
     - ordn:
         name: Ordindals
+        fontStyle: FC Pep Shapes Classic
         examples:
             - "1234567890"
 

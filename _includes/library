@@ -1,4 +1,3 @@
-{% if page.font_match %}
 <section class="library">
     <div class="grid">
         {% if page.font_match %}
@@ -31,4 +30,3 @@
     <p><a href="/typefaces" class="library-btn">Explore full library</a></p>
     {% endif %}
 </section>
-{% endif %}

@@ -188,7 +188,7 @@ figcaption {
     cursor: pointer;
 }
 .select-font {
-  width: 240px;
+  width: fit-content;
   position: relative;
 }
 
@@ -228,9 +228,11 @@ figcaption {
         font-size: 14px;
         line-height: 200%;
         height: 40px;
-
+        top: 1px;
+        background-color: white;
     }
     form {
+        z-index: 100;
         position: absolute;
         padding: 10px;
         display: none;
@@ -253,13 +255,17 @@ figcaption {
     }
 }
 
+.select-size {
+    position: relative;
+    top: -6px;
+}
 
 input[type=range] {
   height: 20px;
   -webkit-appearance: none;
   margin: 10px 0;
   width: 100%;
-  background-color: white;
+  background-color: rgba(1, 1, 1, 0);
 }
 input[type=range]:focus {
   outline: none;
@@ -489,7 +495,7 @@ section.lang-support figure.show {
     background-color: var(--red);
 }
 .t-large p {
-    width: 150%;
+    width: 300%;
 }
 .t-small {
     column-count: 2;
@@ -504,10 +510,18 @@ section.lang-support figure.show {
     font-size: 100px;
     line-height: 1.5;
 }
+
+.tester:hover > .controls{
+    visibility: visible;
+
+}
+
 .tester .controls {
+    position: relative;
     display: flex;
     justify-content: space-between;
     padding: 0 var(--padding);
+    visibility: hidden;
 }
 
 // DETAILS
@@ -574,6 +588,7 @@ p.features-example span.features-example-divider {
     font-family: "FCBELGICA";
     width: 100px;
     text-align: left;
+    font-size: 40%;
 }
 p.meta span:last-child {
     width: 20%;
@@ -810,7 +825,7 @@ section.library {
 }
 
 
-@for $count from 1 through 10 {
+@for $count from 1 through 30 {
     @for $i from 1 through $count {
         .stack-#{$count} figure:nth-child(#{$i}) {
             margin-left: calc(var(--stackdepth) / #{$count} * #{$i});

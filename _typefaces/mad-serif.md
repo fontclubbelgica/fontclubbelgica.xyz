@@ -82,7 +82,7 @@ openTypeFeatures:
             - "1234567890€$£%"
 
     - lnum+tnum:
-        name: Oldstyle Proportinal Numbers
+        name: Oldstyle Proportional Numbers
         examples:
             - "1234567890€$£%"
 
