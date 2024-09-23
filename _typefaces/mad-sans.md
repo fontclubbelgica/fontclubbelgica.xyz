@@ -11,22 +11,22 @@ date: 2017-01-01
 glyphCount: 727
 
 styles:
-    - FC Mad Serif Light
-    - FC Mad Serif Light Italic
-    - FC Mad Serif Regular
-    - FC Mad Serif Regular Italic
-    - FC Mad Serif Bold
-    - FC Mad Serif Bold Italic
-    - FC Mad Serif Black
-    - FC Mad Serif Black Italic
-    - FC Mad Serif Fill Light
-    - FC Mad Serif Fill Light Italic
-    - FC Mad Serif Fill Regular
-    - FC Mad Serif Fill Regular Italic
-    - FC Mad Serif Fill Bold
-    - FC Mad Serif Fill Bold Italic
-    - FC Mad Serif Fill Black
-    - FC Mad Serif Fill Black Italic
+    - FC Mad Sans Light
+    - FC Mad Sans Light Italic
+    - FC Mad Sans Regular
+    - FC Mad Sans Regular Italic
+    - FC Mad Sans Bold
+    - FC Mad Sans Bold Italic
+    - FC Mad Sans Black
+    - FC Mad Sans Black Italic
+    - FC Mad Sans Fill Light
+    - FC Mad Sans Fill Light Italic
+    - FC Mad Sans Fill Regular
+    - FC Mad Sans Fill Regular Italic
+    - FC Mad Sans Fill Bold
+    - FC Mad Sans Fill Bold Italic
+    - FC Mad Sans Fill Black
+    - FC Mad Sans Fill Black Italic
 
 characterSets:
     - uppercase: A Á Ă Ǎ Â Ä À Ā Ą Å Ã Æ Ǽ B C Ć Č Ç Ĉ Ċ D Ď Đ Ð E É Ĕ Ě Ê Ë Ė È Ē Ę F G Ğ Ǧ Ĝ Ģ Ġ H Ħ Ĥ I Ĳ Í Ĭ Î Ï İ Ì Ī Į Ĩ J Ĵ K Ķ L Ĺ Ľ Ļ Ŀ Ł M N Ń Ň Ņ Ñ Ŋ O Ó Ŏ Ô Ö Ò Ő Ō Ø Ǿ Õ Œ P Þ Q R Ŕ Ř Ŗ S Ś Š Ş Ŝ Ș ẞ T Ŧ Ť Ţ Ț U Ú Ŭ Û Ü Ù Ű Ū Ų Ů Ũ V W Ẃ Ŵ Ẅ Ẁ X Y Ý Ŷ Ÿ Ỳ Z Ź Ž Ż Ƶ Δ Ω
@@ -40,97 +40,97 @@ openTypeFeatures:
 
     - liga:
         name: Ligatures
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - fi fl ff ffi ffl
 
     - dlig:
         name: Discretionary Ligatures
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - fj ffj ct st
 
     - case:
         name: "All Caps"
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - "(ABCdef123)"
 
     - calt:
         name: "Contextual Alternates"
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - "-> /> ^- ^\\- <-"
 
     - ss01:
         name: "Stylistic set 01: Alternate a"
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - Abracadabra
 
     - ss02:
         name: "Stylistic set 02: Alternate g"
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - Lollygagging
 
     - lnum+tnum:
         name: Lining Tabular Numbers
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - 1234567890€$£%
 
     - onum+tnum:
         name: Oldstyle Tabular Numbers
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - 1234567890€$£%
 
     - lnum+tnum:
         name: Oldstyle Proportional Numbers
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - 1234567890€$£%
 
     - zero:
         name: Slashed Zero
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - 1.000.000,00
 
     - frac:
         name: Fractions
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - 123/456
 
     - sups:
         name: Superscript
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - "1234567890"
 
     - numr:
         name: Numerators
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - "1234567890"
 
     - dnom:
         name: Denominators
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - "1234567890"
 
     - ordn:
         name: Ordindals
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - "1234567890"
 
     - sinf:
         name: Scientific Inferiors
-        style: FC Mad Serif Regular
+        fontStyle: FC Mad Sans Regular
         examples:
             - "1234567890"
 
