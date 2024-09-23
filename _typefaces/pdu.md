@@ -249,7 +249,7 @@ testers:
         3. Katutaide: Taiteilijat käyttävät sabloonia usein graffitissa monimutkaisten kuvioiden nopeaan toistamiseen.
         Tätä menetelmää arvostetaan nopeuden, johdonmukaisuuden ja sabloonan uudelleenkäytön mahdollisuuden vuoksi eri pinnoilla.
       fontStyle: FC PDU Regular
-      fontSize: 30
+      fontSize: 70
 
     - text: |
         Literele șablon sunt caractere sau simboluri create folosind un șablon, care este un material subțire (precum plastic, metal sau hârtie) cu forme decupate. Șablonul funcționează ca un tipar, iar când vopseaua, cerneala sau un alt mediu este aplicat deasupra, forma literei este transferată pe suprafața de dedesubt.
@@ -260,7 +260,7 @@ testers:
         3. Artă stradală: Artiștii folosesc adesea șabloane pentru graffiti pentru a replica rapid modele complexe.
         Această metodă este apreciată pentru rapiditate, consistență și capacitatea de a reutiliza șablonul de mai multe ori pe diferite suprafețe.
       fontStyle: FC PDU Stencil
-      fontSize: 70
+      fontSize: 120
 
 about:
     - image: PDU_Animatie.svg
@@ -295,7 +295,7 @@ research: |
     Although their solution — essentially a reusable glider attached to three massive rockets — was ingenious, unfortunately the program was never stable enough to provide the reliable service that the engineers had envisioned. So on July 8th, 2011, following 2 major malfunctions (the Challenger in 1986 and Columbia in 2003) the 135th Space transportation System, STS-135 in short, was the last to reach orbit.
     On paper the engineers were on to something, but the Space transportation System was just too expensive and not the most reliable of options. therefore the Americans have now joined the astronauts from most other countries by piggy- backing to the iSS using the Russian’s Soyuz spacecraft.
 
-    Skylab (°1973 - †1979) is another one of the en- thralling past inventions from the minds of the NASA engineers. this space laboratory, that was a platform to investigate the effects of space on a human body, was a predecessor of the ISS (°1998) and even the Russian’s mir (°1986 - †1996). Being the first laboratory outside of earth’s atmosphere, it involved many unusual features to test the human body in a weightless state. one of them was a padded ring on the inside of the cylindrical craft, that was used as a perpetual treadmill. instead of a hamster staying still in it's spinning wheel, the pioneers of Skylab could revolve until exhaustion in the inert inner rim. this way they could test what physical exercise an astronaut has to do in order the have the same physical fitness upon re-entering the earth’s atmosphere. otherwise their body would have converted the muscles to energy, basically letting them deteriorate due to inactiveness.
+    Skylab (°1973 – †1979) is another one of the en- thralling past inventions from the minds of the NASA engineers. this space laboratory, that was a platform to investigate the effects of space on a human body, was a predecessor of the ISS (°1998) and even the Russian’s mir (°1986 - †1996). Being the first laboratory outside of earth’s atmosphere, it involved many unusual features to test the human body in a weightless state. one of them was a padded ring on the inside of the cylindrical craft, that was used as a perpetual treadmill. instead of a hamster staying still in it's spinning wheel, the pioneers of Skylab could revolve until exhaustion in the inert inner rim. this way they could test what physical exercise an astronaut has to do in order the have the same physical fitness upon re-entering the earth’s atmosphere. otherwise their body would have converted the muscles to energy, basically letting them deteriorate due to inactiveness.
     When all their testing was finished and thus the lab became redundant they let Skylab re-enter the earth’s atmosphere. on disintegrating during the descent, the debris was scattered across Western Australia.
 
     Regardless the temporality of any system, we still depend on them since basically: they just make stuff much easier and more productive, and therefore more economically viable. Society is a system that was implemented — and is constantly being questioned and redefined — when humans first started settling and organizing themselves as a community. all these years later we have learned that feudal, Communist and Capitalist systems all have their detriments, but depending on where you live that’s what you have to live with. it’s what keeps you and your peers from a state of total anarchy.

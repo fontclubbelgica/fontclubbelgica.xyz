@@ -100,6 +100,10 @@ a {
     color: var(--red);
 }
 
+.section-title {
+    font-family: 'FCBELGICA';
+}
+
 header {
     top: var(--padding);
     padding: 0 var(--padding);
@@ -205,6 +209,7 @@ figcaption {
   border-radius: 30px;
   color: #000;
   cursor: pointer;
+
 }
 
 .select-font:after {
@@ -218,6 +223,7 @@ figcaption {
 
 .select-feature {
     position: relative;
+    font-family: 'FCBELGICA';
     &:before {
         position: relative;
         content: "Features \2193";
@@ -263,6 +269,7 @@ figcaption {
 input[type=range] {
   height: 20px;
   -webkit-appearance: none;
+  appearance: none;
   margin: 10px 0;
   width: 100%;
   background-color: rgba(1, 1, 1, 0);
@@ -638,9 +645,9 @@ section.details>div {
 }
 .h {
     display: block;
-    pointer-events: none;
     opacity: 0;
-    transition: opacity 0.3s;
+    pointer-events: none;
+    transition: opacity .3s;
     left: calc(50% - 150px);
     position: absolute;
     transform: translateX(-50%);
@@ -652,8 +659,8 @@ section.details>div {
     box-shadow: 0 5px 11px 0 rgba(0,0,0,0.2), 0 1px 15px 0 rgba(0,0,0,0.19) !important;
 }
 .glyph:hover .h {
-    display: block;
     opacity: 1;
+    display: block;
 }
 .h-top {
     display: flex;
@@ -705,6 +712,7 @@ section.buy {
     padding: 30px var(--padding);
     background-color: var(--gray);
     padding-bottom: 80px;
+    font-family: 'FCBELGICA';
 }
 .buy h2 {
     font-size: 130px;
@@ -750,6 +758,7 @@ section.library {
     padding-left: calc(var(--padding) * 4);
     padding-right: calc(var(--padding) * 4);
     background-color: white;
+    font-family: 'FCBELGICA';
 }
 .font-info h2, .font-info p {
     font-size: 13px;
@@ -854,6 +863,7 @@ footer {
     border-top: dotted white 2px;
     padding-top: 20px;
     padding: var(--padding);
+    font-family: 'FCBELGICA';
 
     p {
         font-size: 13px;

@@ -45,6 +45,7 @@ class Controller(ezui.WindowController):
                 allowsDropBetweenRows=False,
                 allowsInternalDropReordering=False,
                 showColumnTitles=True,
+                enableDelete=True,
                 columnDescriptions=[
                     dict(
                         identifier="path",
@@ -86,7 +87,10 @@ class Controller(ezui.WindowController):
             )
             items.append(item)
         return items
-        
+    
+    def fontFilesDeleteCallback(self, sender):
+        sender.removeSelection()
+                
     def buildFontFaceCallback(self, sender):
         fontfaces = []
         for font, path in self.fonts():
@@ -94,6 +98,7 @@ class Controller(ezui.WindowController):
             with open(path, "rb") as file:
                 fontData = base64.b64encode(file.read()).decode()
             fontfaces.append(fontFace_template.format(fullName=fullName, fontData=fontData))
+        print("\n\n".join(fontfaces))
         self.write("\n\n".join(fontfaces))
     
     def buildStylesCallback(self, sender):
