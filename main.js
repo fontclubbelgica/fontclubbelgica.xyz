@@ -6,17 +6,17 @@ document.addEventListener('DOMContentLoaded', function() {
 	const navs = document.querySelectorAll('nav');
 	navs.forEach((nav)=> {
 		nav.addEventListener('mouseover', (event) => {
-			const element = event.target;
-			const parent = element.closest('nav');
+			const element = event.target
+			const parent = element.closest('nav')
 			if (parent) {
-				parent.classList.toggle('open');
+				parent.classList.toggle('open')
 			}
 		})
 		nav.addEventListener('mouseout', (event) => {
 			const element = event.target;
-			const parent = element.closest('nav');
+			const parent = element.closest('nav')
 			if (parent) {
-				parent.classList.toggle('open');
+				parent.classList.toggle('open')
 			}
 		})
 	})
@@ -27,88 +27,104 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	function apply_control_select_font(element) {
 		preview = element.parentElement.parentElement.nextElementSibling;
-		preview.style.fontFamily = element.value;
-	};
+		preview.style.fontFamily = element.value + ", 'AdobeBlank'"
+
+		preview.querySelectorAll(".glyph-preview").forEach((glyphElement) => {
+			glyphElement.parentElement.style.display = "block"
+			width = glyphElement.clientWidth
+			if ( width == 0 ) {
+				glyphElement.parentElement.style.display = "none"
+			}
+		})
+	}
 
 	control_select_font.forEach((element)=> {
 		element.addEventListener("change", (event) => {
-			apply_control_select_font(element);
-		});
-		apply_control_select_font(element);
-	});
+			apply_control_select_font(element)
+		})
+		apply_control_select_font(element)
+	})
+
+	// update after all fonts are loaded
+	document.fonts.ready.then(function () {
+		control_select_font.forEach((element)=> {
+			apply_control_select_font(element)
+		})
+	})
 
 	const control_select_feature = document.querySelectorAll('.select-feature form');
 
 	function apply_control_select_feature(element) {
-		const inputs = element.querySelectorAll('input');
-		const featureSettings = [];
+		const inputs = element.querySelectorAll('input')
+		const featureSettings = []
 		for (var index = 0; index < inputs.length; index++) {
 			input = inputs[index]
 			if ( input.checked ) {
-				featureSettings.push("'" + input.value + "'");
+				featureSettings.push("'" + input.value + "'")
 			}
-		};
+		}
 		preview = element.parentElement.parentElement.nextElementSibling;
-		preview.style.fontFeatureSettings = featureSettings.join();
+		preview.style.fontFeatureSettings = featureSettings.join()
 	};
 
 	control_select_feature.forEach((element)=> {
 		element.addEventListener("change", (event) => {
-			apply_control_select_feature(element);
-		});
-		apply_control_select_feature(element);
-	});
+			apply_control_select_feature(element)
+		})
+		apply_control_select_feature(element)
+	})
 
-	const control_select_size = document.querySelectorAll('.select-size input');
+	const control_select_size = document.querySelectorAll('.select-size input')
 
 	function apply_control_select_size(element) {
 		preview = element.parentElement.parentElement.nextElementSibling;
 		if (element.value > 85 ) {
-		  	preview.style.height = element.value * 1.5 + 'px';
-		  	preview.className = "t-large preview";
+		  	preview.style.height = element.value * 1.5 + 'px'
+		  	preview.className = "t-large preview"
 	  	}
 	  	else if( element.value > 40 ) {
-		  	preview.style.height = element.value * 1.5 * 3 + 'px';
-		 	preview.className = "t-medium preview";
+		  	preview.style.height = element.value * 1.5 * 3 + 'px'
+		 	preview.className = "t-medium preview"
 	  	}
 	 	else if( element.value > 20 ) {
-			preview.style.height = element.value * 1.5 * 4 + 'px';
-			preview.className = "t-small preview";
+			preview.style.height = element.value * 1.5 * 4 + 'px'
+			preview.className = "t-small preview"
 		}
 		else {
-			preview.style.height = element.value * 1.5 * 5 + 'px';
+			preview.style.height = element.value * 1.5 * 5 + 'px'
 			preview.className = "t-xsmall preview";
 		}
-		preview.style.fontSize = element.value + 'px';
+		preview.style.fontSize = element.value + 'px'
 	};
 
 	control_select_size.forEach((element)=> {
 		element.addEventListener("input", (event) => {
-			apply_control_select_size(element);
-		});
-		apply_control_select_size(element);
+			apply_control_select_size(element)
+		})
+		apply_control_select_size(element)
 	});
 
 	// showcase
 
-	const zonecontainer = document.querySelector('#zones');
-    const zonefontname = document.querySelector('#zone-fontname');
-    const zones = document.querySelectorAll('.zone');
+	const zonecontainer = document.querySelector('#zones')
+    const zonefontname = document.querySelector('#zone-fontname')
+    const zones = document.querySelectorAll('.zone')
     if (zonecontainer) {
 	    zonecontainer.addEventListener("mousemove", (event) => {
-	        let factorY = event.offsetY / event.target.offsetHeight;
-	        let index = Math.round(factorY * font_styles.length);
-	        if (index < 0) {index = 0};
-	        if (index >= font_styles.length) {index = font_styles.length -1};
-	        zonecontainer.style.fontFamily = font_styles[index];
-	        zonefontname.textContent = font_styles[index];
-	    });
+	        let factorY = event.offsetY / event.target.offsetHeight
+	        let index = Math.round(factorY * font_styles.length)
+	        if (index < 0) {index = 0}
+	        if (index >= font_styles.length) {index = font_styles.length -1}
+	        zonecontainer.style.fontFamily = font_styles[index]
+	        zonefontname.textContent = font_styles[index]
+	    })
 	}
+
     // library overview
 
-	const libray_stack = document.querySelectorAll('.stack');
+	const libray_stack = document.querySelectorAll('.stack')
 
-    var canUpdate = true;
+    var canUpdate = true
     var libray_delta = 0
 
     function flip_child(event, element) {
@@ -118,22 +134,22 @@ document.addEventListener('DOMContentLoaded', function() {
     	if ( canUpdate ) {
 
     		if ( libray_delta < 0 ) {
-    			child = element.lastElementChild;
+    			child = element.lastElementChild
     			if (child) {
-					element.removeChild(child);
-					element.insertBefore(child, element.firstElementChild);
+					element.removeChild(child)
+					element.insertBefore(child, element.firstElementChild)
 				}
     		}
     		else {
-    			child = element.firstElementChild;
+    			child = element.firstElementChild
     			if (child) {
-					element.removeChild(child);
-					element.appendChild(child);
+					element.removeChild(child)
+					element.appendChild(child)
 				}
     		}
 
     		setTimeout(() => {
-	    		canUpdate = true;
+	    		canUpdate = true
     		}, 60)
     	}
     	canUpdate = false;
@@ -141,9 +157,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     libray_stack.forEach((element)=> {
     	element.addEventListener("wheel", (event) => {
-    		flip_child(event, element);
-    		event.preventDefault();
-    	});
-   	});
+    		flip_child(event, element)
+    		event.preventDefault()
+    	})
+   	})
 })
 

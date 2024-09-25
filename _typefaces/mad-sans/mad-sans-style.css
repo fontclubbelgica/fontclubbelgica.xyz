@@ -80,11 +80,6 @@
   src: url(FCMADSansFill-BlackItalic.ttf);
 }
 
-@font-face {
-  font-family: "FC MAD Sans Black";
-  src: url(data:font/woff;base64,), format('woff2');
-}
-
 
 body {
     background: #003cff;
