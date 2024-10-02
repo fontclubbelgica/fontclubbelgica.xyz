@@ -265,10 +265,14 @@ featureTagNameMap = dict(
 )
 
 def getFeatureDataForTable(font, tableTag):
+    data = {}
     name = font["name"]
+    if tableTag not in font:
+        return data
+        
     table = font[tableTag]
     cmap = font["cmap"].buildReversed()
-    data = {}
+    
     if table is None:
         return data
     
