@@ -26,14 +26,16 @@
             <h2><a href="/typefaces">Our typefaces</a></h2>
             <ul>
                 {% for fontpage in site.typefaces %}
-                    <li><a href="{{ fontpage.url }}">{{ fontpage.title }}</a></li>
+                    {% unless fontpage.draft %}
+                        <li><a href="{{ fontpage.url }}">{{ fontpage.title }}</a></li>
+                    {% endunless %}
                 {% endfor %}
             </ul>
         </nav>
         <nav class="col-2">
             <h2>Information</h2>
             <ul>
-                <li><a href="#">About us</a></li>
+                <li><a href="/faq#our-team">About us</a></li>
                 <li><a href="#">Our Team</a></li>
                 <li><a href="#">Our Service</a></li>
                 <li><a href="#">Contact</a></li>
@@ -45,8 +47,8 @@
             <ul>
                 <li><a href="#">Payments</a></li>
                 <li><a href="#">Licensing</a></li>
-                <li><a href="#">EULA</a></li>
-                <li><a href="#">Legal</a></li>
+                <li><a href="/faq#EULA">EULA</a></li>
+                <li><a href="/faq#legal">Legal</a></li>
                 <li><a href="#">GDPR</a></li>
             </ul>
         </nav>

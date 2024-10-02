@@ -200,32 +200,32 @@ figcaption {
 .select-font {
   width: fit-content;
   position: relative;
+
+  &:after {
+      content: "\2193";
+      font-weight: bold;
+      position: absolute;
+      right: 9px;
+      top: 9px;
+      pointer-events: none;
+    }
+
+  select {
+      appearance: none;
+      width: 100%;
+      font-size: 14px;
+      font-family: 'FCBELGICA';
+      font-weight: bold;
+      line-height: 100%;
+      padding:8px 30px 5px 15px;
+      background-color: rgba(255, 255, 255, .4);
+      border: solid 1px rgb(194,194,194);
+      border-radius: 30px;
+      color: #000;
+      cursor: pointer;
+    }
 }
 
-.select-font select {
-  appearance: none;
-  width: 100%;
-  font-size: 14px;
-  font-family: 'FCBELGICA';
-  font-weight: bold;
-  line-height: 100%;
-  padding:8px 30px 5px 15px;
-  background-color: #fff;
-  border: solid 1px rgb(194,194,194);
-  border-radius: 30px;
-  color: #000;
-  cursor: pointer;
-
-}
-
-.select-font:after {
-  content: "\2193";
-  font-weight: bold;
-  position: absolute;
-  right: 9px;
-  top: 9px;
-  pointer-events: none;
-}
 
 .select-feature {
     position: relative;
@@ -241,7 +241,7 @@ figcaption {
         line-height: 200%;
         height: 40px;
         top: 1px;
-        background-color: white;
+        background-color: rgba(255, 255, 255, .4);
     }
     form {
         z-index: 100;
@@ -429,14 +429,32 @@ section.showcase {
 section.about {
     padding-left: var(--padding);
     padding-right: var(--padding);
+
+    .about-title {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    figure {
+        padding-bottom: 20px;
+        &.small {
+            max-width: 520px;
+            margin: 0 auto;
+        }
+    }
+
+    p {
+        font-size: 15px;
+        line-height: 24px;
+        max-width: 680px;
+        margin: 0 auto;
+        padding-bottom: 30px;
+    }
 }
-.about-title {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding-bottom: 20px;
-    padding-top: 20px;
-}
+
 
 h3 {
     font-size: 20px;
@@ -444,20 +462,8 @@ h3 {
     text-transform: uppercase;
     display: inline-block;
 }
-section.about figure {
-    padding-bottom: 20px;
-}
-section.about p {
-    font-size: 15px;
-    line-height: 24px;
-    max-width: 680px;
-    margin: 0 auto;
-    padding-bottom: 30px;
-}
-figure.small {
-    max-width: 520px;
-    margin: 0 auto;
-}
+
+
 @media(max-width: 600px) {
     h3 {
         font-size: 15px;
@@ -496,25 +502,35 @@ section.lang-support {
     background-color: var(--black);
     padding-top: 40px;
     padding-bottom: 40px;
+
+    figure {
+        display: none;
+        &.show {
+            opacity: 1;
+            display: block;
+        }
+    }
+
+    .btns .current {
+        background-color: var(--red);
+    }
+
 }
-section.lang-support figure {
-    display: none;
-}
-section.lang-support figure.show {
-    opacity: 1;
-    display: block;
-}
-.lang-support .btns .current {
-    background-color: var(--red);
-}
+
 .t-large p {
     width: 300%;
+    margin: 0;
+}
+.t-medium {
+    // padding: 0 var(--padding);
 }
 .t-small {
     column-count: 2;
+    // padding: 0 var(--padding);
 }
 .t-xsmall {
     column-count: 3;
+    // padding: 0 var(--padding);
 }
 .tester .preview {
     overflow: clip;
@@ -551,10 +567,10 @@ div.characterSets {
     position: relative;
     font-family: 'AdobeBlank'
 }
-.characterSets-viewer .meta, .characterSets-viewer p, p.meta {
+.characterSet .meta, .characterSet p, p.meta {
     font-family: 'FCBELGICA';
 }
-.characterSets-viewer > .meta {
+.characterSet > .meta {
     width: 100%;
 }
 .glyph-preview {
@@ -626,12 +642,12 @@ section.details>div {
     padding-top: 20px;
     margin-bottom: 20px;
 }
-.characterSets-viewer {
-    display: flex;
+.characterSet {
+    display: none;
     flex-wrap: wrap;
     position: relative;
 }
-.characterSets-viewer>.meta {
+.characterSet>.meta {
     font-weight: normal;
     font-size: 14px;
     line-height: 18px;
@@ -641,7 +657,6 @@ section.details>div {
 }
 
 .glyph {
-    margin-top: 3px;
     display: block;
     text-align: center;
     font-size: 24px;
@@ -650,14 +665,14 @@ section.details>div {
     width: 45px;
     height: 45px;
     border: solid white 2px;
+    margin-top: -2px;
     margin-right: -2px;
-    margin-bottom: -5px;
 }
-.h {
+.glyph-popup {
     display: block;
-    opacity: 0;
+    // opacity: 0;
     pointer-events: none;
-    transition: opacity .3s;
+    // transition: opacity .3s;
     left: calc(50% - 150px);
     position: absolute;
     transform: translateX(-50%);
@@ -667,30 +682,40 @@ section.details>div {
     width: 520px;
     padding: 24px;
     box-shadow: 0 5px 11px 0 rgba(0,0,0,0.2), 0 1px 15px 0 rgba(0,0,0,0.19) !important;
-}
-.glyph:hover .h {
-    opacity: 1;
-    display: block;
-}
-.h-top {
-    display: flex;
-    justify-content: space-between;
-}
-p.all {
-    text-align: left;
-    margin-top: -80px;
-}
-.h p, .h h3 {
 
-    font-size: 11px;
-    line-height: 16px;
+    .glyph-popup-top {
+        display: flex;
+        justify-content: space-between;
+        font-feature-settings: normal;
+    }
+    .glyph-popup-top-feature {
+        font-family: "FCBELGICA";
+    }
+
+    .all, h3 {
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .letter {
+        font-size: 240px;
+        line-height: 400px;
+        margin-top: -50px;
+        margin-bottom: 50px;
+    }
+
+    .all {
+        text-align: left;
+        margin-top: -80px;
+        font-feature-settings: normal;
+        font-family: "FCBELGICA";
+    }
 
 }
-span.letter {
-    font-size: 240px;
-    line-height: 400px;
 
-}
+
+
+
 @media(max-width: 600px) {
     .information li span, .packages li span {
         width: 100%;
@@ -703,7 +728,7 @@ span.letter {
     section.details>div>div {
         width: 100%;
     }
-    .h {
+    .glyph-popup {
         left: 50%;
         max-width: calc(100% - 20px);
     }

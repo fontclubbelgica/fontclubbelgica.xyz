@@ -2,6 +2,8 @@
 layout: font
 title: FC PDU
 
+draft: false
+
 information: |
     PDU is a faithfull digitization and exploration into the limits of the Plaque Découpée Universelle, a stencil based system originally designed by Joseph A. David in 1876.
 
@@ -11,20 +13,29 @@ date: 2010-01-01
 glyphCount: 1277
 
 styles:
-    - FC PDU Regular
-    - FC PDU Stencil
-    - FC PDU Outline
-    - FC PDU Pattern Regular
-    - FC PDU Pattern Stencil
-    - FC PDU Pattern Outline
+  - FC PDU Regular
+  - FC PDU Outline
+  - FC PDU Stencil
+  - FC PDU Pattern Regular
+  - FC PDU Pattern Outline
+  - FC PDU Pattern Stencil
 
 characterSets:
-    - uppercase: A Á Ă Â Ä À Ā Ą Å Ã Æ Ǽ B C Ć Č Ç Ĉ Ċ D Ð Ď Đ E É Ĕ Ě Ê Ë Ė È Ē Ę F G Ğ Ĝ Ģ Ġ H Ħ Ĥ I Ĳ Í Ĭ Î Ï İ Ì Ī Į Ĩ J Ĵ K Ķ L Ĺ Ľ Ļ Ŀ Ł M N Ń Ň Ņ Ŋ Ñ O Ó Ŏ Ô Ö Ò Ő Ō Ø Õ Œ P Þ Q R Ŕ Ř Ŗ S Ś Š Ş Ŝ Ș ẞ T Ŧ Ť Ţ Ț U Ú Ŭ Û Ü Ù Ű Ū Ų Ů Ũ V W Ẃ Ŵ Ẅ Ẁ X Y Ý Ŷ Ÿ Ỳ Z Ź Ž Ż Ƶ Δ Ω
-    - lowercase: a á ă â ä à ā ą å ã æ ǽ b c ć č ç ĉ ċ d ð ď đ e é ĕ ě ê ë ė è ē ę f g ğ ĝ ģ ġ h ħ ĥ i ı í ĭ î ï ì ĳ ī į ĩ j ȷ ĵ k ķ ĸ l ĺ ľ ļ ŀ ł m n ń ň ņ ŋ ñ o ó ŏ ô ö ò ő ō ø õ œ p þ q r ŕ ř ŗ s ś š ş ŝ ș ß t ŧ ť ţ ț u ú ŭ û ü ù ű ū ų ů ũ v w ẃ ŵ ẅ ẁ x y ý ŷ ÿ ỳ z ź ž ż ƶ ﬁ ﬂ μ π
-    - numbers: 0 1 2 3 4 5 6 7 8 9 ⁄ ½ ⅓ ⅔ ¼ ¾ ⅛ ⅜ ⅝ ⅞ ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
-    - punctuation: ". , : ; … ! ¡ ? ¿ · • * # / \ ( ) { } [ ] - – — _ ‚ „ “ ” ‘ ’ « » ‹ › \" ' · ;"
-    - symbols: ª º ¢ ₡ ¤ $ ₫ € ƒ ₣ ₴ ₭ ₤ ₺ ₦ ₱ ₽ ₨ ₹ ₪ £ ₸ ₮ ₩ ¥ ฿ ₿ ∙ ∕ + − × ÷ = ≠ > < ≥ ≤ ± ≈ ¬ ~ ^ ∞ ∫ Ω ∆ ∏ ∑ √ µ ∂ % ‰ ↑ ↗ → ↘ ↓ ↙ ← ↖ ↔ ↕ ◊  @ & ¶ § © ® ℗ ™ ° | ¦ † ℓ ‡ ℮ № ℠
-    - combining marks: ˉ̈̇̀́̋ ¨ ˙ ` ´ ˝ ˆ ˇ ˘ ˚ ˜ ¯ ¸ ˛
+   - Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~ ¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ­ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+   - SpacingModifierLetters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+   - CombiningDiacriticalMarks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨ ̵ ̶ ̷ ̸"
+   - GreekandCoptic: "; · Δ Ω μ π"
+   - Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+   - SuperscriptsandSubscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+   - CurrencySymbols: "₡ ₣ ₤ ₦ ₨ ₩ ₪ ₫ € ₭ ₮ ₱ ₴ ₸ ₹ ₺ ₽ ₿ ฿"
+   - Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+   - NumberForms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+   - Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+   - MathematicalOperators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+   - GeometricShapes: "◊"
+   - PrivateUseArea: " "
+   - AlphabeticPresentationForms: "ﬁ ﬂ"
+
 
 openTypeFeatures:
 
@@ -244,7 +255,7 @@ about:
 research: |
     ## Le Système Typographique Imparfaite
 
-    ![](PDU_Stencil.svg){: style="width: 50%;"}
+    ![](PDU_Stencil.svg){: style="width: 50%; float: left; margin: 10px;"}
 
     Only in the theoretical realm a system remains viable, at least until a new theory replaces it’s thesis, or until we try to use it on practical applications. Werner Heisenberg (°1901 – †1976), was a german theoretical physicist whom was awarded the 1932 Nobel prize in physics for his work in the field of quantum mechanics.
     he’s most known for his discovery of the “Heisenberg uncertainty principle” which put simply, states that when measuring or observing an experiment, we are involuntarily influencing the results. So when we try to test an idea to take it from the theoretical to the practical realm we basically put it into a situation where a myriad of things will prevent it form achieving the prior foreseen outcome.

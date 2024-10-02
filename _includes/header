@@ -22,9 +22,11 @@
             <ul>
             {% assign typefaces = site.typefaces | sort:"date" %}
             {% for fontPage in typefaces %}
+                {% unless fontPage.draft %}
                 {% if fontPage != page %}
                     <li><a href="{{ fontPage.url}}">{{ fontPage.title }}</a></li>
                 {% endif %}
+                {% endunless %}
             {% endfor %}
             </ul>
         </nav>

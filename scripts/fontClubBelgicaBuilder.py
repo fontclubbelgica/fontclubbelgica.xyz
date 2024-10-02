@@ -1,7 +1,10 @@
 import ezui
 from fontTools.ttLib import TTFont
+from fontTools.fontBuilder import FontBuilder
 import base64
+import io
 from glyphNameFormatter import getRangeName
+
 
 fontFace_template = """@font-face {{
   font-family: "{fullName}";
@@ -9,15 +12,357 @@ fontFace_template = """@font-face {{
 }}
 """
 
-blockIgnores = [" ", "Basic", "Extended", "Supplement", "-A", "-B", "-1", "Additional", "General", "Supplemental", "Letterlike"]
-def getUnicodeBlock(unicode):
-    block = getRangeName(unicode)
+customRangeNames = {
+    ord("฿"): "Currency Symbols"
+}
+unicodesToIgnore = [ord(" "), 0xAD]
+unicodesToEscape = '"\\'
+
+ingoreFeatureTags = ["aalt", "kern", "locl"]
+
+featureTagNameMap = dict(
+  aalt="Access All Alternates",
+  abvf="Above-base Forms",
+  abvm="Above-base Mark Positioning",
+  abvs="Above-base Substitutions",
+  afrc="Alternative Fractions",
+  akhn="Akhand",
+  blwf="Below-base Forms",
+  blwm="Below-base Mark Positioning",
+  blws="Below-base Substitutions",
+  calt="Contextual Alternates",
+  case="Case-Sensitive Forms",
+  ccmp="Glyph Composition / Decomposition",
+  cfar="Conjunct Form After Ro",
+  chws="Contextual Half-width Spacing",
+  cjct="Conjunct Forms",
+  clig="Contextual Ligatures",
+  cpct="Centered CJK Punctuation",
+  cpsp="Capital Spacing",
+  cswh="Contextual Swash",
+  curs="Cursive Positioning",
+  cv01="Character Variants",
+  cv02="Character Variants",
+  cv03="Character Variants",
+  cv04="Character Variants",
+  cv05="Character Variants",
+  cv06="Character Variants",
+  cv07="Character Variants",
+  cv08="Character Variants",
+  cv09="Character Variants",
+  cv10="Character Variants",
+  cv11="Character Variants",
+  cv12="Character Variants",
+  cv13="Character Variants",
+  cv14="Character Variants",
+  cv15="Character Variants",
+  cv16="Character Variants",
+  cv17="Character Variants",
+  cv18="Character Variants",
+  cv19="Character Variants",
+  cv20="Character Variants",
+  cv21="Character Variants",
+  cv22="Character Variants",
+  cv23="Character Variants",
+  cv24="Character Variants",
+  cv25="Character Variants",
+  cv26="Character Variants",
+  cv27="Character Variants",
+  cv28="Character Variants",
+  cv29="Character Variants",
+  cv30="Character Variants",
+  cv31="Character Variants",
+  cv32="Character Variants",
+  cv33="Character Variants",
+  cv34="Character Variants",
+  cv35="Character Variants",
+  cv36="Character Variants",
+  cv37="Character Variants",
+  cv38="Character Variants",
+  cv39="Character Variants",
+  cv40="Character Variants",
+  cv41="Character Variants",
+  cv42="Character Variants",
+  cv43="Character Variants",
+  cv44="Character Variants",
+  cv45="Character Variants",
+  cv46="Character Variants",
+  cv47="Character Variants",
+  cv48="Character Variants",
+  cv49="Character Variants",
+  cv50="Character Variants",
+  cv51="Character Variants",
+  cv52="Character Variants",
+  cv53="Character Variants",
+  cv54="Character Variants",
+  cv55="Character Variants",
+  cv56="Character Variants",
+  cv57="Character Variants",
+  cv58="Character Variants",
+  cv59="Character Variants",
+  cv60="Character Variants",
+  cv61="Character Variants",
+  cv62="Character Variants",
+  cv63="Character Variants",
+  cv64="Character Variants",
+  cv65="Character Variants",
+  cv66="Character Variants",
+  cv67="Character Variants",
+  cv68="Character Variants",
+  cv69="Character Variants",
+  cv70="Character Variants",
+  cv71="Character Variants",
+  cv72="Character Variants",
+  cv73="Character Variants",
+  cv74="Character Variants",
+  cv75="Character Variants",
+  cv76="Character Variants",
+  cv77="Character Variants",
+  cv78="Character Variants",
+  cv79="Character Variants",
+  cv80="Character Variants",
+  cv81="Character Variants",
+  cv82="Character Variants",
+  cv83="Character Variants",
+  cv84="Character Variants",
+  cv85="Character Variants",
+  cv86="Character Variants",
+  cv87="Character Variants",
+  cv88="Character Variants",
+  cv89="Character Variants",
+  cv90="Character Variants",
+  cv91="Character Variants",
+  cv92="Character Variants",
+  cv93="Character Variants",
+  cv94="Character Variants",
+  cv95="Character Variants",
+  cv96="Character Variants",
+  cv97="Character Variants",
+  cv98="Character Variants",
+  cv99="Character Variants",
+  c2pc="Petite Capitals From Capitals",
+  c2sc="Small Capitals From Capitals",
+  dist="Distances",
+  dlig="Discretionary Ligatures",
+  dnom="Denominators",
+  dtls="Dotless Forms",
+  expt="Expert Forms",
+  falt="Final Glyph on Line Alternates",
+  fin2="Terminal Forms #2",
+  fin3="Terminal Forms #3",
+  fina="Terminal Forms",
+  flac="Flattened accent forms",
+  frac="Fractions",
+  fwid="Full Widths",
+  half="Half Forms",
+  haln="Halant Forms",
+  halt="Alternate Half Widths",
+  hist="Historical Forms",
+  hkna="Horizontal Kana Alternates",
+  hlig="Historical Ligatures",
+  hngl="Hangul",
+  hojo="Hojo Kanji Forms (JIS X 0212-1990 Kanji Forms)",
+  hwid="Half Widths",
+  init="Initial Forms",
+  isol="Isolated Forms",
+  ital="Italics",
+  jalt="Justification Alternates",
+  jp78="JIS78 Forms",
+  jp83="JIS83 Forms",
+  jp90="JIS90 Forms",
+  jp04="JIS2004 Forms",
+  kern="Kerning",
+  lfbd="Left Bounds",
+  liga="Standard Ligatures",
+  ljmo="Leading Jamo Forms",
+  lnum="Lining Figures",
+  locl="Localized Forms",
+  ltra="Left-to-right alternates",
+  ltrm="Left-to-right mirrored forms",
+  mark="Mark Positioning",
+  med2="Medial Forms #2",
+  medi="Medial Forms",
+  mgrk="Mathematical Greek",
+  mkmk="Mark to Mark Positioning",
+  mset="Mark Positioning via Substitution",
+  nalt="Alternate Annotation Forms",
+  nlck="NLC Kanji Forms",
+  nukt="Nukta Forms",
+  numr="Numerators",
+  onum="Oldstyle Figures",
+  opbd="Optical Bounds",
+  ordn="Ordinals",
+  ornm="Ornaments",
+  palt="Proportional Alternate Widths",
+  pcap="Petite Capitals",
+  pkna="Proportional Kana",
+  pnum="Proportional Figures",
+  pref="Pre-Base Forms",
+  pres="Pre-base Substitutions",
+  pstf="Post-base Forms",
+  psts="Post-base Substitutions",
+  pwid="Proportional Widths",
+  qwid="Quarter Widths",
+  rand="Randomize",
+  rclt="Required Contextual Alternates",
+  rkrf="Rakar Forms",
+  rlig="Required Ligatures",
+  rphf="Reph Forms",
+  rtbd="Right Bounds",
+  rtla="Right-to-left alternates",
+  rtlm="Right-to-left mirrored forms",
+  ruby="Ruby Notation Forms",
+  rvrn="Required Variation Alternates",
+  salt="Stylistic Alternates",
+  sinf="Scientific Inferiors",
+  size="Optical size",
+  smcp="Small Capitals",
+  smpl="Simplified Forms",
+  ss01="Stylistic Set 1",
+  ss02="Stylistic Set 2",
+  ss03="Stylistic Set 3",
+  ss04="Stylistic Set 4",
+  ss05="Stylistic Set 5",
+  ss06="Stylistic Set 6",
+  ss07="Stylistic Set 7",
+  ss08="Stylistic Set 8",
+  ss09="Stylistic Set 9",
+  ss10="Stylistic Set 10",
+  ss11="Stylistic Set 11",
+  ss12="Stylistic Set 12",
+  ss13="Stylistic Set 13",
+  ss14="Stylistic Set 14",
+  ss15="Stylistic Set 15",
+  ss16="Stylistic Set 16",
+  ss17="Stylistic Set 17",
+  ss18="Stylistic Set 18",
+  ss19="Stylistic Set 19",
+  ss20="Stylistic Set 20",
+  ssty="Math script style alternates",
+  stch="Stretching Glyph Decomposition",
+  subs="Subscript",
+  sups="Superscript",
+  swsh="Swash",
+  titl="Titling",
+  tjmo="Trailing Jamo Forms",
+  tnam="Traditional Name Forms",
+  tnum="Tabular Figures",
+  trad="Traditional Forms",
+  twid="Third Widths",
+  unic="Unicase",
+  valt="Alternate Vertical Metrics",
+  vatu="Vattu Variants",
+  vchw="Vertical Contextual Half-width Spacing",
+  vert="Vertical Writing",
+  vhal="Alternate Vertical Half Metrics",
+  vjmo="Vowel Jamo Forms",
+  vkna="Vertical Kana Alternates",
+  vkrn="Vertical Kerning",
+  vpal="Proportional Alternate Vertical Metrics",
+  vrt2="Vertical Alternates and Rotation",
+  vrtr="Vertical Alternates for Rotation",
+  zero="Slashed Zero",
+)
+
+def getFeatureDataForTable(font, tableTag):
+    name = font["name"]
+    table = font[tableTag]
+    cmap = font["cmap"].buildReversed()
+    data = {}
+    if table is None:
+        return data
     
-    for ignore in blockIgnores:
-        block = block.replace(ignore, "")
-    return block
+    for record in table.table.FeatureList.FeatureRecord:
+        data[record.FeatureTag] = entry = dict(unicodes=set())
+        
+        params = record.Feature.FeatureParams
+        if params:
+            entry["stylisticName"] = name.getDebugName(params.UINameID)
+        else:
+            entry["stylisticName"] = featureTagNameMap.get(record.FeatureTag, record.FeatureTag)
+        
+        lookup = table.table.LookupList.Lookup
+        
+        for lookupIndex in record.Feature.LookupListIndex:
+            for subTable in lookup[lookupIndex].SubTable:
+                if subTable.LookupType == 1:
+                    for key, value in subTable.mapping.items():
+                        for unicode in cmap.get(key, set()):                            
+                            entry["unicodes"].add(unicode)
+                elif subTable.LookupType == 3:
+                    for key, values in subTable.alternates.items():
+                        for unicode in cmap.get(key, set()):
+                            entry["unicodes"].add(unicode)
+
+
+    return data
+
+def getFeatureData(font):
+    return {**getFeatureDataForTable(font, "GSUB"), **getFeatureDataForTable(font, "GPOS")}
     
     
+def getUnicodeFeatureTag(font):
+    mapping = {}
+    featureData = getFeatureData(font)
+    for tag, data in featureData.items():
+        for unicode in data.get("unicodes", list()):
+            if unicode not in mapping:
+                mapping[unicode] =  list()
+            mapping[unicode].append(tag)
+    return mapping
+
+    
+def getUnicodeBlock(unicode):    
+    return customRangeNames.get(unicode, getRangeName(unicode))
+
+
+def buildWebfont(font):
+    fullName = font["name"].getBestFullName()
+    builder = FontBuilder(font=font)
+
+    builder.setupNameTable(dict(
+        familyName=f"WEBFONT ONLY {fullName}",
+        styleName="Buy on fontClubBelgica.be",
+        fullName=f"WEBFONT ONLY {fullName} Buy on fontClubBelgica.be",
+        wwsFamilyName=f"WEBFONT ONLY {fullName}",
+        wwsSubfamilyName="Buy on fontClubBelgica.be",
+    ))
+
+    data = io.BytesIO()
+
+    font.flavor = "woff2"
+    font.save(data)
+
+    return data.getvalue()
+
+class Writer:
+    
+    def __init__(self, indent="   "):
+        self.data = []
+        self.indentText = indent
+        self.indentLevel = 0        
+    
+    def get(self):
+        return "\n".join(self.data)
+    
+    def __add__(self, txt):
+        self.write(txt)
+        return self
+        
+    def write(self, txt):
+        self.data.append(self.indentText * self.indentLevel + txt)
+    
+    def newLine(self):
+        self.data.append("")
+        
+    def indent(self):
+        self.indentLevel += 1
+    
+    def dedent(self):
+        self.indentLevel -= 1
+        
+        
+
 class Controller(ezui.WindowController):
 
     def build(self):
@@ -27,8 +372,7 @@ class Controller(ezui.WindowController):
         
         = HorizontalStack
         > ( /@font-face ) @buildFontFace
-        > ( Styles ) @buildStyles
-        > ( Glyph Count ) @buildGlyphCount
+        > ( Opentype Features ) @buildOpentypeFeatures
         > ( Character set ) @buildCharacterSet
         """
         descriptionData = dict(
@@ -39,11 +383,11 @@ class Controller(ezui.WindowController):
                 )
             ),
             fontFiles=dict(
-                height=200,
+                height="auto",
                 itemType="dict",
                 acceptedDropFileTypes=[".woff", ".woff2", ".ttf", ".otf"],
-                allowsDropBetweenRows=False,
-                allowsInternalDropReordering=False,
+                allowsDropBetweenRows=True,
+                allowsInternalDropReordering=True,
                 showColumnTitles=True,
                 enableDelete=True,
                 columnDescriptions=[
@@ -61,7 +405,8 @@ class Controller(ezui.WindowController):
             title="🔡 🏆 🇧🇪",
             content=content,
             descriptionData=descriptionData,
-            size=(400, "auto"),
+            size=(400, 500),
+            minSize=(400, 500),
             controller=self
         )
     
@@ -92,53 +437,96 @@ class Controller(ezui.WindowController):
         sender.removeSelection()
                 
     def buildFontFaceCallback(self, sender):
-        fontfaces = []
+        out = Writer()        
         for font, path in self.fonts():
             fullName = font["name"].getBestFullName()
-            with open(path, "rb") as file:
-                fontData = base64.b64encode(file.read()).decode()
-            fontfaces.append(fontFace_template.format(fullName=fullName, fontData=fontData))
-        print("\n\n".join(fontfaces))
-        self.write("\n\n".join(fontfaces))
+            fontData = base64.b64encode(buildWebfont(font)).decode()
+            
+            out.write(fontFace_template.format(fullName=fullName, fontData=fontData))
+            out.newLine()
+        self.write(out.get())
     
-    def buildStylesCallback(self, sender):
-        styles = []        
-        for font, path in self.fonts():
-            fullName = font["name"].getBestFullName()            
-            styles.append(fullName)        
-        self.write(f"  - { '\n  - '.join(styles)}")    
-    
-    def buildGlyphCountCallback(self, sender):
-        count = []
-        for font, path in self.fonts():
-            fullName = font["name"].getBestFullName()            
-            count.append(f"{fullName}: {len(font.getGlyphOrder())}")
-        self.write("\n".join(count))
-    
+    def buildOpentypeFeaturesCallback(self, sender):
+        data = {}
+        for font, path in self.fonts():   
+            fullName = font["name"].getBestFullName()
+            featureData = getFeatureData(font)
+            for tag, info in featureData.items():
+                if tag not in data:
+                    data[tag] = dict(stylisticName=info["stylisticName"], examples=set(), styles=[])
+                data[tag]["examples"] |= info["unicodes"]
+                data[tag]["styles"].append(fullName)
+                
+        out = Writer() 
+        out += "openTypeFeatures:"              
+        out.indent()
+        for tag, info in data.items():
+            if not info["examples"]:
+                continue
+            if tag in ingoreFeatureTags:
+                continue
+            out += f"- {tag}:"
+            out.indent()
+            out += f" name: {info['stylisticName']}"    
+            out += f" fontStyle: {info['styles'][0]}"
+            out += f" examples:"
+            out.indent()
+            examples = []        
+            for uni in sorted(info['examples']):
+                t = chr(uni)
+                if t in unicodesToEscape:
+                    t = f'\\{t}'
+                examples.append(t)        
+            out += f"- \"{''.join(examples)}\""
+            out.dedent()
+            out.dedent()
+        out.dedent()
+        self.write(out.get())
+        
     def buildCharacterSetCallback(self, sender):
-        ignoreUnicodes = [ord(" ")]
-        unicodes = {}
-        for font, path in self.fonts():
+        out = Writer()
+        out += "styles:"
+        out.indent()
+        for font, path in self.fonts():     
+            unicodeFeatureTagMap = getUnicodeFeatureTag(font)
+            
+            out += f"- {font["name"].getBestFullName()}:"
+            out.indent()
+            out += f"  glyphCount: {len(font.getGlyphOrder())}"
+            out += f"  fastspring: {font["name"].getBestFullName().replace(" ", "_")}"
+            
+            unicodes = {}
+            
             for unicode in font.getBestCmap():
-                if unicode in ignoreUnicodes:
+                if unicode in unicodesToIgnore:
                     continue
                 block = getUnicodeBlock(unicode)
                 if block not in unicodes:
                     unicodes[block] = []
-                unicodes[block].append(unicode)
-                    
-        out = "characterSets:\n"                
-        for block, unicodes in unicodes.items():
-            text = []
-            for unicode in unicodes:
-                t = chr(unicode) 
-                if len(t.strip()) == 0:
-                    continue
-                if t == '"':
-                    t = '\\"'
-                text.append(t)
-            out += f"   - {block}: \"{' '.join(text)}\"\n"        
-        self.write(out)
+                if unicode not in unicodes[block]:
+                    unicodes[block].append(unicode)
+            
+            out +=  "  characterset:"                    
+            out.indent()   
+            for block, unicodes in unicodes.items():                
+                text = []
+                for unicode in unicodes:
+                    t = chr(unicode) 
+                    if len(t.strip()) == 0:
+                        continue
+                    if t in unicodesToEscape:
+                        t = f'\\{t}'
+                    text.append(t)
+                    if unicode in unicodeFeatureTagMap:
+                        for featureTag in unicodeFeatureTagMap[unicode]:
+                            text.append(f"{t}-{featureTag}")
+                text =  ' '.join(text).strip()
+                if text:                
+                    out += f"  {block}: \"{text}\""
+            out.dedent()
+            out.dedent()
+        out.dedent()     
+        self.write(out.get())
 
         
 Controller()    

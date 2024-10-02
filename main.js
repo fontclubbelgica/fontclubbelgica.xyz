@@ -23,20 +23,26 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	// font tester
 
-	const control_select_font = document.querySelectorAll('.select-font select');
+	const control_select_font = document.querySelectorAll('.select-font select')
 
 	function apply_control_select_font(element) {
 		preview = element.parentElement.parentElement.nextElementSibling;
-		preview.style.fontFamily = element.value + ", 'AdobeBlank'"
-
-		preview.querySelectorAll(".glyph-preview").forEach((glyphElement) => {
-			glyphElement.parentElement.style.display = "block"
-			width = glyphElement.clientWidth
-			if ( width == 0 ) {
-				glyphElement.parentElement.style.display = "none"
+		if ( preview.classList.contains("characterSets-viewer") ) {
+			for (var i = 0; i < preview.children.length; i++) {
+				subitem = preview.children[i]
+				if ( subitem.style.fontFamily.slice(1, -1) == element.value ) {
+					subitem.style.display = "flex"
+				}
+				else {
+					subitem.style.display = "none"
+				}
 			}
-		})
+		}
+		else {
+			preview.style.fontFamily = element.value + ", 'AdobeBlank'"
+		}
 	}
+
 
 	control_select_font.forEach((element)=> {
 		element.addEventListener("change", (event) => {
@@ -45,12 +51,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_font(element)
 	})
 
-	// update after all fonts are loaded
-	document.fonts.ready.then(function () {
-		control_select_font.forEach((element)=> {
-			apply_control_select_font(element)
-		})
-	})
 
 	const control_select_feature = document.querySelectorAll('.select-feature form');
 
@@ -97,28 +97,79 @@ document.addEventListener('DOMContentLoaded', function() {
 		preview.style.fontSize = element.value + 'px'
 	};
 
-	control_select_size.forEach((element)=> {
+	control_select_size.forEach((element) => {
 		element.addEventListener("input", (event) => {
 			apply_control_select_size(element)
 		})
 		apply_control_select_size(element)
-	});
+	})
 
+	// characeterset popup
+
+	document.querySelectorAll('.glyph').forEach((element) => {
+		element.addEventListener("mouseenter", (event) => {
+			character = element.innerText
+
+			container = document.createElement("div")
+			container.classList.add("glyph-popup")
+
+			e = document.createElement("div")
+			e.classList.add("glyph-popup-top")
+			e.textContent = character
+			if ( element.style.fontFeatureSettings ) {
+				featureTag = document.createElement("span")
+				featureTag.classList.add("glyph-popup-top-feature")
+				featureTag.textContent = element.style.fontFeatureSettings.slice(1, -1)
+				e.appendChild(featureTag)
+			}
+			container.appendChild(e)
+
+			e = document.createElement("div")
+			e.classList.add("letter")
+			e.textContent = character
+			container.appendChild(e)
+
+			e = document.createElement("div")
+			e.classList.add("all")
+
+			value = document.createElement("div")
+			value.textContent = "Decimal Value: " + character.charCodeAt(0).toString()
+			e.appendChild(value)
+
+			value = document.createElement("div")
+			value.textContent = "UTF-8 HEX Value: " + character.charCodeAt(0).toString(16).toUpperCase()
+			e.appendChild(value)
+
+			container.appendChild(e)
+
+			element.appendChild(container)
+		})
+		element.addEventListener("mouseleave", (event) => {
+			container = element.lastElementChild
+			if ( container.classList.contains("glyph-popup") ) {
+				element.removeChild(container)
+			}
+		})
+	})
 	// showcase
 
 	const zonecontainer = document.querySelector('#zones')
     const zonefontname = document.querySelector('#zone-fontname')
     const zones = document.querySelectorAll('.zone')
+
     if (zonecontainer) {
-	    zonecontainer.addEventListener("mousemove", (event) => {
-	        let factorY = event.offsetY / event.target.offsetHeight
-	        let index = Math.round(factorY * font_styles.length)
-	        if (index < 0) {index = 0}
-	        if (index >= font_styles.length) {index = font_styles.length -1}
-	        zonecontainer.style.fontFamily = font_styles[index]
-	        zonefontname.textContent = font_styles[index]
-	    })
+    	currentZoneIndex = 0
+	    function zoneInterval() {
+	    	zonecontainer.style.fontFamily = font_styles[currentZoneIndex]
+		       zonefontname.textContent = font_styles[currentZoneIndex]
+	    	currentZoneIndex = currentZoneIndex + 1
+	    	if ( currentZoneIndex >= font_styles.length ) {
+	    		currentZoneIndex = 0
+	    	}
+	    }
+	    setInterval(zoneInterval, 1000)
 	}
+
 
     // library overview
 
