@@ -11,6 +11,7 @@
         {% endif %}
         {% assign typefaces = typefaces | sort:"date" %}
         {% for typeface in typefaces %}
+        {% unless typeface.draft %}
         <div class="preview-font">
             <a href="{{ typeface.url }}">
                 <div class="stack stack-{{ typeface.library_preview | size }}">
@@ -24,6 +25,7 @@
                 </div>
             </a>
         </div>
+        {% endunless %}
         {% endfor %}
     </div>
     {% if include.fontcount %}

@@ -306,6 +306,6 @@ for unicode in font.getBestCmap():
         ranges[rangeName] = []
     ranges[rangeName].append(text)
     
-print(ranges)
+#print(ranges)
 
 print(featureData)
