@@ -1,0 +1,77 @@
+/* css for FC Pep */
+
+@font-face {
+  font-family: "FC Pep Shapes Black";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Shapes Classic";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Shapes Cold";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Shapes Grey";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+
+@font-face {
+  font-family: "FC Pep Shapes Hot";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Shapes Pastel";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Shapes RGB";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Solid Black";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Solid Classic";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Solid Cold";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Solid Grey";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+
+@font-face {
+  font-family: "FC Pep Solid Hot";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Solid Pastel";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+@font-face {
+  font-family: "FC Pep Solid RGB";
+  src: url(data:font/woff;base64, INSERT HEX CODE), format('woff2');
+}
+
+body {
+    background: #ffffff;
+}
