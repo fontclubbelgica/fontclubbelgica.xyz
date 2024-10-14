@@ -323,7 +323,7 @@ testers:
       fontSize: 120
 
 about:
-    - image: PDU_Animatie.svg
+    - image: pdu_animated.svg
       caption: All glyphs of PDU adhere to the limits of the original stencil.
 
       text: |
