@@ -228,52 +228,77 @@ Utilizzando l'antitesi, gli artisti creano una tensione dinamica che attira l'at
       fontStyle: FC Nib Black Italic
       fontSize: 70
 
+
+
+
+
+
 about:
-    - image: FCB_Nib_Article_1.svg
-      caption: The six geometric elements
-
       text: |
-        Although originally Nib was triggered by a stone carving Dries Wiewauters spotted in Denmark, the final family is a blend of multiple influences. Initially developed for the MSK — the Museum of Fine Arts in Ghent, Belgium — in close collaboration with Ruud Ruttens, the head of their design department, Nib is now available for licensing.
+## Nib: A Typeface of Duality and Craftsmanship
+Nib from Font Club Belgica captures the essence of duality, much like the classic literary figure Dr. Jekyll and Mr. Hyde. It presents two distinct faces: one that is sharp and controlled, influenced by the precise, angular forms of chiseled type, and another that is fluid and human, evoking the warmth of pen-drawn lettering. In larger sizes, Nib’s angular, chiseled features dominate, offering a sharp, irregular look. However, in smaller text settings, its calligraphic roots emerge, adding subtle warmth and approachability.
 
-    - image: FCB_Nib_Article_2.svg
-      caption: The six elements combined
+This duality gives Nib a versatility that few typefaces achieve. It bridges two different traditions: the monumental precision of stone-carved letters and the organic, expressive qualities of hand-drawn type. Nib balances these extremes, making it adaptable for both impactful display work and more intimate, readable text.
 
-      text: |
-        Both the serifs and idiosyncratic overhanging forms such as the «f», «j» and «y» give it an elegant, yet eccentric quality. There are multiple different gestures occurring, some based on calligraphy, others from stone-carving, which together create a symbiosis that balances many opposite qualities. Nib strives to be both friendly and aggressive in the same moment, thus allowing it to be molded and applied to a wide range of contexts.
-Nib is available in six weights — Light, Regular, Semibold, Bold, ExtraBold and Black — with corresponding italics. It is open to licensing in both Standard (‘STD’) and Professional (‘PRO’) versions. The latter contains additional OpenType features, stylistic alternates, and symbols.
+Dries Wiewauters has created a typeface that thrives in the space between control and expression. Nib’s fusion of chisel and pen influences offers designers the flexibility to navigate a wide range of visual contexts, creating a typeface that is both contemporary and deeply rooted in typographic tradition. Depending on how it is used Nib can be either friendly or reserved, modern or classical, expressive or restrained, …
+
+
+
+
 
 research: |
-    ## ABC Con Fantasia"
+    ## Introducing Nib: A Study in Duality
+There is a certain tension within every typeface, a push and pull between form and function, history and innovation, precision and expression. Nib embodies this tension more than most. Like the dual nature of Dr. Jekyll and Mr. Hyde, Nib exists in a state of duality—seamlessly blending seemingly opposing design forces. It is both disciplined and free, chiseled and hand-drawn, restrained yet full of character.
 
-    "ABC Con Fantasia" (translated as "ABC with Imagination") is an innovative children's book by the renowned Italian artist, designer, and writer Bruno Munari. First published in 1960, the book offers a playful and creative approach to learning the alphabet. Munari's work is celebrated for breaking traditional boundaries, and this book is no exception—turning the seemingly simple task of teaching letters into a whimsical and artistic adventure. It emphasizes imagination, visual creativity, and language play, making it stand out in the world of early childhood education.
+This duality isn’t accidental. At the heart of Nib’s design is a dialogue between two distinct traditions: the sharp, sculptural quality of chiseled forms and the fluid, humanistic movement of letters drawn by hand with a pen. By marrying these opposing aesthetics, Nib captures a sense of controlled spontaneity—a typeface that wears two faces, each revealing a different aspect of its character depending on its application.
 
     ![](FCB_Nib_Research_1.svg){: style="width: 60%;"}
+Recreate Danish Plaque / poster
 
-    A Journey Beyond the Alphabet: Unlike conventional alphabet books that focus strictly on teaching children letters and their corresponding sounds, "ABC Con Fantasia" adds an imaginative twist to the process. Munari's approach invites readers to view the alphabet not just as a set of letters to memorize but as an open door to creativity. Each letter is illustrated in a way that encourages children to imagine its possibilities. For example, letters might be transformed into playful shapes or objects that spark the reader’s curiosity and imagination.
+# Jekyll and Hyde: The Dual Nature of Nib
+The duality of Dr. Jekyll and Mr. Hyde, Robert Louis Stevenson’s timeless tale of a man split between two personas, provides a fitting metaphor for Nib. Just as Jekyll represents the restrained, moral side, and Hyde embodies the raw, unbridled self, Nib offers a split personality: the sharp, mechanical precision of a chisel meeting the fluidity and warmth of the pen. One would assume this to be a a constructed marriage, but it was actually found on a chiseled poem in a quaint Danish church. 
 
-    ![](FCB_Nib_Research_2.svg){: style="width: 60%;"}
+In large display settings, Nib’s chiseled characteristics dominate. The letterforms exhibit sharp, angular cuts, as if they’ve been meticulously carved into stone or metal. The crisp, hard edges of the terminals, the straight lines of the stems, and the tightly defined curves speak to a sense of deliberate craftsmanship. This is Nib’s Jekyll—calm, disciplined, and refined.
 
-    This creative handling of letters brings the alphabet to life. A simple "A" could be turned into an apple tree or a ladder, while a "B" might become a butterfly in Munari's world. By associating each letter with imaginative drawings and scenarios, Munari encourages children to think beyond the typical associations and to develop a sense of wonder about letters and language.
+But just beneath this carefully controlled exterior, there’s another side to Nib. Depending on it’s usage, the influence of the pen comes into focus. The subtleties of human touch become more apparent, the slight tapering of strokes, the hint of calligraphic influence in the curves and terminals. This is Nib’s Hyde—more organic, expressive, and free-spirited, revealing a hand-drawn quality that adds warmth and approachability to the design.
 
-    Munari's Design Philosophy: Bruno Munari, as both an artist and a designer, had a deep understanding of how visuals and text work together. In "ABC Con Fantasia," his minimalist but expressive style is apparent. He uses simple yet effective illustrations that appeal to children's innate sense of play. Munari believed that learning should be a creative process and that the best way to engage children’s attention is through surprise and discovery.
+This duality makes Nib a typeface of remarkable versatility. In smaller sizes, it asserts itself with authority, while in larger text settings, it softens, allowing its more human qualities to come forward. Like Jekyll and Hyde, Nib is a typeface that can change its personality to suit the needs of the moment.
 
-    ![](FCB_Nib_Research_3.svg){: style="width: 60%;"}
+    ![](FCB_Nib_Research_1.svg){: style="width: 60%;"}
+Show bigger glyphs, focus on details
 
-    In fact, Munari’s broader philosophy of design is rooted in the idea of using play to teach fundamental concepts. He often blurred the lines between education, art, and play, and this book is a perfect reflection of his desire to make learning engaging and joyful. Munari wanted children to actively participate in the learning process, fostering their curiosity and encouraging them to come up with their own interpretations of the letters and images.
+# The Fusion of Chisel and Pen
+To fully appreciate Nib’s design, we must explore the two traditions it draws from: the chiseled forms of stone and metal engraving, and the fluidity of letters drawn with a pen.
 
-    Educational Value: The value of "ABC Con Fantasia" goes beyond simply teaching letters. It nurtures children’s cognitive development by encouraging them to think creatively, use their imaginations, and recognize patterns. It also introduces them to the concept of symbols and how they can represent different ideas or objects. In this way, the book serves not just as an alphabet primer but also as a tool for stimulating early critical thinking skills.
+Chiseled type has its origins in the monumental inscriptions of ancient Rome, where letters were carved into stone with precision and permanence. These letterforms were all about clarity and strength, their sharp lines and strong contrasts designed to endure and be easily read from a distance. Over time, the aesthetic of chiseled type evolved, finding its way into the world of printing, where it continued to convey authority and refinement.
 
-    ![](FCB_Nib_Research_4.svg){: style="width: 60%;"}
+On the other hand, pen-drawn type belongs to a more personal, intimate tradition. The letters produced by the hand-held pen are alive with movement and variation, each stroke influenced by the speed and angle of the hand. This calligraphic heritage brings a sense of warmth and imperfection to type, a reminder that letters are not just shapes, but gestures made by human hands.
 
-    For parents and educators, this book offers a unique way to connect with children and engage them in discussions about language, art, and interpretation. It’s the kind of book that encourages children to ask questions like, “What else could this letter be?” or “What do you see when you look at this drawing?” These questions help develop language skills, as well as visual literacy, which is a key part of modern education.
+In Nib, these two traditions coexist in a state of dynamic tension. The chiseled influence is seen in the sharp, clean cuts of the terminals and the angular serifs, while the pointed nib pen reveals itself in the gentle modulations of stroke weight and the fluidity of certain curves. This synthesis of the geometric and the gestural gives Nib a distinctive voice—structured yet approachable, formal yet human.
 
-    Legacy and Influence: Bruno Munari’s influence on children’s literature and design is profound, and "ABC Con Fantasia" remains a cherished work in his repertoire. The book has been praised for its ability to balance simplicity with complexity, appealing to both children and adults. It’s also a reflection of Munari’s broader contributions to modern art, where his work continues to inspire designers, educators, and artists alike.
+    ![](FCB_Nib_Research_1.svg){: style="width: 60%;"}
+Show juxtaposition of text and headline and how these affect the forms
+
+# A Typeface for the Modern Age
+Nib’s ability to navigate between these two extremes makes it uniquely suited for the demands of contemporary design. In today’s world, where the digital and the handmade often overlap, Nib finds itself perfectly at home. Its chiseled precision lends it an air of authority, making it ideal for editorial headlines, branding, and signage where clarity and impact are paramount. Yet its subtle pen-like qualities ensure that it never feels cold or mechanical, making it equally effective in text-heavy settings where readability and warmth are essential.
+
+This is where Nib’s duality becomes its greatest strength. Like the split personality of Jekyll and Hyde, Nib has the ability to change its character depending on the typesetters intend. In one moment, it can be sharp and commanding, in another, soft and inviting. This flexibility gives designers a powerful tool for navigating the diverse visual landscapes of today’s media.
 
     ![](FCB_Nib_Research_5.svg){: style="width: 60%;"}
+Poster MSK Goya exhibition
 
-    Today, "ABC Con Fantasia" is still a relevant and valuable resource for anyone interested in creative pedagogy. Its playful approach to learning the alphabet has influenced many subsequent children’s books that aim to integrate creativity into education, and Munari’s legacy as a pioneer in visual storytelling for children endures.
+# Duality as a Design Principle
+The duality at the heart of Nib reflects a broader design principle that resonates deeply in the world of typography: the balance between control and expression. Great typefaces often walk this line, offering both precision and personality, structure and freedom. Nib exemplifies this balance, inviting us to consider how these opposing forces can come together to create something greater than the sum of its parts.
 
-    Conclusion: "ABC Con Fantasia" by Bruno Munari is more than an alphabet book—it is an exploration of imagination and creativity. Munari’s playful and artistic approach to learning turns the ABCs into a world of possibilities, encouraging children to think differently about language and symbols. Through its timeless illustrations and inventive take on the alphabet, this book continues to captivate readers and serves as a testament to Munari’s belief that education should be as imaginative as it is informative.
+In this sense, Nib is not just a typeface—it is a study in the power of contrasts. It reminds us that even in design, where clarity and function are key, there is room for subtlety and nuance. The sharp can coexist with the soft, the mechanical with the human, the chiseled with the pen-drawn. This is the essence of Nib’s design, and what makes it a typeface that stands out in an increasingly homogenous typographic landscape.
+
+This duality was the brief during its development, as it was originally developed as a custom typeface for the MSK, the Museum of Fine Arts in Ghent, Belgium. After their period of exclusivity, the privilege of using it has now been opened up for the masses.
+
+# Nib: A Typeface for Both Sides of the Coin
+In Nib, Dries Wiewauters has created a typeface that speaks to both sides of the design coin. Like Jekyll and Hyde, Nib lives in two worlds at once, its chiseled structure providing strength and clarity, while its pen-drawn elements offer warmth and humanity. This duality allows Nib to transcend the limitations of style, making it a typeface that is as versatile as it is distinctive.
+
+Whether used for a bold, impactful headline or a long block of text, Nib brings with it a unique blend of precision and expression, modernity and tradition. It is a typeface for the present moment, grounded in history yet looking forward, embodying the balance that lies at the heart of great design.
+
 
 library_preview:
     - FCB Library Nib_1.svg
