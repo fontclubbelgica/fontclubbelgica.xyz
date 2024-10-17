@@ -248,9 +248,6 @@ Tento typ argumentácie je nebezpečný, pretože zjednodušuje zložitosti a nu
       fontSize: 40
 
 about:
-    - image: FCB_Cru_Article_1.svg
-      caption: The six geometric elements
-
       text: |
 ## Behind Cru: An Exploration of Form and History
 
@@ -258,8 +255,8 @@ Every typeface has its roots in history, even those designed with a forward-thin
 
 To understand Cru fully, we must first step back and trace its influences, one of which lies in an unlikely place: Poplar, a display typeface designed by Barbara Lind in 1990 for Adobe, which in turn is based on a classic 19th-century American woodtype. Poplar’s bold, slab-like forms, while designed for maximum visual impact, retain a sense of historical reference, calling back to the robust, tactile nature of woodtype.
 
-    - image: FCB_Cru_Article_1.svg
-      caption: Leavenworth
+    - image: FCB_Research_Cru_1.jpg
+      caption: Leavenworth: Sixteen and Twelve Lines Condensed Gothic
 
 # The Woodtype Connection
 Woodtype emerged in the 19th century, a direct response to the need for large-scale letters in poster design, advertising, and signage. Metal type, limited by its material constraints, couldn’t support the size or durability needed for booming print requirements. Enter woodtype: lighter, cheaper, and capable of achieving much larger letterforms.
