@@ -252,47 +252,55 @@ about:
       caption: The six geometric elements
 
       text: |
-        Although originally Cru was triggered by a stone carving Dries Wiewauters spotted in Denmark, the final family is a blend of multiple influences. Initially developed for the MSK — the Museum of Fine Arts in Ghent, Belgium — in close collaboration with Ruud Ruttens, the head of their design department, Cru is now available for licensing.
+## Behind Cru: An Exploration of Form and History
 
-    - image: FCB_Cru_Article_2.svg
-      caption: The six elements combined
+Every typeface has its roots in history, even those designed with a forward-thinking sensibility. Cru, is no exception. At first glance, Cru is a modernist statement: its geometric precision and controlled proportions speak to the digital age. However, just beneath its surface lies a more layered dialogue—a synthesis of the past and present, drawing inspiration from historic woodtype and reinterpreting it for contemporary contexts.
 
-      text: |
-        Both the serifs and idiosyncratic overhanging forms such as the «f», «j» and «y» give it an elegant, yet eccentric quality. There are multiple different gestures occurring, some based on calligraphy, others from stone-carving, which together create a symbiosis that balances many opposite qualities. Cru strives to be both friendly and aggressive in the same moment, thus allowing it to be molded and applied to a wide range of contexts.
-Cru is available in six weights — Light, Regular, Semibold, Bold, ExtraBold and Black — with corresponding italics. It is open to licensing in both Standard (‘STD’) and Professional (‘PRO’) versions. The latter contains additional OpenType features, stylistic alternates, and symbols.
+To understand Cru fully, we must first step back and trace its influences, one of which lies in an unlikely place: Poplar, a display typeface designed by Barbara Lind in 1990 for Adobe, which in turn is based on a classic 19th-century American woodtype. Poplar’s bold, slab-like forms, while designed for maximum visual impact, retain a sense of historical reference, calling back to the robust, tactile nature of woodtype.
 
-research: |
-    ## ABC Con Fantasia"
+    - image: FCB_Cru_Article_1.svg
+      caption: Leavenworth
 
-    "ABC Con Fantasia" (translated as "ABC with Imagination") is an innovative children's book by the renowned Italian artist, designer, and writer Bruno Munari. First published in 1960, the book offers a playful and creative approach to learning the alphabet. Munari's work is celebrated for breaking traditional boundaries, and this book is no exception—turning the seemingly simple task of teaching letters into a whimsical and artistic adventure. It emphasizes imagination, visual creativity, and language play, making it stand out in the world of early childhood education.
+# The Woodtype Connection
+Woodtype emerged in the 19th century, a direct response to the need for large-scale letters in poster design, advertising, and signage. Metal type, limited by its material constraints, couldn’t support the size or durability needed for booming print requirements. Enter woodtype: lighter, cheaper, and capable of achieving much larger letterforms.
 
-    ![](FCB_Cru_Research_1.svg){: style="width: 60%;"}
+The typefaces of this era were often unapologetically loud, crafted to seize attention from busy city streets. Leavenworth, one of the oldest producers of woodtype in the United States, developed many of the iconic styles we now associate with the aesthetic of the period, including the wide, square-proportioned forms that Poplar draws from. Poplar’s exaggerated stroke contrast, extended serifs, and condensed letterforms encapsulate the bold, brash energy of its wooden ancestors.
 
-    A Journey Beyond the Alphabet: Unlike conventional alphabet books that focus strictly on teaching children letters and their corresponding sounds, "ABC Con Fantasia" adds an imaginative twist to the process. Munari's approach invites readers to view the alphabet not just as a set of letters to memorize but as an open door to creativity. Each letter is illustrated in a way that encourages children to imagine its possibilities. For example, letters might be transformed into playful shapes or objects that spark the reader’s curiosity and imagination.
+    - image: FCB_Cru_Article_1.svg
+      caption: Crus forms that match Poplar
 
-    ![](FCB_Cru_Research_2.svg){: style="width: 60%;"}
+# Poplar’s Influence on Cru
 
-    This creative handling of letters brings the alphabet to life. A simple "A" could be turned into an apple tree or a ladder, while a "B" might become a butterfly in Munari's world. By associating each letter with imaginative drawings and scenarios, Munari encourages children to think beyond the typical associations and to develop a sense of wonder about letters and language.
+While Cru might seem a world away from the bustling posters of 19th-century America, the connection lies in its rigorous geometry and the modularity of form—key elements in woodtype design. Cru, much like Poplar, makes use of consistent, rational shapes, but does so with a more reductive approach.
 
-    Munari's Design Philosophy: Bruno Munari, as both an artist and a designer, had a deep understanding of how visuals and text work together. In "ABC Con Fantasia," his minimalist but expressive style is apparent. He uses simple yet effective illustrations that appeal to children's innate sense of play. Munari believed that learning should be a creative process and that the best way to engage children’s attention is through surprise and discovery.
+Where Poplar embraced the density and weight of woodtype, Cru takes these structural ideas and reduces them to their most simplistic form. Its circular counters, flat terminals, and variable widths echo the boldness of Poplar’s source material, but without the historical baggage. 
 
-    ![](FCB_Cru_Research_3.svg){: style="width: 60%;"}
+The proportions of Cru are meticulously controlled, achieving a balance between tradition and modernity. The square-like forms of the "O" and "C," for instance, evoke the strong horizontal emphasis of woodtype but have been smoothed and updated, lending the letters a sense of crisp refinement. Poplar’s rugged qualities are still faintly visible here, but they’ve been honed and stripped back to their essence.
 
-    In fact, Munari’s broader philosophy of design is rooted in the idea of using play to teach fundamental concepts. He often blurred the lines between education, art, and play, and this book is a perfect reflection of his desire to make learning engaging and joyful. Munari wanted children to actively participate in the learning process, fostering their curiosity and encouraging them to come up with their own interpretations of the letters and images.
+    - image: FCB_Cru_Article_1.svg
+      caption: Counter Images
 
-    Educational Value: The value of "ABC Con Fantasia" goes beyond simply teaching letters. It nurtures children’s cognitive development by encouraging them to think creatively, use their imaginations, and recognize patterns. It also introduces them to the concept of symbols and how they can represent different ideas or objects. In this way, the book serves not just as an alphabet primer but also as a tool for stimulating early critical thinking skills.
+# Modernity in Mind: Cru’s Versatility
+Cru’s aesthetic might nod to history, but its application is thoroughly modern. The typeface is crafted for versatility across both print and digital media, boasting a range of widths from Extra Condensed to Extra Expanded, making it ideal for headline up until larger display settings.
 
-    ![](FCB_Cru_Research_4.svg){: style="width: 60%;"}
+Unlike its woodtype predecessors, which were intended for short, impactful uses like headlines or posters, Cru has adjusted counters to retain readability and optimal crispness at smaller display sizes. Cru balances two extremes: the structural logic of geometric typefaces and the subtle warmth of a humanist approach.
 
-    For parents and educators, this book offers a unique way to connect with children and engage them in discussions about language, art, and interpretation. It’s the kind of book that encourages children to ask questions like, “What else could this letter be?” or “What do you see when you look at this drawing?” These questions help develop language skills, as well as visual literacy, which is a key part of modern education.
+    - image: FCB_Cru_Article_1.svg
+      caption: Horror Vacui example
 
-    Legacy and Influence: Bruno Munari’s influence on children’s literature and design is profound, and "ABC Con Fantasia" remains a cherished work in his repertoire. The book has been praised for its ability to balance simplicity with complexity, appealing to both children and adults. It’s also a reflection of Munari’s broader contributions to modern art, where his work continues to inspire designers, educators, and artists alike.
+# From small to wide widths: Filling the void
+One of Cru’s most remarkable qualities is its ability to navigate between the different widths. These are optimized to appear with a consistent “greyness”, enabling to be used intermittently to fill the whitespace where needed. With the variable version this allows you to fill the void where needed and make the most of your message.
 
-    ![](FCB_Cru_Research_5.svg){: style="width: 60%;"}
+In the most condensed version Cru has hints of Impact and other simplified condensed heavy sans serifs. The wider cuts are reminiscent of wider type such as Paul Renner's Plak. Cru combines their reduced forms with woodtype-inspired boldness, making them perfect for headlines or impactful branding just the right amount of character to stand out from the competition.  This is where Cru truly shines: as a typeface that bridges eras, it feels equally at home in a high-end magazine spread as it does on a modern website or brand collateral.
 
-    Today, "ABC Con Fantasia" is still a relevant and valuable resource for anyone interested in creative pedagogy. Its playful approach to learning the alphabet has influenced many subsequent children’s books that aim to integrate creativity into education, and Munari’s legacy as a pioneer in visual storytelling for children endures.
+    - image: FCB_Cru_Article_1.svg
+      caption: Meme or closing picture
 
-    Conclusion: "ABC Con Fantasia" by Bruno Munari is more than an alphabet book—it is an exploration of imagination and creativity. Munari’s playful and artistic approach to learning turns the ABCs into a world of possibilities, encouraging children to think differently about language and symbols. Through its timeless illustrations and inventive take on the alphabet, this book continues to captivate readers and serves as a testament to Munari’s belief that education should be as imaginative as it is informative.
+# Cru: A Typeface for the Present, Grounded in the Past
+In a time when typography often feels detached from its history, Cru serves as a reminder that every form, no matter how modern, has its roots in the past. By weaving together geometric precision with the spirit of woodtype, Cru embodies a harmonious blend of history and innovation.
+
+Dries Wiewauters has created a typeface that is both highly functional and aesthetically distinctive. Cru is a testament to the enduring power of form and the thoughtful balance of tradition and progress. It encourages us to look back to understand the future, a quiet but powerful statement in today’s world of typography.
+
 
 library_preview:
     - FCB Library Cru_1.svg
