@@ -261,7 +261,6 @@ about:
 
         The typefaces of this era were often unapologetically loud, crafted to seize attention from busy city streets. Leavenworth, one of the oldest producers of woodtype in the United States, developed many of the iconic styles we now associate with the aesthetic of the period, including the wide, square-proportioned forms that Poplar draws from. Poplar’s exaggerated stroke contrast, extended serifs, and condensed letterforms encapsulate the bold, brash energy of its wooden ancestors.
 
-
     - image: FCB_Cru_Article_1.svg
       caption: Crus forms that match Poplar
       text: |
