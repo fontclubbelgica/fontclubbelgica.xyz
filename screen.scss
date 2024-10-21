@@ -197,6 +197,8 @@ figcaption {
     margin-bottom: 5px;
     cursor: pointer;
 }
+
+
 .select-font {
   width: fit-content;
   position: relative;
@@ -223,6 +225,9 @@ figcaption {
       border-radius: 30px;
       color: #000;
       cursor: pointer;
+      &:focus {
+        visibility: visible;
+      }
     }
 }
 
@@ -233,6 +238,7 @@ figcaption {
     &:before {
         position: relative;
         content: "Features \2193";
+        white-space: nowrap;
         font-weight: bold;
         border: solid 1px rgb(194,194,194);
         border-radius: 30px;
@@ -248,7 +254,7 @@ figcaption {
         position: absolute;
         padding: 10px;
         display: none;
-        background-color: rgba(255, 255, 255, .4);
+        background-color: rgba(255, 255, 255, .6);
         backdrop-filter: blur(10px);
         border: solid 1px rgb(194,194,194);
         border-radius: 10px;
@@ -314,6 +320,7 @@ figcaption {
     &:before {
         position: relative;
         content: "Font Variations \2193";
+        white-space: nowrap;
         font-weight: bold;
         border: solid 1px rgb(194,194,194);
         border-radius: 30px;
@@ -329,7 +336,7 @@ figcaption {
         position: absolute;
         padding: 10px;
         display: none;
-        background-color: rgba(255, 255, 255, .4);
+        background-color: rgba(255, 255, 255, .6);
         backdrop-filter: blur(10px);
         border: solid 1px rgb(194,194,194);
         border-radius: 10px;
@@ -341,12 +348,14 @@ figcaption {
 
         input[type="range"] {
             margin-top: 0;
+            margin-bottom: 0;
             display: table-row;
+            height: 30px;
         }
 
         div {
-            margin-top: 7px;
-            margin-bottom: 7px;
+            margin-top: 10px;
+            margin-bottom: 10px;
             display: table-row;
 
             .fontVariation-name {
@@ -355,8 +364,9 @@ figcaption {
                 text-align: right;
                 white-space: nowrap;
                 padding-right: 5px;
-                top: 2px;
                 position: relative;
+                line-height: 30px;
+                vertical-align: middle;
             }
         }
     }
@@ -630,9 +640,8 @@ section.lang-support {
     line-height: 1.5;
 }
 
-.tester:hover > .controls{
+.tester:hover > .controls {
     visibility: visible;
-
 }
 
 .tester .controls {
