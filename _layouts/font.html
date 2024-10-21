@@ -80,7 +80,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                                 {% endif %}
                             {% endfor %}
                         {% endfor %}
-                        <div>{{ fontVariation[1].name }}: <input type="range" data-font-variation-tag="{{ fontVariation[0] .}}" min="{{ fontVariation[1].minValue }}" max="{{ fontVariation[1].maxValue }}" value="{{ fontVariationsDefaultValue }}"  step="0.001" class="slider"></div>
+                        <div><div class="fontVariation-name">{{ fontVariation[1].name }}</div> <input type="range" data-font-variation-tag="{{ fontVariation[0] }}" min="{{ fontVariation[1].minValue }}" max="{{ fontVariation[1].maxValue }}" value="{{ fontVariationsDefaultValue }}"  step="0.001" class="slider"></div>
                     {% endfor %}
                 {% endfor %}
                 </form>

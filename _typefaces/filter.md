@@ -71,6 +71,18 @@ fontVariations:
       maxValue: 1.0
       defaultValue: 1.0
 
+openTypeFeatures:
+   - dnom:
+       name: Denominators
+       fontStyle: FC MAD Serif Light
+       examples:
+         - "0123456789"
+   - frac:
+       name: Fractions
+       fontStyle: FC MAD Serif Light
+       examples:
+         - "/0123456789"
+
 testers:
     - text: |
         Flou gaussien est un effet visuel couramment utilisé dans le traitement d'images numériques. Ce filtre crée un flou doux et homogène en appliquant une fonction mathématique connue sous le nom de fonction gaussienne. L'effet de flou est obtenu en atténuant les détails d'une image, ce qui peut aider à réduire le bruit et les imperfections, ainsi qu'à adoucir les contours.
