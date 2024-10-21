@@ -2,7 +2,7 @@
 layout: font
 title: FC Mad Serif
 
-draft: true
+draft: false
 
 information: |
     MAD Serif is an exploration into the beauty and limitations of CAD fonts where each connection is constricted to a 45 UPM grid.
