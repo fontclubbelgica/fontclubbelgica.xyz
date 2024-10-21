@@ -246,9 +246,19 @@ testers:
       fontSize: 40
 
 about:
-    - image: FCB_Research_Cru_1.jpg
+    - image: FCB_Articles_Cru.jpg
       caption: "Leavenworth: Sixteen and Twelve Lines Condensed Gothic"
 
+      text: |
+        ## Cru: A Typeface Balancing Tradition and Modernity
+
+        Cru is a typeface that harmoniously blends the historical influences of woodtype with a modern, geometric design. At first glance, it appears entirely contemporary, defined by its precise, minimalist forms. However, Cru’s DNA is rooted in the bold, attention-grabbing aesthetic of 19th-century American woodtype, particularly as reinterpreted by fonts like Poplar, designed by Barbara Lind. Poplar, based on early American woodtype from William Leavenworth, shares a visual lineage with Cru’s structural clarity and boldness.
+
+        While Poplar embraces the weight and formal elements of woodtype, Cru refines these qualities into something more usable for the digital age. Its smooth, controlled shapes, circular counters, and flat terminals are reminiscent of Poplar’s striking visual impact but optimized for today’s digital design needs. This synthesis gives Cru the ability to shift between digital and print usage as well as editorial and branding use, balancing its historical roots with contemporary functionality.
+
+        Cru excels as a display typeface, offering a blend of geometric precision and a warm, humanistic edge. By drawing from the history of bold woodtype and transforming it into something sleek and versatile, Dries Wiewauters has created a typeface that is both reflective of the past and relevant for modern use.
+
+research: |
       text: |
         ## Behind Cru: An Exploration of Form and History
 
@@ -261,8 +271,8 @@ about:
 
         The typefaces of this era were often unapologetically loud, crafted to seize attention from busy city streets. Leavenworth, one of the oldest producers of woodtype in the United States, developed many of the iconic styles we now associate with the aesthetic of the period, including the wide, square-proportioned forms that Poplar draws from. Poplar’s exaggerated stroke contrast, extended serifs, and condensed letterforms encapsulate the bold, brash energy of its wooden ancestors.
 
-    - image: FCB_Cru_Article_1.svg
-      caption: Crus forms that match Poplar
+    - image: FCB_Research_Nib_1.jpg
+      caption: Leavenworth, Poplar and Cru 
       text: |
         # Poplar’s Influence on Cru
 
