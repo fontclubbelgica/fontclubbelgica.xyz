@@ -248,17 +248,52 @@ figcaption {
         position: absolute;
         padding: 10px;
         display: none;
-        background-color: white;
+        background-color: rgba(255, 255, 255, .4);
+        backdrop-filter: blur(10px);
         border: solid 1px rgb(194,194,194);
         border-radius: 10px;
         width: 300px;
         div {
-            margin-top: 5px;
-            margin-bottom: 5px;
+            margin-top: 7px;
+            margin-bottom: 7px;
             font-size: 70%;
 
-            input {
-                margin-right: 5px;
+            input[type=checkbox] {
+                position: relative;
+                margin-right: 8px;
+                cursor: pointer;
+                -webkit-appearance: none;
+                width: 16px;
+                height: 12px;
+
+                &:before {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    width: 16px;
+                    height: 16px;
+                    top: 0;
+                    left: 0;
+                    border: 2px solid white;
+                    border-radius: 3px;
+                    background-color: white;
+                }
+                &:hover:before {
+                    border: 2px solid var(--gray);
+                    background-color: var(--gray);
+                }
+                &:checked:after {
+                    content: "";
+                    display: block;
+                    width: 5px;
+                    height: 10px;
+                    border: solid var(--black);
+                    border-width: 0 2px 2px 0;
+                    transform: rotate(45deg);
+                    position: absolute;
+                    top: 2px;
+                    left: 6px;
+                }
             }
         }
     }
@@ -270,6 +305,43 @@ figcaption {
 .select-size {
     position: relative;
     top: -6px;
+}
+
+.select-fontVariation {
+    position: relative;
+    font-family: 'FCBELGICA';
+    &:before {
+        position: relative;
+        content: "Font Variations \2193";
+        font-weight: bold;
+        border: solid 1px rgb(194,194,194);
+        border-radius: 30px;
+        padding:8px 10px 5px 15px;
+        font-size: 14px;
+        line-height: 200%;
+        height: 40px;
+        top: 1px;
+        background-color: rgba(255, 255, 255, .4);
+    }
+    form {
+        z-index: 100;
+        position: absolute;
+        padding: 10px;
+        display: none;
+        background-color: rgba(255, 255, 255, .4);
+        backdrop-filter: blur(10px);
+        border: solid 1px rgb(194,194,194);
+        border-radius: 10px;
+        width: 300px;
+        font-size: 70%;
+
+        input[type="range"] {
+            margin-top: 0;
+        }
+    }
+    &:hover >  form {
+        display: block;
+    }
 }
 
 input[type=range] {

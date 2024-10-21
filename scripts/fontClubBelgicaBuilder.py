@@ -269,29 +269,29 @@ def getFeatureDataForTable(font, tableTag):
     name = font["name"]
     if tableTag not in font:
         return data
-        
+
     table = font[tableTag]
     cmap = font["cmap"].buildReversed()
-    
+
     if table is None:
         return data
-    
+
     for record in table.table.FeatureList.FeatureRecord:
         data[record.FeatureTag] = entry = dict(unicodes=set())
-        
+
         params = record.Feature.FeatureParams
         if params:
             entry["stylisticName"] = name.getDebugName(params.UINameID)
         else:
             entry["stylisticName"] = featureTagNameMap.get(record.FeatureTag, record.FeatureTag)
-        
+
         lookup = table.table.LookupList.Lookup
-        
+
         for lookupIndex in record.Feature.LookupListIndex:
             for subTable in lookup[lookupIndex].SubTable:
                 if subTable.LookupType == 1:
                     for key, value in subTable.mapping.items():
-                        for unicode in cmap.get(key, set()):                            
+                        for unicode in cmap.get(key, set()):
                             entry["unicodes"].add(unicode)
                 elif subTable.LookupType == 3:
                     for key, values in subTable.alternates.items():
@@ -303,8 +303,8 @@ def getFeatureDataForTable(font, tableTag):
 
 def getFeatureData(font):
     return {**getFeatureDataForTable(font, "GSUB"), **getFeatureDataForTable(font, "GPOS")}
-    
-    
+
+
 def getUnicodeFeatureTag(font):
     mapping = {}
     featureData = getFeatureData(font)
@@ -315,8 +315,8 @@ def getUnicodeFeatureTag(font):
             mapping[unicode].append(tag)
     return mapping
 
-    
-def getUnicodeBlock(unicode):    
+
+def getUnicodeBlock(unicode):
     return customRangeNames.get(unicode, getRangeName(unicode))
 
 
@@ -339,44 +339,46 @@ def buildWebfont(font):
 
     return data.getvalue()
 
+
 class Writer:
-    
+
     def __init__(self, indent="   "):
         self.data = []
         self.indentText = indent
-        self.indentLevel = 0        
-    
+        self.indentLevel = 0
+
     def get(self):
         return "\n".join(self.data)
-    
+
     def __add__(self, txt):
         self.write(txt)
         return self
-        
+
     def write(self, txt):
         self.data.append(self.indentText * self.indentLevel + txt)
-    
+
     def newLine(self):
         self.data.append("")
-        
+
     def indent(self):
         self.indentLevel += 1
-    
+
     def dedent(self):
         self.indentLevel -= 1
-        
-        
+
+
 
 class Controller(ezui.WindowController):
 
     def build(self):
-        content = """        
+        content = """
         |-files----| @fontFiles
         [[_~ ~_]] @output
-        
+
         = HorizontalStack
         > ( /@font-face ) @buildFontFace
         > ( Opentype Features ) @buildOpentypeFeatures
+        > ( Font Variations ) @buildFontVariations
         > ( Character set ) @buildCharacterSet
         """
         descriptionData = dict(
@@ -401,7 +403,7 @@ class Controller(ezui.WindowController):
                         cellClassArguments=dict(
                             showFullPath=True
                         ),
-                    ),                                 
+                    ),
                 ]
             )
         )
@@ -413,21 +415,21 @@ class Controller(ezui.WindowController):
             minSize=(400, 500),
             controller=self
         )
-    
+
     def started(self):
         self.w.open()
-    
+
     def write(self, txt):
         output = self.w.getItem("output")
         output.set(txt)
-    
+
     def fonts(self):
         table = self.w.getItem("fontFiles")
         for item in table.get():
             path = item["path"]
             with TTFont(path) as font:
                 yield font, path
-                
+
     def fontFilesCreateItemsForDroppedPathsCallback(self, sender, paths):
         items = []
         for path in paths:
@@ -436,33 +438,35 @@ class Controller(ezui.WindowController):
             )
             items.append(item)
         return items
-    
+
     def fontFilesDeleteCallback(self, sender):
         sender.removeSelection()
-                
+
     def buildFontFaceCallback(self, sender):
-        out = Writer()        
+        out = Writer()
         for font, path in self.fonts():
             fullName = font["name"].getBestFullName()
             fontData = base64.b64encode(buildWebfont(font)).decode()
-            
+
             out.write(fontFace_template.format(fullName=fullName, fontData=fontData))
             out.newLine()
         self.write(out.get())
-    
+
     def buildOpentypeFeaturesCallback(self, sender):
+        found = False
         data = {}
-        for font, path in self.fonts():   
+        for font, path in self.fonts():
             fullName = font["name"].getBestFullName()
             featureData = getFeatureData(font)
             for tag, info in featureData.items():
+                found = True
                 if tag not in data:
                     data[tag] = dict(stylisticName=info["stylisticName"], examples=set(), styles=[])
                 data[tag]["examples"] |= info["unicodes"]
                 data[tag]["styles"].append(fullName)
-                
-        out = Writer() 
-        out += "openTypeFeatures:"              
+
+        out = Writer()
+        out += "openTypeFeatures:"
         out.indent()
         for tag, info in data.items():
             if not info["examples"]:
@@ -471,36 +475,58 @@ class Controller(ezui.WindowController):
                 continue
             out += f"- {tag}:"
             out.indent()
-            out += f" name: {info['stylisticName']}"    
+            out += f" name: {info['stylisticName']}"
             out += f" fontStyle: {info['styles'][0]}"
             out += f" examples:"
             out.indent()
-            examples = []        
+            examples = []
             for uni in sorted(info['examples']):
                 t = chr(uni)
                 if t in unicodesToEscape:
                     t = f'\\{t}'
-                examples.append(t)        
+                examples.append(t)
             out += f"- \"{''.join(examples)}\""
             out.dedent()
             out.dedent()
         out.dedent()
-        self.write(out.get())
-        
+        if found:
+            self.write(out.get())
+
+    def buildFontVariationsCallback(self, sender):
+        found = False
+        out = Writer()
+        out += "fontVariations:"
+        out.indent()
+        for font, path in self.fonts():
+            if "fvar" in font:
+                for axis in font["fvar"].axes:
+
+                    found = True
+                    out += f"- {axis.axisTag}:"
+                    out.indent()
+                    out += f"name: {font["name"].getDebugName(axis.axisNameID)}"
+                    out += f"minValue: {axis.minValue}"
+                    out += f"maxValue: {axis.maxValue}"
+                    out += f"defaultValue: {axis.defaultValue}"
+                    out.dedent()
+        out.dedent()
+        if found:
+            self.write(out.get())
+
     def buildCharacterSetCallback(self, sender):
         out = Writer()
         out += "styles:"
         out.indent()
-        for font, path in self.fonts():     
+        for font, path in self.fonts():
             unicodeFeatureTagMap = getUnicodeFeatureTag(font)
-            
+
             out += f"- {font["name"].getBestFullName()}:"
             out.indent()
             out += f"  glyphCount: {len(font.getGlyphOrder())}"
             out += f"  fastspring: {font["name"].getBestFullName().replace(" ", "_")}"
-            
+
             unicodes = {}
-            
+
             for unicode in font.getBestCmap():
                 if unicode in unicodesToIgnore:
                     continue
@@ -509,13 +535,13 @@ class Controller(ezui.WindowController):
                     unicodes[block] = []
                 if unicode not in unicodes[block]:
                     unicodes[block].append(unicode)
-            
-            out +=  "  characterset:"                    
-            out.indent()   
-            for block, unicodes in unicodes.items():                
+
+            out +=  "  characterset:"
+            out.indent()
+            for block, unicodes in unicodes.items():
                 text = []
                 for unicode in unicodes:
-                    t = chr(unicode) 
+                    t = chr(unicode)
                     if len(t.strip()) == 0:
                         continue
                     if t in unicodesToEscape:
@@ -525,12 +551,12 @@ class Controller(ezui.WindowController):
                         for featureTag in unicodeFeatureTagMap[unicode]:
                             text.append(f"{t}-{featureTag}")
                 text =  ' '.join(text).strip()
-                if text:                
+                if text:
                     out += f"  {block}: \"{text}\""
             out.dedent()
             out.dedent()
-        out.dedent()     
+        out.dedent()
         self.write(out.get())
 
-        
-Controller()    
+
+Controller()
