@@ -252,11 +252,13 @@ figcaption {
         backdrop-filter: blur(10px);
         border: solid 1px rgb(194,194,194);
         border-radius: 10px;
-        width: 300px;
+        width: auto;
+        margin-top: 5px;
         div {
             margin-top: 7px;
             margin-bottom: 7px;
             font-size: 70%;
+            white-space: nowrap;
 
             input[type=checkbox] {
                 position: relative;
@@ -274,12 +276,11 @@ figcaption {
                     height: 16px;
                     top: 0;
                     left: 0;
-                    border: 2px solid white;
+                    border: 1px solid rgb(194,194,194);
                     border-radius: 3px;
                     background-color: white;
                 }
                 &:hover:before {
-                    border: 2px solid var(--gray);
                     background-color: var(--gray);
                 }
                 &:checked:after {
@@ -333,14 +334,34 @@ figcaption {
         border: solid 1px rgb(194,194,194);
         border-radius: 10px;
         width: 300px;
+        margin-top: 5px;
         font-size: 70%;
+
+        column-gap: 3px;
 
         input[type="range"] {
             margin-top: 0;
+            display: table-row;
+        }
+
+        div {
+            margin-top: 7px;
+            margin-bottom: 7px;
+            display: table-row;
+
+            .fontVariation-name {
+                display: table-cell;
+                width: 1%;
+                text-align: right;
+                white-space: nowrap;
+                padding-right: 5px;
+                top: 2px;
+                position: relative;
+            }
         }
     }
     &:hover >  form {
-        display: block;
+        display: table;
     }
 }
 
