@@ -491,6 +491,8 @@ class Controller(ezui.WindowController):
         out.dedent()
         if found:
             self.write(out.get())
+        else:
+            self.write("")
 
     def buildFontVariationsCallback(self, sender):
         found = False
@@ -512,6 +514,8 @@ class Controller(ezui.WindowController):
         out.dedent()
         if found:
             self.write(out.get())
+        else:
+            self.write("")
 
     def buildCharacterSetCallback(self, sender):
         out = Writer()
