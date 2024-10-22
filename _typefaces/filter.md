@@ -71,18 +71,6 @@ fontVariations:
       maxValue: 1.0
       defaultValue: 1.0
 
-openTypeFeatures:
-   - dnom:
-       name: Denominators
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "0123456789"
-   - frac:
-       name: Fractions
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "/0123456789"
-
 testers:
     - text: |
         Flou gaussien est un effet visuel couramment utilisé dans le traitement d'images numériques. Ce filtre crée un flou doux et homogène en appliquant une fonction mathématique connue sous le nom de fonction gaussienne. L'effet de flou est obtenu en atténuant les détails d'une image, ce qui peut aider à réduire le bruit et les imperfections, ainsi qu'à adoucir les contours.
@@ -240,5 +228,25 @@ testers:
         Hue/Saturation filtrs ir nenovērtējams rīks ikvienam, kas strādā ar attēliem. Tas piedāvā intuitīvu pieeju krāsu regulēšanai un ļauj lietotājiem viegli radīt stilistiskas izmaiņas, kas var ievērojami uzlabot attēla kvalitāti un vizuālo ietekmi. Arī ar nelielām izmaiņām var panākt nozīmīgas izmaiņas, padarot to par svarīgu instrumentu digitālajā mākslā un fotogrāfijā.
       fontStyle: FC Filter
       fontSize: 120
+
+research: |
+
+      # Filter
+
+      Font based on engraving from the botantical garden in Ghent, Belgiulm. Those engravings could be found in a lot of different places. The main graphical characteristics is that they all are scaled to fit. The outline, path the engraving machines makes is scaled to fit, the bit that engraves the material out of the plastic plate has the same thickness.
+
+      Filter has multiple transformations in a variable font:
+
+      * **Weight**: going from thin over black to mega-black.
+      * **Slant**: going from a backslant to a slant in the reading direction.
+      * **Width**: Going from extremely compressed to extremely extended
+      * **Stroke endings**: stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
+      * **Stroke shift**: each stroke is shifted from left to right to achieve a graphical coolness effect.
+
+      Filter is variable font to maintain the thickness at all cost. Keeping the thickness of the drilling bit means every axe exists out of small steps send to the Outliner pen with a curve optimiser pen.
+
+
+# library_preview:
+#     -
 
 ---

@@ -594,8 +594,21 @@ section.research {
     }
     h1, h2, h3 {
         text-align: center;
-        margin-top: 5px;
+        margin-top: 0.6em;
         margin-bottom: 5px;
+    }
+
+    img {
+        margin: 7px auto 7px auto;
+    }
+
+    ul, ol {
+        margin: 12pt 50pt 12pt 52pt;
+        li {
+            padding: 6pt 0 6pt 0;
+            font-size: 15px;
+            line-height: 24px;
+        }
     }
 }
 
