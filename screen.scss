@@ -478,9 +478,12 @@ section.research {
     padding-left: var(--padding);
     padding-right: var(--padding);
 
-    p {
+    p, ol, ul {
         font-size: 15px;
         line-height: 24px;
+    }
+    ol, ul {
+      padding-left: 25px;
     }
     p+p {
         padding-top: 12px;
@@ -966,4 +969,104 @@ footer {
     footer nav {
         padding-top: 20px;
     }
+}
+
+/* FAQ */
+main.faq {
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+  h1 {
+    font-size: 11vw;
+    letter-spacing: -0.5vw;
+    line-height: 11vw;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 40px;
+  }
+  a {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .faq-block {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-top: solid 2px var(--black);
+    padding-top: 20px;
+    margin-bottom: 20px;
+    
+    h2 {
+      width: 100%;
+      font-size: 20px;
+      line-height: 25px;
+      padding-top: 3px;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    &.show h2 {
+      width: 300px;
+      padding-bottom: 20px;
+    }
+    
+    h3 {
+      font-weight: normal;
+      text-transform: none;
+      padding-bottom: 12px;
+    }
+    div.b-content {
+      width: calc(100% - 300px);
+      display: none;
+    }
+   
+    blockquote {
+      padding-bottom: 20px;
+      font-weight: 500;
+    }
+    &.show div.b-content {
+      display: block;
+    }
+    .tab-row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .tab-row h3 {
+      width: 40%;
+    }
+    .tab {
+      width: 60%;
+    
+    }
+    .tabs:not(:first-child) {
+      padding-top: 20px;
+    }
+    .tab-row+.tab-row { 
+      padding-top: 24px;
+    }
+    p, ol, ul {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    p+h3, p+h2 {
+      padding-top: 24px;
+    }
+    ol, ul {
+      padding-left: 25px;
+    }
+    p+p {
+        padding-top: 12px;
+    }
+    @media(max-width: 600px) {
+      h3 {
+        font-size: 18px;
+        line-height: 22px;
+      }
+      &.show h2, div.b-content, .tab-row>* {
+        width: 100%;
+      }
+      &.show h2 {
+        
+      }
+    }
+  }
 }
