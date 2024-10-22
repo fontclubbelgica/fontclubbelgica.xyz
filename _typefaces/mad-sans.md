@@ -587,11 +587,11 @@ about:
         MAD Sans is available in four weights — Light, Regular, Bold and Black — with corresponding italics. It is also available in a parallel filled version in four weights — Light Fill, Regular Fill, Bold Fill and Black Fill — again with corresponding italics. It is available for licensing in a core Standard (‘STD’) version and Professional (‘PRO’) versions. The latter contains OpenType features and stylistic alternates.
 
 research: |
-    # The History and Evolution of the Hershey Fonts: From A.V. Hershey to Mad Sans and Mad Serif
+    ## The History and Evolution of the Hershey Fonts: From A.V. Hershey to Mad Sans and Mad Serif
 
     ![](FCB_Research_Mad_1.svg){: style="width: 80%;"}
 
-    ## Origins of the Hershey Fonts
+    # Origins of the Hershey Fonts
     The Hershey Fonts were created in the 1960s by Dr. Allen V. Hershey, a mathematician and cartographer working at the U.S. Naval Weapons Laboratory. In a time before modern computers had the ability to render text with sophisticated pixel grids, the challenge was to create fonts that could be efficiently rendered using vector-based systems. These early computers and plotters used simple commands to draw lines and shapes, making it impractical to use rasterized (pixel-based) fonts. Hershey’s solution was to design a series of fonts that could be drawn entirely using connected lines, making them suitable for devices like pen plotters and vector displays.
 
     The Nature of Vector Fonts Hershey’s fonts were minimalist and geometric due to the constraints of early computing. Each character was represented as a series of connected points, allowing plotters to trace the shapes with minimal instructions. This vector-based system allowed for the efficient rendering of text in early graphics and scientific applications, where low-resolution output was standard.
@@ -600,7 +600,7 @@ research: |
 
     ![](FCB_Research_Mad_2.svg){: style="width: 70%;"}
 
-    ## A.V. Hershey: The Innovator Behind the Fonts
+    # A.V. Hershey: The Innovator Behind the Fonts
     Dr. A.V. Hershey was a pioneer in digital typography and computer graphics. His work on the Hershey Fonts wasn’t originally aimed at typographic beauty but rather functionality within the limits of the technology at the time. His fonts provided a solution for rendering text in early computer graphics, making them critical for applications in fields like mapping, scientific visualization, and engineering.
 
     Hershey’s expertise as a cartographer and mathematician is evident in the precision and mathematical approach behind the fonts. However, despite their utility, the original fonts were never meant to be aesthetic masterpieces. The quirks that arose from these technical compromises, though, eventually became a source of fascination for later designers.
@@ -610,7 +610,7 @@ research: |
 
     ![](FCB_Research_Mad_3.svg){: style="width: 50%;"}
 
-    ## Balancing the "Accidental Weirdness"
+    # Balancing the "Accidental Weirdness"
     One of the key challenges in transforming the Hershey Fonts into Mad Sans and Mad Serif was to preserve the original’s unique and occasionally strange letterforms while making them more visually balanced and usable in various typographic contexts. Dries embraced the "weirdness" of the original characters—such as the oddly shaped "G" or the non-standard curves in certain letters—but smoothed out the rough edges to improve readability.
 
     Improving Legibility and Proportions In the original Hershey Fonts, the proportions of characters were often inconsistent due to the constraints of the vector plotting system. For Mad Sans and Mad Serif, Dries carefully adjusted the proportions of each letter to improve legibility for both body text and display purposes. This meant refining the stroke weights, adjusting kerning (the spacing between letters), and ensuring that the characters were more uniform in appearance while still retaining their quirky charm.
@@ -621,7 +621,7 @@ research: |
 
     ![](FCB_Research_Mad_4.svg){: style="width: 70%;"}
 
-    ## A Versatile Typeface Family
+    # A Versatile Typeface Family
     Mad Sans and Mad Serif are now highly versatile, used for both body copy and display type, making them relevant in today’s diverse design environments. What makes these typefaces special is their ability to balance their heritage—rooted in the primitive, low-resolution output of early plotters—with the demands of modern typography.
 
     For display usage, their eccentricities and uniqueness make them visually striking in headings, posters, or branding applications. At large sizes, the quirks and geometric precision of the original Hershey Fonts come through clearly, creating a distinct and memorable design aesthetic.
