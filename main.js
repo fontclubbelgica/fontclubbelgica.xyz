@@ -43,7 +43,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		}
 	}
 
-
 	control_select_font.forEach((element)=> {
 		element.addEventListener("change", (event) => {
 			apply_control_select_font(element)
@@ -51,6 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_font(element)
 	})
 
+	// font features
 
 	const control_select_feature = document.querySelectorAll('.select-feature form');
 
@@ -74,6 +74,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_feature(element)
 	})
 
+	// font variations
+
 	const control_select_fontVariation = document.querySelectorAll('.select-fontVariation form');
 
 	function apply_control_select_fontVariation(element) {
@@ -94,6 +96,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		})
 		apply_control_select_fontVariation(element)
 	})
+
+	// font size
 
 	const control_select_size = document.querySelectorAll('.select-size input')
 
@@ -172,6 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			}
 		})
 	})
+
 	// showcase
 
 	const zonecontainer = document.querySelector('#zones')
@@ -190,7 +195,6 @@ document.addEventListener('DOMContentLoaded', function() {
 	    }
 	    setInterval(zoneInterval, 1000)
 	}
-
 
     // library overview
 
