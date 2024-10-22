@@ -67,10 +67,27 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                  </select>
             </div>
 
-<!--        <div class="select-variable">
-                button
-            </div> -->
+            {% if page.fontVariations %}
+            <div class="select-fontVariation">
+                <form>
+                {% for fontVariationItem in page.fontVariations %}
+                    {% for fontVariation in fontVariationItem %}
+                        {% assign fontVariationsDefaultValue = fontVariation[1].defaultValue %}
+                        {% for testerFontVariationsItem in tester.fontVariations %}
+                            {% for testerFontVariations in testerFontVariationsItem %}
+                                {% if testerFontVariations[0] == fontVariation[0] %}
+                                    {% assign fontVariationsDefaultValue = testerFontVariations[1] %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %}
+                        <div><div class="fontVariation-name">{{ fontVariation[1].name }}</div> <input type="range" data-font-variation-tag="{{ fontVariation[0] }}" min="{{ fontVariation[1].minValue }}" max="{{ fontVariation[1].maxValue }}" value="{{ fontVariationsDefaultValue }}"  step="0.001" class="slider"></div>
+                    {% endfor %}
+                {% endfor %}
+                </form>
+            </div>
+            {% endif %}
 
+            {% if page.openTypeFeatures %}
             <div class="select-feature">
                 <form>
                 {% for openTypeFeatureItem in page.openTypeFeatures %}
@@ -80,8 +97,8 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                 {% endfor %}
                 </form>
             </div>
+            {% endif %}
             <div class="select-size">
-
                 <input type="range" min="14" max="200" value="{% if tester.fontSize %}{{ tester.fontSize }}{% else %}100{% endif %}" class="slider">
             </div>
         </div>

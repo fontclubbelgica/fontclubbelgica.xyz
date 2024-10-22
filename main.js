@@ -74,6 +74,27 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_feature(element)
 	})
 
+	const control_select_fontVariation = document.querySelectorAll('.select-fontVariation form');
+
+	function apply_control_select_fontVariation(element) {
+		const inputs = element.querySelectorAll('input')
+		const fontVariationSettings = []
+		for (var index = 0; index < inputs.length; index++) {
+			input = inputs[index]
+
+			fontVariationSettings.push("'" + input.dataset.fontVariationTag + "' " + input.value )
+		}
+		preview = element.parentElement.parentElement.nextElementSibling;
+		preview.style.fontVariationSettings = fontVariationSettings.join()
+	};
+
+	control_select_fontVariation.forEach((element)=> {
+		element.addEventListener("input", (event) => {
+			apply_control_select_fontVariation(element)
+		})
+		apply_control_select_fontVariation(element)
+	})
+
 	const control_select_size = document.querySelectorAll('.select-size input')
 
 	function apply_control_select_size(element) {

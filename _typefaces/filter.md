@@ -4,16 +4,84 @@ title: FC Filter
 
 draft: true
 
-css: style.css
+information: |
+    Filter is a collection of skeleton fonts brought in an experimental variable world.
+
+designer: Frederik Berlaen
+date: 2023-12-01
+
+css: filter-style.css
 
 splash: filter-splash.svg
 
-showcases:
-    - ABCDEFGHIJKLMN
-    - OPQRSTUVWXYZ
-    - abcdefghijklm
-    - nopqrstuvwxyz
-    - 0123456789
+# showcases:
+#     - ABCDEFGHIJKLMN
+#     - OPQRSTUVWXYZ
+#     - abcdefghijklm
+#     - nopqrstuvwxyz
+#     - 0123456789
+
+styles:
+   - Filter Engraved:
+        glyphCount: 73
+        fastspring: Filter_light_normal_roman_neutral_rounded
+        characterset:
+           Basic Latin: "& , - . 0 1 2 3 4 5 6 7 8 9 : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin-1 Supplement: "é"
+           Emoticons: "😀 😎"
+           Transport and Map Symbols: "🚲"
+   - Filter Machine Tool:
+        glyphCount: 64
+        fastspring: Filter_light_normal_roman_neutral_rounded
+        characterset:
+           Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
+   - Filter Vlotte:
+        glyphCount: 66
+        fastspring: Filter_light_normal_roman_neutral_rounded
+        characterset:
+           Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin Extended-A: "ŭ"
+           Spacing Modifier Letters: "˘"
+
+
+fontVariations:
+   - wght:
+      name: Weight
+      minValue: 10.0
+      maxValue: 120.0
+      defaultValue: 35.0
+   - wdth:
+      name: Width
+      minValue: 0.3000030517578125
+      maxValue: 3.0
+      defaultValue: 1.0
+   - slnt:
+      name: Slant
+      minValue: -30.0
+      maxValue: 30.0
+      defaultValue: 0.0
+   - shft:
+      name: Shift
+      minValue: -40.0
+      maxValue: 40.0
+      defaultValue: 0.0
+   - cap_:
+      name: Capstyle
+      minValue: 0.0
+      maxValue: 1.0
+      defaultValue: 1.0
+
+openTypeFeatures:
+   - dnom:
+       name: Denominators
+       fontStyle: FC MAD Serif Light
+       examples:
+         - "0123456789"
+   - frac:
+       name: Fractions
+       fontStyle: FC MAD Serif Light
+       examples:
+         - "/0123456789"
 
 testers:
     - text: |
@@ -26,6 +94,9 @@ testers:
         Dans les logiciels de retouche d'images comme Adobe Photoshop, le flou gaussien est un outil facile à utiliser qui offre une grande flexibilité dans la création d'effets visuels.
       fontStyle: FC Filter
       fontSize: 200
+      fontVariations:
+            - cap_: 1
+            - shft: 40
 
     - text: |
         Élesítő maszk (Unsharp Mask) egy népszerű képfeldolgozó technika, amelyet a fényképek élesítésére használnak. A neve ellentmondásos, mert a technika éppen a kép élességének növelésére szolgál, nem csökkentésére. Az eljárás lényege, hogy egy képet először elmosnak, majd ezt az elmosott képet levonják az eredeti képből, így kiemelik a részleteket.
