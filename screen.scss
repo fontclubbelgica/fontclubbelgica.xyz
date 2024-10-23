@@ -1186,9 +1186,12 @@ main.faq {
 }
 main.page {
   padding: 100px var(--padding) 40px var(--padding);
-  max-width: 800px;
-  margin: 0 auto;
+  
   h1 {
     text-align: center;
+  }
+  p, ol, ul, h1, h2, h3, h4, h5 {
+    max-width: 800px;
+    margin: 0 auto;
   }
 }
