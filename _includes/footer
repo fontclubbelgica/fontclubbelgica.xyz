@@ -35,11 +35,11 @@
         <nav class="col-2">
             <h2>Information</h2>
             <ul>
-                <li><a href="/faq#our-team">About us</a></li>
-                <li><a href="#">Our Team</a></li>
-                <li><a href="#">Our Service</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="#">Trial Fonts</a></li>
+                <li><a href="/faq#about-us">About us</a></li>
+                <li><a href="/faq#our-team">Our Team</a></li>
+                <li><a href="/faq#our-services">Our Services</a></li>
+                <li><a href="/faq#contact">Contact</a></li>
+                <li><a href="/faq#trial-fonts">Trial Fonts</a></li>
             </ul>
         </nav>
         <nav class="col-2">
