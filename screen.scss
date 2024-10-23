@@ -1071,54 +1071,9 @@ footer {
 }
 
 /* FAQ */
-
-.faq .page {
+main.faq {
   padding-left: var(--padding);
   padding-right: var(--padding);
-
-  > ul {
-       > li {
-            list-style-type: none;
-
-            display: flex;
-            flex-wrap: wrap;
-            max-width: 1000px;
-            margin: 0 auto;
-            border-top: solid 2px var(--black);
-            padding-top: 20px;
-            margin-bottom: 20px;
-            position: relative;
-
-            h2 {
-              width: 300px;
-              text-transform: uppercase;
-              cursor: pointer;
-              position: absolute;
-              top: 24px;
-              left: 0;
-            }
-            h3 {
-                text-transform: initial;
-            }
-            h3, p, ul {
-                margin-left: 300px;
-            }
-            h4 {
-                width: 40%;
-            }
-            ul li {
-                list-style-type: none;
-                position: relative;
-                p {
-                    width: 60%;
-                }
-                h4 {
-                    position: absolute;
-                }
-            }
-        }
-  }
-
   h1 {
     font-size: 11vw;
     letter-spacing: -0.5vw;
@@ -1127,50 +1082,116 @@ footer {
     padding-top: 100px;
     padding-bottom: 40px;
   }
-
   a {
     text-decoration: underline;
     text-underline-offset: 3px;
   }
+  .faq-block {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-top: solid 2px var(--black);
+    padding-top: 20px;
+    margin-bottom: 20px;
+    
+    h2 {
+      width: 100%;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    &.show h2 {
+      width: 300px;
+      padding-bottom: 20px;
+    }
+    
+    
+    div.b-content {
+      width: calc(100% - 300px);
+      display: none;
+    }
+   
+    
+    &.show div.b-content {
+      display: block;
+    }
+    .tab-row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .tab-row h3 {
+      width: 40%;
+    }
+    .tab {
+      width: 60%;
+    
+    }
+    .tabs:not(:first-child) {
+      padding-top: 20px;
+    }
+    .tab-row+.tab-row { 
+      padding-top: 24px;
+    }
+    @media(max-width: 600px) {
+      
+      &.show h2, div.b-content, .tab-row>* {
+        width: 100%;
+      }
+      &.show h2 {
+        
+      }
+    }
+  }
 }
-// .text {
-//   h1 {
-//     font-size: 50px;
-//     line-height: 60px;
-//     padding-bottom: 20px;
-//   }
-//   p, ol, ul {
-//       font-size: 15px;
-//       line-height: 24px;
-//   }
-//   p+h3, p+h2, ol+h3, ul+h3, ol+h2, ul+h2 {
-//     padding-top: 24px;
-//   }
-//   ol, ul {
-//     padding-left: 25px;
-//   }
-//   p+p, p+ol, p+ul, ol+ul, ol+ol, ul+ol, ol+p, ul+p, ul+ul {
-//       padding-top: 12px;
-//   }
-//   blockquote {
-//     padding-bottom: 20px;
-//     font-weight: 500;
-//   }
-//   h3 {
-//     font-weight: normal;
-//     text-transform: none;
-//     padding-bottom: 12px;
-//   }
-//   h2 {
-//     font-size: 20px;
-//     line-height: 25px;
-//     padding-top: 3px;
-//     text-transform: uppercase;
-//   }
-//   @media(max-width: 600px) {
-//     h3 {
-//       font-size: 18px;
-//       line-height: 22px;
-//     }
-//   }
-// }
+.text {
+  h1 {
+    font-size: 50px;
+    line-height: 60px;
+    padding-bottom: 20px;
+  }
+  p, ol, ul {
+      font-size: 15px;
+      line-height: 24px;
+  }
+  p+h3, p+h2, ol+h3, ul+h3, ol+h2, ul+h2 {
+    padding-top: 24px;
+  }
+  ol, ul {
+    padding-left: 25px;
+  }
+  p+p, p+ol, p+ul, ol+ul, ol+ol, ul+ol, ol+p, ul+p, ul+ul {
+      padding-top: 12px;
+  }
+  blockquote {
+    padding-bottom: 20px;
+    font-weight: 500;
+  }
+  h3 {
+    font-weight: normal;
+    text-transform: none;
+    padding-bottom: 12px;
+  }
+  h2 {
+    font-size: 20px;
+    line-height: 25px;
+    padding-top: 3px;
+    text-transform: uppercase;
+  }
+  @media(max-width: 600px) {
+    h3 {
+      font-size: 18px;
+      line-height: 22px;
+    }
+  }
+}
+main.page {
+  padding: 100px var(--padding) 40px var(--padding);
+  
+  h1 {
+    text-align: center;
+  }
+  p, ol, ul, h1, h2, h3, h4, h5 {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
