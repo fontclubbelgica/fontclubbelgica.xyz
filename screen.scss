@@ -1097,9 +1097,6 @@ main.faq {
     
     h2 {
       width: 100%;
-      font-size: 20px;
-      line-height: 25px;
-      padding-top: 3px;
       text-transform: uppercase;
       cursor: pointer;
     }
@@ -1108,20 +1105,13 @@ main.faq {
       padding-bottom: 20px;
     }
     
-    h3 {
-      font-weight: normal;
-      text-transform: none;
-      padding-bottom: 12px;
-    }
+    
     div.b-content {
       width: calc(100% - 300px);
       display: none;
     }
    
-    blockquote {
-      padding-bottom: 20px;
-      font-weight: 500;
-    }
+    
     &.show div.b-content {
       display: block;
     }
@@ -1142,24 +1132,8 @@ main.faq {
     .tab-row+.tab-row { 
       padding-top: 24px;
     }
-    p, ol, ul {
-        font-size: 15px;
-        line-height: 24px;
-    }
-    p+h3, p+h2 {
-      padding-top: 24px;
-    }
-    ol, ul {
-      padding-left: 25px;
-    }
-    p+p {
-        padding-top: 12px;
-    }
     @media(max-width: 600px) {
-      h3 {
-        font-size: 18px;
-        line-height: 22px;
-      }
+      
       &.show h2, div.b-content, .tab-row>* {
         width: 100%;
       }
@@ -1167,5 +1141,57 @@ main.faq {
         
       }
     }
+  }
+}
+.text {
+  h1 {
+    font-size: 50px;
+    line-height: 60px;
+    padding-bottom: 20px;
+  }
+  p, ol, ul {
+      font-size: 15px;
+      line-height: 24px;
+  }
+  p+h3, p+h2, ol+h3, ul+h3, ol+h2, ul+h2 {
+    padding-top: 24px;
+  }
+  ol, ul {
+    padding-left: 25px;
+  }
+  p+p, p+ol, p+ul, ol+ul, ol+ol, ul+ol, ol+p, ul+p, ul+ul {
+      padding-top: 12px;
+  }
+  blockquote {
+    padding-bottom: 20px;
+    font-weight: 500;
+  }
+  h3 {
+    font-weight: normal;
+    text-transform: none;
+    padding-bottom: 12px;
+  }
+  h2 {
+    font-size: 20px;
+    line-height: 25px;
+    padding-top: 3px;
+    text-transform: uppercase;
+  }
+  @media(max-width: 600px) {
+    h3 {
+      font-size: 18px;
+      line-height: 22px;
+    }
+  }
+}
+main.page {
+  padding: 100px var(--padding) 40px var(--padding);
+  
+  h1 {
+    text-align: center;
+  }
+  p, ol, ul, h1, h2, h3, h4, h5 {
+    max-width: 800px;
+    margin: 0 auto;
   }
 }

@@ -238,7 +238,9 @@ document.addEventListener('DOMContentLoaded', function() {
 	// faq page
 	let hash = window.location.hash.substr(1);
 	if(hash) {
-		document.getElementById(hash).classList.toggle('show');
+		if(document.getElementById(hash) !== null) {
+			document.getElementById(hash).classList.toggle('show');
+		}
 	}
 	const faqtoggles = document.querySelectorAll('.faq-block h2');
 	faqtoggles.forEach((toggle)=> {
