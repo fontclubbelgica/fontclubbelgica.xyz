@@ -81,27 +81,27 @@ title: Frequently Asked Questions
   * #### Library Fonts:
 
     These are the fonts that are part of our library. All the fonts you can license for your project.
-    [info@fontclubbelgica.xyz](mailto:info@fontclubbelgica.xyz).
+    {% include mail a="info" %}
+
 
   * #### Tailoring Fonts:
 
     Similar to tailoring clothes, small adjustments can significantly enhance a font to meet the
     client’s needs perfectly. Interested in tweaking a few glyphs or incorporating the client’s logo
-    into the glyph set? Contact us to explore the options:
-    [typefaces@fontclubbelgica.xyz](mailto:typefaces@fontclubbelgica.xyz).
+    into the glyph set? Contact us to explore the options: {% include mail a="typefaces" %}.
 
   * #### Bespoke Fonts:
 
     The perfect font doesn’t always exist, and sometimes, the ideal solution can’t be found off-the-shelf.
     There are numerous reasons to consider a custom font—explore them here. If you believe this path aligns
     with your brand’s vision, feel free to reach out to us for further details.
-    [typefaces@fontclubbelgica.xyz](mailto:typefaces@fontclubbelgica.xyz).
+    {% include mail a="typefaces" %}
 
   * #### Logo Adjustments:
 
     Crafting exquisite and harmonious curves requires time and patience — we speak from experience!
     If you’re working on branding and seek assistance in refining your curves to perfection or aligning
-    them with one of our fonts, schedule a meeting for more info: [info@fontclubbelgica.xyz](mailto:info@fontclubbelgica.xyz).
+    them with one of our fonts, schedule a meeting for more info: {% include mail a="info" %}.
 
 
 
@@ -109,7 +109,7 @@ title: Frequently Asked Questions
 
   * #### General
 
-    For general inqueries please contact: [info@fontclubbelgica.xyz](info@fontclubbelgica.xyz)
+    For general inqueries please contact: % include mail a="info" %}
 
   * #### Instagram:
 
@@ -155,7 +155,7 @@ title: Frequently Asked Questions
   ### Refunds
 
   Unfortunately, we generally don’t allow exchanges. However, if you accidentally purchased the wrong
-  font and need to make a quick swap, you can email us at support@fontclubbelgica.xyz with the order
+  font and need to make a quick swap, you can email us at {% include mail a="support" %}. with the order
   number, and we’ll try to assist you (no promises though). Additionally, if you encounter any technical
   issues, please reach out to us, and we’ll do our best to resolve them promptly.
 
@@ -163,7 +163,7 @@ title: Frequently Asked Questions
 
   Once you payment has been succesfully processed, you will receive an email with a .ZIP file containing
   your files. These email usually arrive immediately, but can take a few minutes. In the case that you
-  would ever lose the files and the email, please get in touch via support@fontclubbelgica.xyz.
+  would ever lose the files and the email, please get in touch via {% include mail a="support" %}.
 
 
   * #### Desktop Files:
@@ -190,7 +190,7 @@ title: Frequently Asked Questions
   assured, we’ve simplified the process. For detailed information, refer to the End User License Agreement
   (E.U.L.A.) section below. By downloading our typefaces, you agree to the EULA’s conditions, which are
   relatively standard across all foundries. For any questions about the font license, please email us
-  licensing@fontclubbelgica.xyz.
+  {% include mail a="licensing" %}.
 
 
   ### Our studio is working for a client.
@@ -207,14 +207,14 @@ title: Frequently Asked Questions
 
   Licenses are tailored to specific circumstances and cannot be transferred or used for other purposes.
   However, we provide license upgrades to adjust parameters post-purchase. Since we don’t track your data,
-  we have to do this manually, contact us at licensing@fontclubbelgica.xyz and we will get you sorted asap.
+  we have to do this manually, contact us at {% include mail a="licensing" %} and we will get you sorted asap.
 
 
   ### Can I upgrade my license?
 
   Yes, for example if you bought one weight and you want to upgrade to the full family, you only pay
   the difference. But since we believe in a free internet, we will have to make you a manual payment
-  link. Contact us at licensing@fontclubbelgica.xyz so we can get you sorted asap.
+  link. Contact us at {% include mail a="licensing" %} so we can get you sorted asap.
 
 * ## E.U.L.A.
 
