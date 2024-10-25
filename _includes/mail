@@ -1,0 +1,1 @@
+<a href="mailto:{{ include.a }}@fontclubbelgica.xyz?SUBJECT=Hello Font Club Belgica">{{ include.a }}@fontclubbelgica.xyz</a>

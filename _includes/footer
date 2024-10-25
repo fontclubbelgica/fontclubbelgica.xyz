@@ -8,7 +8,7 @@
         </div>
         <div class="col-6">
             <p>For any enquiries please email us:</p>
-            <p><a href="mailto:info@fontclubbelgica.xyz">info@fontclubbelgica.xyz</a></p>
+            <p>{% include mail a="info" %}</p>
         </div>
     </div>
     <div class="row bottom">
