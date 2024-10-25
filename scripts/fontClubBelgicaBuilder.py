@@ -264,6 +264,7 @@ featureTagNameMap = dict(
   zero="Slashed Zero",
 )
 
+
 def getFeatureDataForTable(font, tableTag):
     data = {}
     name = font["name"]
@@ -277,6 +278,8 @@ def getFeatureDataForTable(font, tableTag):
         return data
 
     for record in table.table.FeatureList.FeatureRecord:
+        if record.FeatureTag == "aalt":
+            continue
         data[record.FeatureTag] = entry = dict(unicodes=set())
 
         params = record.Feature.FeatureParams
@@ -298,8 +301,8 @@ def getFeatureDataForTable(font, tableTag):
                         for unicode in cmap.get(key, set()):
                             entry["unicodes"].add(unicode)
 
-
     return data
+
 
 def getFeatureData(font):
     return {**getFeatureDataForTable(font, "GSUB"), **getFeatureDataForTable(font, "GPOS")}
@@ -311,7 +314,7 @@ def getUnicodeFeatureTag(font):
     for tag, data in featureData.items():
         for unicode in data.get("unicodes", list()):
             if unicode not in mapping:
-                mapping[unicode] =  list()
+                mapping[unicode] = list()
             mapping[unicode].append(tag)
     return mapping
 
@@ -365,7 +368,6 @@ class Writer:
 
     def dedent(self):
         self.indentLevel -= 1
-
 
 
 class Controller(ezui.WindowController):
@@ -518,7 +520,7 @@ class Controller(ezui.WindowController):
         out += "styles:"
         out.indent()
         for font, path in self.fonts():
-            unicodeFeatureTagMap = getUnicodeFeatureTag(font)
+            featureData = getFeatureData(font)
 
             out += f"- {font["name"].getBestFullName()}:"
             out.indent()
@@ -536,7 +538,7 @@ class Controller(ezui.WindowController):
                 if unicode not in unicodes[block]:
                     unicodes[block].append(unicode)
 
-            out +=  "  characterset:"
+            out += "  characterset:"
             out.indent()
             for block, unicodes in unicodes.items():
                 text = []
@@ -547,12 +549,26 @@ class Controller(ezui.WindowController):
                     if t in unicodesToEscape:
                         t = f'\\{t}'
                     text.append(t)
-                    if unicode in unicodeFeatureTagMap:
-                        for featureTag in unicodeFeatureTagMap[unicode]:
-                            text.append(f"{t}-{featureTag}")
-                text =  ' '.join(text).strip()
+                    # if unicode in unicodeFeatureTagMap:
+                    #     for featureTag in unicodeFeatureTagMap[unicode]:
+                    #         text.append(f"{t}-{featureTag}")
+
+                text = ' '.join(text).strip()
                 if text:
                     out += f"  {block}: \"{text}\""
+            for tag, info in featureData.items():
+                text = []
+                for unicode in info.get("unicodes", []):
+                    t = chr(unicode)
+                    if len(t.strip()) == 0:
+                        continue
+                    if t in unicodesToEscape:
+                        t = f'\\{t}'
+                    text.append(f"{t}-{tag}")
+                text = ' '.join(text)
+                if text:
+                    out += f"  {info['stylisticName']}: \"{text}\""
+
             out.dedent()
             out.dedent()
         out.dedent()
