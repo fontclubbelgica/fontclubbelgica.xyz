@@ -233,24 +233,5 @@ document.addEventListener('DOMContentLoaded', function() {
     		event.preventDefault()
     	})
    	})
-	   
-	   
-	// faq page
-	let hash = window.location.hash.substr(1);
-	if(hash) {
-		if(document.getElementById(hash) !== null) {
-			document.getElementById(hash).classList.toggle('show');
-		}
-	}
-	const faqtoggles = document.querySelectorAll('.faq-block h2');
-	faqtoggles.forEach((toggle)=> {
-		toggle.addEventListener('click', (event) => {
-			const element = event.target
-			const parent = element.closest('section')
-			if (parent) {
-				parent.classList.toggle('show')
-			}
-		})
-	})
 })
 

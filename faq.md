@@ -22,7 +22,7 @@ title: Frequently Asked Questions
   Modernistic sans typefaces.
 
   You can expect weird and wonderfull typographic experiments. Join us by following is on the Socials
-  channels or subscribing for our infrequent newsletter. We promise we will try our hardest to suprise yo
+  channels or subscribing for our infrequent newsletter. We promise we will try our hardest to suprise you.
 
 
 * ## Our Team
@@ -109,7 +109,7 @@ title: Frequently Asked Questions
 
   * #### General
 
-    For general inqueries please contact: % include mail a="info" %}
+    For general inqueries please contact: {% include mail a="info" %}
 
   * #### Instagram:
 
@@ -378,4 +378,23 @@ title: Frequently Asked Questions
 
 <script>
 // script to toggle based on the url #tag
+let hash = window.location.hash.substr(1);
+console.log(hash)
+let sections = document.querySelectorAll('.page > ul > li')
+sections.forEach((element)=> {
+    element.children[0].addEventListener("click", (event) => {
+        for (var i = 1; i < element.children.length; i++) {
+            child = element.children[i]
+            child.classList.toggle("hide")
+        }
+    })
+    console.log(element.children[0].id != hash, element.children[0], hash)
+    if ( element.children[0].id != hash ) {
+        for (var i = 1; i < element.children.length; i++) {
+            child = element.children[i]
+            child.classList.add("hide")
+        }
+    }
+})
+console.log(sections)
 </script>
