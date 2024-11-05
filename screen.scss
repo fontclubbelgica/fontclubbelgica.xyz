@@ -1089,7 +1089,7 @@ footer {
             margin: 0 auto;
             border-top: solid 2px var(--black);
             padding-top: 20px;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
             position: relative;
 
             h2 {
@@ -1107,18 +1107,44 @@ footer {
             h3, p, ul {
                 margin-left: 300px;
             }
+            @media(max-width: 1000px) {
+              h3, p, ul {
+                margin-left: 200px;
+              }
+              h2 {
+                width: 200px;
+              }
+            }
+            @media(max-width: 600px) {
+              h3, p, ul {
+                margin-left: 0;
+              }
+              h2 {
+                width: 100%;
+                position: static;
+              }
+              >h2+h3, >h2+p {
+                padding-top: 20px;
+              }
+            }
             h4 {
                 width: 40%;
             }
             ul li {
                 list-style-type: none;
+                display: flex;
+                flex-wrap: wrap;
                 position: relative;
+                padding-bottom: 12px;
                 p {
                     width: 60%;
+                    margin-left: 0;
                 }
-                h4 {
-                    position: absolute;
-                }
+            }
+            @media(max-width: 450px) {
+             h4,ul li p {
+               width: 100%;
+             }
             }
         }
   }
