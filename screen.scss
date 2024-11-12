@@ -38,7 +38,7 @@
 }
 
 :root {
-    --padding: 26px;
+    --padding: 10px;
     --black: #2D2926;;
     --yellow: #FFCD00;
     --red: #C8102E;
@@ -668,6 +668,7 @@ section.lang-support {
     overflow: clip;
     height: 150px;
     margin: 20px 0;
+    padding: 0 var(--padding);
     font-size: 100px;
     line-height: 1.5;
 }
