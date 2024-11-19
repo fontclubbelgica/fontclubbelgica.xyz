@@ -1025,6 +1025,30 @@ section.library {
     }
 }
 
+// page
+
+.page {
+    padding-top: 100px;
+}
+
+// Articles
+
+.article {
+    padding-top: 100px;
+    font-size: 15px;
+    line-height: 24px;
+    max-width: 680px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+
+    h1, h2, h3 {
+        text-align: center;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+}
+
+
 
 // Footer
 footer {
@@ -1188,7 +1212,6 @@ footer {
     letter-spacing: -0.5vw;
     line-height: 11vw;
     text-align: center;
-    padding-top: 100px;
     padding-bottom: 40px;
   }
 
