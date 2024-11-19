@@ -378,9 +378,9 @@ title: Frequently Asked Questions
 
 <script>
 // script to toggle based on the url #tag
-let hash = window.location.hash.substr(1);
-console.log(hash)
-let sections = document.querySelectorAll('.page > ul > li')
+hash = window.location.hash.substr(1);
+sections = document.querySelectorAll('.page > ul > li')
+
 sections.forEach((element)=> {
     element.children[0].addEventListener("click", (event) => {
         for (var i = 1; i < element.children.length; i++) {
@@ -388,7 +388,6 @@ sections.forEach((element)=> {
             child.classList.toggle("hide")
         }
     })
-    console.log(element.children[0].id != hash, element.children[0], hash)
     if ( element.children[0].id != hash ) {
         for (var i = 1; i < element.children.length; i++) {
             child = element.children[i]
@@ -396,5 +395,17 @@ sections.forEach((element)=> {
         }
     }
 })
-console.log(sections)
+
+addEventListener("hashchange", (event) => {
+    hash = window.location.hash.substr(1);
+    sections.forEach((element)=> {
+        if ( element.children[0].id == hash ) {
+            for (var i = 1; i < element.children.length; i++) {
+                child = element.children[i]
+                child.classList.remove("hide")
+            }
+        }
+    })
+})
+
 </script>
