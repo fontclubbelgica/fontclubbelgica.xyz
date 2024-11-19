@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 date: 2024-05-07
 tags:
     - custom fonts

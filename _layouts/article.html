@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: default
 ---
 
-<img src="{% page.featuredImage %}">
+{% if page.featuredImage %}
+<img src="{{ page.featuredImage }}">
+{% endif %}
 
+<main class="article">
 {{ content }}
+</main>
