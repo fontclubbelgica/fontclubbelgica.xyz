@@ -45,11 +45,11 @@
         <nav class="col-2">
             <h2>Support</h2>
             <ul>
-                <li><a href="#">Payments</a></li>
-                <li><a href="#">Licensing</a></li>
-                <li><a href="/faq#EULA">EULA</a></li>
+                <li><a href="/faq#payments">Payments</a></li>
+                <li><a href="/faq#licensing">Licensing</a></li>
+                <li><a href="/faq#eula">EULA</a></li>
                 <li><a href="/faq#legal">Legal</a></li>
-                <li><a href="#">GDPR</a></li>
+                <li><a href="/faq#gdpr">GDPR</a></li>
             </ul>
         </nav>
         <div class="col-12">

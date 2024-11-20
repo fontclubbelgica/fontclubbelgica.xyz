@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 date: 2024-05-07
 tags:
     - custom fonts
@@ -42,11 +42,13 @@ There are 2 main reasons to go full custom…
 ## How much does a custom font cost?
 
 As with most aspects of design, it is hard to put a price on custom type?  You don’t pay for a custom logo, you pay for the process of getting there. You can get a one pager website or full bespoke shop with a custom CMS backend … so what are some of the main factors?
-    1.  The range of weights and the medium. Is it only one weight for headline for a single campaign or an army of weights for display and text use, both in print, app, web and broadcast?
-    2.  Which style to go for? Wether it being sans, serif, script, all of the above in a variable font, … Some fonts only need one or a few masters and the production of intermediate weights can be partly calculated and automated.
-    3.  Opentype code: this is code hidden within a font that can add automatic glyph substitution with calculated randomness? Sometimes there are multiple glyphs for a single letter. Opentype code can automate different tasks. If you type the brand name, the logo is automatically substituted … Or if other changes are made type can be adjusted with code to keep the implementation of the style guide consistent through all media and markets.
-    4.  The language support: Latin type might be the most used but certainly not the only one needed. There is also Cyrillic, Greek, Vietnamese, Thai, Arabic, Indian, Chinese, Korean, Japanese, Hebrew and many others.
-    5.  A technical assistent: After creating a working typeface, the focus shifts to technical aspects like ligatures and legibility across different platforms and devices. Testing ensures that the font performs well in various contexts, such as apps and websites.
+
+1.  The range of weights and the medium. Is it only one weight for headline for a single campaign or an army of weights for display and text use, both in print, app, web and broadcast?
+2.  Which style to go for? Wether it being sans, serif, script, all of the above in a variable font, … Some fonts only need one or a few masters and the production of intermediate weights can be partly calculated and automated.
+3.  Opentype code: this is code hidden within a font that can add automatic glyph substitution with calculated randomness? Sometimes there are multiple glyphs for a single letter. Opentype code can automate different tasks. If you type the brand name, the logo is automatically substituted … Or if other changes are made type can be adjusted with code to keep the implementation of the style guide consistent through all media and markets.
+4.  The language support: Latin type might be the most used but certainly not the only one needed. There is also Cyrillic, Greek, Vietnamese, Thai, Arabic, Indian, Chinese, Korean, Japanese, Hebrew and many others.
+5.  A technical assistent: After creating a working typeface, the focus shifts to technical aspects like ligatures and legibility across different platforms and devices. Testing ensures that the font performs well in various contexts, such as apps and websites.
+
 All these factors influence to pricing. But pricing shouldn’t dictate the process. We believe in a process of collaboration. It all starts with a good conversation to see what are the real needs before putting numbers on what is actually needed.
 
 ## Trends in bespoke type
