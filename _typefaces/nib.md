@@ -2,7 +2,7 @@
 layout: font
 title: FC Nib
 
-draft: true
+draft: false
 
 information: |
     The Jekyll and Hyde of serif fonts, Nib combines chiseled and pointed pen forms into a multifunctional workhorse typeface.
@@ -298,7 +298,7 @@ research: |
 
 
 library_preview:
-    - FCB Library Nib_1.svg
+    - FCB_Library Nib_1.svg
     - FCB_Library_Nib_2.svg
     - FCB_Library_Nib_3.svg
     - FCB_Library_Nib_4.svg
