@@ -1,16 +1,16 @@
 ---
 layout: font
-title: FC Nib
+title: FC Gorp
 
 draft: true
 
 information: |
-    The Jekyll and Hyde of serif fonts, Nib combines chiseled and pointed pen forms into a multifunctional workhorse typeface.
+    Monospaced Sans Serif with a technological vibe and with better ragging.  
 
 designer: Dries Wiewauters
-date: 2019-01-01
+date: 2024-12-01
 
-glyphCount: 1099
+glyphCount: 1387
 
 styles:
     - to do

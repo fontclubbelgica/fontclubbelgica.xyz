@@ -2,7 +2,7 @@
 layout: font
 title: FC Cru
 
-draft: true
+draft: false
 
 information: |
     Woodtype for the web. Cru pays hommage to old wood type whilst optimizing those forms for digital design.
