@@ -172,7 +172,7 @@ openTypeFeatures:
         name: "Short f"
         fontStyle: FC PDU Regular
         examples:
-            - Chiffchaffs
+            - The first half of february is free
 
     - ss07:
         name: "Looped g"
@@ -202,19 +202,13 @@ openTypeFeatures:
         name: "Randomise Uppercase"
         fontStyle: FC PDU Regular
         examples:
-            - Supercalifragilisticexpialidocious
-
-    - ss12:
-        name: "Randomise Uppercase"
-        fontStyle: FC PDU Regular
-        examples:
-            - Supercalifragilisticexpialidocious
+            - SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 
     - lnum+tnum:
         name: Lining Tabular Numbers
         fontStyle: FC PDU Regular
         examples:
-            — 1234567890€$£%
+            - 1234567890€$£%
 
     - onum+tnum:
         name: Oldstyle Tabular Numbers
