@@ -5,7 +5,7 @@ title: FC Gorp
 draft: true
 
 information: |
-    Monospaced Sans Serif with a technological vibe and with better ragging.  
+    FC Gorp is a hybrid Monospaced Sans Serif with with better ragging and a technological vibe.  
 
 designer: Dries Wiewauters
 date: 2024-12-01
@@ -298,7 +298,7 @@ research: |
 
 
 library_preview:
-    - FCB Library Nib_1.svg
+    - FCB_Library Nib_1.svg
     - FCB_Library_Nib_2.svg
     - FCB_Library_Nib_3.svg
     - FCB_Library_Nib_4.svg
