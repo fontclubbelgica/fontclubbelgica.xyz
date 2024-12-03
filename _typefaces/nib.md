@@ -299,7 +299,7 @@ research: |
     </div></div>
 
 library_preview:
-    - FCB_Library Nib_1.svg
+    - FCB_Library_Nib_1.svg
     - FCB_Library_Nib_2.svg
     - FCB_Library_Nib_3.svg
     - FCB_Library_Nib_4.svg

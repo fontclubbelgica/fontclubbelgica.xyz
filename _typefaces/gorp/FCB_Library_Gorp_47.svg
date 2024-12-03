@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 0 2.99;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: lime;
+      }
+
+      .cls-6 {
+        fill: #142713;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g class="cls-4">
+        <polygon class="cls-5" points="0 0 0 300 300 300 300 0 0 0 0 0"/>
+        <line class="cls-2" x1="3.7" y1="201.44" x2="297.79" y2="201.44"/>
+        <path class="cls-3" d="M.71,201.44H.71m298.57,0h0"/>
+        <line class="cls-2" x1="3.7" y1="238" x2="297.79" y2="238"/>
+        <path class="cls-3" d="M.71,238H.71m298.57,0h0"/>
+        <line class="cls-2" x1="3.7" y1="104.65" x2="297.79" y2="104.65"/>
+        <path class="cls-3" d="M.71,104.65H.71m298.57,0h0"/>
+        <line class="cls-2" x1="3.7" y1="65.5" x2="297.79" y2="65.5"/>
+        <path class="cls-3" d="M.71,65.5H.71m298.57,0h0"/>
+      </g>
+      <path class="cls-6" d="M50.86,201.25h13.58l10.6-39.8,.37-3.91,20.65-87.42h-3.72l20.83,87.42,.19,3.91,10.79,39.8h13.39v-13.39l-34.04-122.39h-18.6l-34.04,122.39v13.39h0Zm16.37-35.15h53.75v-12.83h-53.75v12.83h0Zm161.82,35.15h14.51v-61.75c0-22.88-12.83-34.97-37.01-34.97h-37.01v13.39h35.9c15.44,0,22.69,7.25,22.69,22.69v31.62l.93,.93v28.09h0Zm3.72-45.57l-4.65-.74c0,22.69-10.23,36.64-28.27,36.64-12.09,0-17.86-6.32-17.86-17.3,0-12.09,7.07-19.16,24.55-19.16h25.3v-10.42h-28.09c-26.78,0-37.94,12.09-37.94,30.69s10.79,28.09,28.83,28.09c24.18,0,38.13-17.67,38.13-47.8h0Z"/>
+    </g>
+  </g>
+</svg>

@@ -229,11 +229,6 @@ testers:
       fontStyle: FC Nib Black Italic
       fontSize: 70
 
-
-
-
-
-
 about:
     - text: |
         ## Nib: A Typeface of Duality and Craftsmanship
@@ -298,21 +293,59 @@ research: |
 
 
 library_preview:
-    - FCB_Library Nib_1.svg
-    - FCB_Library_Nib_2.svg
-    - FCB_Library_Nib_3.svg
-    - FCB_Library_Nib_4.svg
-    - FCB_Library_Nib_5.svg
-    - FCB_Library_Nib_6.svg
-    - FCB_Library_Nib_7.svg
-    - FCB_Library_Nib_8.svg
-    - FCB_Library_Nib_9.svg
-    - FCB_Library_Nib_10.svg
-    - FCB_Library_Nib_11.svg
-    - FCB_Library_Nib_12.svg
+    - FCB_Library_Gorp_1.svg
+    - FCB_Library_Gorp_2.svg
+    - FCB_Library_Gorp_3.svg
+    - FCB_Library_Gorp_4.svg
+    - FCB_Library_Gorp_5.svg
+    - FCB_Library_Gorp_6.svg
+    - FCB_Library_Gorp_7.svg
+    - FCB_Library_Gorp_8.svg
+    - FCB_Library_Gorp_9.svg
+    - FCB_Library_Gorp_10.svg
+    - FCB_Library_Gorp_11.svg
+    - FCB_Library_Gorp_12.svg
+    - FCB_Library_Gorp_13.svg
+    - FCB_Library_Gorp_14.svg
+    - FCB_Library_Gorp_15.svg
+    - FCB_Library_Gorp_16.svg
+    - FCB_Library_Gorp_17.svg
+    - FCB_Library_Gorp_18.svg
+    - FCB_Library_Gorp_19.svg
+    - FCB_Library_Gorp_20.svg
+    - FCB_Library_Gorp_21.svg
+    - FCB_Library_Gorp_22.svg
+    - FCB_Library_Gorp_23.svg
+    - FCB_Library_Gorp_24.svg
+    - FCB_Library_Gorp_25.svg
+    - FCB_Library_Gorp_26.svg
+    - FCB_Library_Gorp_27.svg
+    - FCB_Library_Gorp_28.svg
+    - FCB_Library_Gorp_29.svg
+    - FCB_Library_Gorp_30.svg
+    - FCB_Library_Gorp_31.svg
+    - FCB_Library_Gorp_32.svg
+    - FCB_Library_Gorp_33.svg
+    - FCB_Library_Gorp_34.svg
+    - FCB_Library_Gorp_35.svg
+    - FCB_Library_Gorp_36.svg
+    - FCB_Library_Gorp_37.svg
+    - FCB_Library_Gorp_38.svg
+    - FCB_Library_Gorp_39.svg
+    - FCB_Library_Gorp_40.svg
+    - FCB_Library_Gorp_41.svg
+    - FCB_Library_Gorp_42.svg
+    - FCB_Library_Gorp_43.svg
+    - FCB_Library_Gorp_44.svg
+    - FCB_Library_Gorp_45.svg
+    - FCB_Library_Gorp_46.svg
+    - FCB_Library_Gorp_47.svg
+    - FCB_Library_Gorp_48.svg
+    - FCB_Library_Gorp_49.svg
+    - FCB_Library_Gorp_50.svg
 
 font_match:
+    - FC Mad Serif
+    - FC Nib
     - FC PDU
-    - FC Mad Sans
-    - FC Pep
 ---
