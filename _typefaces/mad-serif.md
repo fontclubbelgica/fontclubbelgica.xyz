@@ -585,14 +585,16 @@ research: |
     ## The History and Evolution of the Hershey Fonts: From A.V. Hershey to Mad Sans and Mad Serif
     <div><div>
     <img src="FCB_Research_Mad_1.svg" />
-    </div><div>
+    </div>
+    <div>
     <h2>Origins of the Hershey Fonts</h2>
     <p>The Hershey Fonts were created in the 1960s by Dr. Allen V. Hershey, a mathematician and cartographer working at the U.S. Naval Weapons Laboratory. In a time before modern computers had the ability to render text with sophisticated pixel grids, the challenge was to create fonts that could be efficiently rendered using vector-based systems. These early computers and plotters used simple commands to draw lines and shapes, making it impractical to use rasterized (pixel-based) fonts. Hershey’s solution was to design a series of fonts that could be drawn entirely using connected lines, making them suitable for devices like pen plotters and vector displays.</p>
 
     <p>The Nature of Vector Fonts Hershey’s fonts were minimalist and geometric due to the constraints of early computing. Each character was represented as a series of connected points, allowing plotters to trace the shapes with minimal instructions. This vector-based system allowed for the efficient rendering of text in early graphics and scientific applications, where low-resolution output was standard.</p>
 
     <p>However, the fonts’ simplicity also led to some visual oddities. Hershey had to balance the need for legibility with the limitations of early hardware, often resulting in characters that had unusual proportions, unexpected curves, and a quirky, hand-drawn quality. This "accidental weirdness" became a defining characteristic of the Hershey Fonts. For instance, some letters had inconsistent stroke weights or unconventional shapes that gave the fonts a technical, almost mechanical feel.</p>
-    </div></div><div><div>
+    </div>
+    </div><div><div>
     <img src="FCB_Research_Mad_2.svg" />
     </div><div>
     <h2>A.V. Hershey: The Innovator Behind the Fonts</h2>
@@ -600,8 +602,8 @@ research: |
 
     <p>Hershey’s expertise as a cartographer and mathematician is evident in the precision and mathematical approach behind the fonts. However, despite their utility, the original fonts were never meant to be aesthetic masterpieces. The quirks that arose from these technical compromises, though, eventually became a source of fascination for later designers.</p>
 
-    <p>The Transition to Modern Type Families: Mad Sans and Mad Serif
-    Fast forward several decades, and the Hershey Fonts have found new life through the creative reinterpretation of Dries Wiewauters, who sought to preserve the quirky, low-resolution charm of the originals while making them more usable in contemporary design contexts. Two modern type families—Mad Sans and Mad Serif—have evolved from these early experiments, maintaining the spirit of the Hershey Fonts while refining their design for more versatile applications.</p>
+    <h2>The Transition to Modern Type Families: Mad Sans and Mad Serif</h2>
+    <p>Fast forward several decades, and the Hershey Fonts have found new life through the creative reinterpretation of Dries Wiewauters, who sought to preserve the quirky, low-resolution charm of the originals while making them more usable in contemporary design contexts. Two modern type families—Mad Sans and Mad Serif—have evolved from these early experiments, maintaining the spirit of the Hershey Fonts while refining their design for more versatile applications.</p>
     </div></div><div><div>
     <img src="FCB_Research_Mad_3.svg" />
     </div><div>

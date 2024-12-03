@@ -146,8 +146,8 @@ showcases:
 
 testers:
     - text: |
-        De "bandwagon"-techniek is een populaire propaganda-strategie die mensen aanspoort om zich bij een groep of trend aan te sluiten, omdat anderen dat ook doen. Het idee is dat wanneer iets door een grote groep wordt gedaan, het als wenselijk of juist wordt beschouwd. Deze techniek speelt in op de menselijke neiging om erbij te willen horen en sociale goedkeuring te zoeken.
-        In campagnes wordt de bandwagon-techniek vaak toegepast door te benadrukken dat veel mensen een bepaald product, idee of beweging steunen. Bijvoorbeeld, advertenties kunnen laten zien dat duizenden mensen een product kopen of dat een grote groep mensen zich bij een bepaalde beweging aansluit. Hierdoor voelen anderen zich aangetrokken om ook deel uit te maken van deze "populaire" keuze.
+        De “bandwagon”-techniek is een populaire propaganda-strategie die mensen aanspoort om zich bij een groep of trend aan te sluiten, omdat anderen dat ook doen. Het idee is dat wanneer iets door een grote groep wordt gedaan, het als wenselijk of juist wordt beschouwd. Deze techniek speelt in op de menselijke neiging om erbij te willen horen en sociale goedkeuring te zoeken.
+        In campagnes wordt de bandwagon-techniek vaak toegepast door te benadrukken dat veel mensen een bepaald product, idee of beweging steunen. Bijvoorbeeld, advertenties kunnen laten zien dat duizenden mensen een product kopen of dat een grote groep mensen zich bij een bepaalde beweging aansluit. Hierdoor voelen anderen zich aangetrokken om ook deel uit te maken van deze “populaire” keuze.
         Het gevaar van de bandwagon-techniek is dat het mensen kan beïnvloeden om beslissingen te nemen op basis van sociale druk in plaats van op basis van rationele overwegingen of eigen overtuigingen. Dit kan leiden tot conformisme en het volgen van trends zonder kritisch na te denken over de consequenties.
       fontStyle: FC Cru X Condensed Black
       fontSize: 200
@@ -160,29 +160,29 @@ testers:
       fontSize: 40
 
     - text: |
-       Teknolojia ya "testimonials" ni mbinu ya propaganda inayotumia ushuhuda kutoka kwa watu maarufu au wenye mamlaka ili kuathiri maoni na tabia za watu. Wakati mtu maarufu, mtaalamu, au kiongozi wa umma anapokuja mbele na kuzungumzia bidhaa, wazo, au sababu fulani, inaweza kuunda athari kubwa kwa hadhira. Watu mara nyingi huamini na kuheshimu watu hawa, wakidhani kuwa ushawishi wao unaashiria ubora au ukweli.
+       Teknolojia ya “testimonials” ni mbinu ya propaganda inayotumia ushuhuda kutoka kwa watu maarufu au wenye mamlaka ili kuathiri maoni na tabia za watu. Wakati mtu maarufu, mtaalamu, au kiongozi wa umma anapokuja mbele na kuzungumzia bidhaa, wazo, au sababu fulani, inaweza kuunda athari kubwa kwa hadhira. Watu mara nyingi huamini na kuheshimu watu hawa, wakidhani kuwa ushawishi wao unaashiria ubora au ukweli.
         Kwa mfano, muigizaji maarufu anaweza kutangaza bidhaa ya kiafya, akidai kuwa imebadilisha maisha yake. Hadithi hii ya kibinafsi inaweza kuungana na wapenzi wake, na kuwahamasisha kujaribu bidhaa hiyo pia. Ushuhuda ni nguvu kwa sababu unalenga hisia, na kufanya ujumbe kuwa wa karibu zaidi na wa kuaminika.
         Hata hivyo, ni muhimu kuzingatia uhalali wa ushirikiano huu. Wakati mwingine, watu wanaotoa ushuhuda huenda hawatumii bidhaa hiyo kwa kweli au hawaamini katika sababu hiyo, jambo ambalo linaweza kuleta mashaka miongoni mwa hadhira ikiwa litagundulika. Kwa ujumla, testimonials ni mbinu inayotumiwa sana katika masoko na propaganda, ikilenga kujenga imani na uaminifu kwa kuunganisha ujumbe na sauti inayoaminika.
       fontStyle: FC Cru Condensed Black
       fontSize: 140
 
     - text: |
-       "Glittering generalities" is a propaganda technique that uses vague, emotionally appealing phrases to evoke positive feelings without providing specific details or concrete evidence. This approach relies on words that carry strong emotional connotations, such as "freedom," "justice," or "the American dream." By appealing to these ideals, the speaker aims to generate a favorable response from the audience.
-        For example, a political campaign might promote a candidate by stating that they will bring "hope and change," appealing to the public's desire for progress and positivity. However, the lack of specific policies or actions can leave the audience feeling inspired but unclear about what exactly is being proposed.
+       “Glittering generalities” is a propaganda technique that uses vague, emotionally appealing phrases to evoke positive feelings without providing specific details or concrete evidence. This approach relies on words that carry strong emotional connotations, such as “freedom,” “justice,” or “the American dream.” By appealing to these ideals, the speaker aims to generate a favorable response from the audience.
+        For example, a political campaign might promote a candidate by stating that they will bring “hope and change,” appealing to the public's desire for progress and positivity. However, the lack of specific policies or actions can leave the audience feeling inspired but unclear about what exactly is being proposed.
         This technique is effective because it taps into deep-seated values and emotions, allowing the audience to project their own interpretations onto the message. However, it can also be manipulative, as it can obscure the truth and prevent critical thinking. By focusing on appealing language rather than substantive content, glittering generalities can sway opinions and mobilize support, making it a common strategy in advertising, political campaigns, and social movements.
       fontStyle: FC Cru Condensed Black Italic
       fontSize: 80
 
     - text: |
-        La tecnica del "transfer" è un metodo di propaganda che sfrutta l'associazione di idee e sentimenti positivi con un prodotto, un'idea o una figura pubblica. In sostanza, si cerca di trasferire le emozioni e le connotazioni positive di un elemento già rispettato o ammirato su un altro, meno noto. Questo può avvenire attraverso immagini, simboli o parole che evocano sentimenti di fiducia, amore o ammirazione.
+        La tecnica del “transfer” è un metodo di propaganda che sfrutta l'associazione di idee e sentimenti positivi con un prodotto, un'idea o una figura pubblica. In sostanza, si cerca di trasferire le emozioni e le connotazioni positive di un elemento già rispettato o ammirato su un altro, meno noto. Questo può avvenire attraverso immagini, simboli o parole che evocano sentimenti di fiducia, amore o ammirazione.
         Ad esempio, un marchio di automobili potrebbe utilizzare immagini di paesaggi naturali incontaminati o famiglie felici per evocare un senso di sicurezza e benessere. Anche l'uso di figure carismatiche, come celebrità o leader, può servire a trasferire la loro popolarità e credibilità al prodotto o all'idea promossa.
         Tuttavia, la tecnica del transfer può anche essere manipolativa, poiché non sempre riflette la verità o la qualità del prodotto. L'obiettivo è creare un legame emotivo che possa influenzare le decisioni di acquisto o di voto, spingendo le persone ad accettare un messaggio basato su emozioni piuttosto che su fatti concreti. Questa strategia è comune in pubblicità, campagne politiche e movimenti sociali.
       fontStyle: FC Cru SemiCondensed Black
       fontSize: 200
 
     - text: |
-        Le name-calling (ou étiquetage péjoratif) est une technique de propagande qui consiste à utiliser des termes dévalorisants ou insultants pour discréditer un individu, un groupe, ou une idée. L'objectif est d'associer ces personnes ou idées à des connotations négatives, souvent sans preuve ou analyse approfondie. En utilisant des mots chargés émotionnellement comme "traître", "incompétent", ou "terroriste", cette technique vise à susciter une réaction de rejet chez le public, sans qu'il prenne le temps d'examiner objectivement les arguments ou les faits.
-        Cette méthode s'appuie sur des stéréotypes et des préjugés, et est couramment utilisée dans les discours politiques, les campagnes publicitaires ou les médias pour influencer l'opinion publique. Elle peut conduire à des jugements hâtifs et à des divisions sociales en exagérant les différences entre "nous" et "eux". Par exemple, un politicien pourrait qualifier ses adversaires de "corrompus" ou "dangereux" pour détourner l'attention de ses propres faiblesses et semer la méfiance.
+        Le name-calling (ou étiquetage péjoratif) est une technique de propagande qui consiste à utiliser des termes dévalorisants ou insultants pour discréditer un individu, un groupe, ou une idée. L'objectif est d'associer ces personnes ou idées à des connotations négatives, souvent sans preuve ou analyse approfondie. En utilisant des mots chargés émotionnellement comme “traître”, “incompétent”, ou “terroriste”, cette technique vise à susciter une réaction de rejet chez le public, sans qu'il prenne le temps d'examiner objectivement les arguments ou les faits.
+        Cette méthode s'appuie sur des stéréotypes et des préjugés, et est couramment utilisée dans les discours politiques, les campagnes publicitaires ou les médias pour influencer l'opinion publique. Elle peut conduire à des jugements hâtifs et à des divisions sociales en exagérant les différences entre “nous” et “eux”. Par exemple, un politicien pourrait qualifier ses adversaires de “corrompus” ou “dangereux” pour détourner l'attention de ses propres faiblesses et semer la méfiance.
         Le name-calling est particulièrement efficace car il exploite les émotions du public, notamment la peur ou la colère, et fait appel à des réflexes instinctifs plutôt qu'à la réflexion rationnelle.
       fontStyle: FC Cru SemiCondensed Black Italic
       fontSize: 40
@@ -224,13 +224,13 @@ testers:
 
     - text: |
         Tekniikka iskulauseet ja tunnuslauseet (Slogans and Catchphrases) on tehokas propagandakeino, jossa käytetään lyhyitä, mieleenpainuvia ja tunteisiin vetoavia lauseita, jotta viesti jäisi helposti ihmisten mieleen. Nämä iskulauseet ovat usein yksinkertaisia, mutta voimakkaita, ja niiden tarkoituksena on kiteyttää monimutkaiset ajatukset tai ideat helposti ymmärrettävään muotoon.
-        Politiikassa iskulauseet kuten "Kansa ensin" tai "Yhteinen hyvä" luodaan usein herättämään tunteita ja vahvistamaan yhteenkuuluvuuden tunnetta. Yritykset taas käyttävät niitä mainonnassa, esimerkiksi "Parasta laatua" tai "Tee elämästäsi helpompaa", jotta tuotteet tai palvelut erottuvat kilpailijoista ja jäävät kuluttajien mieleen.
+        Politiikassa iskulauseet kuten “Kansa ensin” tai “Yhteinen hyvä” luodaan usein herättämään tunteita ja vahvistamaan yhteenkuuluvuuden tunnetta. Yritykset taas käyttävät niitä mainonnassa, esimerkiksi “Parasta laatua” tai “Tee elämästäsi helpompaa”, jotta tuotteet tai palvelut erottuvat kilpailijoista ja jäävät kuluttajien mieleen.
         Iskulauseet ja tunnuslauseet ovat tehokkaita, koska ne ovat helppoja muistaa ja usein toistuvat, mikä auttaa ihmisiä sisäistämään viestin lähes automaattisesti. Ne hyödyntävät tunteita ja saavat ihmiset reagoimaan ilman syvempää pohdintaa. Tämä tekee niistä voimakkaan työkalun mielipiteiden muokkaamisessa ja ihmisten toimintaan vaikuttamisessa. Ne voivat kuitenkin myös yksinkertaistaa monimutkaisia kysymyksiä ja johtaa siihen, että syvällisempi keskustelu jää taka-alalle.
       fontStyle: FC Cru Expanded Black Italic
       fontSize: 80
 
     - text: |
-        técnica de bode expiatório (Scapegoating) é uma estratégia de propaganda que consiste em culpar uma pessoa, grupo ou entidade por problemas ou crises, desviando a atenção das verdadeiras causas ou responsabilidades. O objetivo é simplificar questões complexas, criando um vilão claro e fácil de identificar, para que o público direcione sua frustração e raiva contra esse "culpado".
+        técnica de bode expiatório (Scapegoating) é uma estratégia de propaganda que consiste em culpar uma pessoa, grupo ou entidade por problemas ou crises, desviando a atenção das verdadeiras causas ou responsabilidades. O objetivo é simplificar questões complexas, criando um vilão claro e fácil de identificar, para que o público direcione sua frustração e raiva contra esse “culpado”.
         Essa técnica é frequentemente usada em contextos políticos e sociais, onde líderes ou grupos de poder buscam desviar a atenção de suas próprias falhas ou de fatores estruturais mais amplos. Por exemplo, em tempos de crise econômica, pode-se culpar minorias, imigrantes ou outro grupo marginalizado pelos problemas do país, criando um inimigo comum. Isso fortalece a coesão do grupo majoritário ao mesmo tempo em que perpetua o preconceito e a desinformação.
         O bode expiatório é eficaz porque oferece uma solução fácil para problemas complexos, apelando para as emoções das pessoas, como medo, frustração e ódio. No entanto, essa técnica é extremamente perigosa, pois alimenta divisões sociais, injustiças e violência, além de mascarar as verdadeiras causas dos problemas, impedindo soluções reais e eficazes.
       fontStyle: FC Cru X Expanded Black
@@ -278,7 +278,7 @@ research: |
 
     Where Poplar embraced the density and weight of woodtype, Cru takes these structural ideas and reduces them to their most simplistic form. Its circular counters, flat terminals, and variable widths echo the boldness of Poplar’s source material, but without the historical baggage.
 
-    The proportions of Cru are meticulously controlled, achieving a balance between tradition and modernity. The square-like forms of the "O" and "C," for instance, evoke the strong horizontal emphasis of woodtype but have been smoothed and updated, lending the letters a sense of crisp refinement. Poplar’s rugged qualities are still faintly visible here, but they’ve been honed and stripped back to their essence.
+    The proportions of Cru are meticulously controlled, achieving a balance between tradition and modernity. The square-like forms of the “O “ and “C, “ for instance, evoke the strong horizontal emphasis of woodtype but have been smoothed and updated, lending the letters a sense of crisp refinement. Poplar’s rugged qualities are still faintly visible here, but they’ve been honed and stripped back to their essence.
 
     !()[FCB_Cru_Article_1.svg]
 

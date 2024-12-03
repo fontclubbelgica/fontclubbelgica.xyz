@@ -121,9 +121,9 @@ openTypeFeatures:
         examples:
             - "1234567890"
 
-css: Nib-style.css
+css: gorp-style.css
 
-splash: Nib-splash.svg
+splash: gorp-splash.svg
 
 showcases:
     - ABCDEFGHIJKLMN
