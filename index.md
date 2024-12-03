@@ -107,9 +107,9 @@ css: assets/css/flickity.css
 
 <script>
     var flkty = new Flickity( '.splash', {
-        pageDots: false, arrowShape: "M42.1 .74 0 50 42.1 99.26 50.88 99.26 50.88 92.79 18.7 55.53 99.99 55.53 99.99 44.47 18.7 44.47 50.88 7.23 50.88 .74 42.1 .74", autoPlay: 3000
+        pageDots: false, wrapAround: true, arrowShape: "M42.1 .74 0 50 42.1 99.26 50.88 99.26 50.88 92.79 18.7 55.53 99.99 55.53 99.99 44.47 18.7 44.47 50.88 7.23 50.88 .74 42.1 .74", autoPlay: 3000
     });
     var flkty2 = new Flickity( '.img-slider', {
-        pageDots: false, prevNextButtons: false, autoPlay: 3000, imagesLoaded: true
+        pageDots: false, prevNextButtons: false, autoPlay: 3000, imagesLoaded: true, wrapAround: true
     });
 </script>
