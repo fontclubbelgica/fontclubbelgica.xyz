@@ -172,7 +172,7 @@ openTypeFeatures:
         name: "Short f"
         fontStyle: FC PDU Regular
         examples:
-            - Chiffchaffs
+            - The first half of february is free
 
     - ss07:
         name: "Looped g"
@@ -202,19 +202,13 @@ openTypeFeatures:
         name: "Randomise Uppercase"
         fontStyle: FC PDU Regular
         examples:
-            - Supercalifragilisticexpialidocious
-
-    - ss12:
-        name: "Randomise Uppercase"
-        fontStyle: FC PDU Regular
-        examples:
-            - Supercalifragilisticexpialidocious
+            - SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 
     - lnum+tnum:
         name: Lining Tabular Numbers
         fontStyle: FC PDU Regular
         examples:
-            — 1234567890€$£%
+            - 1234567890€$£%
 
     - onum+tnum:
         name: Oldstyle Tabular Numbers
@@ -321,6 +315,37 @@ testers:
         Această metodă este apreciată pentru rapiditate, consistență și capacitatea de a reutiliza șablonul de mai multe ori pe diferite suprafețe.
       fontStyle: FC PDU Stencil
       fontSize: 120
+
+
+    - text: |
+        AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ 
+        aaaaaa bbbbbbbbb cccccc dddddd eeeeeeeeee fff gggggg hhhh iiiiiiiii jjjjjjjjj kkkk lllllll nnnnn oooooooooo ppppp qqq rrrrrrrr uuuuuuuuuu ssss ttttttt uuu vvvvvvv wwwwww xxxxx yyy zzzzzzzzzzzz
+        JJJ KKkK LLLLL MMMMMMMM NNN OOOOO PPPPPP QQQQ RRRRRRR SSSS TTTTT UUUUUUUU VVVVV WWWWW XXXX YYY ZZZZZZZZZ AAAA BBBBBB CCCCC DDDDDDDDD EEE FFFFFF GGGGGGGGGGG HHHHHHHH IIII
+        jjjjjjjj kkkkkkkk lll mmm nnnnnnnnn ooooooo ppp qqqqqq rrrr sssssssss ttt uuuu vvvvvvvv wwww xxxxxxxx yyyyyyyy zzz aaaaaa bbb cccccccc dddd eeee ffffff gggggg hhhhh iiiiiiiii
+        QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP
+        qqqqq rrrrrrrr ssssssss tttt uuuuuuuu vvvv wwwwwwww xxx yyyyyyyyyy zzzzzz aaa bbbbbbbb cccc dddddd eeeeeeee ffff ggggggggg hhh iiiiiii jjjjjj kkk llll mmmmmmmmm nnnnnnn ooo ppppppppppp
+      fontStyle: FC PDU Pattern Regular
+      fontSize: 50
+
+    - text: |
+        JJJ KKkK LLLLL MMMMMMMM NNN OOOOO PPPPPP QQQQ RRRRRRR SSSS TTTTT UUUUUUUU VVVVV WWWWW XXXX YYY ZZZZZZZZZ AAAA BBBBBB CCCCC DDDDDDDDD EEE FFFFFF GGGGGGGGGGG HHHHHHHH IIII
+        jjjjjjjj kkkkkkkk lll mmm nnnnnnnnn ooooooo ppp qqqqqq rrrr sssssssss ttt uuuu vvvvvvvv wwww xxxxxxxx yyyyyyyy zzz aaaaaa bbb cccccccc dddd eeee ffffff gggggg hhhhh iiiiiiiii
+        QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP
+        qqqqq rrrrrrrr ssssssss tttt uuuuuuuu vvvv wwwwwwww xxx yyyyyyyyyy zzzzzz aaa bbbbbbbb cccc dddddd eeeeeeee ffff ggggggggg hhh iiiiiii jjjjjj kkk llll mmmmmmmmm nnnnnnn ooo ppppppppppp
+        AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ 
+        aaaaaa bbbbbbbbb cccccc dddddd eeeeeeeeee fff gggggg hhhh iiiiiiiii jjjjjjjjj kkkk lllllll nnnnn oooooooooo ppppp qqq rrrrrrrr uuuuuuuuuu ssss ttttttt uuu vvvvvvv wwwwww xxxxx yyy zzzzzzzzzzzz
+      fontStyle: FC PDU Pattern Outline
+      fontSize: 300
+
+    - text: |
+       QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP
+       qqqqq rrrrrrrr ssssssss tttt uuuuuuuu vvvv wwwwwwww xxx yyyyyyyyyy zzzzzz aaa bbbbbbbb cccc dddddd eeeeeeee ffff ggggggggg hhh iiiiiii jjjjjj kkk llll mmmmmmmmm nnnnnnn ooo ppppppppppp
+       AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ 
+       aaaaaa bbbbbbbbb cccccc dddddd eeeeeeeeee fff gggggg hhhh iiiiiiiii jjjjjjjjj kkkk lllllll nnnnn oooooooooo ppppp qqq rrrrrrrr uuuuuuuuuu ssss ttttttt uuu vvvvvvv wwwwww xxxxx yyy zzzzzzzzzzzz
+       JJJ KKkK LLLLL MMMMMMMM NNN OOOOO PPPPPP QQQQ RRRRRRR SSSS TTTTT UUUUUUUU VVVVV WWWWW XXXX YYY ZZZZZZZZZ AAAA BBBBBB CCCCC DDDDDDDDD EEE FFFFFF GGGGGGGGGGG HHHHHHHH IIII
+       jjjjjjjj kkkkkkkk lll mmm nnnnnnnnn ooooooo ppp qqqqqq rrrr sssssssss ttt uuuu vvvvvvvv wwww xxxxxxxx yyyyyyyy zzz aaaaaa bbb cccccccc dddd eeee ffffff gggggg hhhhh iiiiiiiii
+      fontStyle: FC PDU Pattern Stencil
+      fontSize: 80
 
 about:
     - image: pdu_animated.svg

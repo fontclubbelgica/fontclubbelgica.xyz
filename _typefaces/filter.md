@@ -47,14 +47,14 @@ styles:
 fontVariations:
    - wght:
       name: Weight
-      minValue: 10.0
-      maxValue: 120.0
-      defaultValue: 35.0
+      minValue: 1.0
+      maxValue: 1000.0
+      defaultValue: 400.0
    - wdth:
       name: Width
-      minValue: 0.3000030517578125
-      maxValue: 3.0
-      defaultValue: 1.0
+      minValue: 30
+      maxValue: 100
+      defaultValue: 300
    - slnt:
       name: Slant
       minValue: -30.0
@@ -71,17 +71,17 @@ fontVariations:
       maxValue: 1.0
       defaultValue: 1.0
 
-openTypeFeatures:
-   - dnom:
-       name: Denominators
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "0123456789"
-   - frac:
-       name: Fractions
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "/0123456789"
+# openTypeFeatures:
+#    - dnom:
+#        name: Denominators
+#        fontStyle: FC MAD Serif Light
+#        examples:
+#          - "0123456789"
+#    - frac:
+#        name: Fractions
+#        fontStyle: FC MAD Serif Light
+#        examples:
+#          - "/0123456789"
 
 testers:
     - text: |
