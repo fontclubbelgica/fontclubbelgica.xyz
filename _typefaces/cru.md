@@ -303,7 +303,7 @@ research: |
 
 
 library_preview:
-    - FCB Library Cru_1.svg
+    - FCB_Library_Cru_1.svg
     - FCB_Library_Cru_2.svg
     - FCB_Library_Cru_3.svg
     - FCB_Library_Cru_4.svg

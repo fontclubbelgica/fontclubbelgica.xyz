@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 0 2.99;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: lime;
+      }
+
+      .cls-6 {
+        fill: #142713;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g class="cls-4">
+        <polygon class="cls-5" points="0 0 0 300 300 300 300 0 0 0 0 0"/>
+        <line class="cls-2" x1="3.7" y1="201.44" x2="297.79" y2="201.44"/>
+        <path class="cls-3" d="M.71,201.44H.71m298.57,0h0"/>
+        <line class="cls-2" x1="3.7" y1="238" x2="297.79" y2="238"/>
+        <path class="cls-3" d="M.71,238H.71m298.57,0h0"/>
+        <line class="cls-2" x1="3.7" y1="104.65" x2="297.79" y2="104.65"/>
+        <path class="cls-3" d="M.71,104.65H.71m298.57,0h0"/>
+        <line class="cls-2" x1="3.7" y1="65.5" x2="297.79" y2="65.5"/>
+        <path class="cls-3" d="M.71,65.5H.71m298.57,0h0"/>
+      </g>
+      <path class="cls-6" d="M50.86,201.25h8.93l12.46-40.92,.37-2.42,23.44-90.21h-3.72l23.62,90.21,.37,2.42,12.46,40.92h8.74v-8.74l-37.57-127.04h-11.53l-37.57,127.04v8.74h0Zm15.44-37.76h55.61v-8.74h-55.61v8.74h0Zm166.28,37.76h9.67v-62.87c0-22.13-12.28-33.85-35.53-33.85h-35.71v8.74h34.78c17.67,0,26.04,8.37,26.04,26.04v32.18h.74v29.76h0Zm3.72-47.43l-4.46-.93c0,26.23-11.9,42.59-32.74,42.59-14.32,0-20.83-7.63-20.83-20.27,0-13.95,7.81-22.32,28.27-22.32h25.3v-7.81h-26.6c-26.97,0-37.94,12.65-37.94,30.32s10.97,28.09,29.39,28.09c24.92,0,39.62-18.6,39.62-49.66h0Z"/>
+    </g>
+  </g>
+</svg>
