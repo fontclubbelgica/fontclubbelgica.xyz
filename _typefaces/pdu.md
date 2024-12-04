@@ -274,6 +274,11 @@ css: pdu-style.css
 
 splash: FCB_SVG_Splashes_PDU.svg
 
+showcases:
+    - ABCDEFGHIJKLMN
+    - OPQRSTUVWXYZ
+    - abcdefghijklm
+    - nopqrstuvwxyz
 
 tags:
     - display
