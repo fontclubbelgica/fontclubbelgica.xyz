@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			}
 		}
 		else {
-			preview.style.fontFamily = element.value + ", 'AdobeBlank'"
+			preview.style.fontFamily = "'"+element.value+"', 'AdobeBlank'"
 		}
 	}
 
