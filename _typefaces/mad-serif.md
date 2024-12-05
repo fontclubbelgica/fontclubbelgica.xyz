@@ -438,7 +438,7 @@ testers:
         Le Système de Coordonnées Utilisateur (UCS) est un concept utilisé dans les logiciels de conception assistée par ordinateur (CAO), comme AutoCAD, pour permettre aux utilisateurs de définir un système de coordonnées personnalisé. Par défaut, un dessin utilise le Système de Coordonnées Mondial (WCS), qui est fixe. L'UCS permet de modifier l'orientation des axes X, Y, et Z afin de travailler plus facilement sur des parties spécifiques d'un projet.
         Dans un environnement 3D, l'UCS est particulièrement utile lorsque l'utilisateur doit dessiner ou modifier des objets qui ne sont pas alignés avec les axes standards du WCS. En ajustant l'UCS, il devient possible de travailler sur des surfaces inclinées ou des formes complexes sans avoir à repositionner l'objet lui-même. L'utilisateur peut faire pivoter ou déplacer les axes pour s’adapter à une face particulière, puis effectuer des modifications tout en maintenant la précision.
         L'UCS est une fonctionnalité clé pour la modélisation et la conception en raison de sa flexibilité. Il permet d'améliorer l'efficacité en offrant une meilleure maîtrise de l'environnement de dessin, notamment dans des situations où les objets ou les surfaces ne sont pas parfaitement alignés avec les axes par défaut.
-      fontStyle: FC Mad Serif Light
+      fontStyle: FC MAD Serif Light
       fontSize: 200
 
     - text: |
@@ -446,7 +446,7 @@ testers:
         Mřížka (grid) je sada vodorovných a svislých čar, které tvoří síť. Tato síť pomáhá vizuálně orientovat uživatele při práci a často je rozdělena do jednotek podle měřítka výkresu. I když mřížka nemusí být vždy viditelná, slouží jako referenční bod pro rozmístění objektů.
         Snap (přichycení) umožňuje automatické přichycení objektů nebo bodů k určitým místům na mřížce nebo k dalším důležitým bodům (např. rohy, středy, koncové body). Když je snap aktivní, uživatel nemusí ručně umisťovat objekty přesně – program je automaticky přichytí na nejbližší bod mřížky nebo jiný definovaný bod.
         Tato funkce je velmi užitečná pro zajištění přesnosti a rychlosti při kreslení, zejména u technických výkresů, kde je třeba dodržovat přesné rozměry a zarovnání. Snap a mřížka tak pomáhají vytvářet čisté, přesné návrhy bez nutnosti ručního měření.
-      fontStyle: FC Mad Serif Light Italic
+      fontStyle: FC MAD Serif Light Italic
       fontSize: 30
 
     - text: |
@@ -456,14 +456,14 @@ testers:
         2. Intersección (Intersection): Crea un nuevo objeto a partir del volumen compartido entre los dos objetos originales, manteniendo solo la parte que se superpone.
         3. Diferencia (Difference): Resta el volumen de un objeto del otro. El objeto resultante es el primero menos la parte que se solapa con el segundo.
         Estas operaciones permiten crear formas complejas a partir de formas simples, lo que las convierte en una herramienta poderosa en diseño industrial, arquitectura, y animación 3D. Las operaciones booleanas son rápidas y eficientes para modificar y manipular geometría, facilitando la creación de modelos precisos y detallados.
-      fontStyle: FC Mad Serif Regular
+      fontStyle: FC MAD Serif Regular
       fontSize: 70
 
     - text: |
         Az izometrikus nézet egyfajta háromdimenziós ábrázolási mód, amelyet a műszaki rajzokban és a számítógépes grafikában használnak. Ebben a nézetben az objektumot olyan szögből mutatjuk be, ahol mindhárom fő tengely (X, Y, Z) ugyanabban a mértékben dől, általában 30 fokos szögben a vízszinteshez képest. Ez azt eredményezi, hogy az objektum minden oldala azonos mértékben torzul, és nincs perspektivikus rövidülés – azaz a távolabbi részek sem lesznek kisebbek.
         Az izometrikus nézet azért népszerű, mert lehetővé teszi, hogy az objektum három oldalát egyszerre lássuk, anélkül, hogy bármelyik dimenziót meg kellene torzítani. Ez segít a pontos arányok megőrzésében, ami különösen hasznos a műszaki rajzokban, ahol a méretek és a geometria pontos ábrázolása elengedhetetlen.
         Az izometrikus nézetet gyakran használják tervezésben, építészetben és játékfejlesztésben, mivel egyszerű és hatékony módja a 3D-s objektumok ábrázolásának sík felületen. Az ilyen típusú nézet könnyen olvasható és értelmezhető, ezért ideális választás, ha gyorsan kell áttekinteni egy tárgy vagy térbeli elrendezés alapvető formáját és elrendezését.
-      fontStyle: FC Mad Serif Regular Italic
+      fontStyle: FC MAD Serif Regular Italic
       fontSize: 30
 
     - text: |
@@ -471,7 +471,7 @@ testers:
         Bij dimensionering worden meestal lijnstukken, pijlen, en maatcijfers toegevoegd aan een tekening. Lijnstukken geven de afstand tussen twee punten aan, terwijl de pijlen de richting en het bereik van de maat laten zien. De maatcijfers geven vervolgens de exacte afmetingen weer, bijvoorbeeld in millimeters of inches, afhankelijk van het gebruikte systeem.
         Er zijn verschillende soorten dimensionering, zoals lineaire afmetingen voor lengte en breedte, radiale afmetingen voor cirkels en hoeken voor het meten van graden. Correct gebruik van dimensionering is cruciaal, omdat fouten in de afmetingen kunnen leiden tot onjuiste productie of bouwfouten.
         In CAD-software kunnen dimensioneringen automatisch worden gegenereerd op basis van het ontwerp, wat de nauwkeurigheid en efficiëntie van het proces verhoogt.
-      fontStyle: FC Mad Serif Bold
+      fontStyle: FC MAD Serif Bold
       fontSize: 200
 
     - text: |
@@ -479,7 +479,7 @@ testers:
         In orthographic projection, an object is viewed from different angles, typically from the front, top, and side. These views are projected onto a flat plane perpendicular to the line of sight, resulting in multiple 2D images that together give a complete representation of the object. This method is especially useful for creating blueprints, engineering diagrams, and architectural plans because it allows for precise measurements and accurate depiction of the object’s shape and size.
         There are two main types of orthographic projection: first-angle and third-angle projection.In first-angle projection, the object is positioned between the viewer and the plane of projection, while in third-angle projection, the plane is between the viewer and the object.
         Orthographic projection is essential in fields like engineering, architecture, and manufacturing, where precise and scaled representations are critical for designing and constructing objects.
-      fontStyle: FC Mad Serif Bold Italic
+      fontStyle: FC MAD Serif Bold Italic
       fontSize: 30
 
     - text: |
@@ -487,7 +487,7 @@ testers:
         En aplicacions com AutoCAD o altres eines de disseny, es poden utilitzar diversos viewports per veure el mateix model des de diferents angles o escales simultàniament. Això és especialment útil per a la revisió i edició de dissenys complexos, ja que permet als usuaris observar com els canvis en una vista afecten les altres. Per exemple, un viewport pot mostrar una vista en planta mentre que un altre mostra una vista en alçada o isomètrica.
         Els viewports poden ser personalitzats per ajustar el nivell de detall, l'escala i l'orientació de la vista. A més, poden ser utilitzats per organitzar la presentació de diferents vistes d'un projecte en un mateix full, facilitant la comunicació i la documentació.
         En resum, els viewports són una eina essencial per gestionar la visualització i edició de projectes complexos, permetent un control i una visió detallada des de múltiples perspectives.
-      fontStyle: FC Mad Serif Black
+      fontStyle: FC MAD Serif Black
       fontSize: 70
 
     - text: |
@@ -498,11 +498,11 @@ testers:
       fontSize: 200
 
     - text: |
-        A "Wireframe" is im Design und in da Computergrafik a visuelle Darstellungsart, bei der a 3D-Objekt nur durch seine Kanten und Eckpunkte z’sehn is, ohni Flächen oder Farben. Stell's da vor wie a Gerüst vo am Haus – du siehst nur die Balken, aber net die Mauern. Des wird oft in da Anfangsphase vom Design verwendet, weil’s schnö is und ned viel Rechenleistung braucht.
+        A “Wireframe” is im Design und in da Computergrafik a visuelle Darstellungsart, bei der a 3D-Objekt nur durch seine Kanten und Eckpunkte z’sehn is, ohni Flächen oder Farben. Stell's da vor wie a Gerüst vo am Haus – du siehst nur die Balken, aber net die Mauern. Des wird oft in da Anfangsphase vom Design verwendet, weil’s schnö is und ned viel Rechenleistung braucht.
         In da 3D-Modellierung is a Wireframe a Grundstruktur, wo d'Kanten vo de Polygone ozeigt wean. Des hilft, d'Form und Proportionen vo am Modell z’überprüfen, bevor ma in Details geht. Oft sieht ma des in CAD-Programmen oder bei Computerspielen, wenn grad an da Grafik g’arbeitet wird.
         Im Webdesign beschreibt a Wireframe a grobe Skizze vo am Layout vo am Webseite oder a App, wo d'Platzierung vo Elementen wie Buttons, Textfelder oder Menüs gezeigt werd. D’Funktionalität steht do im Vordergrund, net des Aussehn.
         A Wireframe is also wichtig, um Ideen schnell z’entwerfen und z’prüfen, ob olles logisch und benutzerfreundlich is, bevor ma in die Details geht. Es is quasi a Bauplan, der no vor’m fertigen Produkt kimmt.
-      fontStyle: FC Mad Serif Fill Light
+      fontStyle: FC MAD Serif Fill Light
       fontSize: 30
 
     - text: |
@@ -510,7 +510,7 @@ testers:
         1. Fase (Fillet) bezieht sich auf die Abrundung einer inneren Ecke eines Objekts. Dabei wird die Ecke durch einen sanften, gekrümmten Radius ersetzt, wodurch die Kante rund und glatt wird. Dies verbessert nicht nur das Aussehen eines Designs, sondern reduziert auch die Belastung von Ecken und Kanten, was die Haltbarkeit des Materials erhöht. Fasen werden oft in Maschinenbau und Architektur verwendet, um die Stresskonzentration an scharfen Ecken zu minimieren und eine bessere Passform oder Verbindung zu ermöglichen.
         2' Abschrägung (Chamfer) hingegen bezeichnet das Abschrägen einer äußeren Ecke durch einen geraden Schnitt, der die Ecke in einem bestimmten Winkel abflacht. Diese Technik wird häufig eingesetzt, um scharfe Kanten zu entfernen, die sonst Verletzungen verursachen könnten, oder um eine präzisere Passform zwischen Bauteilen zu gewährleisten. Abschrägungen können auch die Montage und Verarbeitung von Teilen erleichtern, indem sie die Genauigkeit verbessern und das Einpassen erleichtern.
         Beide Techniken sind entscheidend für die Gestaltung und Fertigung, da sie dazu beitragen, die Funktionalität und Ästhetik von Objekten zu optimieren.
-      fontStyle: FC Mad Serif Fill Light Italic
+      fontStyle: FC MAD Serif Fill Light Italic
       fontSize: 70
 
     - text: |
@@ -522,22 +522,22 @@ testers:
         4. Tekst: Dodawanie informacji tekstowych do rysunków.
         5. Bloki: Grupy jednostek zdefiniowane jako pojedynczy obiekt, które mogą być wielokrotnie używane w różnych częściach projektu.
         Jednostki są kluczowe dla tworzenia i edytowania projektów w CAD, ponieważ pozwalają na precyzyjne rysowanie i manipulowanie obiektami. Dzięki jednostkom, projektanci mogą łatwo wprowadzać zmiany, zarządzać złożonymi rysunkami i utrzymywać spójność w całym projekcie. Każda jednostka może być indywidualnie edytowana lub używana w połączeniu z innymi, aby tworzyć bardziej złożone struktury i układy.
-      fontStyle: FC Mad Serif Fill Regular
+      fontStyle: FC MAD Serif Fill Regular
       fontSize: 200
 
     - text: |
-        Ekstrudiranje je tehnika u 3D modeliranju i CAD dizajnu koja se koristi za stvaranje trodimenzionalnih objekata iz dvodimenzionalnih profila. Proces ekstrudiranja uključuje "proširenje" ili "istezanje" 2D oblika duž treće dimenzije, obično duž ose z.
+        Ekstrudiranje je tehnika u 3D modeliranju i CAD dizajnu koja se koristi za stvaranje trodimenzionalnih objekata iz dvodimenzionalnih profila. Proces ekstrudiranja uključuje “proširenje” ili “istezanje” 2D oblika duž treće dimenzije, obično duž ose z.
         Prvo, kreirate osnovni 2D oblik, kao što je krug, pravougaonik ili bilo koji drugi poligon. Ovaj oblik se zatim proširuje ili proteže u trećem pravcu, čime se dobija 3D objekat. Na primer, ekstrudiranjem kruga dobijate cilindar, dok ekstrudiranjem pravougaonika dobijate pravougaonu prizmu.
         Ekstrudiranje je ključna tehnika u 3D modeliranju jer omogućava brzo i efikasno stvaranje složenih oblika i struktura. Ova metoda je naročito korisna u industrijskoj proizvodnji za izradu delova od materijala kao što su metal ili plastika.
         U CAD softverima, ekstrudiranje omogućava dizajnerima da brzo generišu 3D modele i vrše dalju modifikaciju ili detaljno oblikovanje. Zbog svoje jednostavnosti i fleksibilnosti, ekstrudiranje je jedan od osnovnih alata za kreiranje trodimenzionalnih objekata u različitim industrijskim i dizajnerskim aplikacijama.
-      fontStyle: FC Mad Serif Fill Regular Italic
+      fontStyle: FC MAD Serif Fill Regular Italic
       fontSize: 30
 
     - text: |
         Block är en funktion i CAD-programvara, som till exempel AutoCAD, som används för att skapa och hantera återanvändbara objekt eller grupper av objekt. Ett block är en samling av en eller flera ritkomponenter som har sammanfogats till en enhetlig enhet. Detta gör det möjligt att infoga och använda dessa komponenter om och om igen inom en ritning eller mellan olika ritningar, vilket sparar tid och ökar effektiviteten.
         När du skapar ett block, definierar du en specifik grupp av objekt och tilldelar dem ett namn. Du kan sedan infoga detta block var som helst i din ritning. Om du behöver ändra blocket, till exempel justera en symbol eller en komponent, gör du ändringarna en gång i blockdefinitionen, och dessa ändringar uppdateras automatiskt i alla instanser av blocket i din ritning.
         Block är särskilt användbara i tekniska ritningar och arkitektur, där återkommande symboler, detaljer eller komponenter ofta används. Genom att använda block kan du enkelt hantera komplexa ritningar och säkerställa att alla instanser är konsekventa och korrekta.
-      fontStyle: FC Mad Serif Fill Bold
+      fontStyle: FC MAD Serif Fill Bold
       fontSize: 70
 
     - text: |
@@ -545,7 +545,7 @@ testers:
         Nel design parametrico, gli elementi del modello sono legati a parametri specifici come dimensioni, angoli o altre proprietà geometriche. Quando questi parametri vengono modificati, il modello si aggiorna automaticamente per riflettere i cambiamenti. Questo approccio è particolarmente utile in architettura, ingegneria e design industriale, dove è necessario adattare rapidamente i progetti a nuove specifiche o condizioni.
         Ad esempio, se stai progettando un edificio e decidi di cambiare la dimensione di una finestra, il design parametrico consente di aggiornare automaticamente le proporzioni della facciata e la disposizione degli spazi interni senza dover ridisegnare tutto da zero.
         Il design parametrico è spesso supportato da software CAD avanzati, che permettono di creare e manipolare modelli parametrizzati in modo intuitivo. Questo metodo aumenta l'efficienza, riduce gli errori e facilita l'iterazione progettuale.
-      fontStyle: FC Mad Serif Fill Bold Italic
+      fontStyle: FC MAD Serif Fill Bold Italic
       fontSize: 200
 
     - text: |
@@ -555,15 +555,15 @@ testers:
         2. Constrângeri de geometrie: Acestea definesc relațiile geometrice dintre obiecte, cum ar fi alinierea, concentricitatea sau paralelismul. De exemplu, două linii pot fi constraintate să fie paralele între ele.
         3. Constrângeri de poziționare: Acestea controlează poziția unui obiect față de alte obiecte sau față de un sistem de coordonate. De exemplu, un obiect poate fi constraintat să se miște doar pe un anumit plan sau să rămână fix într-un punct specific.
         Prin utilizarea constrângerilor, designerii și inginerii pot automatiza și facilita ajustările, prevenind erorile și asigurând coerența în proiectele lor.
-      fontStyle: FC Mad Serif Fill Black
+      fontStyle: FC MAD Serif Fill Black
       fontSize: 30
 
     - text: |
-        En "bounding box" er en enkel, rektangulær boks som brukes i datagrafikk og bildebehandling for å definere grensene rundt et objekt. Den inneholder informasjon om hvor objektet befinner seg i et bilde eller i en 3D-modell, og brukes for å gjøre det lettere å beregne posisjon, størrelse eller kollisjon med andre objekter.
+        En “bounding box” er en enkel, rektangulær boks som brukes i datagrafikk og bildebehandling for å definere grensene rundt et objekt. Den inneholder informasjon om hvor objektet befinner seg i et bilde eller i en 3D-modell, og brukes for å gjøre det lettere å beregne posisjon, størrelse eller kollisjon med andre objekter.
         I 2D-grafikk omslutter en bounding box et objekt med en firkant som bare berører de ytterste punktene, slik at hele objektet ligger innenfor boksen. Det samme prinsippet gjelder i 3D, men da med en tredimensjonal boks. Denne metoden er spesielt nyttig fordi det gjør det mulig å forenkle kompliserte former til enkle geometriske beregninger.
         Bounding boxes blir ofte brukt i områder som maskinlæring og datasyn, hvor de hjelper algoritmer med å identifisere og klassifisere objekter i bilder. For eksempel, i bildegjenkjenning, kan en bounding box brukes til å markere et ansikt, en bil eller et annet objekt.
         Selv om bounding boxes er enkle i formen, spiller de en viktig rolle i mange teknologier ved å gjøre komplekse prosesser mer effektive og lettere å håndtere.
-      fontStyle: FC Mad Serif Fill Black Italic
+      fontStyle: FC MAD Serif Fill Black Italic
       fontSize: 70
 
 about:
@@ -612,7 +612,7 @@ research: |
     However, the fonts’ simplicity also led to some visual oddities. Hershey had to balance
     the need for legibility with the limitations of early hardware, often resulting in characters
     that had unusual proportions, unexpected curves, and a quirky, hand-drawn quality.
-    This "accidental weirdness" became a defining characteristic of the Hershey Fonts.
+    This “accidental weirdness” became a defining characteristic of the Hershey Fonts.
     For instance, some letters had inconsistent stroke weights or unconventional shapes
     that gave the fonts a technical, almost mechanical feel.
 
@@ -660,12 +660,12 @@ research: |
       <div markdown="1">
 
 
-    ## Balancing the "Accidental Weirdness"
+    ## Balancing the “Accidental Weirdness"
 
     One of the key challenges in transforming the Hershey Fonts into Mad Sans and Mad Serif
     was to preserve the original’s unique and occasionally strange letterforms while making them
     more visually balanced and usable in various typographic contexts. Dries embraced the
-    "weirdness" of the original characters—such as the oddly shaped "G" or the non-standard
+    “weirdness” of the original characters—such as the oddly shaped “G” or the non-standard
     curves in certain letters—but smoothed out the rough edges to improve readability.
 
     Improving Legibility and Proportions In the original Hershey Fonts, the proportions of

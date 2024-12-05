@@ -10,116 +10,637 @@ information: |
 designer: Dries Wiewauters
 date: 2019-01-01
 
-glyphCount: 1099
-
 styles:
-    - to do
-
-
-characterSets:
-    - uppercase: A Á Ă Ǎ Â Ä À Ā Ą Å Ã ǺÆ Ǽ B C Ć Č Ç Ĉ Ċ D Ď Đ Ð E É Ĕ Ě Ê Ë Ė È Ē Ę F G Ğ Ǧ Ĝ Ģ Ġ H Ħ Ĥ I Ĳ Í Ĭ Î Ï İ Ì Ī Į Ĩ J Ĵ K Ķ L Ĺ Ľ Ļ Ŀ Ł M N Ń Ň Ņ Ñ Ŋ O Ó Ŏ Ô Ö Ò Ő Ō Ø Ǿ Õ Œ P Þ Q R Ŕ Ř Ŗ S Ś Š Ş Ŝ Ș ẞ T Ŧ Ť Ţ Ț U Ú Ŭ Û Ü Ù Ű Ū Ų Ů Ũ V W Ẃ Ŵ Ẅ Ẁ X Y Ý Ŷ Ÿ Ỳ Z Ź Ž Ż Ƶ
-    - uppercase (cyrillic): А Б В Г Ѓ Ґ Д Е Ѐ Ё Ж З И Й Ѝ К Ќ Л М Н О П Р С Т У Ў Ф Х Ц Ч Ш Щ Џ Ь Ы Ъ Љ Њ Ѕ Є Э І Ї Ј Ћ Ю Я Ђ Ѣ Ѳ Ѵ
-    - uppercase (greek): Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ά Έ Ή Ί Ό Ύ Ώ Ϊ Ϋ
-    - lowercase: a á ă ǎ â ä à ā ą å ã æ ǽ b c ć č ç ĉ ċ d ď đ ð e é ĕ ě ê ë ė è ē ę f g ğ ǧ ĝ ģ ġ h ħ ĥ i ı í ĭ î ï  ì ī į ĩ ĳ j ȷ ĵ k ķ l ĺ ľ ļ ŀ ł m n ń ň ņ ñ ŋ o ó ŏ ô ö ò ő ō ø ǿ õ œ p þ q r ŕ ř ŗ s ś š ş ŝ ș ß t ŧ ť ţ ț u ú ŭ û ü ù ű ū ų ů ũ v w ẃ ŵ ẅ ẁ x y ý ŷ ÿ ỳ z ź ž ż ƶ ﬁ ﬂ
-    - lowercase (cyrillic): а б в г ѓ ґ д е ѐ ё ж з и й ѝ к ќ л м н о п р с т у ў ф х ц ч ш щ џ ь ы ъ љ њ ѕ є э і ї ј ћ ю я ђ ѣ ѳ ѵ
-    - lowercase (greek): α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ί ϊ ΐ ύ ϋ ΰ ό ώ ά έ ή
-
-    - numbers: 0 1 2 3 4 5 6 7 8 9 ⁄
-    - punctuation: "· ; . , : ; … ! ¡ ? ¿ · • * # / \ - – — _ ( ) { } [ ] ‚ „ “ ” ‘ ’ « » ‹ › \" '"
-    - symbols: ª º ₿ ¢ ¤ $ ₫ € ₣ ₴ ₭ ₺ ₱ ₽ ₨ ₹ ₪ £ ₸ ₩ ¥ ƒ ฿ ☹ ☺  @ & ¶ § © ® ℗ ™ ° | ¦ † ℓ ‡ ℮ № ∙ ∕ + − × ÷ = ≠ > < ≥ ≤ ± ≈ ~ ¬ ^ ∞ ∅ ∫ Ω ∆ ∏ ∑ √ ∂ µ % ‰ ↑ ↗ → ↘ ↓ ↙ ← ↖ ↔ ↕ ◊
-    - combining marks: ΄ ΅  ̦̆ ¨ ˙ ` ´ ˝ ˆ ˇ ˘ ˚ ˜ ¯ ¸ ˛
-
+   - FC Nib Black:
+        glyphCount: 1082
+        fastspring: FC_Nib_Black
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt g-salt ģ-salt æ-salt ǽ-salt ġ-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook a and g: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 g-ss01 ģ-ss01 æ-ss01 ǽ-ss01 ġ-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Exclamation: "!-ss05 ¡-ss05"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 ж-ss09 з-ss09 к-ss09 л-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib Black Italic:
+        glyphCount: 1074
+        fastspring: FC_Nib_Black_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum £-onum ƒ-onum −-onum ₸-onum \"-onum #-onum ¢-onum $-onum ₣-onum '-onum ₨-onum ₹-onum ª-onum ₫-onum €-onum ₭-onum ₪-onum ₩-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum ฿-onum ₿-onum ₺-onum ₽-onum ¥-onum =-onum >-onum ≈-onum %-onum ⅓-onum ⅔-onum ×-onum +-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum <-onum ±-onum ‰-onum °-onum ÷-onum ₱-onum"
+           Stylistic Alternates: "ġ-salt ģ-salt g-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook g: "ġ-ss01 ģ-ss01 g-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Alternate Q: "Q-ss08"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 д-ss09 ж-ss09 з-ss09 и-ss09 й-ss09 к-ss09 л-ss09 п-ss09 т-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09 ѝ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib Bold:
+        glyphCount: 1082
+        fastspring: FC_Nib_Bold
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt g-salt ģ-salt æ-salt ǽ-salt ġ-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook a and g: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 g-ss01 ģ-ss01 æ-ss01 ǽ-ss01 ġ-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Exclamation: "!-ss05 ¡-ss05"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 ж-ss09 з-ss09 к-ss09 л-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib Bold Italic:
+        glyphCount: 1074
+        fastspring: FC_Nib_Bold_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum £-onum ƒ-onum −-onum ₸-onum \"-onum #-onum ¢-onum $-onum ₣-onum '-onum ₨-onum ₹-onum ª-onum ₫-onum €-onum ₭-onum ₪-onum ₩-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum ฿-onum ₿-onum ₺-onum ₽-onum ¥-onum =-onum >-onum ≈-onum %-onum ⅓-onum ⅔-onum ×-onum +-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum <-onum ±-onum ‰-onum °-onum ÷-onum ₱-onum"
+           Stylistic Alternates: "ġ-salt ģ-salt g-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook g: "ġ-ss01 ģ-ss01 g-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Alternate Q: "Q-ss08"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 д-ss09 ж-ss09 з-ss09 и-ss09 й-ss09 к-ss09 л-ss09 п-ss09 т-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09 ѝ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib ExtraBold:
+        glyphCount: 1082
+        fastspring: FC_Nib_ExtraBold
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt g-salt ģ-salt æ-salt ǽ-salt ġ-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook a and g: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 g-ss01 ģ-ss01 æ-ss01 ǽ-ss01 ġ-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Exclamation: "!-ss05 ¡-ss05"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 ж-ss09 з-ss09 к-ss09 л-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib ExtraBold Italic:
+        glyphCount: 1074
+        fastspring: FC_Nib_ExtraBold_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum £-onum ƒ-onum −-onum ₸-onum \"-onum #-onum ¢-onum $-onum ₣-onum '-onum ₨-onum ₹-onum ª-onum ₫-onum €-onum ₭-onum ₪-onum ₩-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum ฿-onum ₿-onum ₺-onum ₽-onum ¥-onum =-onum >-onum ≈-onum %-onum ⅓-onum ⅔-onum ×-onum +-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum <-onum ±-onum ‰-onum °-onum ÷-onum ₱-onum"
+           Stylistic Alternates: "ġ-salt ģ-salt g-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook g: "ġ-ss01 ģ-ss01 g-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Alternate Q: "Q-ss08"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 д-ss09 ж-ss09 з-ss09 и-ss09 й-ss09 к-ss09 л-ss09 п-ss09 т-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09 ѝ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib Light:
+        glyphCount: 1082
+        fastspring: FC_Nib_Light
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt g-salt ģ-salt æ-salt ǽ-salt ġ-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook a and g: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 g-ss01 ģ-ss01 æ-ss01 ǽ-ss01 ġ-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Exclamation: "!-ss05 ¡-ss05"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 ж-ss09 з-ss09 к-ss09 л-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib Light Italic:
+        glyphCount: 1074
+        fastspring: FC_Nib_Light_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum £-onum ƒ-onum −-onum ₸-onum \"-onum #-onum ¢-onum $-onum ₣-onum '-onum ₨-onum ₹-onum ª-onum ₫-onum €-onum ₭-onum ₪-onum ₩-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum ฿-onum ₿-onum ₺-onum ₽-onum ¥-onum =-onum >-onum ≈-onum %-onum ⅓-onum ⅔-onum ×-onum +-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum <-onum ±-onum ‰-onum °-onum ÷-onum ₱-onum"
+           Stylistic Alternates: "ġ-salt ģ-salt g-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook g: "ġ-ss01 ģ-ss01 g-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Alternate Q: "Q-ss08"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 д-ss09 ж-ss09 з-ss09 и-ss09 й-ss09 к-ss09 л-ss09 п-ss09 т-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09 ѝ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib Regular:
+        glyphCount: 1082
+        fastspring: FC_Nib_Regular
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt g-salt ģ-salt æ-salt ǽ-salt ġ-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook a and g: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 g-ss01 ģ-ss01 æ-ss01 ǽ-ss01 ġ-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Exclamation: "!-ss05 ¡-ss05"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 ж-ss09 з-ss09 к-ss09 л-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib Regular talic:
+        glyphCount: 1074
+        fastspring: FC_Nib_Regular_talic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum £-onum ƒ-onum −-onum ₸-onum \"-onum #-onum ¢-onum $-onum ₣-onum '-onum ₨-onum ₹-onum ª-onum ₫-onum €-onum ₭-onum ₪-onum ₩-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum ฿-onum ₿-onum ₺-onum ₽-onum ¥-onum =-onum >-onum ≈-onum %-onum ⅓-onum ⅔-onum ×-onum +-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum <-onum ±-onum ‰-onum °-onum ÷-onum ₱-onum"
+           Stylistic Alternates: "ġ-salt ģ-salt g-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook g: "ġ-ss01 ģ-ss01 g-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Alternate Q: "Q-ss08"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 д-ss09 ж-ss09 з-ss09 и-ss09 й-ss09 к-ss09 л-ss09 п-ss09 т-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09 ѝ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib SemiBold:
+        glyphCount: 1082
+        fastspring: FC_Nib_SemiBold
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt g-salt ģ-salt æ-salt ǽ-salt ġ-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook a and g: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 g-ss01 ģ-ss01 æ-ss01 ǽ-ss01 ġ-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Exclamation: "!-ss05 ¡-ss05"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 ж-ss09 з-ss09 к-ss09 л-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC Nib SemiBold Italic:
+        glyphCount: 1074
+        fastspring: FC_Nib_SemiBold_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "΄ Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ ἐ ἑ ἒ ἓ ἔ ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὀ ὁ ὂ ὃ ὄ ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ ῭ ΅ ῲ ῳ ῴ ῶ ῷ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case •-case ¦-case (-case )-case «-case --case ­-case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum £-onum ƒ-onum −-onum ₸-onum \"-onum #-onum ¢-onum $-onum ₣-onum '-onum ₨-onum ₹-onum ª-onum ₫-onum €-onum ₭-onum ₪-onum ₩-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum ฿-onum ₿-onum ₺-onum ₽-onum ¥-onum =-onum >-onum ≈-onum %-onum ⅓-onum ⅔-onum ×-onum +-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum <-onum ±-onum ‰-onum °-onum ÷-onum ₱-onum"
+           Stylistic Alternates: "ġ-salt ģ-salt g-salt ĝ-salt ğ-salt"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Schoolbook g: "ġ-ss01 ģ-ss01 g-ss01 ĝ-ss01 ğ-ss01"
+           Classic g: "g-ss02"
+           Alternate R: "Ř-ss03 R-ss03 Ŕ-ss03 Ŗ-ss03"
+           Zero Inverted Contrast: "0-ss04 ⁰-ss04 ₀-ss04"
+           Eager Ellipsis: "…-ss06"
+           Resigned Ellipsis: "…-ss07"
+           Alternate Q: "Q-ss08"
+           Bulgarian Alternates: "Д-ss09 Ж-ss09 К-ss09 Л-ss09 Н-ss09 Ф-ss09 б-ss09 в-ss09 г-ss09 д-ss09 ж-ss09 з-ss09 и-ss09 й-ss09 к-ss09 л-ss09 п-ss09 т-ss09 ц-ss09 ч-ss09 ш-ss09 щ-ss09 ъ-ss09 ь-ss09 ю-ss09 ѓ-ss09 ѝ-ss09"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+           
 openTypeFeatures:
-
-    - liga:
-        name: Ligatures
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - fiets floraliën
-
-    - dlig:
-        name: Discretionary Ligatures
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - LIJM Αλλαγή ...
-
-    - calt:
-        name: Contextual Alternates
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - ":) :( -> /> ^- ^\\- <-"
-
-    - ss01:
-        name: "Stylistic set 01: Double storey a"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Anagrammatical
-
-    - ss02:
-        name: "Stylistic set 02: Single storey a"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Abracadabra
-
-    - ss03:
-        name: "Stylistic set 03: Rounded I"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Indivisibility
-
-    - ss04:
-        name: "Stylistic set 04: Lowercase wide n"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Nonconventional
-
-    - ss05:
-        name: "Stylistic set 05: Wide smooth Zero"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - $1.000.000,99
-
-    - ss06:
-        name: "Stylistic set 06: Wide angular Zero"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - €69.420,50
-
-    - ss07:
-        name: "Stylistic set 07: Dropped T bar"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Trisubstituted
-
-    - ss08:
-        name: "Stylistic set 08: Cyrillic A alternate"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Адаптация
-
-    - ss09:
-        name: "Stylistic set 09: Cyrillic De alternate"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Дедовщина Дедушка
-
-    - ss10:
-        name: "Stylistic set 10: Bulgarian Alternates"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - Чужбинец вижда хубавица на улицата.
-
-    - ss11:
-        name: "Stylistic set 11: Alternate Apple"
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - 
-
-    - ordn:
-        name: Ordindals
-        fontStyle: FC Nib Shapes Classic
-        examples:
-            - "1234567890"
+   - case:
+       name: Case-Sensitive Forms
+       fontStyle: FC Nib Black
+       examples:
+         - "()-/[\\]{|}¡¦«­»¿–—•‹›"
+   - dnom:
+       name: Denominators
+       fontStyle: FC Nib Black
+       examples:
+         - "0123456789"
+   - frac:
+       name: Fractions
+       fontStyle: FC Nib Black
+       examples:
+         - "/0123456789"
+   - numr:
+       name: Numerators
+       fontStyle: FC Nib Black
+       examples:
+         - "0123456789"
+   - onum:
+       name: Oldstyle Figures
+       fontStyle: FC Nib Black
+       examples:
+         - "\"#$%'+0123456789<=>¢£¥ª°±²³¹º¼½¾×÷ƒ฿‰₣₨₩₪₫€₭₱₴₸₹₺₽₿⅓⅔⅛⅜⅝⅞−≈≠≤≥"
+   - salt:
+       name: Stylistic Alternates
+       fontStyle: FC Nib Black
+       examples:
+         - "agàáâãäåæāăąĝğġģǽ"
+   - sinf:
+       name: Scientific Inferiors
+       fontStyle: FC Nib Black
+       examples:
+         - "0123456789"
+   - ss01:
+       name: Schoolbook a and g
+       fontStyle: FC Nib Black
+       examples:
+         - "agàáâãäåæāăąĝğġģǽ"
+   - ss02:
+       name: Classic g
+       fontStyle: FC Nib Black
+       examples:
+         - "g"
+   - ss03:
+       name: Alternate R
+       fontStyle: FC Nib Black
+       examples:
+         - "RŔŖŘ"
+   - ss04:
+       name: Zero Inverted Contrast
+       fontStyle: FC Nib Black
+       examples:
+         - "0⁰₀"
+   - ss05:
+       name: Eager Exclamation
+       fontStyle: FC Nib Black
+       examples:
+         - "!¡"
+   - ss06:
+       name: Eager Ellipsis
+       fontStyle: FC Nib Black
+       examples:
+         - "…"
+   - ss07:
+       name: Resigned Ellipsis
+       fontStyle: FC Nib Black
+       examples:
+         - "…"
+   - ss09:
+       name: Bulgarian Alternates
+       fontStyle: FC Nib Black
+       examples:
+         - "ДЖКЛНФбвгджзийклптцчшщъьюѓѝ"
+   - subs:
+       name: Subscript
+       fontStyle: FC Nib Black
+       examples:
+         - "0123456789"
+   - sups:
+       name: Superscript
+       fontStyle: FC Nib Black
+       examples:
+         - "0123456789"
+   - tnum:
+       name: Tabular Figures
+       fontStyle: FC Nib Black
+       examples:
+         - "\"#$%'+0123456789<=>¢£¥ª°±²³¹º¼½¾×÷ƒ฿‰₣₨₩₪₫€₭₱₴₸₹₺₽₿⅓⅔⅛⅜⅝⅞−≈≠≤≥"
+   - zero:
+       name: Slashed Zero
+       fontStyle: FC Nib Black
+       examples:
+         - "0⁰₀"
+   - ss08:
+       name: Alternate Q
+       fontStyle: FC Nib Black Italic
+       examples:
+         - "Q"
 
 css: Nib-style.css
 

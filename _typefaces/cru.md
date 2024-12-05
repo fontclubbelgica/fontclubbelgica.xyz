@@ -10,8 +10,6 @@ information: |
 designer: Dries Wiewauters
 date: 2023-04-01
 
-glyphCount: 1159
-
 styles:
    - FC Cru 100 X Condensed Black:
         glyphCount: 1159
