@@ -12,146 +12,15 @@ date: 2017-01-01
 
 styles:
    - FC MAD Sans Light:
-        glyphCount: 717
+        glyphCount: 746
         fastspring: FC_MAD_Sans_Light
-        characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case a-ss01 b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case g-ss02 h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case ´-ss01 µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case à-ss01 á á-aalt á-case á-ss01 â â-aalt â-case â-ss01 ã ã-aalt ã-case ã-ss01 ä ä-aalt ä-case ä-ss01 å å-aalt å-case å-ss01 æ æ-aalt æ-case æ-ss01 ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case ā-ss01 Ă ă ă-aalt ă-case ă-ss01 Ą ą ą-aalt ą-case ą-ss01 Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case ĝ-ss02 Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case ġ-ss02 Ģ ģ ģ-aalt ģ-case ģ-ss02 Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case ǽ-ss01 Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
-           Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Light Italic:
-        glyphCount: 700
-        fastspring: FC_MAD_Sans_Light_Italic
-        characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
-           Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Regular:
-        glyphCount: 717
-        fastspring: FC_MAD_Sans_Regular
-        characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case a-ss01 b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case g-ss02 h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case ´-ss01 µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case à-ss01 á á-aalt á-case á-ss01 â â-aalt â-case â-ss01 ã ã-aalt ã-case ã-ss01 ä ä-aalt ä-case ä-ss01 å å-aalt å-case å-ss01 æ æ-aalt æ-case æ-ss01 ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case ā-ss01 Ă ă ă-aalt ă-case ă-ss01 Ą ą ą-aalt ą-case ą-ss01 Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case ĝ-ss02 Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case ġ-ss02 Ģ ģ ģ-aalt ģ-case ģ-ss02 Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case ǽ-ss01 Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
-           Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Italic Italic:
-        glyphCount: 700
-        fastspring: FC_MAD_Sans_Italic_Italic
-        characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
-           Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Bold Bold:
-        glyphCount: 717
-        fastspring: FC_MAD_Sans_Bold_Bold
-        characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case a-ss01 b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case g-ss02 h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case ´-ss01 µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case à-ss01 á á-aalt á-case á-ss01 â â-aalt â-case â-ss01 ã ã-aalt ã-case ã-ss01 ä ä-aalt ä-case ä-ss01 å å-aalt å-case å-ss01 æ æ-aalt æ-case æ-ss01 ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case ā-ss01 Ă ă ă-aalt ă-case ă-ss01 Ą ą ą-aalt ą-case ą-ss01 Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case ĝ-ss02 Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case ġ-ss02 Ģ ģ ģ-aalt ģ-case ģ-ss02 Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case ǽ-ss01 Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
-           Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Bold Italic Bold Italic:
-        glyphCount: 700
-        fastspring: FC_MAD_Sans_Bold_Italic_Bold_Italic
-        characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
-           Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Black:
-        glyphCount: 717
-        fastspring: FC_MAD_Sans_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
-           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
-           Latin Extended-B: "ƒ Ƶ ƶ Ǽ ǽ Ș ș Ț ț ȷ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
@@ -170,275 +39,597 @@ styles:
            Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
-           Oldstyle Figures: "²-onum ³-onum ₴-onum £-onum ƒ-onum −-onum ₸-onum \"-onum #-onum ¢-onum $-onum ₣-onum '-onum ₨-onum ₹-onum ª-onum ₫-onum €-onum ₭-onum ₪-onum ₩-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum ฿-onum ₿-onum ₺-onum ₽-onum ¥-onum =-onum >-onum ≈-onum %-onum ⅓-onum ⅔-onum ×-onum +-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum <-onum ±-onum ‰-onum °-onum ÷-onum ₱-onum"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Light Italic:
+        glyphCount: 726
+        fastspring: FC_MAD_Sans_Light_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "Δ Ω μ π"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Regular:
+        glyphCount: 746
+        fastspring: FC_MAD_Sans_Regular
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "Δ Ω μ π"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Regular Italic:
+        glyphCount: 726
+        fastspring: FC_MAD_Sans_Regular_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "Δ Ω μ π"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Bold:
+        glyphCount: 746
+        fastspring: FC_MAD_Sans_Bold
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "Δ Ω μ π"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Bold Italic:
+        glyphCount: 726
+        fastspring: FC_MAD_Sans_Bold_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "Δ Ω μ π"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Black:
+        glyphCount: 746
+        fastspring: FC_MAD_Sans_Black
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "Δ Ω μ π"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC MAD Sans Black Italic:
-        glyphCount: 700
+        glyphCount: 726
         fastspring: FC_MAD_Sans_Black_Italic
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC MAD Sans Fill Light:
-        glyphCount: 726
+        glyphCount: 746
         fastspring: FC_MAD_Sans_Fill_Light
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case a-ss01 b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case g-ss02 h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case ´-ss01 µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case à-ss01 á á-aalt á-case á-ss01 â â-aalt â-case â-ss01 ã ã-aalt ã-case ã-ss01 ä ä-aalt ä-case ä-ss01 å å-aalt å-case å-ss01 æ æ-aalt æ-case æ-ss01 ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case ā-ss01 Ă ă ă-aalt ă-case ă-ss01 Ą ą ą-aalt ą-case ą-ss01 Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case ĝ-ss02 Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case ġ-ss02 Ģ ģ ģ-aalt ģ-case ģ-ss02 Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǎ ǎ ǎ-aalt ǎ-case ǎ-ss01 Ǧ ǧ ǧ-aalt ǧ-case ǧ-ss02 Ǽ ǽ ǽ-aalt ǽ-case ǽ-ss01 Ǿ ǿ ǿ-aalt ǿ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC MAD Sans Fill Light Italic:
-        glyphCount: 701
+        glyphCount: 726
         fastspring: FC_MAD_Sans_Fill_Light_Italic
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC MAD Sans Fill Regular:
-        glyphCount: 726
+        glyphCount: 746
         fastspring: FC_MAD_Sans_Fill_Regular
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case a-ss01 b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case g-ss02 h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case ´-ss01 µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case à-ss01 á á-aalt á-case á-ss01 â â-aalt â-case â-ss01 ã ã-aalt ã-case ã-ss01 ä ä-aalt ä-case ä-ss01 å å-aalt å-case å-ss01 æ æ-aalt æ-case æ-ss01 ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case ā-ss01 Ă ă ă-aalt ă-case ă-ss01 Ą ą ą-aalt ą-case ą-ss01 Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case ĝ-ss02 Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case ġ-ss02 Ģ ģ ģ-aalt ģ-case ģ-ss02 Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǎ ǎ ǎ-aalt ǎ-case ǎ-ss01 Ǧ ǧ ǧ-aalt ǧ-case ǧ-ss02 Ǽ ǽ ǽ-aalt ǽ-case ǽ-ss01 Ǿ ǿ ǿ-aalt ǿ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Fill Italic Italic:
-        glyphCount: 701
-        fastspring: FC_MAD_Sans_Fill_Italic_Italic
-        characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
-           Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Fill Bold Bold:
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Fill Regular Italic:
         glyphCount: 726
-        fastspring: FC_MAD_Sans_Fill_Bold_Bold
+        fastspring: FC_MAD_Sans_Fill_Regular_Italic
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case a-ss01 b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case g-ss02 h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case ´-ss01 µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case à-ss01 á á-aalt á-case á-ss01 â â-aalt â-case â-ss01 ã ã-aalt ã-case ã-ss01 ä ä-aalt ä-case ä-ss01 å å-aalt å-case å-ss01 æ æ-aalt æ-case æ-ss01 ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case ā-ss01 Ă ă ă-aalt ă-case ă-ss01 Ą ą ą-aalt ą-case ą-ss01 Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case ĝ-ss02 Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case ġ-ss02 Ģ ģ ģ-aalt ģ-case ģ-ss02 Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǎ ǎ ǎ-aalt ǎ-case ǎ-ss01 Ǧ ǧ ǧ-aalt ǧ-case ǧ-ss02 Ǽ ǽ ǽ-aalt ǽ-case ǽ-ss01 Ǿ ǿ ǿ-aalt ǿ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
-   - FC MAD Sans Fill Bold Italic Bold Italic:
-        glyphCount: 701
-        fastspring: FC_MAD_Sans_Fill_Bold_Italic_Bold_Italic
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Fill Bold:
+        glyphCount: 746
+        fastspring: FC_MAD_Sans_Fill_Bold
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+   - FC MAD Sans Fill Bold Italic:
+        glyphCount: 726
+        fastspring: FC_MAD_Sans_Fill_Bold_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
+           Greek and Coptic: "Δ Ω μ π"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC MAD Sans Fill Black:
-        glyphCount: 726
+        glyphCount: 746
         fastspring: FC_MAD_Sans_Fill_Black
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case a-ss01 b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case g-ss02 h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case ´-ss01 µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case à-ss01 á á-aalt á-case á-ss01 â â-aalt â-case â-ss01 ã ã-aalt ã-case ã-ss01 ä ä-aalt ä-case ä-ss01 å å-aalt å-case å-ss01 æ æ-aalt æ-case æ-ss01 ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case ā-ss01 Ă ă ă-aalt ă-case ă-ss01 Ą ą ą-aalt ą-case ą-ss01 Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case ĝ-ss02 Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case ġ-ss02 Ģ ģ ģ-aalt ģ-case ģ-ss02 Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǎ ǎ ǎ-aalt ǎ-case ǎ-ss01 Ǧ ǧ ǧ-aalt ǧ-case ǧ-ss02 Ǽ ǽ ǽ-aalt ǽ-case ǽ-ss01 Ǿ ǿ ǿ-aalt ǿ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ´-ss01 ǽ-ss01"
+           Alternate g: "ġ-ss02 ģ-ss02 ĝ-ss02 g-ss02"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC MAD Sans Fill Black Italic:
-        glyphCount: 701
+        glyphCount: 726
         fastspring: FC_MAD_Sans_Fill_Black_Italic
         characterset:
-           Basic Latin: "! \" \"-aalt \"-onum \"-tnum # #-aalt #-onum #-tnum $ $-aalt $-onum $-tnum % %-aalt %-onum %-tnum & ' '-aalt '-onum '-tnum ( (-aalt (-case ) )-aalt )-case * + +-aalt +-onum +-tnum , - --aalt --case . / /-aalt /-case /-frac 0 0-aalt 0-dnom 0-frac 0-numr 0-onum 0-sinf 0-subs 0-sups 0-tnum 0-zero 1 1-aalt 1-dnom 1-frac 1-numr 1-onum 1-sinf 1-subs 1-sups 1-tnum 2 2-aalt 2-dnom 2-frac 2-numr 2-onum 2-sinf 2-subs 2-sups 2-tnum 3 3-aalt 3-dnom 3-frac 3-numr 3-onum 3-sinf 3-subs 3-sups 3-tnum 4 4-aalt 4-dnom 4-frac 4-numr 4-onum 4-sinf 4-subs 4-sups 4-tnum 5 5-aalt 5-dnom 5-frac 5-numr 5-onum 5-sinf 5-subs 5-sups 5-tnum 6 6-aalt 6-dnom 6-frac 6-numr 6-onum 6-sinf 6-subs 6-sups 6-tnum 7 7-aalt 7-dnom 7-frac 7-numr 7-onum 7-sinf 7-subs 7-sups 7-tnum 8 8-aalt 8-dnom 8-frac 8-numr 8-onum 8-sinf 8-subs 8-sups 8-tnum 9 9-aalt 9-dnom 9-frac 9-numr 9-onum 9-sinf 9-subs 9-sups 9-tnum : ; < <-aalt <-onum <-tnum = =-aalt =-onum =-tnum > >-aalt >-onum >-tnum ? @ A A-aalt B C D E F G H I J K L M N O O-aalt P Q R S T U V W X Y Z [ [-aalt [-case \\ \\-aalt \\-case ] ]-aalt ]-case ^ _ ` a a-aalt a-case b b-aalt b-case c c-aalt c-case d d-aalt d-case e e-aalt e-case f f-aalt f-case g g-aalt g-case h h-aalt h-case i i-aalt i-case i-locl j j-aalt j-case k k-aalt k-case l l-aalt l-case m m-aalt m-case n n-aalt n-case o o-aalt o-case p p-aalt p-case q q-aalt q-case r r-aalt r-case s s-aalt s-case t t-aalt t-case u u-aalt u-case v v-aalt v-case w w-aalt w-case x x-aalt x-case y y-aalt y-case z z-aalt z-case { {-aalt {-case | |-aalt |-case } }-aalt }-case ~"
-           Latin-1 Supplement: "¡ ¡-aalt ¡-case ¢ ¢-aalt ¢-onum ¢-tnum £ £-aalt £-onum £-tnum ¤ ¥ ¥-aalt ¥-onum ¥-tnum ¦ ¦-aalt ¦-case § ¨ © ª ª-aalt ª-onum ª-tnum « «-aalt «-case ¬ ® ¯ ° °-aalt °-onum °-tnum ± ±-aalt ±-onum ±-tnum ² ²-aalt ²-onum ²-tnum ³ ³-aalt ³-onum ³-tnum ´ ´-aalt ´-case µ ¶ · ¸ ¹ ¹-aalt ¹-onum ¹-tnum º º-aalt º-onum º-tnum » »-aalt »-case ¼ ¼-aalt ¼-onum ¼-tnum ½ ½-aalt ½-onum ½-tnum ¾ ¾-aalt ¾-onum ¾-tnum ¿ ¿-aalt ¿-case À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × ×-aalt ×-onum ×-tnum Ø Ù Ú Û Ü Ý Þ ß à à-aalt à-case á á-aalt á-case â â-aalt â-case ã ã-aalt ã-case ä ä-aalt ä-case å å-aalt å-case æ æ-aalt æ-case ç ç-aalt ç-case è è-aalt è-case é é-aalt é-case ê ê-aalt ê-case ë ë-aalt ë-case ì ì-aalt ì-case í í-aalt í-case î î-aalt î-case ï ï-aalt ï-case ð ñ ñ-aalt ñ-case ò ò-aalt ò-case ó ó-aalt ó-case ô ô-aalt ô-case õ õ-aalt õ-case ö ö-aalt ö-case ÷ ÷-aalt ÷-onum ÷-tnum ø ø-aalt ø-case ù ù-aalt ù-case ú ú-aalt ú-case û û-aalt û-case ü ü-aalt ü-case ý ý-aalt ý-case þ ÿ ÿ-aalt ÿ-case"
-           Latin Extended-A: "Ā ā ā-aalt ā-case Ă ă ă-aalt ă-case Ą ą ą-aalt ą-case Ć ć ć-aalt ć-case Ĉ ĉ ĉ-aalt ĉ-case Ċ ċ ċ-aalt ċ-case Č č č-aalt č-case Ď ď ď-aalt ď-case Đ đ Ē ē ē-aalt ē-case Ĕ ĕ ĕ-aalt ĕ-case Ė ė ė-aalt ė-case Ę ę ę-aalt ę-case Ě ě ě-aalt ě-case Ĝ ĝ ĝ-aalt ĝ-case Ğ ğ ğ-aalt ğ-case Ġ ġ ġ-aalt ġ-case Ģ ģ ģ-aalt ģ-case Ĥ ĥ ĥ-aalt ĥ-case Ħ ħ Ĩ ĩ ĩ-aalt ĩ-case Ī ī ī-aalt ī-case Ĭ ĭ ĭ-aalt ĭ-case Į į į-aalt į-case İ ı Ĳ Ĵ ĵ ĵ-aalt ĵ-case Ķ ķ ķ-aalt ķ-case ĸ Ĺ ĺ ĺ-aalt ĺ-case Ļ ļ ļ-aalt ļ-case Ľ ľ ľ-aalt ľ-case Ŀ ŀ ŀ-aalt ŀ-case Ł ł ł-aalt ł-case Ń ń ń-aalt ń-case Ņ ņ ņ-aalt ņ-case Ň ň ň-aalt ň-case Ŋ ŋ Ō ō ō-aalt ō-case Ŏ ŏ ŏ-aalt ŏ-case Ő ő ő-aalt ő-case Œ œ œ-aalt œ-case Ŕ ŕ ŕ-aalt ŕ-case Ŗ ŗ ŗ-aalt ŗ-case Ř ř ř-aalt ř-case Ś ś ś-aalt ś-case Ŝ ŝ ŝ-aalt ŝ-case Ş Ş-aalt ş ş-aalt ş-case Š š š-aalt š-case Ţ Ţ-aalt ţ ţ-aalt ţ-case Ť ť ť-aalt ť-case Ŧ ŧ Ũ ũ ũ-aalt ũ-case Ū ū ū-aalt ū-case Ŭ ŭ ŭ-aalt ŭ-case Ů ů ů-aalt ů-case Ű ű ű-aalt ű-case Ų ų ų-aalt ų-case Ŵ ŵ ŵ-aalt ŵ-case Ŷ ŷ ŷ-aalt ŷ-case Ÿ Ź ź ź-aalt ź-case Ż ż ż-aalt ż-case Ž ž ž-aalt ž-case ſ"
-           Latin Extended-B: "ƒ ƒ-aalt ƒ-onum ƒ-tnum Ƶ ƶ Ǽ ǽ ǽ-aalt ǽ-case Ș ș ș-aalt ș-case Ț ț ț-aalt ț-case ȷ"
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
            Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "Δ Ω μ π"
-           Currency Symbols: "฿ ฿-aalt ฿-onum ฿-tnum ₣ ₣-aalt ₣-onum ₣-tnum ₨ ₨-aalt ₨-onum ₨-tnum ₩ ₩-aalt ₩-onum ₩-tnum ₪ ₪-aalt ₪-onum ₪-tnum ₫ ₫-aalt ₫-onum ₫-tnum € €-aalt €-onum €-tnum ₭ ₭-aalt ₭-onum ₭-tnum ₱ ₱-aalt ₱-onum ₱-tnum ₴ ₴-aalt ₴-onum ₴-tnum ₸ ₸-aalt ₸-onum ₸-tnum ₹ ₹-aalt ₹-onum ₹-tnum ₺ ₺-aalt ₺-onum ₺-tnum ₽ ₽-aalt ₽-onum ₽-tnum ₿ ₿-aalt ₿-onum ₿-tnum"
-           Latin Extended Additional: "Ẁ ẁ ẁ-aalt ẁ-case Ẃ ẃ ẃ-aalt ẃ-case Ẅ ẅ ẅ-aalt ẅ-case ẞ Ỳ ỳ ỳ-aalt ỳ-case"
-           General Punctuation: "– –-aalt –-case — —-aalt —-case ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‰-aalt ‰-onum ‰-tnum ‹ ‹-aalt ‹-case › ›-aalt ›-case ⁄"
-           Superscripts and Subscripts: "⁰ ⁰-aalt ⁰-zero ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₀-aalt ₀-zero ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅓-aalt ⅓-onum ⅓-tnum ⅔ ⅔-aalt ⅔-onum ⅔-tnum ⅛ ⅛-aalt ⅛-onum ⅛-tnum ⅜ ⅜-aalt ⅜-onum ⅜-tnum ⅝ ⅝-aalt ⅝-onum ⅝-tnum ⅞ ⅞-aalt ⅞-onum ⅞-tnum"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − −-aalt −-onum −-tnum ∕ ∙ √ ∞ ∫ ≈ ≈-aalt ≈-onum ≈-tnum ≠ ≠-aalt ≠-onum ≠-tnum ≤ ≤-aalt ≤-onum ≤-tnum ≥ ≥-aalt ≥-onum ≥-tnum"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
-
-
+           Case-Sensitive Forms: "–-case —-case ș-case ț-case (-case )-case --case /-case ‹-case ›-case [-case \\-case ]-case a-case b-case c-case d-case e-case f-case g-case h-case i-case j-case k-case l-case m-case n-case o-case p-case q-case r-case s-case t-case u-case v-case w-case x-case y-case z-case {-case |-case }-case ẁ-case ẃ-case ẅ-case ¡-case ¦-case «-case ´-case »-case ¿-case à-case á-case â-case ã-case ä-case å-case æ-case ç-case è-case é-case ê-case ë-case ì-case í-case î-case ï-case ñ-case ò-case ó-case ô-case õ-case ö-case ỳ-case ø-case ù-case ú-case û-case ü-case ý-case ÿ-case ā-case ă-case ą-case ć-case ĉ-case ċ-case č-case ď-case ē-case ĕ-case ė-case ę-case ě-case ĝ-case ğ-case ġ-case ģ-case ĥ-case ĩ-case ī-case ĭ-case į-case ĵ-case ķ-case ĺ-case ļ-case ľ-case ŀ-case ł-case ń-case ņ-case ň-case ō-case ŏ-case ő-case œ-case ŕ-case ŗ-case ř-case ś-case ŝ-case ş-case š-case ţ-case ť-case ũ-case ū-case ŭ-case ů-case ű-case ų-case ŵ-case ŷ-case ź-case ż-case ž-case ǽ-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "i-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum −-onum ƒ-onum ₹-onum ₸-onum \"-onum #-onum $-onum %-onum ¢-onum '-onum £-onum ¥-onum ª-onum +-onum ₣-onum ₨-onum ₩-onum ₪-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum ¹-onum 9-onum º-onum ¼-onum ½-onum ¾-onum =-onum <-onum >-onum ฿-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ₫-onum ≠-onum €-onum ≤-onum ≥-onum ₭-onum ₱-onum ‰-onum °-onum ÷-onum ±-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
+           Slashed Zero: "0-zero ⁰-zero ₀-zero"
 openTypeFeatures:
 
    - dnom:
        name: Denominators
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
    - frac:
        name: Fractions
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "/0123456789"
    - numr:
        name: Numerators
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
    - onum:
        name: Oldstyle Figures
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
    - sinf:
        name: Scientific Inferiors
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
    - ss01:
        name: Alternate a
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "aàáâãäåæāăąǎǽ"
    - ss02:
        name: Alternate g
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "gĝġģǧ"
    - subs:
        name: Subscript
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
    - sups:
        name: Superscript
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
    - tnum:
        name: Tabular Figures
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
    - zero:
        name: Slashed Zero
-       fontStyle: FC MAD Sans Fill Bold Bold
+       fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0⁰₀"
 
 css: mad-sans-style.css
-
-
 
 splash: FCB_SVG_Splashes_MAD-Sans.svg
 
@@ -455,37 +646,37 @@ testers:
         In orthographic projection, an object is viewed from different angles, typically from the front, top, and side. These views are projected onto a flat plane perpendicular to the line of sight, resulting in multiple 2D images that together give a complete representation of the object. This method is especially useful for creating blueprints, engineering diagrams, and architectural plans because it allows for precise measurements and accurate depiction of the object’s shape and size.
         There are two main types of orthographic projection: first-angle and third-angle projection.In first-angle projection, the object is positioned between the viewer and the plane of projection, while in third-angle projection, the plane is between the viewer and the object.
         Orthographic projection is essential in fields like engineering, architecture, and manufacturing, where precise and scaled representations are critical for designing and constructing objects.
-      fontStyle: FC Mad Sans Light
+      fontStyle: FC MAD Sans Light
       fontSize: 200
 
     - text: |
-        A "Wireframe" is im Design und in da Computergrafik a visuelle Darstellungsart, bei der a 3D-Objekt nur durch seine Kanten und Eckpunkte z’sehn is, ohni Flächen oder Farben. Stell's da vor wie a Gerüst vo am Haus – du siehst nur die Balken, aber net die Mauern. Des wird oft in da Anfangsphase vom Design verwendet, weil’s schnö is und ned viel Rechenleistung braucht.
+        A “Wireframe” is im Design und in da Computergrafik a visuelle Darstellungsart, bei der a 3D-Objekt nur durch seine Kanten und Eckpunkte z’sehn is, ohni Flächen oder Farben. Stell's da vor wie a Gerüst vo am Haus – du siehst nur die Balken, aber net die Mauern. Des wird oft in da Anfangsphase vom Design verwendet, weil’s schnö is und ned viel Rechenleistung braucht.
         In da 3D-Modellierung is a Wireframe a Grundstruktur, wo d'Kanten vo de Polygone ozeigt wean. Des hilft, d'Form und Proportionen vo am Modell z’überprüfen, bevor ma in Details geht. Oft sieht ma des in CAD-Programmen oder bei Computerspielen, wenn grad an da Grafik g’arbeitet wird.
         Im Webdesign beschreibt a Wireframe a grobe Skizze vo am Layout vo am Webseite oder a App, wo d'Platzierung vo Elementen wie Buttons, Textfelder oder Menüs gezeigt werd. D’Funktionalität steht do im Vordergrund, net des Aussehn.
         A Wireframe is also wichtig, um Ideen schnell z’entwerfen und z’prüfen, ob olles logisch und benutzerfreundlich is, bevor ma in die Details geht. Es is quasi a Bauplan, der no vor’m fertigen Produkt kimmt.
-      fontStyle: FC Mad Sans Light Italic
+      fontStyle: FC MAD Sans Light Italic
       fontSize: 30
 
     - text: |
-        En "bounding box" er en enkel, rektangulær boks som brukes i datagrafikk og bildebehandling for å definere grensene rundt et objekt. Den inneholder informasjon om hvor objektet befinner seg i et bilde eller i en 3D-modell, og brukes for å gjøre det lettere å beregne posisjon, størrelse eller kollisjon med andre objekter.
+        En “bounding box” er en enkel, rektangulær boks som brukes i datagrafikk og bildebehandling for å definere grensene rundt et objekt. Den inneholder informasjon om hvor objektet befinner seg i et bilde eller i en 3D-modell, og brukes for å gjøre det lettere å beregne posisjon, størrelse eller kollisjon med andre objekter.
         I 2D-grafikk omslutter en bounding box et objekt med en firkant som bare berører de ytterste punktene, slik at hele objektet ligger innenfor boksen. Det samme prinsippet gjelder i 3D, men da med en tredimensjonal boks. Denne metoden er spesielt nyttig fordi det gjør det mulig å forenkle kompliserte former til enkle geometriske beregninger.
         Bounding boxes blir ofte brukt i områder som maskinlæring og datasyn, hvor de hjelper algoritmer med å identifisere og klassifisere objekter i bilder. For eksempel, i bildegjenkjenning, kan en bounding box brukes til å markere et ansikt, en bil eller et annet objekt.
         Selv om bounding boxes er enkle i formen, spiller de en viktig rolle i mange teknologier ved å gjøre komplekse prosesser mer effektive og lettere å håndtere
-      fontStyle: FC Mad Sans Regular
+      fontStyle: FC MAD Sans Regular
       fontSize: 70
 
     - text: |
         Le Système de Coordonnées Utilisateur (UCS) est un concept utilisé dans les logiciels de conception assistée par ordinateur (CAO), comme AutoCAD, pour permettre aux utilisateurs de définir un système de coordonnées personnalisé. Par défaut, un dessin utilise le Système de Coordonnées Mondial (WCS), qui est fixe. L'UCS permet de modifier l'orientation des axes X, Y, et Z afin de travailler plus facilement sur des parties spécifiques d'un projet.
         Dans un environnement 3D, l'UCS est particulièrement utile lorsque l'utilisateur doit dessiner ou modifier des objets qui ne sont pas alignés avec les axes standards du WCS. En ajustant l'UCS, il devient possible de travailler sur des surfaces inclinées ou des formes complexes sans avoir à repositionner l'objet lui-même. L'utilisateur peut faire pivoter ou déplacer les axes pour s’adapter à une face particulière, puis effectuer des modifications tout en maintenant la précision.
         L'UCS est une fonctionnalité clé pour la modélisation et la conception en raison de sa flexibilité. Il permet d'améliorer l'efficacité en offrant une meilleure maîtrise de l'environnement de dessin, notamment dans des situations où les objets ou les surfaces ne sont pas parfaitement alignés avec les axes par défaut.
-      fontStyle: FC Mad Sans Regular Italic
+      fontStyle: FC MAD Sans Regular Italic
       fontSize: 30
 
     - text: |
         Az izometrikus nézet egyfajta háromdimenziós ábrázolási mód, amelyet a műszaki rajzokban és a számítógépes grafikában használnak. Ebben a nézetben az objektumot olyan szögből mutatjuk be, ahol mindhárom fő tengely (X, Y, Z) ugyanabban a mértékben dől, általában 30 fokos szögben a vízszinteshez képest. Ez azt eredményezi, hogy az objektum minden oldala azonos mértékben torzul, és nincs perspektivikus rövidülés – azaz a távolabbi részek sem lesznek kisebbek.
         Az izometrikus nézet azért népszerű, mert lehetővé teszi, hogy az objektum három oldalát egyszerre lássuk, anélkül, hogy bármelyik dimenziót meg kellene torzítani. Ez segít a pontos arányok megőrzésében, ami különösen hasznos a műszaki rajzokban, ahol a méretek és a geometria pontos ábrázolása elengedhetetlen.
         Az izometrikus nézetet gyakran használják tervezésben, építészetben és játékfejlesztésben, mivel egyszerű és hatékony módja a 3D-s objektumok ábrázolásának sík felületen. Az ilyen típusú nézet könnyen olvasható és értelmezhető, ezért ideális választás, ha gyorsan kell áttekinteni egy tárgy vagy térbeli elrendezés alapvető formáját és elrendezését.
-      fontStyle: FC Mad Sans Bold
+      fontStyle: FC MAD Sans Bold
       fontSize: 200
 
     - text: |
@@ -495,7 +686,7 @@ testers:
         2. Intersección (Intersection): Crea un nuevo objeto a partir del volumen compartido entre los dos objetos originales, manteniendo solo la parte que se superpone.
         3. Diferencia (Difference): Resta el volumen de un objeto del otro. El objeto resultante es el primero menos la parte que se solapa con el segundo.
         Estas operaciones permiten crear formas complejas a partir de formas simples, lo que las convierte en una herramienta poderosa en diseño industrial, arquitectura, y animación 3D. Las operaciones booleanas son rápidas y eficientes para modificar y manipular geometría, facilitando la creación de modelos precisos y detallados.
-      fontStyle: FC Mad Sans Bold Italic
+      fontStyle: FC MAD Sans Bold Italic
       fontSize: 30
 
     - text: |
@@ -503,7 +694,7 @@ testers:
         Mřížka (grid) je sada vodorovných a svislých čar, které tvoří síť. Tato síť pomáhá vizuálně orientovat uživatele při práci a často je rozdělena do jednotek podle měřítka výkresu. I když mřížka nemusí být vždy viditelná, slouží jako referenční bod pro rozmístění objektů.
         Snap (přichycení) umožňuje automatické přichycení objektů nebo bodů k určitým místům na mřížce nebo k dalším důležitým bodům (např. rohy, středy, koncové body). Když je snap aktivní, uživatel nemusí ručně umisťovat objekty přesně – program je automaticky přichytí na nejbližší bod mřížky nebo jiný definovaný bod.
         Tato funkce je velmi užitečná pro zajištění přesnosti a rychlosti při kreslení, zejména u technických výkresů, kde je třeba dodržovat přesné rozměry a zarovnání. Snap a mřížka tak pomáhají vytvářet čisté, přesné návrhy bez nutnosti ručního měření.
-      fontStyle: FC Mad Sans Black
+      fontStyle: FC MAD Sans Black
       fontSize: 70
 
     - text: |
@@ -511,7 +702,7 @@ testers:
         Rendering genellikle iki ana şekilde yapılır: Gerçek zamanlı rendering ve offline rendering. Gerçek zamanlı rendering, video oyunlarında ve interaktif uygulamalarda kullanılan bir yöntemdir. Bu yöntemde, sahneler anında işlenir ve kullanıcıya gösterilir. Offline rendering ise daha karmaşık ve zaman alıcıdır; bu yöntem film prodüksiyonları ve animasyonlar için kullanılır. Sonuçlar daha yüksek kaliteli ve daha detaylıdır.
         Rendering işlemi sırasında ışık, malzeme, doku, yansıma ve gölgeler gibi birçok faktör dikkate alınır. İleri düzey rendering motorları, özellikle ışığın ve gölgelerin gerçekçi bir şekilde işlenmesi için gelişmiş algoritmalar kullanır.
         Kısacası, rendering, dijital dünyadaki sahnelerin ve modellerin görsel hale getirilmesi sürecidir ve bu süreç, grafiklerin gerçekçi ya da stilize bir şekilde sunulmasına olanak tanır
-      fontStyle: FC Mad Sans Black Italic
+      fontStyle: FC MAD Sans Black Italic
       fontSize: 200
 
     - text: |
@@ -519,7 +710,7 @@ testers:
         Bij dimensionering worden meestal lijnstukken, pijlen, en maatcijfers toegevoegd aan een tekening. Lijnstukken geven de afstand tussen twee punten aan, terwijl de pijlen de richting en het bereik van de maat laten zien. De maatcijfers geven vervolgens de exacte afmetingen weer, bijvoorbeeld in millimeters of inches, afhankelijk van het gebruikte systeem.
         Er zijn verschillende soorten dimensionering, zoals lineaire afmetingen voor lengte en breedte, radiale afmetingen voor cirkels en hoeken voor het meten van graden. Correct gebruik van dimensionering is cruciaal, omdat fouten in de afmetingen kunnen leiden tot onjuiste productie of bouwfouten.
         In CAD-software kunnen dimensioneringen automatisch worden gegenereerd op basis van het ontwerp, wat de nauwkeurigheid en efficiëntie van het proces verhoogt.
-      fontStyle: FC Mad Sans Fill Light
+      fontStyle: FC MAD Sans Fill Light
       fontSize: 30
 
     - text: |
@@ -527,7 +718,7 @@ testers:
         Nel design parametrico, gli elementi del modello sono legati a parametri specifici come dimensioni, angoli o altre proprietà geometriche. Quando questi parametri vengono modificati, il modello si aggiorna automaticamente per riflettere i cambiamenti. Questo approccio è particolarmente utile in architettura, ingegneria e design industriale, dove è necessario adattare rapidamente i progetti a nuove specifiche o condizioni.
         Ad esempio, se stai progettando un edificio e decidi di cambiare la dimensione di una finestra, il design parametrico consente di aggiornare automaticamente le proporzioni della facciata e la disposizione degli spazi interni senza dover ridisegnare tutto da zero.
         Il design parametrico è spesso supportato da software CAD avanzati, che permettono di creare e manipolare modelli parametrizzati in modo intuitivo. Questo metodo aumenta l'efficienza, riduce gli errori e facilita l'iterazione progettuale.
-      fontStyle: FC Mad Sans Fill Light Italic
+      fontStyle: FC MAD Sans Fill Light Italic
       fontSize: 70
 
     - text: |
@@ -537,7 +728,7 @@ testers:
         2. Constrângeri de geometrie: Acestea definesc relațiile geometrice dintre obiecte, cum ar fi alinierea, concentricitatea sau paralelismul. De exemplu, două linii pot fi constraintate să fie paralele între ele.
         3. Constrângeri de poziționare: Acestea controlează poziția unui obiect față de alte obiecte sau față de un sistem de coordonate. De exemplu, un obiect poate fi constraintat să se miște doar pe un anumit plan sau să rămână fix într-un punct specific.
         Prin utilizarea constrângerilor, designerii și inginerii pot automatiza și facilita ajustările, prevenind erorile și asigurând coerența în proiectele lor.
-      fontStyle: FC Mad Sans Fill Regular
+      fontStyle: FC MAD Sans Fill Regular
       fontSize: 200
 
     - text: |
@@ -545,14 +736,14 @@ testers:
         En aplicacions com AutoCAD o altres eines de disseny, es poden utilitzar diversos viewports per veure el mateix model des de diferents angles o escales simultàniament. Això és especialment útil per a la revisió i edició de dissenys complexos, ja que permet als usuaris observar com els canvis en una vista afecten les altres. Per exemple, un viewport pot mostrar una vista en planta mentre que un altre mostra una vista en alçada o isomètrica.
         Els viewports poden ser personalitzats per ajustar el nivell de detall, l'escala i l'orientació de la vista. A més, poden ser utilitzats per organitzar la presentació de diferents vistes d'un projecte en un mateix full, facilitant la comunicació i la documentació.
         En resum, els viewports són una eina essencial per gestionar la visualització i edició de projectes complexos, permetent un control i una visió detallada des de múltiples perspectives.
-      fontStyle: FC Mad Sans Fill Regular Italic
+      fontStyle: FC MAD Sans Fill Regular Italic
       fontSize: 30
 
     - text: |
         Block är en funktion i CAD-programvara, som till exempel AutoCAD, som används för att skapa och hantera återanvändbara objekt eller grupper av objekt. Ett block är en samling av en eller flera ritkomponenter som har sammanfogats till en enhetlig enhet. Detta gör det möjligt att infoga och använda dessa komponenter om och om igen inom en ritning eller mellan olika ritningar, vilket sparar tid och ökar effektiviteten.
         När du skapar ett block, definierar du en specifik grupp av objekt och tilldelar dem ett namn. Du kan sedan infoga detta block var som helst i din ritning. Om du behöver ändra blocket, till exempel justera en symbol eller en komponent, gör du ändringarna en gång i blockdefinitionen, och dessa ändringar uppdateras automatiskt i alla instanser av blocket i din ritning.
         Block är särskilt användbara i tekniska ritningar och arkitektur, där återkommande symboler, detaljer eller komponenter ofta används. Genom att använda block kan du enkelt hantera komplexa ritningar och säkerställa att alla instanser är konsekventa och korrekta.
-      fontStyle: FC Mad Sans Fill Bold
+      fontStyle: FC MAD Sans Fill Bold
       fontSize: 70
 
     - text: |
@@ -564,7 +755,7 @@ testers:
         4. Tekst: Dodawanie informacji tekstowych do rysunków.
         5. Bloki: Grupy jednostek zdefiniowane jako pojedynczy obiekt, które mogą być wielokrotnie używane w różnych częściach projektu.
         Jednostki są kluczowe dla tworzenia i edytowania projektów w CAD, ponieważ pozwalają na precyzyjne rysowanie i manipulowanie obiektami. Dzięki jednostkom, projektanci mogą łatwo wprowadzać zmiany, zarządzać złożonymi rysunkami i utrzymywać spójność w całym projekcie. Każda jednostka może być indywidualnie edytowana lub używana w połączeniu z innymi, aby tworzyć bardziej złożone struktury i układy.
-      fontStyle: FC Mad Sans Fill Bold Italic
+      fontStyle: FC MAD Sans Fill Bold Italic
       fontSize: 200
 
     - text: |
@@ -572,15 +763,15 @@ testers:
         1. Fase (Fillet) bezieht sich auf die Abrundung einer inneren Ecke eines Objekts. Dabei wird die Ecke durch einen sanften, gekrümmten Radius ersetzt, wodurch die Kante rund und glatt wird. Dies verbessert nicht nur das Aussehen eines Designs, sondern reduziert auch die Belastung von Ecken und Kanten, was die Haltbarkeit des Materials erhöht. Fasen werden oft in Maschinenbau und Architektur verwendet, um die Stresskonzentration an scharfen Ecken zu minimieren und eine bessere Passform oder Verbindung zu ermöglichen.
         2' Abschrägung (Chamfer) hingegen bezeichnet das Abschrägen einer äußeren Ecke durch einen geraden Schnitt, der die Ecke in einem bestimmten Winkel abflacht. Diese Technik wird häufig eingesetzt, um scharfe Kanten zu entfernen, die sonst Verletzungen verursachen könnten, oder um eine präzisere Passform zwischen Bauteilen zu gewährleisten. Abschrägungen können auch die Montage und Verarbeitung von Teilen erleichtern, indem sie die Genauigkeit verbessern und das Einpassen erleichtern.
         Beide Techniken sind entscheidend für die Gestaltung und Fertigung, da sie dazu beitragen, die Funktionalität und Ästhetik von Objekten zu optimieren.
-      fontStyle: FC Mad Sans Fill Black
+      fontStyle: FC MAD Sans Fill Black
       fontSize: 30
 
     - text: |
-        Ekstrudiranje je tehnika u 3D modeliranju i CAD dizajnu koja se koristi za stvaranje trodimenzionalnih objekata iz dvodimenzionalnih profila. Proces ekstrudiranja uključuje "proširenje" ili "istezanje" 2D oblika duž treće dimenzije, obično duž ose z.
+        Ekstrudiranje je tehnika u 3D modeliranju i CAD dizajnu koja se koristi za stvaranje trodimenzionalnih objekata iz dvodimenzionalnih profila. Proces ekstrudiranja uključuje “proširenje” ili “istezanje” 2D oblika duž treće dimenzije, obično duž ose z.
         Prvo, kreirate osnovni 2D oblik, kao što je krug, pravougaonik ili bilo koji drugi poligon. Ovaj oblik se zatim proširuje ili proteže u trećem pravcu, čime se dobija 3D objekat. Na primer, ekstrudiranjem kruga dobijate cilindar, dok ekstrudiranjem pravougaonika dobijate pravougaonu prizmu.
         Ekstrudiranje je ključna tehnika u 3D modeliranju jer omogućava brzo i efikasno stvaranje složenih oblika i struktura. Ova metoda je naročito korisna u industrijskoj proizvodnji za izradu delova od materijala kao što su metal ili plastika.
         U CAD softverima, ekstrudiranje omogućava dizajnerima da brzo generišu 3D modele i vrše dalju modifikaciju ili detaljno oblikovanje. Zbog svoje jednostavnosti i fleksibilnosti, ekstrudiranje je jedan od osnovnih alata za kreiranje trodimenzionalnih objekata u različitim industrijskim i dizajnerskim aplikacijama.
-      fontStyle: FC Mad Sans Fill Black Italic
+      fontStyle: FC MAD Sans Fill Black Italic
       fontSize: 70
 
 about:
@@ -630,7 +821,7 @@ research: |
     However, the fonts’ simplicity also led to some visual oddities. Hershey had to balance
     the need for legibility with the limitations of early hardware, often resulting in characters
     that had unusual proportions, unexpected curves, and a quirky, hand-drawn quality.
-    This "accidental weirdness" became a defining characteristic of the Hershey Fonts.
+    This “accidental weirdness” became a defining characteristic of the Hershey Fonts.
     For instance, some letters had inconsistent stroke weights or unconventional shapes
     that gave the fonts a technical, almost mechanical feel.
 
@@ -678,12 +869,12 @@ research: |
       <div markdown="1">
 
 
-    ## Balancing the "Accidental Weirdness"
+    ## Balancing the “Accidental Weirdness"
 
     One of the key challenges in transforming the Hershey Fonts into Mad Sans and Mad Serif
     was to preserve the original’s unique and occasionally strange letterforms while making them
     more visually balanced and usable in various typographic contexts. Dries embraced the
-    "weirdness" of the original characters—such as the oddly shaped "G" or the non-standard
+    “weirdness” of the original characters—such as the oddly shaped “G” or the non-standard
     curves in certain letters—but smoothed out the rough edges to improve readability.
 
     Improving Legibility and Proportions In the original Hershey Fonts, the proportions of
