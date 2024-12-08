@@ -12,15 +12,15 @@ date: 2023-04-01
 
 styles:
    - FC Cru 100 X Condensed Black:
-        glyphCount: 1159
+        glyphCount: 1177
         fastspring: FC_Cru_100_X_Condensed_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
            Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
@@ -43,29 +43,29 @@ styles:
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt æ-salt ǽ-salt"
+           Stylistic Alternates: "à-salt a-salt â-salt ă-salt ä-salt á-salt ā-salt ą-salt å-salt ã-salt æ-salt ǽ-salt"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
            Alternate y: "ỳ-ss03 ŷ-ss03 y-ss03 ý-ss03 ÿ-ss03"
            Circled Numbers: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 105 X Condensed Black Italic:
-        glyphCount: 1136
+        glyphCount: 1152
         fastspring: FC_Cru_105_X_Condensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
            Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
@@ -74,7 +74,7 @@ styles:
            Letterlike Symbols: "ℓ № ℗ ℠ ™ ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Mathematical Operators: "∂ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Private Use Area: ""
@@ -92,18 +92,18 @@ styles:
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ¥-tnum %-tnum §-tnum ₫-tnum +-tnum ¬-tnum €-tnum ₨-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ±-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ₩-tnum ×-tnum ₪-tnum ≠-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 200 Condensed Black:
-        glyphCount: 1159
+        glyphCount: 1177
         fastspring: FC_Cru_200_Condensed_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
            Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
@@ -126,29 +126,29 @@ styles:
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt æ-salt ǽ-salt"
+           Stylistic Alternates: "à-salt a-salt â-salt ă-salt ä-salt á-salt ā-salt ą-salt å-salt ã-salt æ-salt ǽ-salt"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
            Alternate y: "ỳ-ss03 ŷ-ss03 y-ss03 ý-ss03 ÿ-ss03"
            Circled Numbers: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 205 Condensded Black Italic:
-        glyphCount: 1136
+        glyphCount: 1152
         fastspring: FC_Cru_205_Condensded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
            Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
@@ -157,7 +157,7 @@ styles:
            Letterlike Symbols: "ℓ № ℗ ℠ ™ ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Mathematical Operators: "∂ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Private Use Area: ""
@@ -175,18 +175,18 @@ styles:
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ¥-tnum %-tnum §-tnum ₫-tnum +-tnum ¬-tnum €-tnum ₨-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ±-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ₩-tnum ×-tnum ₪-tnum ≠-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 300 SemiCondensed Black:
-        glyphCount: 1159
+        glyphCount: 1177
         fastspring: FC_Cru_300_SemiCondensed_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
            Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
@@ -209,29 +209,29 @@ styles:
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt æ-salt ǽ-salt"
+           Stylistic Alternates: "à-salt a-salt â-salt ă-salt ä-salt á-salt ā-salt ą-salt å-salt ã-salt æ-salt ǽ-salt"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
            Alternate y: "ỳ-ss03 ŷ-ss03 y-ss03 ý-ss03 ÿ-ss03"
            Circled Numbers: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 305 SemiCondensed Black Italic:
-        glyphCount: 1136
+        glyphCount: 1152
         fastspring: FC_Cru_305_SemiCondensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
            Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
@@ -240,7 +240,7 @@ styles:
            Letterlike Symbols: "ℓ № ℗ ℠ ™ ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Mathematical Operators: "∂ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Private Use Area: ""
@@ -258,18 +258,18 @@ styles:
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ¥-tnum %-tnum §-tnum ₫-tnum +-tnum ¬-tnum €-tnum ₨-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ±-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ₩-tnum ×-tnum ₪-tnum ≠-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 400 Black:
-        glyphCount: 1159
+        glyphCount: 1177
         fastspring: FC_Cru_400_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
            Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
@@ -292,29 +292,29 @@ styles:
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt æ-salt ǽ-salt"
+           Stylistic Alternates: "à-salt a-salt â-salt ă-salt ä-salt á-salt ā-salt ą-salt å-salt ã-salt æ-salt ǽ-salt"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
            Alternate y: "ỳ-ss03 ŷ-ss03 y-ss03 ý-ss03 ÿ-ss03"
            Circled Numbers: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 405 Black Italic:
-        glyphCount: 1136
+        glyphCount: 1152
         fastspring: FC_Cru_405_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
            Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
@@ -323,7 +323,7 @@ styles:
            Letterlike Symbols: "ℓ № ℗ ℠ ™ ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Mathematical Operators: "∂ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Private Use Area: ""
@@ -341,18 +341,18 @@ styles:
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ¥-tnum %-tnum §-tnum ₫-tnum +-tnum ¬-tnum €-tnum ₨-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ±-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ₩-tnum ×-tnum ₪-tnum ≠-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 500 SemiExpanded Black:
-        glyphCount: 1159
+        glyphCount: 1177
         fastspring: FC_Cru_500_SemiExpanded_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
            Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
@@ -375,29 +375,29 @@ styles:
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt æ-salt ǽ-salt"
+           Stylistic Alternates: "à-salt a-salt â-salt ă-salt ä-salt á-salt ā-salt ą-salt å-salt ã-salt æ-salt ǽ-salt"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
            Alternate y: "ỳ-ss03 ŷ-ss03 y-ss03 ý-ss03 ÿ-ss03"
            Circled Numbers: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 505 SemiExpanded Black Italic:
-        glyphCount: 1136
+        glyphCount: 1152
         fastspring: FC_Cru_505_SemiExpanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
            Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
@@ -406,7 +406,7 @@ styles:
            Letterlike Symbols: "ℓ № ℗ ℠ ™ ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Mathematical Operators: "∂ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Private Use Area: ""
@@ -424,18 +424,18 @@ styles:
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ¥-tnum %-tnum §-tnum ₫-tnum +-tnum ¬-tnum €-tnum ₨-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ±-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ₩-tnum ×-tnum ₪-tnum ≠-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 600 Expanded Black:
-        glyphCount: 1159
+        glyphCount: 1177
         fastspring: FC_Cru_600_Expanded_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
            Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
@@ -458,29 +458,29 @@ styles:
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt æ-salt ǽ-salt"
+           Stylistic Alternates: "à-salt a-salt â-salt ă-salt ä-salt á-salt ā-salt ą-salt å-salt ã-salt æ-salt ǽ-salt"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
            Alternate y: "ỳ-ss03 ŷ-ss03 y-ss03 ý-ss03 ÿ-ss03"
            Circled Numbers: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 605 Expanded Black Italic:
-        glyphCount: 1136
+        glyphCount: 1152
         fastspring: FC_Cru_605_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
            Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
@@ -489,7 +489,7 @@ styles:
            Letterlike Symbols: "ℓ № ℗ ℠ ™ ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Mathematical Operators: "∂ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Private Use Area: ""
@@ -507,18 +507,18 @@ styles:
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ¥-tnum %-tnum §-tnum ₫-tnum +-tnum ¬-tnum €-tnum ₨-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ±-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ₩-tnum ×-tnum ₪-tnum ≠-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 700 X Expanded Black:
-        glyphCount: 1159
+        glyphCount: 1177
         fastspring: FC_Cru_700_X_Expanded_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
            Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
@@ -541,29 +541,29 @@ styles:
            Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Stylistic Alternates: "à-salt a-salt â-salt ã-salt á-salt ä-salt å-salt ā-salt ă-salt ą-salt æ-salt ǽ-salt"
+           Stylistic Alternates: "à-salt a-salt â-salt ă-salt ä-salt á-salt ā-salt ą-salt å-salt ã-salt æ-salt ǽ-salt"
            Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Alternate a: "à-ss01 a-ss01 â-ss01 ã-ss01 á-ss01 ä-ss01 å-ss01 ā-ss01 ă-ss01 ą-ss01 æ-ss01 ǽ-ss01"
+           Alternate a: "à-ss01 a-ss01 â-ss01 ă-ss01 ä-ss01 á-ss01 ā-ss01 ą-ss01 å-ss01 ã-ss01 æ-ss01 ǽ-ss01"
            Alternate g: "ġ-ss02 ģ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
            Alternate y: "ỳ-ss03 ŷ-ss03 y-ss03 ý-ss03 ÿ-ss03"
            Circled Numbers: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
    - FC Cru 705 X Expanded Black Italic:
-        glyphCount: 1136
+        glyphCount: 1152
         fastspring: FC_Cru_705_X_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̦"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̊ ̋ ̌ ̒ ̦ ̧ ̨"
            Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
            Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
            Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
            Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
@@ -572,7 +572,7 @@ styles:
            Letterlike Symbols: "ℓ № ℗ ℠ ™ ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Mathematical Operators: "∂ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Private Use Area: ""
@@ -590,7 +590,7 @@ styles:
            Circled Numbers Inverted: "0-ss05 1-ss05 2-ss05 3-ss05 4-ss05 5-ss05 6-ss05 7-ss05 8-ss05 9-ss05"
            Subscript: "0-subs 1-subs 2-subs 3-subs 4-subs 5-subs 6-subs 7-subs 8-subs 9-subs"
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "−-tnum ƒ-tnum ¢-tnum #-tnum $-tnum %-tnum £-tnum §-tnum ¤-tnum ¥-tnum ₣-tnum +-tnum ¬-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum ±-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ×-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
+           Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ¥-tnum %-tnum §-tnum ₫-tnum +-tnum ¬-tnum €-tnum ₨-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ±-tnum ₴-tnum <-tnum =-tnum >-tnum ฿-tnum ₸-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ₩-tnum ×-tnum ₪-tnum ≠-tnum ≤-tnum ≥-tnum ₭-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
 
 openTypeFeatures:
@@ -608,7 +608,7 @@ openTypeFeatures:
        name: Fractions
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "/0123456789"
+         - "0123456789/0123456789"
    - numr:
        name: Numerators
        fontStyle: FC Cru 100 X Condensed Black

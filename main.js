@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (zonecontainer) {
     	currentZoneIndex = 0
 	    function zoneInterval() {
-	    	zonecontainer.style.fontFamily = font_styles[currentZoneIndex]
+	    	zonecontainer.style.fontFamily = "'"+font_styles[currentZoneIndex]+"'"
 		       zonefontname.textContent = font_styles[currentZoneIndex]
 	    	currentZoneIndex = currentZoneIndex + 1
 	    	if ( currentZoneIndex >= font_styles.length ) {

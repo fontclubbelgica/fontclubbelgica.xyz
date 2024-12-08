@@ -21,7 +21,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 
 {% if page.showcases %}
 <section class="showcase">
-    <div id="zones" style="font-family: {{ font_styles[0] }};">
+    <div id="zones" style="font-family: '{{ font_styles[0] }}';">
     {% for showcase in page.showcases %}
         <p class="zone" spellcheck="false">{{ showcase }}</p>
     {% endfor %}
