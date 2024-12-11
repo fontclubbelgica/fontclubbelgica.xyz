@@ -2,7 +2,7 @@
 layout: font
 title: FC Pep
 
-draft: false
+draft: true
 
 information: |
     Pep is a typeface that explores the limits of the childs game "ABC Con Fantasia" by Bruno Munari

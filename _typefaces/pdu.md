@@ -333,7 +333,7 @@ testers:
       fontSize: 50
 
     - text: |
-        JJJ KKkK LLLLL MMMMMMMM NNN OOOOO PPPPPP QQQQ RRRRRRR SSSS TTTTT UUUUUUUU VVVVV WWWWW XXXX YYY ZZZZZZZZZ AAAA BBBBBB CCCCC DDDDDDDDD EEE FFFFFF GGGGGGGGGGG HHHHHHHH IIII
+        JJJ KKKK LLLLL MMMMMMMM NNN OOOOO PPPPPP QQQQ RRRRRRR SSSS TTTTT UUUUUUUU VVVVV WWWWW XXXX YYY ZZZZZZZZZ AAAA BBBBBB CCCCC DDDDDDDDD EEE FFFFFF GGGGGGGGGGG HHHHHHHH IIII
         jjjjjjjj kkkkkkkk lll mmm nnnnnnnnn ooooooo ppp qqqqqq rrrr sssssssss ttt uuuu vvvvvvvv wwww xxxxxxxx yyyyyyyy zzz aaaaaa bbb cccccccc dddd eeee ffffff gggggg hhhhh iiiiiiiii
         QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP
         qqqqq rrrrrrrr ssssssss tttt uuuuuuuu vvvv wwwwwwww xxx yyyyyyyyyy zzzzzz aaa bbbbbbbb cccc dddddd eeeeeeee ffff ggggggggg hhh iiiiiii jjjjjj kkk llll mmmmmmmmm nnnnnnn ooo ppppppppppp
@@ -359,7 +359,7 @@ about:
       text: |
         Initiated as a project at Werkplaats Typografie, Dries Wiewauters. began exploring a stencil based system originally designed by Joseph A. David. In 1876, David acquired the patent for a universal stenciling device system that he had invented for sign-writers, whereby all UPPERCASE, lowercase, numbers, punctuation, accents etc. could be sourced from the grid of the stencil. Dries used this stencil, named the Plaque Découpée Universelle (PDU), to begin an exploration into the liberties and restrictions of a unified grid.
         PDU is the culmination of that effort. The font itself has three cuts: Regular, a filled version of the stencil; Outline, a cut staying true to the hand rendering of the stencil; and Stencil. Alongside these cuts are corresponding pattern cuts. PDU boasts a glyph count of 1,578 for each cut, alongside 229 glyphs included in the patterns. The corresponding pattern cut is provided free with the purchased regular and outline cuts of PDU.
-        PDU is available in three cuts — Regular, Outline, and Stencil — with corresponding Pattern cuts, and is open to licensing in both Standard (‘STD’) and Professional (‘PRO’) variants, the latter containing copious OpenType features.
+        PDU is available in three cuts — Regular, Outline, and Stencil — with corresponding Pattern cuts, and contains copious alternative glyphs and other OpenType features.
 
 research: |
     ## Le Système Typographique Imparfaite
