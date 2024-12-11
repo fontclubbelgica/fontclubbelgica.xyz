@@ -142,7 +142,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                     {% for openTypeFeature in openTypeFeatureItem %}
                         {% assign featuretags = openTypeFeature[0] | split: "+" %}
                         {% if openTypeFeature[1].examples %}
-                            <div class="style-row" style="font-family: {{ openTypeFeature[1].fontStyle }};">
+                            <div class="style-row" style="font-family: '{{ openTypeFeature[1].fontStyle }}';">
                                 <p class="meta"><span>{{ openTypeFeature[1].name }}</span><span>{{ openTypeFeature[0] }}</span></p>
                                 {% for example in openTypeFeature[1].examples %}
                                     <p class="features-example"><span>{{ example }}</span><span class="features-example-divider">-></span><span style="font-feature-settings: {% for tag in featuretags %}'{{ tag }}'{% unless forloop.last %}, {% endunless -%}{% endfor %};">{{ example }}</span></p>
