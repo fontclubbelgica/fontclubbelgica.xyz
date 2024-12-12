@@ -92,7 +92,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                 <form>
                 {% for openTypeFeatureItem in page.openTypeFeatures %}
                     {% for openTypeFeature in openTypeFeatureItem %}
-                        <div><input type="checkbox" id="tester-{{ forloop.parentloop.parentloop.index }}-{{ openTypeFeature[0] }}" value="{{ openTypeFeature[0] }}"{% if tester.features contains openTypeFeature[0] %} checked{% endif %}><label for="tester-{{ forloop.parentloop.parentloop.index }}-{{ openTypeFeature[0] }}">{{ openTypeFeature[1].name }}</label></div>
+                        <div><input type="checkbox" id="tester-{{ forloop.parentloop.parentloop.index }}-{{ openTypeFeature[0] }}-{{ forloop.parentloop.index }}" value="{{ openTypeFeature[0] }}"{% if tester.features contains openTypeFeature[0] %} checked{% endif %}><label for="tester-{{ forloop.parentloop.parentloop.index }}-{{ openTypeFeature[0] }}-{{ forloop.parentloop.index }}">{{ openTypeFeature[1].name }}</label></div>
                     {% endfor %}
                 {% endfor %}
                 </form>
