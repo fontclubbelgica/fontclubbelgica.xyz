@@ -5,7 +5,7 @@ title: FC Gorp
 draft: false
 
 information: |
-    Gorp combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
+    FC Gorp combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
 
 designer: Dries Wiewauters
 date: 2024-12-01
@@ -3137,7 +3137,7 @@ about:
       text: |
         ## Restrained weirdness with better  “monospaced” ragging
 
-        Gorp by Font Club Belgica is a modern revival of a brilliant yet overlooked idea from type history, blending technical precision with contemporary design. Inspired by W.A. Dwiggins’ concept of variable-width characters to improve fixed-width typewriters, Gorp features 50% and 150% glyphs for refined spacing. Historically, engineering and technical industries relied on rigid, monospaced typefaces like Courier and OCR-A, designed for clarity and machine readability, but these came with visual constraints. Gorp transcends these limitations by incorporating angled, stubbed terminals and half-width spaces, adding a distinctive mechanical flair while enhancing legibility and efficiency. Ideal for applications in engineering, aerospace, gaming, and outdoor branding, Gorp offers a nod to tradition while delivering a fresh, versatile tool for modern design.
+        FC Gorp by Font Club Belgica is a modern revival of a brilliant yet overlooked idea from type history, blending technical precision with contemporary design. Inspired by W.A. Dwiggins’ concept of variable-width characters to improve fixed-width typewriters, Gorp features 50% and 150% glyphs for refined spacing. Historically, engineering and technical industries relied on rigid, monospaced typefaces like Courier and OCR-A, designed for clarity and machine readability, but these came with visual constraints. Gorp transcends these limitations by incorporating angled, stubbed terminals and half-width spaces, adding a distinctive mechanical flair while enhancing legibility and efficiency. Ideal for applications in engineering, aerospace, gaming, and outdoor branding, Gorp offers a nod to tradition while delivering a fresh, versatile tool for modern design.
 
 research: |
     ## Introducing Gorp: Resurrecting an Ingenious Idea for Modern Design
