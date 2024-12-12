@@ -233,7 +233,7 @@ title: Frequently Asked Questions
     software. The license is based on the number of users who have the font installed. Our desktop
     license also permits logo usage in rasterized environments.
 
-    Please click here to access the complete terms of the Desktop License EULA.
+    [Please click here to access the complete terms of the Desktop License EULA.](/assets/eula/Font-Club-Belgica_EULA-Desktop-v1-0.pdf){:target="_blank"}
 
   * #### Web License:
 
@@ -241,7 +241,7 @@ title: Frequently Asked Questions
     by uploading the typeface to a web server and referencing it via @font-face. This license is based
     on the number of page views per month that a website receives.
 
-    Please click here to access the complete terms of the Web License EULA.
+    [Please click here to access the complete terms of the Web License EULA.](/assets/eula/Font-Club-Belgica_EULA-Web-v1-0.pdf){:target="_blank"}
 
   * #### App License:
 
@@ -249,7 +249,7 @@ title: Frequently Asked Questions
     iOS, Android, or similar platform. This license is based on the expected number of downloads the
     application will receive.
 
-    Please click here to access the complete terms of the App License EULA.
+    [Please click here to access the complete terms of the App License EULA.](/assets/eula/Font-Club-Belgica_EULA-App-v1-0.pdf){:target="_blank"}
 
   * #### Broadcast License:
 
@@ -257,7 +257,7 @@ title: Frequently Asked Questions
     like YouTube and Vimeo (covered under the Desktop License), as well as on screens in public
     screen-based environments. The license is based on the continents to which the media will be broadcasted.
 
-    Please click here to access the complete terms of the Broadcast License EULA.
+    [Please click here to access the complete terms of the Broadcast License EULA.](/assets/eula/Font-Club-Belgica_EULA-Broadcast-v1-0.pdf){:target="_blank"}
 
 * ## Legal
 
