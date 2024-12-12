@@ -93,6 +93,8 @@ img {
 
 body {
     font-family: 'FCBELGICA';
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
 }
 
 a {
@@ -159,6 +161,12 @@ header {
         }
         &.font-menu {
             text-align: center;
+            a {
+              font-family: 'FCBELGICA Menu', 'FCBELGICA';
+              font-feature-settings: "liga" on;
+              width: 100%;
+              display: block;
+            }
         }
         &.cart, &.font-menu, &.main-menu {
             background-color: white;
@@ -176,10 +184,6 @@ header {
         li {
             font-weight: normal;
             list-style-type: none;
-        }
-        a {
-          font-family: 'FCBELGICA Menu', 'FCBELGICA';
-          font-feature-settings: "liga" on;
         }
     }
 }
