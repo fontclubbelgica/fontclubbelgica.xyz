@@ -95,6 +95,7 @@ body {
     font-family: 'FCBELGICA';
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 a {
@@ -166,6 +167,7 @@ header {
               font-feature-settings: "liga" on;
               width: 100%;
               display: block;
+              font-weight: normal;
             }
         }
         &.cart, &.font-menu, &.main-menu {
