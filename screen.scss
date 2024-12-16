@@ -33,7 +33,7 @@
 
 @font-face {
     font-family: 'FCBELGICA Menu';
-    src: url('/assets/FC-Menu_ttf.woff2') format('woff2');
+    src: url('/assets/FCMenu-Regular_ttf.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -164,7 +164,7 @@ header {
             text-align: center;
             a {
               font-family: 'FCBELGICA Menu', 'FCBELGICA';
-              font-feature-settings: "liga" on;
+              font-feature-settings: "calt" on;
               width: 100%;
               display: block;
               font-weight: normal;
