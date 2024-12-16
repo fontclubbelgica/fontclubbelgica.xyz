@@ -155,19 +155,27 @@ header {
 
     nav {
         cursor: pointer;
+        white-space: nowrap;
         * {
             font-size: 16px;
             line-height: 18px;
             font-weight: bold;
         }
         &.font-menu {
-            text-align: center;
+            h2 {
+                text-align: center;
+            }
             a {
-              font-family: 'FCBELGICA Menu', 'FCBELGICA';
-              font-feature-settings: "calt" on;
-              width: 100%;
-              display: block;
-              font-weight: normal;
+                font-family: 'FCBELGICA Menu';
+                width: 100%;
+                display: block;
+                font-weight: normal;
+                text-transform: none;
+                font-size: 250%;
+                line-height: 120%;
+            }
+            li:first-child {
+                margin-top: 20px;
             }
         }
         &.cart, &.font-menu, &.main-menu {
@@ -495,9 +503,6 @@ input[type=range]:focus::-ms-fill-upper {
     }
     nav.cart a, nav.font-menu, nav.main-menu {
         padding: 9px 15px 5px 15px;
-    }
-    header div {
-        width: auto;
     }
 }
 
@@ -1281,7 +1286,7 @@ footer {
   }
 }
 
-/* HOME */ 
+/* HOME */
 body.index {
   background-color: var(--gray);
   main {
@@ -1295,7 +1300,7 @@ body.index {
       display: flex;
       width: 100vw;
       height: calc(100svh - 212px);
-      
+
       a {
         width: 100%;
         border-radius: 22px;
@@ -1360,7 +1365,7 @@ body.index {
       padding: 0 20px 20px;
     }
   }
-  
+
 }
 .search-splash {
   display: grid;
