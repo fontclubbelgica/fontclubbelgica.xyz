@@ -587,7 +587,7 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-           
+
 openTypeFeatures:
    - dnom:
        name: Denominators
@@ -807,15 +807,15 @@ about:
 
 research: |
     ## The History and Evolution of the Hershey Fonts: From A.V. Hershey to Mad Sans and Mad Serif
-    
+
     <div markdown="1">
       <div markdown="1">
 
     ![](FCB_Research_Mad_1.svg)
-    
+
       </div>
       <div markdown="1">
-    
+
     ## Origins of the Hershey Fonts
 
     The Hershey Fonts were created in the 1960s by Dr. Allen V. Hershey, a mathematician and
@@ -826,7 +826,7 @@ research: |
     rasterized (pixel-based) fonts. Hershey’s solution was to design a series of fonts that
     could be drawn entirely using connected lines, making them suitable for devices like pen
     plotters and vector displays.
-    
+
      The Nature of Vector Fonts Hershey’s fonts were minimalist and geometric due to the
      constraints of early computing. Each character was represented as a series of connected
      points, allowing plotters to trace the shapes with minimal instructions. This vector-based
@@ -850,7 +850,7 @@ research: |
 
        </div>
        <div markdown="1">
-    
+
     ## A.V. Hershey: The Innovator Behind the Fonts
 
     Dr. A.V. Hershey was a pioneer in digital typography and computer graphics. His work on the
@@ -879,7 +879,7 @@ research: |
       <div markdown="1">
 
     ![](FCB_Research_Mad_3.svg)
-    
+
       </div>
       <div markdown="1">
 
@@ -910,15 +910,15 @@ research: |
     mechanical precision of Hershey’s original forms. The result is a typeface that’s elegant
     yet mechanical, suitable for longer reads but with a character that feels both technical
     and approachable.
-    
+
       </div>
     </div>
 
     <div markdown="1">
       <div markdown="1">
-    
+
     ![](FCB_Research_Mad_4.svg)
-    
+
       </div>
       <div markdown="1">
 
@@ -945,7 +945,7 @@ research: |
     and as a display font with character. This transformation honors A.V. Hershey’s pioneering work,
     proving that even the quirkiest solutions in technology can inspire enduring creative designs in
     typography.
-    
+
       </div>
     </div>
 
