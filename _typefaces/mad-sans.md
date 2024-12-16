@@ -1,6 +1,6 @@
 ---
 layout: font
-title: FC Mad Sans
+title: FC MAD Sans
 
 draft: false
 
