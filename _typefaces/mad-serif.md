@@ -1,6 +1,6 @@
 ---
 layout: font
-title: FC Mad Serif
+title: FC MAD Serif
 
 draft: false
 
