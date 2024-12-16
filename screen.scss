@@ -1021,7 +1021,7 @@ section.library {
 }
 
 
-@for $count from 1 through 30 {
+@for $count from 1 through 50 {
     @for $i from 1 through $count {
         .stack-#{$count} figure:nth-child(#{$i}) {
             margin-left: calc(var(--stackdepth) / #{$count} * #{$i});

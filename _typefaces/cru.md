@@ -885,14 +885,6 @@ library_preview:
     - FCB_Library_Cru_4.svg
     - FCB_Library_Cru_5.svg
     - FCB_Library_Cru_6.svg
-    - FCB_Library_Cru_7.svg
-    - FCB_Library_Cru_8.svg
-    - FCB_Library_Cru_9.svg
-    - FCB_Library_Cru_10.svg
-    - FCB_Library_Cru_11.svg
-    - FCB_Library_Cru_12.svg
-    - FCB_Library_Cru_13.svg
-    - FCB_Library_Cru_14.svg
 
 font_match:
     - FC Nib
