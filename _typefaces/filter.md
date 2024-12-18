@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: true
+draft: false
 
 information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
@@ -240,5 +240,8 @@ testers:
         Hue/Saturation filtrs ir nenovērtējams rīks ikvienam, kas strādā ar attēliem. Tas piedāvā intuitīvu pieeju krāsu regulēšanai un ļauj lietotājiem viegli radīt stilistiskas izmaiņas, kas var ievērojami uzlabot attēla kvalitāti un vizuālo ietekmi. Arī ar nelielām izmaiņām var panākt nozīmīgas izmaiņas, padarot to par svarīgu instrumentu digitālajā mākslā un fotogrāfijā.
       fontStyle: FC Filter
       fontSize: 120
+
+library_preview:
+    - FCB_Library_Filter_1.svg      
 
 ---
