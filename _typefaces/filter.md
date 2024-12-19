@@ -243,5 +243,9 @@ testers:
 
 library_preview:
     - FCB_Library_Filter_1.svg      
+    - FCB_Library_Filter_2.svg      
+    - FCB_Library_Filter_3.svg      
+    - FCB_Library_Filter_4.svg      
+    - FCB_Library_Filter_5.svg      
 
 ---
