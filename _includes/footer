@@ -2,13 +2,8 @@
 
 <footer>
     <div class="row top">
-        <div class="col-6">
-            <p>Get access to new fonts and the latest news:</p>
-            <p>[newsletter - depending on service]</p>
-        </div>
-        <div class="col-6">
-            <p>For any enquiries please email us:</p>
-            <p>{% include mail a="info" %}</p>
+        <div class="col-12">
+            <p>For any enquiries please email us: {% include mail a="info" %}</p>
         </div>
     </div>
     <div class="row bottom">
