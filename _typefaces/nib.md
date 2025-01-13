@@ -797,6 +797,11 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
+    ![](FCB_Research_Nib_2.svg)
+
+      </div>
+      <div markdown="1">
+
     ## The Fusion of Chisel and Pen
 
     To fully appreciate Nib’s design, we must explore the two traditions it draws from: the chiseled forms of stone and metal engraving,and the fluidity of letters drawn with a pen.
@@ -806,11 +811,6 @@ research: |
     On the other hand, pen-drawn type belongs to a more personal, intimate tradition. The letters produced by the hand-held pen are alive with movement and variation, each stroke influenced by the speed and angle of the hand. This calligraphic heritage brings a sense of warmth and imperfection to type, a reminder that letters are not just shapes, but gestures made by human hands.
 
     In Nib, these two traditions coexist in a state of dynamic tension. The chiseled influence is seen in the sharp, clean cuts of the terminals and the angular serifs, while the pointed nib pen reveals itself in the gentle modulations of stroke weight and the fluidity of certain curves. This synthesis of the geometric and the gestural gives Nib a distinctive voice—structured yet approachable, formal yet human.
-
-      </div>
-      <div markdown="1">
-
-    ![](FCB_Research_Nib_2.svg)
 
       </div>
     </div>
@@ -835,6 +835,11 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
+    ![](FCB_Research_Nib_4.jpg)
+
+      </div>
+      <div markdown="1">
+    
     ## Duality as a Design Principle
     
     The duality at the heart of Nib reflects a broader design principle that resonates deeply in the world of typography: the balance between control and expression. Great typefaces often walk this line, offering both precision and personality, structure and freedom. Nib exemplifies this balance, inviting us to consider how these opposing forces can come together to create something greater than the sum of its parts.
@@ -848,11 +853,6 @@ research: |
     In Nib, Dries Wiewauters has created a typeface that speaks to both sides of the design coin. Like Jekyll and Hyde, Nib lives in two worlds at once, its chiseled structure providing strength and clarity, while its pen-drawn elements offer warmth and humanity. This duality allows Nib to transcend the limitations of style, making it a typeface that is as versatile as it is distinctive.
 
     Whether used for a bold, impactful headline or a long block of text, Nib brings with it a unique blend of precision and expression, modernity and tradition. It is a typeface for the present moment, grounded in history yet looking forward, embodying the balance that lies at the heart of great design.
-
-      </div>
-      <div markdown="1">
-    
-    ![](FCB_Research_Nib_4.jpg)
 
       </div>
     </div>
