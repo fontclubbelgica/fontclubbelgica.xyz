@@ -367,7 +367,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](PDU_Stencil.svg)
+    ![](PDU_Research_1.svg)
 
       </div>
       <div markdown="1">
@@ -390,6 +390,17 @@ research: |
     same picture ... ad infinitum. No matter how many times you’d graph out Tupper’s formula you
     will return to the starting point: the formula itself.
 
+      </div>
+      </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](PDU_Research_2.svg)
+
+       </div>
+       <div markdown="1">
+
     Nobody can create something from scratch, everything caries within itself a certain zeitgeist
     and history upon which it is a reaction. this can be through ameliorating, fixing,
     discarding, ... previous systems, objects, ideas, creations, … Picasso knew this and aptly so
@@ -402,6 +413,17 @@ research: |
     1. Some of these ideas are discarded almost instantly.
     2. Some of these are deemed solutions and get tested in practice through a model, mockup, sketch, …
     3. only a handful ideas turn out to offer a fulfilling solution to the situation
+
+      </div>
+      </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](PDU_Research_3.jpg)
+
+       </div>
+       <div markdown="1">
 
     It sounds like a daunting task and it frequently is so, however over time, experience from
     previous projects drastically improves the skill to filter out unsuitable ideas. another
@@ -420,7 +442,18 @@ research: |
     and not the most reliable of options. therefore the Americans have now joined the astronauts
     from most other countries by piggy- backing to the iSS using the Russian’s Soyuz spacecraft.
 
-    Skylab (°1973 – †1979) is another one of the en- thralling past inventions from the minds of the
+      </div>
+      </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](PDU_Research_4.svg)
+
+       </div>
+       <div markdown="1">
+
+    Skylab (°1973 – †1979) is another one of the enthralling past inventions from the minds of the
     NASA engineers. this space laboratory, that was a platform to investigate the effects of space
     on a human body, was a predecessor of the ISS (°1998) and even the Russian’s mir
     (°1986 - †1996). Being the first laboratory outside of earth’s atmosphere, it involved many
@@ -433,6 +466,17 @@ research: |
     deteriorate due to inactiveness. When all their testing was finished and thus the lab became
     redundant they let Skylab re-enter the earth’s atmosphere. on disintegrating during the
     descent, the debris was scattered across Western Australia.
+
+      </div>
+      </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](PDU_Research_5.jpg)
+
+       </div>
+       <div markdown="1">
 
     Regardless the temporality of any system, we still depend on them since basically: they just
     make stuff much easier and more productive, and therefore more economically viable. Society is
@@ -447,7 +491,7 @@ research: |
     manpower?
 
     His solution was essentially to make a huge circular structure with a guard post placed on a
-    pillar in the centre. in the pre CCtV-era, a single guard sitting in this centralized bunker
+    pillar in the centre. in the pre CCTV-era, a single guard sitting in this centralized bunker
     could check on each inmate through the bars of their cell. the idea being that, not knowing
     wether the sentry was looking at them or not, the convicts would always behave themselves. Now
     with the omnipresence of CCtV and thanks to new insights in social rehabilitation, prisons are
@@ -483,7 +527,18 @@ research: |
     exploration into the liberties and restrictions of a unified grid. a grid meant to systematize
     the multitude of shapes required for the roman alphabet.
 
-    in 1876 Joseph a. David acquired the patents for such a system he had invented for sign writers.
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](PDU_Research_6.svg)
+
+      </div>
+      <div markdown="1">
+
+    In 1876 Joseph A. David acquired the patents for such a system he had invented for sign writers.
     With his universal stencil — the Plaque Découpée Universelle — all UPPERCASE, lowercase,
     number, punctuation, accents, … could be sourced from the grid on the stencil. a basic
     understanding of letter- forms and some trial-and-error is all that stood between a literate
@@ -500,13 +555,13 @@ research: |
     way.
 
     Yet although a typographic purist might at first see these as a handicap, he will realize that
-    these are necessary generalizations without which the grid behind the pDu couldn’t exist. the
+    these are necessary generalizations without which the grid behind the PDU couldn’t exist. the
     inherent beauty of the grid becomes apparent when using a physical copy of the stencil itself.
-    there is a freedom hidden within the pDu that allows for different variations for many letters.
-    in the digital version of the pDu, this “rebellious” act against the grid has been incorporated
+    there is a freedom hidden within the PDU that allows for different variations for many letters.
+    in the digital version of the PDU, this “rebellious” act against the grid has been incorporated
     into some exuberant alternates which defies it’s apparent rigid nature.
 
-    Together with the stencil, specimen, and fonts the PDU should not be seen as a means to
+    Together with the stencil, specimen and fonts the PDU should not be seen as a means to
     commercialize the aesthetics of the Plaque Découpée Universelle, but as an attempt to rejoice
     over the inventiveness and possibilities that David was able to put into his system. in the PDU
     font, many of the possibilities and limitations of the stencil have been explored and added to
@@ -522,10 +577,21 @@ research: |
     but can be by recycling bits of the stencil itself.
 
     David could have implemented a broader language support, yet these and all other — more
-    specialized — glyphs as included in the pDu fonts have only been constructed by moving the
+    specialized — glyphs as included in the PDU fonts have only been constructed by moving the
     stencil — so without drawing curves from thin air or rotating the stencil. many of these
     puzzles — like for example the euro sign — were even non-existent in 1878, so this speaks for
-    the pDu’s adaptability.yet this didn’t solve one mayor problem: what to do with the capitals?
+    the PDU’s adaptability.yet this didn’t solve one mayor problem: what to do with the capitals?
+
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](PDU_Research_7.svg)
+
+      </div>
+      <div markdown="1">
 
     When constructing the ascenders and descenders of the lowercase the stencil has to be moved
     either upwards or downwards for a second tracing. as such an /h/, /g/, … has to be constructed
