@@ -685,6 +685,9 @@ section.lang-support {
 }
 .t-xsmall {
     column-count: 3;
+    p {
+      line-height: 1.8em;
+    }
     // padding: 0 var(--padding);
 }
 .tester .preview {
@@ -1079,14 +1082,18 @@ section.library {
 
 // Footer
 footer {
-    background-color: var(--gray);
-    border-top: dotted white 2px;
+    background-color: #d2d2d2;
     padding-top: 20px;
-    padding: var(--padding);
+    margin-left: var(--padding);
+    margin-right: var(--padding);
+    padding: 30px;
     font-family: 'FCBELGICA';
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 
     p {
-        font-size: 13px;
+        font-size: 20px;
+        line-height: 25px;
     }
 
     nav {
