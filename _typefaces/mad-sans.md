@@ -868,7 +868,6 @@ research: |
       </div>
       <div markdown="1">
 
-
     ## Balancing the “Accidental Weirdness"
 
     One of the key challenges in transforming the Hershey Fonts into Mad Sans and Mad Serif
