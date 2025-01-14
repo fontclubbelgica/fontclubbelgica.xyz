@@ -46,7 +46,7 @@
 }
 
 :root {
-    --padding: 10px;
+    --padding: 28px;
     --black: #2D2926;;
     --yellow: #FFCD00;
     --red: #C8102E;
@@ -625,7 +625,7 @@ section.research {
       padding-bottom: 80px;
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 30px;
+      gap: 60px;
       img {
         padding-bottom: 7px;
       }
@@ -639,6 +639,14 @@ section.research {
         align-self: start;
         top: 90px;
       }
+  }
+}
+@media(min-width: 900px) {
+  section.research {
+    >div>div {
+      padding-left: 120px;
+      padding-right: 120px;
+    }
   }
 }
 @media(max-width: 600px) {
