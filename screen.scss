@@ -979,7 +979,7 @@ section.library {
     position: relative;
 }
 .font-info h2 {
-    width: 95px;
+    width: 100px;
 }
 .font-info p.total {
     position: absolute;
@@ -994,6 +994,18 @@ section.library {
 .preview-font {
     font-family: 'FCBELGICA Condensed';
 
+}
+.more {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.more p {
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  padding-bottom: 35px;
 }
 @media(min-width: 1400px) {
   .grid {

@@ -27,6 +27,9 @@
         </div>
         {% endunless %}
         {% endfor %}
+        {% unless include.fontcount %}
+        <div class="more"><p>and many more to come!</p></div>
+        {% endunless %}
     </div>
     {% if include.fontcount %}
     <p><a href="/typefaces" class="library-btn">Explore full library</a></p>
