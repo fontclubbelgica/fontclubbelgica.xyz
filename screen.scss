@@ -1093,6 +1093,9 @@ section.table {
     background-color: rgb(209,209,209);
     font-size: 13px;
   }
+  tr:first-child th:first-child { 
+    padding-left: 10px;
+  }
   tr:not(:first-child) th:first-child {
     font-family: 'FCBELGICA Menu';
     font-weight: bold;
