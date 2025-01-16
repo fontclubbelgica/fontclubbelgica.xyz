@@ -650,6 +650,8 @@ css: mad-serif-style.css
 
 splash: FCB_SVG_Splashes_MAD-Serif.svg
 
+hometile: FCB_Library_Mad-Serif_Large.svg
+
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ

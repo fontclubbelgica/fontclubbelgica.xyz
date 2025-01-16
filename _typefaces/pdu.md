@@ -274,6 +274,8 @@ css: pdu-style.css
 
 splash: FCB_SVG_Splashes_PDU.svg
 
+hometile: FCB_Library_PDU_Large.svg
+
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ

@@ -137,6 +137,8 @@ css: pep-style.css
 
 splash: pep-splash.svg
 
+hometile: FCB_Library_Pep_Large.svg
+
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ

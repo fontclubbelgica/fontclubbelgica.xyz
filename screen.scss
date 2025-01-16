@@ -998,7 +998,7 @@ section.library {
         width: 25%;
     }
     section.library .preview-font:nth-child(5), section.library .preview-font:nth-child(6) {
-        display: none;
+
     }
 }
 @media(max-width: 600px) {
@@ -1349,7 +1349,7 @@ body.index {
   }
 }
 .img-slider {
-  margin-top: 60px;
+  margin-top: 20px;
   .slide {
     width: 100%;
     a {
@@ -1370,36 +1370,60 @@ body.index {
     margin-top: 60px;
   }
   h2 {
-    font-weight: normal;
-    padding: 0 20% 30px;
-    font-size: 57px;
-    line-height: 72px;
+    font-family: 'FCBELGICA Condensed';
+    font-weight: 120;
+    font-size: 37px;
+    line-height: 44px;
+    position: -webkit-sticky;
+    position: sticky;
+    width: 500px;
+    z-index: 50;
+    text-align: left;
+    margin-left: 2px;
+    top: 29px;
+    padding: 0 var(--padding) 60px;
+    
     @media(max-width: 600px) {
       font-size: 25px;
       line-height: 29px;
-      padding: 0 20px 20px;
+      top: 65px;
     }
   }
 
 }
 .search-splash {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  padding: 60px 100px 0;
-  @media(max-width: 600px) {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  @media(max-width: 400px) {
-    columns: 1;
-  }
+  display: block;
+  column-count: 3;
+  gap: 40px;
+  padding: 60px 148px 0;
   .preview-font-home {
+    break-inside: avoid;
+    padding-bottom: 40px;
     a {
+      
       display: block;
       border-radius: 22px;
       overflow: hidden;
     }
+  }
+  img {
+    will-change: transform;
+  }
+}
+@media(max-width: 1500px) {
+  .search-splash {
+    column-count: 2;
+  }
+}
+@media(max-width: 900px) {
+  .search-splash {
+    padding-left: var(--padding);
+    padding-right: var(--padding);
+  }
+}
+@media(max-width: 600px) {
+  .search-splash {
+    column-count: 1;
   }
 }
 
