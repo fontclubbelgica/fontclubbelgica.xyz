@@ -2753,6 +2753,8 @@ css: gorp-style.css
 
 splash: gorp-splash.svg
 
+hometile: FCB_Library_Gorp_Large.svg
+
 showcases:
     - ABCDEFGHIJKLMNƠ
     - PQRSTUVWXYZΩД

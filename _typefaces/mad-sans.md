@@ -633,6 +633,8 @@ css: mad-sans-style.css
 
 splash: FCB_SVG_Splashes_MAD-Sans.svg
 
+hometile: FCB_Library_Mad-Sans_Large.svg
+
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ

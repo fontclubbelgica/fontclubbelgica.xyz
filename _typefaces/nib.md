@@ -646,6 +646,8 @@ css: Nib-style.css
 
 splash: Nib-splash.svg
 
+hometile: FCB_Library_Nib_Large.svg
+
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZΩД

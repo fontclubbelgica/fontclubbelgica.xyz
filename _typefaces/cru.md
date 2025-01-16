@@ -679,6 +679,8 @@ css: cru-style.css
 
 splash: cru-splash.svg
 
+hometile: FCB_Library_Cru_Large.svg
+
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZΩД

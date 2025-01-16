@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: false
+draft: true
 
 information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
@@ -13,6 +13,8 @@ date: 2023-12-01
 css: filter-style.css
 
 splash: filter-splash.svg
+
+hometile: FCB_Library_Filter_Large.svg
 
 # showcases:
 #     - ABCDEFGHIJKLMN
