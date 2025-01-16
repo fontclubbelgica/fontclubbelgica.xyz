@@ -1,12 +1,13 @@
 ---
 layout: article
 date: 2024-05-07
+type: article
 tags:
     - custom fonts
+featuredImage: FCB_ANR_Bespoke-Font.jpg
 ---
 
 # Why order a bespoke font?
-
 
 What do Mitsubishi, dolphins, Starbucks, Donald Trump and Donkey Kong have in common?
 They all have been embossed into some of the most notorious synthetic drugs.

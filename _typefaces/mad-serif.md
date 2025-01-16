@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC MAD Serif
-serial: FC.2017.02
 
 draft: false
 

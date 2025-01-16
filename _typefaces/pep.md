@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC Pep
-serial: FC.2019.02
 
 draft: true
 

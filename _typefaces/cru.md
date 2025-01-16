@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC Cru
-serial: FC.2023.04
 
 draft: false
 

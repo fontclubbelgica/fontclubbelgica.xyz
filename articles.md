@@ -1,10 +1,22 @@
 ---
-layout: article
-title: Articles
+layout: page
+title: Articles, Research and News
 ---
 
-<ul>
+# {{ page.title }}
+
+<section class="articles">
 {% for articlePage in site.articles %}
-    <li><a href="{{ articlePage.url }}">{{ articlePage.title }}</a></li>
+    <div class="preview-article">
+        <a href="{{ articlePage.url }}">
+            <figure>
+                <img src="{{ articlePage.url }}{{ articlePage.featuredImage }}" />
+            </figure>
+            <div class="article-info">
+                <h2>{{ articlePage.title }}</h2>
+                <p class="type">{{ articlePage.type }}</p>
+            </div>
+        </a>
+    </div>
 {% endfor %}
-</ul>
+</section>
