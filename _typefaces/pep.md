@@ -10,128 +10,540 @@ information: |
 designer: Dries Wiewauters
 date: 2019-01-01
 
-glyphCount: 693
-
 styles:
-    - FC Pep Shapes Black
-    - FC Pep Shapes Classic
-    - FC Pep Shapes Cold
-    - FC Pep Shapes Grey
-    - FC Pep Shapes Hot
-    - FC Pep Shapes Pastel
-    - FC Pep Shapes RGB
-    - FC Pep Solid Black
-    - FC Pep Solid Classic
-    - FC Pep Solid Cold
-    - FC Pep Solid Grey
-    - FC Pep Solid Hot
-    - FC Pep Solid Pastel
-    - FC Pep Solid RGB
-
-characterSets:
-    - uppercase: A Á Ă Ǎ Â Ä À Ā Ą Å Ã ǺÆ Ǽ B C Ć Č Ç Ĉ Ċ D Ď Đ Ð E É Ĕ Ě Ê Ë Ė È Ē Ę F G Ğ Ǧ Ĝ Ģ Ġ H Ħ Ĥ I Ĳ Í Ĭ Î Ï İ Ì Ī Į Ĩ J Ĵ K Ķ L Ĺ Ľ Ļ Ŀ Ł M N Ń Ň Ņ Ñ Ŋ O Ó Ŏ Ô Ö Ò Ő Ō Ø Ǿ Õ Œ P Þ Q R Ŕ Ř Ŗ S Ś Š Ş Ŝ Ș ẞ T Ŧ Ť Ţ Ț U Ú Ŭ Û Ü Ù Ű Ū Ų Ů Ũ V W Ẃ Ŵ Ẅ Ẁ X Y Ý Ŷ Ÿ Ỳ Z Ź Ž Ż Ƶ
-    - uppercase (cyrillic): А Б В Г Ѓ Ґ Д Е Ѐ Ё Ж З И Й Ѝ К Ќ Л М Н О П Р С Т У Ў Ф Х Ц Ч Ш Щ Џ Ь Ы Ъ Љ Њ Ѕ Є Э І Ї Ј Ћ Ю Я Ђ Ѣ Ѳ Ѵ
-    - uppercase (greek): Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ά Έ Ή Ί Ό Ύ Ώ Ϊ Ϋ
-    - lowercase: a á ă ǎ â ä à ā ą å ã æ ǽ b c ć č ç ĉ ċ d ď đ ð e é ĕ ě ê ë ė è ē ę f g ğ ǧ ĝ ģ ġ h ħ ĥ i ı í ĭ î ï  ì ī į ĩ ĳ j ȷ ĵ k ķ l ĺ ľ ļ ŀ ł m n ń ň ņ ñ ŋ o ó ŏ ô ö ò ő ō ø ǿ õ œ p þ q r ŕ ř ŗ s ś š ş ŝ ș ß t ŧ ť ţ ț u ú ŭ û ü ù ű ū ų ů ũ v w ẃ ŵ ẅ ẁ x y ý ŷ ÿ ỳ z ź ž ż ƶ ﬁ ﬂ
-    - lowercase (cyrillic): а б в г ѓ ґ д е ѐ ё ж з и й ѝ к ќ л м н о п р с т у ў ф х ц ч ш щ џ ь ы ъ љ њ ѕ є э і ї ј ћ ю я ђ ѣ ѳ ѵ
-    - lowercase (greek): α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ί ϊ ΐ ύ ϋ ΰ ό ώ ά έ ή
-
-    - numbers: 0 1 2 3 4 5 6 7 8 9 ⁄
-    - punctuation: "· ; . , : ; … ! ¡ ? ¿ · • * # / \ - – — _ ( ) { } [ ] ‚ „ “ ” ‘ ’ « » ‹ › \" '"
-    - symbols: ª º ₿ ¢ ¤ $ ₫ € ₣ ₴ ₭ ₺ ₱ ₽ ₨ ₹ ₪ £ ₸ ₩ ¥ ƒ ฿ ☹ ☺  @ & ¶ § © ® ℗ ™ ° | ¦ † ℓ ‡ ℮ № ∙ ∕ + − × ÷ = ≠ > < ≥ ≤ ± ≈ ~ ¬ ^ ∞ ∅ ∫ Ω ∆ ∏ ∑ √ ∂ µ % ‰ ↑ ↗ → ↘ ↓ ↙ ← ↖ ↔ ↕ ◊
-    - combining marks: ΄ ΅  ̦̆ ¨ ˙ ` ´ ˝ ˆ ˇ ˘ ˚ ˜ ¯ ¸ ˛
+   - FC Pep Shapes Black:
+        glyphCount: 2542
+        fastspring: FC_Pep_Shapes_Black
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Shapes Classic:
+        glyphCount: 2542
+        fastspring: FC_Pep_Shapes_Classic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Shapes Cold:
+        glyphCount: 2542
+        fastspring: FC_Pep_Shapes_Cold
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Shapes Grey:
+        glyphCount: 2542
+        fastspring: FC_Pep_Shapes_Grey
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Shapes Hot:
+        glyphCount: 2542
+        fastspring: FC_Pep_Shapes_Hot
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Shapes Pastel:
+        glyphCount: 2542
+        fastspring: FC_Pep_Shapes_Pastel
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Shapes RGB:
+        glyphCount: 2542
+        fastspring: FC_Pep_Shapes_RGB
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Solid Black:
+        glyphCount: 2521
+        fastspring: FC_Pep_Solid_Black
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Solid Classic:
+        glyphCount: 2521
+        fastspring: FC_Pep_Solid_Classic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Solid Cold:
+        glyphCount: 2521
+        fastspring: FC_Pep_Solid_Cold
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Solid Grey:
+        glyphCount: 2521
+        fastspring: FC_Pep_Solid_Grey
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Solid Hot:
+        glyphCount: 2521
+        fastspring: FC_Pep_Solid_Hot
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Solid Pastel:
+        glyphCount: 2521
+        fastspring: FC_Pep_Solid_Pastel
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
+   - FC Pep Solid RGB:
+        glyphCount: 2521
+        fastspring: FC_Pep_Solid_RGB
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ´ µ ¶ · ¸ º » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž"
+           Latin Extended-B: "ƒ Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǽ ǽ Ǿ ǿ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̆ ̦"
+           Greek and Coptic: "; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ỳ ỳ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∅ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Miscellaneous Symbols: "☹ ☺"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Localized Forms: "i-locl"
+           Double storey a: "Ā-ss01 ā-ss01 Ă-ss01 ă-ss01 Ą-ss01 ą-ss01 À-ss01 A-ss01 Á-ss01 Â-ss01 Ä-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 Ǽ-ss01 ǽ-ss01"
+           Single storey a: "Ā-ss02 ā-ss02 Ă-ss02 ă-ss02 Ą-ss02 ą-ss02 À-ss02 A-ss02 Á-ss02 Â-ss02 Ä-ss02 Å-ss02 Ã-ss02 Æ-ss02 Ǎ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 ã-ss02 æ-ss02 Ǽ-ss02 ǽ-ss02"
+           Rounded I: "Ĩ-ss03 ĩ-ss03 Ī-ss03 ī-ss03 Ĭ-ss03 ĭ-ss03 Į-ss03 į-ss03 İ-ss03 I-ss03 Ì-ss03 Í-ss03 Î-ss03 Ï-ss03 i-ss03 ì-ss03 í-ss03 î-ss03 ï-ss03"
+           Lowercase wide n: "Ń-ss04 ń-ss04 Ņ-ss04 ņ-ss04 Ň-ss04 ň-ss04 N-ss04 n-ss04 Ñ-ss04 ñ-ss04"
+           Wide smooth Zero: "0-ss05"
+           Wide angular Zero: "0-ss06"
+           Dropped T bar: "Ţ-ss07 ţ-ss07 Ť-ss07 ť-ss07 t-ss07 T-ss07 Ț-ss07 ț-ss07"
+           Cyrillic A alternate: "а-ss08"
+           Cyrillic De alternate: "Д-ss09 д-ss09"
+           Bulgarian Alternates: "Д-ss10 Л-ss10 Ф-ss10 в-ss10 г-ss10 д-ss10 ж-ss10 з-ss10 и-ss10 й-ss10 к-ss10 л-ss10 п-ss10 т-ss10 ц-ss10 ш-ss10 щ-ss10 ъ-ss10 ь-ss10 ю-ss10 ѓ-ss10 ѝ-ss10"
+           Alternate Apple: "-ss11"
 
 openTypeFeatures:
-
-    - liga:
-        name: Ligatures
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - fiets floraliën
-
-    - dlig:
-        name: Discretionary Ligatures
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - LIJM Αλλαγή ...
-
-    - calt:
-        name: Contextual Alternates
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - ":) :( -> /> ^- ^\\- <-"
-
-    - ss01:
-        name: "Stylistic set 01: Double storey a"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Anagrammatical
-
-    - ss02:
-        name: "Stylistic set 02: Single storey a"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Abracadabra
-
-    - ss03:
-        name: "Stylistic set 03: Rounded I"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Indivisibility
-
-    - ss04:
-        name: "Stylistic set 04: Lowercase wide n"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Nonconventional
-
-    - ss05:
-        name: "Stylistic set 05: Wide smooth Zero"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - $1.000.000,99
-
-    - ss06:
-        name: "Stylistic set 06: Wide angular Zero"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - €69.420,50
-
-    - ss07:
-        name: "Stylistic set 07: Dropped T bar"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Trisubstituted
-
-    - ss08:
-        name: "Stylistic set 08: Cyrillic A alternate"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Адаптация
-
-    - ss09:
-        name: "Stylistic set 09: Cyrillic De alternate"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Дедовщина Дедушка
-
-    - ss10:
-        name: "Stylistic set 10: Bulgarian Alternates"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - Чужбинец вижда хубавица на улицата.
-
-    - ss11:
-        name: "Stylistic set 11: Alternate Apple"
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - 
-
-    - ordn:
-        name: Ordindals
-        fontStyle: FC Pep Shapes Classic
-        examples:
-            - "1234567890"
+   - ss01:
+       name: Double storey a
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Anagrammatical"
+   - ss02:
+       name: Single storey a
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Abracadabra"
+   - ss03:
+       name: Rounded I
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Indivisibility"
+   - ss04:
+       name: Lowercase wide n
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Nonconventional"
+   - ss05:
+       name: Wide smooth Zero
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "$1.000.000,99"
+   - ss06:
+       name: Wide angular Zero
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "€69.420,50"
+   - ss07:
+       name: Dropped T bar
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Trisubstituted"
+   - ss08:
+       name: Cyrillic A alternate
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Адаптация"
+   - ss09:
+       name: Cyrillic De alternate
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Дедовщина Дедушка"
+   - ss10:
+       name: Bulgarian Alternates
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - "Чужбинец вижда хубавица на улицата"
+   - ss11:
+       name: Alternate Apple
+       fontStyle: FC Pep Shapes Classic
+       examples:
+         - ""
 
 css: pep-style.css
 
