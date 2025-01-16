@@ -1,6 +1,7 @@
 ---
 layout: font
 title: FC Filter
+serial: FC.2025.03
 
 draft: true
 
@@ -84,6 +85,20 @@ fontVariations:
 #        fontStyle: FC MAD Serif Light
 #        examples:
 #          - "/0123456789"
+
+language_support:
+    latin: true
+    cyrillic: false
+    greek: false
+    vietnamese: false
+    
+weights: ✅	
+    
+widths: ✅
+    
+italics: true
+    
+variable: true
 
 testers:
     - text: |

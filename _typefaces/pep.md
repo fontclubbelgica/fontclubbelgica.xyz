@@ -1,6 +1,7 @@
 ---
 layout: font
 title: FC Pep
+serial: FC.2019.02
 
 draft: true
 
@@ -557,6 +558,20 @@ showcases:
     - abcdefghijklm
     - nopqrstuvwxyz
     - 0123456789
+
+language_support:
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: false
+
+weights: 2
+
+widths: 
+
+italics: false
+
+variable: false
 
 testers:
     - text: |
