@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC Gorp
-serial: FC.2025.02
 
 draft: false
 

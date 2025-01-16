@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC Nib
-serial: FC.2019.01
 
 draft: false
 
@@ -890,6 +889,6 @@ library_preview:
 
 font_match:
     - FC PDU
-    - FC Mad Sans
+    - FC MAD Sans
     - FC Pep
 ---

@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC Filter
-serial: FC.2025.03
 
 draft: true
 

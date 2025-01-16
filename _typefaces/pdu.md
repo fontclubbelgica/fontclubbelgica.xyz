@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC PDU
-serial: FC.2010.01
    
 draft: false
 
@@ -635,7 +634,7 @@ library_preview:
     - FCB_Library_PDU_6.svg
 
 font_match:
-    - FC Mad Serif
-    - FC Mad Sans
+    - FC MAD Serif
+    - FC MAD Sans
     - FC Pep
 ---

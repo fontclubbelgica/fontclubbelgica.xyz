@@ -1,7 +1,6 @@
 ---
 layout: font
 title: FC MAD Sans
-serial: FC.2017.01
 
 draft: false
 

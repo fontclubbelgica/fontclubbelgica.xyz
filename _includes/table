@@ -15,7 +15,7 @@
                 <th>Serial#</th>
             </tr>
     
-            {% assign typefaces = site.typefaces | sort:"serial" %}
+            {% assign typefaces = site.typefaces | sort:"date" %}
             {% for typeface in typefaces %}
                 <tr {% if typeface.draft %}class="wip"{% endif %}>
                     <th><a href="{{ typeface.url }}">{{ typeface.title }}</a></th>
@@ -28,7 +28,7 @@
                     <td>{% if typeface.language_support.cyrillic %}✅{% endif %}</td>
                     <td>{% if typeface.language_support.greek %}✅{% endif %}</td>
                     <td>{% if typeface.language_support.vietnamese %}✅{% endif %}</td>
-                    <td>{{ typeface.serial }}</td>
+                    <td>FC.{{ typeface.date | date: "%Y" }}.{{ typeface.date | date: "%m" }}</td>
                 </tr>
             {% endfor %}
         </table>
