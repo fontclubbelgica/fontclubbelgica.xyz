@@ -1,6 +1,7 @@
 ---
 layout: font
 title: FC Cru
+serial: FC.2023.04
 
 draft: false
 
@@ -687,6 +688,20 @@ showcases:
     - äbcdęfghijklmno
     - pqrstuvwxyzωд
     - 0123456789
+
+language_support:
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: false
+
+weights: 1
+
+widths: 7
+
+italics: true
+
+variable: false
 
 testers:
     - text: |

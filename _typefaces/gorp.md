@@ -1,6 +1,7 @@
 ---
 layout: font
 title: FC Gorp
+serial: FC.2025.02
 
 draft: false
 
@@ -2766,8 +2767,19 @@ tags:
     - display
     - Stencil font
 
-lanuage-support:
-    - latin
+language_support:
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: true
+
+weights: 6
+
+widths: 5
+
+italics: true
+
+variable: false
 
 testers:
     - text: |

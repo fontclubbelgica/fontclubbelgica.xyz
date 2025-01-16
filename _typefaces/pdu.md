@@ -1,7 +1,8 @@
 ---
 layout: font
 title: FC PDU
-
+serial: FC.2010.01
+   
 draft: false
 
 information: |
@@ -286,8 +287,19 @@ tags:
     - display
     - Stencil font
 
-lanuage-support:
-    - latin
+language_support:
+    latin: true
+    cyrillic: false
+    greek: false
+    vietnamese: false
+
+weights: 1
+
+widths: 
+
+italics: false
+
+variable: false
 
 testers:
     - text: |

@@ -1,0 +1,36 @@
+<section class="table">
+    <div class="table-wrap">
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Styles</th>
+                <th>Weights</th>
+                <th>Widths</th>
+                <th>Italics</th>
+                <th>Variable</th>
+                <th>Latin CE</th>
+                <th>Cyrillic</th>
+                <th>Greek</th>
+                <th>Vietnam</th>
+                <th>Serial#</th>
+            </tr>
+    
+            {% assign typefaces = site.typefaces | sort:"serial" %}
+            {% for typeface in typefaces %}
+                <tr {% if typeface.draft %}class="wip"{% endif %}>
+                    <th><a href="{{ typeface.url }}">{{ typeface.title }}</a></th>
+                    <td>{{ typeface.styles | size }}</td>
+                    <td>{{ typeface.weights }}</td>
+                    <td>{{ typeface.widths }}</td>
+                    <td>{% if typeface.italics %}✅{% endif %}</td>
+                    <td>{% if typeface.variable %}✅{% endif %}</td>
+                    <td>{% if typeface.language_support.latin %}✅{% endif %}</td>
+                    <td>{% if typeface.language_support.cyrillic %}✅{% endif %}</td>
+                    <td>{% if typeface.language_support.greek %}✅{% endif %}</td>
+                    <td>{% if typeface.language_support.vietnamese %}✅{% endif %}</td>
+                    <td>{{ typeface.serial }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+</section>

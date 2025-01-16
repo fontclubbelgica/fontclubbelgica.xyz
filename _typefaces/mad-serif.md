@@ -1,6 +1,7 @@
 ---
 layout: font
 title: FC MAD Serif
+serial: FC.2017.02
 
 draft: false
 
@@ -658,6 +659,20 @@ showcases:
     - abcdefghijklm
     - nopqrstuvwxyz
     - 0123456789
+
+language_support:
+        latin: true
+        cyrillic: false
+        greek: false
+        vietnamese: false
+
+weights: 4 + 4
+
+widths: 
+
+italics: true
+
+variable: false
 
 testers:
     - text: |

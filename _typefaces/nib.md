@@ -1,6 +1,7 @@
 ---
 layout: font
 title: FC Nib
+serial: FC.2019.01
 
 draft: false
 
@@ -654,6 +655,20 @@ showcases:
     - äbcdęfghijklmno
     - pqrstuvwxyzωд
     - 0123456789
+
+language_support:
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: false
+
+weights: 6
+
+widths: 
+
+italics: true
+
+variable: false
 
 testers:
     - text: |
