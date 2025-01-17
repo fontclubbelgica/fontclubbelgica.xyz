@@ -28,7 +28,7 @@
         {% endunless %}
         {% endfor %}
         {% unless include.fontcount %}
-        <div class="more"><p>and many more to come!</p></div>
+        <div class="more"><p>and many<br>more to<br>come!</p></div>
         {% endunless %}
     </div>
     {% if include.fontcount %}

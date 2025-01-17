@@ -9,7 +9,7 @@ featuredImage: FCB_Article_Splash_Cru.svg
 thumbnailImage: FCB_ANR_Cru.jpg
 ---
 
-# Behind Cru: An Exploration of Form and History
+# Behind&nbsp;Cru:&nbsp;An&nbsp;Exploration of&nbsp;Form&nbsp;and&nbsp;History
 
 <div markdown="1">
   <div markdown="1">
