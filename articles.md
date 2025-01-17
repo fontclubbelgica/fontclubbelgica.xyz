@@ -10,7 +10,7 @@ title: Articles, Research and News
     <div class="preview-article">
         <a href="{{ articlePage.url }}">
             <figure>
-                <img src="{{ articlePage.url }}{{ articlePage.featuredImage }}" />
+                <img src="{{ articlePage.url }}{{ articlePage.thumbnailImage }}" />
             </figure>
             <div class="article-info">
                 <h2>{{ articlePage.title }}</h2>

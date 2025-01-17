@@ -6,6 +6,10 @@ layout: default
 <img src="{{ page.featuredImage }}">
 {% endif %}
 
-<main class="article">
-{{ content }}
+<main class="">
+	<section class="research">
+		<div class="research-content">
+			{{ content | markdownify }}
+		</div>
+	</section>
 </main>
