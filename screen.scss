@@ -606,7 +606,16 @@ section.research {
     padding-top: 20px;
     padding-left: var(--padding);
     padding-right: var(--padding);
-
+    
+    h1 {
+      padding-top: 30px;
+      padding-bottom: 60px;
+      font-size: 50px;
+      line-height: 60px;
+      padding-left: var(--bigpadding);
+      padding-right: var(--bigpadding);
+      text-align: center;
+    }
     p, ol, ul {
         font-size: 15px;
         line-height: 24px;
@@ -616,6 +625,9 @@ section.research {
     }
     p+p {
         padding-top: 12px;
+    }
+    p+h2 {
+        padding-top: 24px;
     }
     .research-content {
         margin: 0 auto;
