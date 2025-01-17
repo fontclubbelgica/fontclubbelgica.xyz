@@ -3,7 +3,7 @@ layout: page
 title: Articles, Research and News
 ---
 
-# {{ page.title }}
+# Articles, Research and&nbsp;News
 
 <section class="articles">
 {% for articlePage in site.articles %}
