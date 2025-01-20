@@ -904,6 +904,7 @@ library_preview:
 
 font_match:
     - FC Nib
-    - FC Mad Sans
-    - FC Mad Serif
+    - FC MAD Sans
+    - FC MAD Serif
+    - FC Gorp
 ---

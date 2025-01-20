@@ -290,4 +290,9 @@ library_preview:
     - FCB_Library_Filter_4.svg      
     - FCB_Library_Filter_5.svg      
 
+font_match:
+    - FC Nib
+    - FC Gorp
+    - FC MAD Sans
+    - FC Cru
 ---

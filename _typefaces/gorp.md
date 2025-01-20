@@ -3234,7 +3234,8 @@ library_preview:
 
 
 font_match:
-    - FC Mad Serif
-    - FC Mad Sans
+    - FC MAD Serif
+    - FC MAD Sans
     - FC Nib
+    - FC Cru
 ---
