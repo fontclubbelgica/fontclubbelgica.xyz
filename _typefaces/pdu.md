@@ -634,7 +634,8 @@ library_preview:
     - FCB_Library_PDU_6.svg
 
 font_match:
-    - FC MAD Serif
+    - FC Nib
+    - FC Gorp
     - FC MAD Sans
     - FC Pep
 ---

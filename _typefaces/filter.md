@@ -8,7 +8,7 @@ information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
 
 designer: Frederik Berlaen
-date: 2095-12-01
+date: 2025-01-20
 
 css: filter-style.css
 
@@ -16,12 +16,12 @@ splash: filter-splash.svg
 
 hometile: FCB_Library_Filter_Large.svg
 
-# showcases:
-#     - ABCDEFGHIJKLMN
-#     - OPQRSTUVWXYZ
-#     - abcdefghijklm
-#     - nopqrstuvwxyz
-#     - 0123456789
+showcases:
+     - ABCDEFGHIJKLMN
+     - OPQRSTUVWXYZ
+     - abcdefghijklm
+     - nopqrstuvwxyz
+     - 0123456789
 
 styles:
    - Filter Engraved:
@@ -256,6 +256,32 @@ testers:
         Hue/Saturation filtrs ir nenovērtējams rīks ikvienam, kas strādā ar attēliem. Tas piedāvā intuitīvu pieeju krāsu regulēšanai un ļauj lietotājiem viegli radīt stilistiskas izmaiņas, kas var ievērojami uzlabot attēla kvalitāti un vizuālo ietekmi. Arī ar nelielām izmaiņām var panākt nozīmīgas izmaiņas, padarot to par svarīgu instrumentu digitālajā mākslā un fotogrāfijā.
       fontStyle: FC Filter
       fontSize: 120
+
+about:
+    - image: FCB_Articles_Cru.jpg
+      caption: "Leavenworth: Sixteen and Twelve Lines Condensed Gothic"
+
+      text: |
+        ## FILTER korte uitleg
+
+        Hier komt dan de uitleg over Filter waarom het werd gemaakt
+
+research: |
+
+    ## FILTER Research
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](FCB_Research_Cru_1.jpg)
+
+      </div>
+      <div markdown="1">
+
+    Ja we hebben dat gemaakt, maar waarom? Wel pakt u nen stoel en ik leg het uit.
+
+      </div>
+    </div>
 
 library_preview:
     - FCB_Library_Filter_1.svg      
