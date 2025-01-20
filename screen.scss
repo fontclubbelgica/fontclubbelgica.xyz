@@ -542,6 +542,8 @@ section.hero {
 // SHOWCASE
 section.showcase {
     padding-top: 20px;
+    padding-top: 120px;
+    padding-bottom: 80px;
     text-align: center;
     font-size: 6vw;
     padding-left: var(--padding);
@@ -556,8 +558,9 @@ section.showcase {
     .zone {
         line-height: 1.1;
     }
-    .zone-fontname {
-
+    #zone-fontname {
+      color: black;
+      background-color: #f0f0f0;
     }
 }
 
@@ -585,10 +588,37 @@ section.about {
     p {
         font-size: 15px;
         line-height: 24px;
-        max-width: 680px;
         margin: 0 auto;
-        padding-bottom: 30px;
     }
+    .text-content>div {
+      padding-bottom: 80px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      >div {
+        position: sticky;
+        align-self: start;
+        top: 90px;
+      }
+    }
+  @media(min-width: 900px) {
+    .text-content {
+      >div {
+        padding-left: var(--bigpadding);
+        padding-right: var(--bigpadding);
+      }
+    }
+  }
+  @media(max-width: 600px) {
+    .text-content {
+      >div {
+        grid-template-columns: 1fr;
+        >div {
+          position: static;
+        }
+      }
+    }
+  }
 }
 
 
@@ -631,7 +661,7 @@ section.research {
       padding-left: 25px;
     }
     p+p {
-        padding-top: 12px;
+        text-indent: 33px;
     }
     p+h2 {
         padding-top: 24px;
@@ -987,6 +1017,9 @@ section.library {
     padding-right: calc(var(--padding) + var(--bigpadding));
     background-color: rgb(240,240,240);
     font-family: 'FCBELGICA';
+    .grid {
+      padding-bottom: 40px;
+    }
 }
 .font-info h2, .font-info p {
     font-size: 13px;
@@ -1079,7 +1112,6 @@ section.library {
 
 
 section.library {
-    padding-bottom: 40px;
     a.btn {
         display: inline-block;
         margin: 0 auto;
