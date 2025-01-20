@@ -8,7 +8,7 @@ information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
 
 designer: Frederik Berlaen
-date: 2023-12-01
+date: 2095-12-01
 
 css: filter-style.css
 

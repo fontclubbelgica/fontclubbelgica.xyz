@@ -8,7 +8,7 @@ information: |
     Pep is a typeface that explores the limits of the childs game "ABC Con Fantasia" by Bruno Munari
 
 designer: Dries Wiewauters
-date: 2019-01-01
+date: 2099-01-01
 
 styles:
    - FC Pep Shapes Black:
