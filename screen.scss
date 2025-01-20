@@ -590,6 +590,9 @@ section.about {
         line-height: 24px;
         margin: 0 auto;
     }
+    p+p {
+        text-indent: 33px;
+    }
     .text-content>div {
       padding-bottom: 80px;
       display: grid;

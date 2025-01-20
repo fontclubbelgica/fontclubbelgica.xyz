@@ -969,7 +969,8 @@ library_preview:
 
 font_match:
     - FC PDU
-    - FC Mad Serif
-    - FC Pep
+    - FC MAD Serif
+    - FC Nib
+    - FC Gorp
 
 ---

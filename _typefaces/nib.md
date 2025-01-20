@@ -684,7 +684,7 @@ testers:
         Þegar kemur að efnistökum gætu listamenn sett saman myndir sem tákna andstæðar hugmyndir, eins og líf og dauða, fegurð og hrörnun eða ringulreið og reglu. Þessar sjónrænu andstæður vekja áhorfandann til umhugsunar um tvískiptinguna sem býr í mannlegri reynslu. Notkun andstæðu í myndlist getur einnig þjónað þeim tilgangi að draga fram siðferðileg eða heimspekileg þemu, líkt og í bókmenntum, en gert það í gegnum sjónrænt mál.
         Með notkun andstæðu skapa listamenn kraftmikla spennu sem dregur áhorfandann inn í verkið og hvetur til dýpri þátttöku, sem leiðir til betri skilnings á framsetta andstæðunni.
       fontStyle: FC Nib Light Italic
-      fontSize: 30
+      fontSize: 70
 
     - text: |
         В изобразителното изкуство антитезата се отнася до умишленото противопоставяне на два противоположни елемента с цел създаване на напрежение, баланс или по-дълбок смисъл в композицията. Тази концепция може да се изрази чрез контраст на цветове, форми, текстури или тематика и често се използва за подчертаване на сложността на темите или за предизвикване на силни емоционални реакции у зрителя.
@@ -692,7 +692,7 @@ testers:
         Що се отнася до тематиката, художниците могат да противопоставят фигури, които представляват противоположни идеи, като живот и смърт, красота и разпад, хаос и ред. Тези визуални контрасти провокират размисли за двойственостите, присъщи на човешкия опит.
         Чрез използването на антитеза, художниците създават динамично напрежение, което привлича вниманието на зрителя и насърчава по-дълбоко ангажиране с произведението, водещо до по-задълбочено разбиране на представения контраст.
       fontStyle: FC Nib Regular
-      fontSize: 70
+      fontSize: 20
 
     - text: |
         In den visuellen Künsten bezieht sich die Antithese auf den bewussten Kontrast zwischen zwei gegensätzlichen Elementen, um Spannung, Ausgewogenheit oder eine tiefere Bedeutung innerhalb einer Komposition zu schaffen. Dieses Konzept kann durch kontrastierende Farben, Formen, Texturen oder Themen ausgedrückt werden und wird oft verwendet, um die Komplexität von Themen hervorzuheben oder starke emotionale Reaktionen beim Betrachter auszulösen.
@@ -773,14 +773,16 @@ testers:
 
 about:
     - text: |
-        ## Nib: A Typeface of Duality and Craftsmanship
-        Nib from Font Club Belgica captures the essence of duality, much like the classic literary figure Dr. Jekyll and Mr. Hyde. It presents two distinct faces: one that is sharp and controlled, influenced by the precise, angular forms of chiseled type, and another that is fluid and human, evoking the warmth of pen-drawn lettering. In larger sizes, Nib’s angular, chiseled features dominate, offering a sharp, irregular look. However, in smaller text settings, its calligraphic roots emerge, adding subtle warmth and approachability.
+        ## Nib: A Typeface of Duality and&nbsp;Craftsmanship
+      
+        Nib captures the essence of duality, much like the classic literary figure Dr. Jekyll and Mr. Hyde. It presents two distinct faces: one that is sharp and controlled, influenced by the precise, angular forms of chiseled type, and another that is fluid and human, evoking the warmth of pen-drawn lettering. In larger sizes, Nib’s angular, chiseled features dominate, offering a sharp, irregular look. However, in smaller text settings, its calligraphic roots emerge, adding subtle warmth and approachability.
+        
+        This duality gives Nib a versatility that few typefaces achieve. It bridges two different traditions: the monumental precision of stone-carved letters and the organic, expressive qualities of hand-drawn type. Nib balances these extremes, making it adaptable for both impactful display work and more intimate, readable text.
+        
+        Dries Wiewauters has created a typeface that thrives in the space between control and expression. Nib’s fusion of chisel and pen influences offers designers the flexibility to navigate a wide range of visual contexts, creating a typeface that is both contemporary and deeply rooted in typographic tradition. Depending on how it is used Nib can be either friendly or reserved, modern or classical, expressive or restrained, …
+
       image: FCB_Articles_Nib.svg
       caption: Before it was named Nib, Scribe was the WIP name.
-
-    - text: |
-        This duality gives Nib a versatility that few typefaces achieve. It bridges two different traditions: the monumental precision of stone-carved letters and the organic, expressive qualities of hand-drawn type. Nib balances these extremes, making it adaptable for both impactful display work and more intimate, readable text.
-        Dries Wiewauters has created a typeface that thrives in the space between control and expression. Nib’s fusion of chisel and pen influences offers designers the flexibility to navigate a wide range of visual contexts, creating a typeface that is both contemporary and deeply rooted in typographic tradition. Depending on how it is used Nib can be either friendly or reserved, modern or classical, expressive or restrained, …
 
 research: |
     ## Introducing Nib: A Study in Duality
@@ -889,6 +891,7 @@ library_preview:
 
 font_match:
     - FC PDU
+    - FC MAD Serif
     - FC MAD Sans
     - FC Pep
 ---
