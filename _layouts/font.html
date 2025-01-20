@@ -35,20 +35,26 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 {% if page.about %}
 <section class="about">
     <div class="about-title">
-        <h3 class="flag-red section-title">Synopsis</h3>
+        <h3 class="section-title">Synopsis</h3>
         <h3 class="section-title">FC.{{ page.date | date: "%Y" }}.{{ page.date | date: "%m" }}</h3>
     </div>
     <div class="text-content">
         {% for about in page.about %}
-            {% if about.image %}
-            <figure>
-            <img src="{{ page.url }}{{ about.image }}">
-                {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
-            </figure>
-            {% endif %}
-            {% if about.text %}
-                {{ about.text | markdownify }}
-            {% endif %}
+        <div>
+            <div>
+                {% if about.image %}
+                <figure>
+                <img src="{{ page.url }}{{ about.image }}">
+                    {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
+                </figure>
+                {% endif %}
+            </div>
+            <div>
+                {% if about.text %}
+                    {{ about.text | markdownify }}
+                {% endif %}
+            </div>
+        </div>
         {% endfor %}
     </div>
 </section>
