@@ -18,7 +18,11 @@
             {% assign typefaces = site.typefaces | sort:"date" %}
             {% for typeface in typefaces %}
                 <tr {% if typeface.draft %}class="wip"{% endif %}>
+                    {% if typeface.draft %}
+                    <th>{{ typeface.title }}</th>
+                    {% else %}
                     <th><a href="{{ typeface.url }}">{{ typeface.title }}</a></th>
+                    {% endif %}
                     <td>{{ typeface.styles | size }}</td>
                     <td>{{ typeface.weights }}</td>
                     <td>{{ typeface.widths }}</td>
@@ -28,7 +32,11 @@
                     <td>{% if typeface.language_support.cyrillic %}✅{% endif %}</td>
                     <td>{% if typeface.language_support.greek %}✅{% endif %}</td>
                     <td>{% if typeface.language_support.vietnamese %}✅{% endif %}</td>
+                    {% if typeface.draft %}
+                    <td>FC.20??.??</td>
+                    {% else %}
                     <td>FC.{{ typeface.date | date: "%Y" }}.{{ typeface.date | date: "%m" }}</td>
+                    {% endif %}
                 </tr>
             {% endfor %}
         </table>

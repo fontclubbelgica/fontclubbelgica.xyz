@@ -1131,10 +1131,11 @@ section.table {
     border: none;
     background-color: white;
     border-collapse: collapse;
+    font-feature-settings: "tnum";
   }
   th, td {
     padding: 20px 2px 15px;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 15px;
     font-family: 'FCBELGICA Condensed';
   }
