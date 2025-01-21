@@ -190,8 +190,13 @@ document.addEventListener('DOMContentLoaded', function() {
 	    }
 	    setInterval(zoneInterval, 1000)
 	}
-
-
+	// expand glyphs sheet 
+	document.querySelectorAll('.expand').forEach((element) => {
+		element.addEventListener("click", (event) => {
+			event.preventDefault();
+			element.parentElement.classList.add('open');
+		})
+	})
     // library overview
 
 	const libray_stack = document.querySelectorAll('.stack')
