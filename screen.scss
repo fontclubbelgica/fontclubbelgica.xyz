@@ -814,10 +814,10 @@ section.details>div {
   transform: translateX(-50%);
   color: black;
 }
-.details .opentype.open:after, .details .characterSets.open:after {
+.details .opentype.open:after, .details .characterSets.open:after, .expandable.open:after {
   display: none;
 }
-.details .opentype.open, .details .characterSets.open {
+.details .opentype.open, .details .characterSets.open, .expandable.open {
   height: auto;
 }
 div.characterSets {
