@@ -108,11 +108,11 @@ document.addEventListener('DOMContentLoaded', function() {
 		 	preview.className = "t-medium preview"
 	  	}
 	 	else if( element.value > 20 ) {
-			preview.style.height = element.value * 1.5 * 4 + 'px'
+			preview.style.height = element.value * 1.5 * 5 + 'px'
 			preview.className = "t-small preview"
 		}
 		else {
-			preview.style.height = element.value * 1.5 * 5 + 'px'
+			preview.style.height = element.value * 1.5 * 8 + 'px'
 			preview.className = "t-xsmall preview";
 		}
 		preview.style.fontSize = element.value + 'px'
