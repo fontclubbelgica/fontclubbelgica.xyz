@@ -61,3 +61,6 @@ With Gorp, Font Club Belgica has honored Dwiggins’ innovative thinking, creati
 
   </div>
 </div>
+
+font_match:
+  - FC Gorp

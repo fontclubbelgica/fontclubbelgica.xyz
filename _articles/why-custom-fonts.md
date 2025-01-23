@@ -51,15 +51,14 @@ While numerous existing typefaces are available, there are instances where craft
   </div>
   <div markdown="1">
 
-## There are 2 main reasons to go full custom…<br>
+## There are two main reasons to go full custom…<br>
 <br>
-
-1.  **A bespoke font can actually be more cost effective than being stuck with a steep annual licensing fee…**<br>
+1.  <i>A bespoke font can actually be more cost effective than being stuck with a steep annual licensing fee…</i><br>
 Licensing well known font families gets pricey quickly. Big Foundries sometimes ask exuberant prices for licenses and some even make them an annual occurrence…
 On the one hand, it makes sense, since the production of them takes a lot of time. Much more than most people assume. There is a lot under the hood that you don’t notice in a well designed font. If you notice things, corners where cut and time was saved. If you don’t notice them, they were meticulously crafted over a long time period.
 So paying a premium for quality does make sense, but sometimes it can be cheaper to get something similar made, whilst not going for pure copy. Similar in feel, not in form. So if you have to fight for space in the budget, why not pay a similar, one of premium and go the bespoke route? The references can be set as inspiration on the path the find that perfect fit.<br>
 <br>
-2.  **A bespoke font can fill a gap for what doesn’t yet exist. It makes a rebrand even more bespoke.**<br>
+2.  <i>A bespoke font can fill a gap for what doesn’t yet exist. It makes a rebrand even more bespoke.</i><br>
 On the other hand a custom font can also start out of a creative need. The exact font doesn’t exist yet or it can’t be found. Did you an old reference in a dusty library or from the company archives? Can you only explain what you want in poetic detail?
 No matter what is the impetus, sometimes going bespoke is aesthetically the only valuable option. This route is calls for expertise that is often out of the scope of most designers. They know exactly what they want but need help creating the vision. It starts by establishing guiding principles rooted in the brand's strategy and identity. This process is one of collaboration and testing out different options in order to end up exactly where the project says it needs to go.
 A proper bespoke font doesn’t look forced upon a brand it is perfectly in line with it’s values. It adds to the intricate story of the past, present and future.<br>
@@ -113,5 +112,3 @@ We hope we helped you shed some light on the darks arts that type design seem to
 
   </div>
   </div>
-
-

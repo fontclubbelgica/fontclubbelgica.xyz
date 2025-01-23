@@ -88,3 +88,6 @@ Dries Wiewauters has created a typeface that is both highly functional and aesth
 
   </div>
 </div>
+
+font_match:
+  - FC Cru

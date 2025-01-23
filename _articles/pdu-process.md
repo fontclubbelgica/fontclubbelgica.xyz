@@ -129,3 +129,6 @@ As such PDU regular and outline contain a whopping 1578 glyphs each and 229 more
 
   </div>
   </div>
+
+font_match:
+  - FC PDU
