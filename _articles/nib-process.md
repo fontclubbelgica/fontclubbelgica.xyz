@@ -98,3 +98,6 @@ Whether used for a bold, impactful headline or a long block of text, Nib brings 
 
   </div>
   </div>
+
+font_match:
+  - FC Nib
