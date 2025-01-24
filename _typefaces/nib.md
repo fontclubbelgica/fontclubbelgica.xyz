@@ -539,7 +539,7 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "²-tnum ³-tnum ₴-tnum £-tnum ƒ-tnum −-tnum ₸-tnum \"-tnum #-tnum ¢-tnum $-tnum ₣-tnum '-tnum ₨-tnum ₹-tnum ª-tnum ₫-tnum €-tnum ₭-tnum ₪-tnum ₩-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum ฿-tnum ₿-tnum ₺-tnum ₽-tnum ¥-tnum =-tnum >-tnum ≈-tnum %-tnum ⅓-tnum ⅔-tnum ×-tnum +-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum <-tnum ±-tnum ‰-tnum °-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-           
+
 openTypeFeatures:
    - case:
        name: Case-Sensitive Forms
@@ -655,19 +655,19 @@ showcases:
     - pqrstuvwxyzωд
     - 0123456789
 
-language_support:
+technicalSupport:
     latin: true
     cyrillic: true
     greek: true
     vietnamese: false
 
-weights: 6
+    weights: 6
 
-widths: 
+    widths:
 
-italics: true
+    italics: true
 
-variable: false
+    variable: false
 
 testers:
     - text: |
@@ -774,11 +774,11 @@ testers:
 about:
     - text: |
         ## Nib: A Typeface of Duality and&nbsp;Craftsmanship
-      
+
         Nib captures the essence of duality, much like the classic literary figure Dr. Jekyll and Mr. Hyde. It presents two distinct faces: one that is sharp and controlled, influenced by the precise, angular forms of chiseled type, and another that is fluid and human, evoking the warmth of pen-drawn lettering. In larger sizes, Nib’s angular, chiseled features dominate, offering a sharp, irregular look. However, in smaller text settings, its calligraphic roots emerge, adding subtle warmth and approachability.
-        
+
         This duality gives Nib a versatility that few typefaces achieve. It bridges two different traditions: the monumental precision of stone-carved letters and the organic, expressive qualities of hand-drawn type. Nib balances these extremes, making it adaptable for both impactful display work and more intimate, readable text.
-        
+
         Dries Wiewauters has created a typeface that thrives in the space between control and expression. Nib’s fusion of chisel and pen influences offers designers the flexibility to navigate a wide range of visual contexts, creating a typeface that is both contemporary and deeply rooted in typographic tradition. Depending on how it is used Nib can be either friendly or reserved, modern or classical, expressive or restrained, …
 
       image: FCB_Articles_Nib.svg
@@ -832,7 +832,7 @@ research: |
 
       </div>
     </div>
-     
+
     <div markdown="1">
       <div markdown="1">
 
@@ -857,9 +857,9 @@ research: |
 
       </div>
       <div markdown="1">
-    
+
     ## Duality as a Design Principle
-    
+
     The duality at the heart of Nib reflects a broader design principle that resonates deeply in the world of typography: the balance between control and expression. Great typefaces often walk this line, offering both precision and personality, structure and freedom. Nib exemplifies this balance, inviting us to consider how these opposing forces can come together to create something greater than the sum of its parts.
 
     In this sense, Nib is not just a typeface—it is a study in the power of contrasts. It reminds us that even in design, where clarity and function are key, there is room for subtlety and nuance. The sharp can coexist with the soft, the mechanical with the human, the chiseled with the pen-drawn. This is the essence of Nib’s design, and what makes it a typeface that stands out in an increasingly homogenous typographic landscape.
@@ -867,7 +867,7 @@ research: |
     This duality was the brief during its development, as it was originally developed as a custom typeface for the MSK, the Museum of Fine Arts in Ghent, Belgium. After their period of exclusivity, the privilege of using it has now been opened up for the masses.
 
     ## Nib: A Typeface for Both Sides of the Coin
-    
+
     In Nib, Dries Wiewauters has created a typeface that speaks to both sides of the design coin. Like Jekyll and Hyde, Nib lives in two worlds at once, its chiseled structure providing strength and clarity, while its pen-drawn elements offer warmth and humanity. This duality allows Nib to transcend the limitations of style, making it a typeface that is as versatile as it is distinctive.
 
     Whether used for a bold, impactful headline or a long block of text, Nib brings with it a unique blend of precision and expression, modernity and tradition. It is a typeface for the present moment, grounded in history yet looking forward, embodying the balance that lies at the heart of great design.

@@ -683,19 +683,19 @@ showcases:
     - pqrstuvwxyzωд
     - 0123456789
 
-language_support:
-    latin: true
-    cyrillic: true
-    greek: true
-    vietnamese: false
+technicalSupport:
 
-weights: 1
+   latin: true
+   cyrillic: true
+   greek: true
+   vietnamese: false
 
-widths: 7
+   weights: 1
 
-italics: true
+   widths: 7
 
-variable: false
+   italics: true
+
 
 testers:
     - text: |

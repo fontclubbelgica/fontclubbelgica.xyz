@@ -2744,7 +2744,7 @@ openTypeFeatures:
        examples:
          - "34 815 96270"
    - ss08:
-       name: Circled Numbers Negative 
+       name: Circled Numbers Negative
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
          - "6284 97 3145"
@@ -2766,19 +2766,22 @@ tags:
     - display
     - Stencil font
 
-language_support:
+
+technicalSupport:
+
     latin: true
     cyrillic: true
     greek: true
     vietnamese: true
 
-weights: 6
+    weights: 6
 
-widths: 5
+    widths: 5
 
-italics: true
+    italics: true
 
-variable: false
+    variable: false
+
 
 testers:
     - text: |
@@ -2857,7 +2860,7 @@ testers:
         Сходження на Аконкаґуа – це більше, ніж просто підкорення висоти. Це зустріч із власними обмеженнями, перевірка стійкості духу та можливість споглядати одну з найпрекрасніших панорам світу. Гора нагадує про велич природи та силу людської рішучості.
 
         Аконкаґуа продовжує кликати до себе мандрівників, альпіністів і дослідників, які прагнуть піднятися до її вершини та відчути на собі подих Анд.
-      fontStyle: FC Ueli 155 X Condensed Extra Bold Italic 
+      fontStyle: FC Ueli 155 X Condensed Extra Bold Italic
       fontSize: 50
 
     - text: |
@@ -3012,7 +3015,7 @@ testers:
 
         Gunung Rinjani bukan sahaja simbol keindahan alam tetapi juga warisan budaya yang kaya. Setiap pendakian ke puncaknya adalah pengembaraan yang menguji kekuatan fizikal dan mental, serta peluang untuk merenung keagungan alam semula jadi. Keunikan geografi, kepentingan spiritual, dan keindahan pemandangan menjadikan Rinjani salah satu gunung yang paling berharga di Indonesia dan dunia.
       fontStyle: FC Ueli 420 Expanded Regular
-      fontSize: 14            
+      fontSize: 14
 
     - text: |
         Mont Blanc, aussi appelé « le Toit de l’Europe », est le plus haut sommet des Alpes et d’Europe occidentale. S’élevant majestueusement à 4 807 mètres d’altitude, il se situe à la frontière entre la France et l’Italie, bien que le sommet soit officiellement du côté français. Cette montagne emblématique est une destination prisée par les alpinistes, les randonneurs et les amoureux de la nature du monde entier.
@@ -3201,7 +3204,8 @@ research: |
 
     Ueli is a typeface with a purpose-driven aesthetic. Its varied widths and weights provide flexibility, while the quirky italic offers a dynamic contrast to its structured uprights. This versatility allows Ueli to move seamlessly between display and text settings, maintaining clarity and character while solving the historical problems of fixed-width design.
 
-    With Ueli, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Ueli delivers a balance of mechanical heritage and modern versatility. 
+    With Ueli, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Ueli delivers a balance of mechanical heritage and modern versatility.
+
 
       </div>
     </div>

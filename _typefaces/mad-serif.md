@@ -659,19 +659,19 @@ showcases:
     - nopqrstuvwxyz
     - 0123456789
 
-language_support:
-        latin: true
-        cyrillic: false
-        greek: false
-        vietnamese: false
+technicalSupport:
+    latin: true
+    cyrillic: false
+    greek: false
+    vietnamese: false
 
-weights: 4 + 4
+    weights: 4 + 4
 
-widths: 
+    widths:
 
-italics: true
+    italics: true
 
-variable: false
+    variable: false
 
 testers:
     - text: |
