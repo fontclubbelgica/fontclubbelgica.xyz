@@ -971,6 +971,6 @@ font_match:
     - FC PDU
     - FC MAD Serif
     - FC Nib
-    - FC Gorp
+    - FC Ueli
 
 ---

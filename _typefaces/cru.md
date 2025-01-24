@@ -594,56 +594,26 @@ styles:
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
 
 openTypeFeatures:
-   - case:
-       name: Case-Sensitive Forms
-       fontStyle: FC Cru 100 X Condensed Black
-       examples:
-         - "()-/[\\]{|}¡¦«»¿–—‹›"
-   - dnom:
-       name: Denominators
-       fontStyle: FC Cru 100 X Condensed Black
-       examples:
-         - "0123456789"
-   - frac:
-       name: Fractions
-       fontStyle: FC Cru 100 X Condensed Black
-       examples:
-         - "0123456789/0123456789"
-   - numr:
-       name: Numerators
-       fontStyle: FC Cru 100 X Condensed Black
-       examples:
-         - "0123456789"
-   - onum:
-       name: Oldstyle Figures
-       fontStyle: FC Cru 100 X Condensed Black
-       examples:
-         - "0123456789"
    - salt:
        name: Stylistic Alternates
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "aàáâãäåæāăąǽ"
-   - sinf:
-       name: Scientific Inferiors
-       fontStyle: FC Cru 100 X Condensed Black
-       examples:
-         - "0123456789"
+         - "Himalayan Mountain Range"
    - ss01:
        name: Alternate a
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "aàáâãäåæāăąǽ"
+         - "Landmannalaugar Iceland"
    - ss02:
        name: Alternate g
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "gĝğġģ"
+         - "Exaggerated Magazine"
    - ss03:
        name: Alternate y
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "yýÿŷỳ"
+         - "Dryly Glyph Synthesis"
    - ss04:
        name: Circled Numbers
        fontStyle: FC Cru 100 X Condensed Black
@@ -654,26 +624,51 @@ openTypeFeatures:
        fontStyle: FC Cru 100 X Condensed Black
        examples:
          - "0123456789"
-   - subs:
-       name: Subscript
+   - case:
+       name: Case-Sensitive Forms
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "0123456789"
+         - "(YES) ¿QUE? HTTP://CRU.XYZ"
+   - onum:
+       name: Oldstyle Figures
+       fontStyle: FC Cru 100 X Condensed Black
+       examples:
+         - "1234567890"
+   - tnum:
+       name: Tabular Figures
+       fontStyle: FC Cru 100 X Condensed Black
+       examples:
+         - "1234567890#%‰€$¥₩₿"
+   - zero:
+       name: Slashed Zero
+       fontStyle: FC Cru 100 X Condensed Black
+       examples:
+         - "€617.400"
+   - frac:
+       name: Fractions
+       fontStyle: FC Cru 100 X Condensed Black
+       examples:
+         - "1234567890/1234567890"
    - sups:
        name: Superscript
        fontStyle: FC Cru 100 X Condensed Black
        examples:
          - "0123456789"
-   - tnum:
-       name: Tabular Figures
+   - numr:
+       name: Numerators
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "#$%+0123456789<=>¢£¤¥§¬±×÷ƒ฿‰₣₨₩₪₫€₭₱₴₸₹₺₽₿−≈≠≤≥"
-   - zero:
-       name: Slashed Zero
+         - "1234567890"
+   - dnom:
+       name: Denominators
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "0⁰₀"
+         - "1234567890"
+   - sinf:
+       name: Scientific Inferiors + Subscript
+       fontStyle: FC Cru 100 X Condensed Black
+       examples:
+         - "1234567890"
 
 css: cru-style.css
 
@@ -906,5 +901,5 @@ font_match:
     - FC Nib
     - FC MAD Sans
     - FC MAD Serif
-    - FC Gorp
+    - FC Ueli
 ---
