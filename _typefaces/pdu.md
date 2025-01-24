@@ -635,7 +635,7 @@ library_preview:
 
 font_match:
     - FC Nib
-    - FC Gorp
+    - FC Ueli
     - FC MAD Sans
     - FC Pep
 ---
