@@ -13,14 +13,12 @@ slogans:
     - /typefaces/cru/FCB_Slogans_2.svg
     - /typefaces/nib/FCB_Slogans_2.svg
     - /typefaces/cru/FCB_Slogans_3.svg
-
-
 ---
 
 <div class="splash">
     {% for typeface in site.typefaces %}
         {% unless typeface.draft %}
-            {% if typeface.splash %}s
+            {% if typeface.splash %}
             <div class="slide">
                 <a href="{{ typeface.url }}">
                     <img src="{{ typeface.url }}{{ typeface.splash }}"/>
@@ -30,7 +28,6 @@ slogans:
         {% endunless %}
     {% endfor %}
 </div>
-
 
 
 <div class="splash-quotes">
