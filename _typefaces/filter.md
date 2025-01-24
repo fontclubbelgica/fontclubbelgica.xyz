@@ -10,6 +10,10 @@ information: |
 designer: Frederik Berlaen
 date: 2025-01-20
 
+buy_redirect:
+    title: Buy on Future Fonts
+    url: https://www.futurefonts.xyz
+
 css: filter-style.css
 
 splash: filter-splash.svg
@@ -85,19 +89,21 @@ fontVariations:
 #        examples:
 #          - "/0123456789"
 
-language_support:
+
+technicalSupport:
+
     latin: true
     cyrillic: false
     greek: false
     vietnamese: false
-    
-weights: ✅	
-    
-widths: ✅
-    
-italics: true
-    
-variable: true
+
+    weights: 🎛️
+    widths: 🎛️
+
+    italics: true
+
+    variable: true
+
 
 testers:
     - text: |
@@ -284,11 +290,11 @@ research: |
     </div>
 
 library_preview:
-    - FCB_Library_Filter_1.svg      
-    - FCB_Library_Filter_2.svg      
-    - FCB_Library_Filter_3.svg      
-    - FCB_Library_Filter_4.svg      
-    - FCB_Library_Filter_5.svg      
+    - FCB_Library_Filter_1.svg
+    - FCB_Library_Filter_2.svg
+    - FCB_Library_Filter_3.svg
+    - FCB_Library_Filter_4.svg
+    - FCB_Library_Filter_5.svg
 
 font_match:
     - FC Nib

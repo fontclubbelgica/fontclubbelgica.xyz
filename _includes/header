@@ -9,7 +9,7 @@
                 <li><a href="/articles">Research & News</a></li>
                 <li><a href="/faq#about-us">About us</a></li>
                 <li><a href="/faq#contact">Contact</a></li>
-                
+
             </ul>
         </nav>
     </div>
@@ -36,7 +36,11 @@
 
     <div>
         <nav class="cart">
-            <a href="#">Add to cart</a>
+            {% if page.buy_redirect %}
+                <a href="{{ page.buy_redirect.url }}" target="_blank" >{{ page.buy_redirect.title }}</a>
+            {% else %}
+                <a href="#">Add to cart</a>
+            {% endif %}
         </nav>
     </div>
 </header>

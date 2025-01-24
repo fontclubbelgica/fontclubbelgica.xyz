@@ -643,19 +643,20 @@ showcases:
     - nopqrstuvwxyz
     - 0123456789
 
-language_support:
+technicalSupport:
+
     latin: true
     cyrillic: false
     greek: false
     vietnamese: false
-    
-weights: 4 + 4
-    
-widths: 
-    
-italics: true
-    
-variable: false
+
+    weights: 4 + 4
+
+    widths:
+
+    italics: true
+
+    variable: false
 
 testers:
     - text: |
