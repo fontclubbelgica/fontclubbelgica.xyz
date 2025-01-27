@@ -752,10 +752,12 @@ section.lang-support {
 }
 .t-small {
     column-count: 2;
+    gap: 30px;
     // padding: 0 var(--padding);
 }
 .t-xsmall {
     column-count: 3;
+    gap: 30px;
     // padding: 0 var(--padding);
 }
 section.testers {
