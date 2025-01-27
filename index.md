@@ -2,6 +2,17 @@
 layout: page
 js: assets/js/flickity.pkgd.min.js
 css: assets/css/flickity.css
+
+slogans:
+    - /typefaces/pdu/FCB_Slogans_1.svg
+    - /typefaces/mad-serif/FCB_Slogans_1.svg
+    - /typefaces/mad-sans/FCB_Slogans_1.svg
+    - /typefaces/nib/FCB_Slogans_1.svg
+    - /typefaces/cru/FCB_Slogans_1.svg
+    - /typefaces/pep/FCB_Slogans_1.svg
+    - /typefaces/cru/FCB_Slogans_2.svg
+    - /typefaces/nib/FCB_Slogans_2.svg
+    - /typefaces/cru/FCB_Slogans_3.svg
 ---
 
 <div class="splash">
@@ -18,54 +29,19 @@ css: assets/css/flickity.css
     {% endfor %}
 </div>
 
+
 <div class="splash-quotes">
     <h2>Font Club is the Belgian type foundry selling fonts that make you happy!</h2>
     <div class="img-slider">
+    {% for slogan in page.slogans %}
+        {%- assign sloganURL = slogan | split: '/' | compact -%}
+        {%- assign sloganURL = sloganURL | pop -%}
         <div class="slide">
-            <a href="/typefaces/pdu">
-                <img src="/assets/FCB_Slogans_1.svg"/>
+            <a href="{{  sloganURL | join: '/' }}">
+                <img src="{{ slogan }}"/>
             </a>
         </div>
-        <div class="slide">
-           <a href="/typefaces/mad-sans">
-               <img src="/assets/FCB_Slogans_2.svg"/>
-           </a>
-        </div>
-        <div class="slide">
-           <a href="/typefaces/mad-serif">
-               <img src="/assets/FCB_Slogans_3.svg"/>
-           </a>
-        </div>
-        <div class="slide">
-           <a href="/typefaces/nib">
-               <img src="/assets/FCB_Slogans_4.svg"/>
-           </a>
-        </div>
-        <div class="slide">
-           <a href="/typefaces/nib">
-               <img src="/assets/FCB_Slogans_5.svg"/>
-           </a>
-        </div>
-        <div class="slide">
-           <a href="/typefaces/pep">
-               <img src="/assets/FCB_Slogans_6.svg"/>
-           </a>
-        </div>
-        <div class="slide">
-           <a href="/typefaces/pdu">
-               <img src="/assets/FCB_Slogans_7.svg"/>
-           </a>
-        </div>
-        <div class="slide">
-           <a href="/typefaces/pdu">
-               <img src="/assets/FCB_Slogans_8.svg"/>
-           </a>
-        </div>
-        <div class="slide">
-           <a href="/typefaces/pdu">
-               <img src="/assets/FCB_Slogans_9.svg"/>
-           </a>
-        </div>
+    {% endfor %}
     </div>
     <a href="/faq#about-us" class="btn">Read more About us</a>
 </div>

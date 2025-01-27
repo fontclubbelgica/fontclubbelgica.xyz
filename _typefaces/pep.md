@@ -558,19 +558,19 @@ showcases:
     - nopqrstuvwxyz
     - 0123456789
 
-language_support:
+technicalSupport:
     latin: true
     cyrillic: true
     greek: true
     vietnamese: false
 
-weights: 2
+    weights: 2
 
-widths: 
+    widths:
 
-italics: false
+    italics: false
 
-variable: false
+    variable: false
 
 testers:
     - text: |
@@ -711,12 +711,12 @@ about:
 
 research: |
     ## ABC Con Fantasia"
-    
+
     <div markdown="1">
       <div markdown="1">
-    
+
     ![](FCB_Pep_Research_1.svg)
-    
+
       </div>
       <div markdown="1">
 
@@ -741,12 +741,12 @@ research: |
 
       </div>
     </div>
-    
+
     <div markdown="1">
       <div markdown="1">
-    
+
     ![](FCB_Pep_Research_3.svg)
-    
+
       </div>
       <div markdown="1">
 
@@ -756,12 +756,12 @@ research: |
 
       </div>
     </div>
-    
+
     <div markdown="1">
       <div markdown="1">
-    
+
     ![](FCB_Pep_Research_4.svg)
-    
+
       </div>
       <div markdown="1">
 
@@ -771,12 +771,12 @@ research: |
 
       </div>
     </div>
-    
+
     <div markdown="1">
       <div markdown="1">
-    
+
     ![](FCB_Pep_Research_5.svg)
-    
+
       </div>
       <div markdown="1">
 
