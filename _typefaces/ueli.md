@@ -2748,8 +2748,6 @@ openTypeFeatures:
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
          - "€1.000 ⁴²⁰ ₅₀₈"
-<<<<<<< HEAD
-=======
    - ss07:
        name: Circled Numbers
        fontStyle: FC Ueli 110 X Condensed Light
@@ -2760,7 +2758,6 @@ openTypeFeatures:
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
          - "6284 97 3145"
->>>>>>> ca87e42116cf13fbca2a71ad4eb8289f2bf0ea5e
 
 css: Ueli-style.css
 
