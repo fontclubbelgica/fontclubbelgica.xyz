@@ -881,6 +881,9 @@ p.meta span {
 p.features-example span {
     width: calc(50% - 50px);
 }
+p.features-example span:first-child {
+  font-feature-settings: 'calt' off, 'liga' off;
+}
 p.features-example span.features-example-divider {
     font-family: "FCBELGICA";
     width: 100px;
