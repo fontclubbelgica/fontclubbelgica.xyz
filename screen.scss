@@ -651,7 +651,7 @@ section.research {
     padding-top: 20px;
     padding-left: var(--padding);
     padding-right: var(--padding);
-    
+
     h1 {
       padding-top: 30px;
       padding-bottom: 60px;
@@ -1099,7 +1099,7 @@ section.library {
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
 }
 .more p {
   font-size: 30px;
@@ -1171,7 +1171,7 @@ section.library {
     }
 }
 
-// table 
+// table
 section.table {
   padding: 120px calc(var(--padding) + var(--bigpadding)) 0;
 
@@ -1195,7 +1195,7 @@ section.table {
     background-color: rgb(209,209,209);
     font-size: 13px;
   }
-  tr:first-child th:first-child { 
+  tr:first-child th:first-child {
     padding-left: 10px;
   }
   tr:not(:first-child) th:first-child {
@@ -1221,14 +1221,14 @@ section.table {
       display: none;
     }
     .table-wrap {
-      -ms-overflow-style: none; 
-      scrollbar-width: none; 
+      -ms-overflow-style: none;
+      scrollbar-width: none;
       margin-right: calc(-1 * var(--padding));
     }
     table {
       min-width: 900px;
       padding-right: 20px;
-    
+
     }
   }
 }
@@ -1265,7 +1265,7 @@ section.table {
 
 // Footer
 footer {
-    background-color: #d2d2d2;
+    background-color: white;
     padding-top: 20px;
     margin-left: var(--padding);
     margin-right: var(--padding);
@@ -1567,8 +1567,8 @@ body.index {
     margin-left: 2px;
     top: 29px;
     padding: 0 var(--padding);
-    
-    
+
+
     @media(max-width: 600px) {
       font-size: 25px;
       line-height: 29px;
@@ -1586,7 +1586,7 @@ body.index {
     break-inside: avoid;
     padding-bottom: 40px;
     a {
-      
+
       display: block;
       border-radius: 22px;
       overflow: hidden;
@@ -1607,7 +1607,7 @@ body.index {
   }
 }
 
-// Articles 
+// Articles
 section.articles {
   display: block;
   column-count: 3;
