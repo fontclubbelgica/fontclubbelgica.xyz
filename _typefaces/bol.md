@@ -2,7 +2,7 @@
 layout: font
 title: FC Bol
 
-draft: false
+draft: true
 
 information: |
     Woodtype for the web. Bol pays hommage to old wood type whilst optimizing those forms for digital design.
