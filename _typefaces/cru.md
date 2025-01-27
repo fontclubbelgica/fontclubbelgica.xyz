@@ -633,12 +633,12 @@ openTypeFeatures:
        name: Oldstyle Figures
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "1234567890"
+         - "0123456789"
    - tnum:
        name: Tabular Figures
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "1234567890#%‰€$¥₩₿"
+         - "0123456789#%‰€$¥₩₿"
    - zero:
        name: Slashed Zero
        fontStyle: FC Cru 100 X Condensed Black
@@ -648,7 +648,7 @@ openTypeFeatures:
        name: Fractions
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "1234567890/1234567890"
+         - "12345/67890"
    - sups:
        name: Superscript
        fontStyle: FC Cru 100 X Condensed Black
@@ -658,17 +658,17 @@ openTypeFeatures:
        name: Numerators
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "1234567890"
+         - "0123456789"
    - dnom:
        name: Denominators
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "1234567890"
+         - "0123456789"
    - sinf:
        name: Scientific Inferiors + Subscript
        fontStyle: FC Cru 100 X Condensed Black
        examples:
-         - "1234567890"
+         - "0123456789"
 
 css: cru-style.css
 

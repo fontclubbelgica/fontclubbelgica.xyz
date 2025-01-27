@@ -2,7 +2,7 @@
 layout: font
 title: FC Bol
 
-draft: true
+draft: false
 
 information: |
     Woodtype for the web. Bol pays hommage to old wood type whilst optimizing those forms for digital design.
@@ -185,7 +185,7 @@ language_support:
     
 weights: ✅  
     
-widths: 1
+widths: 
     
 italics: true
     

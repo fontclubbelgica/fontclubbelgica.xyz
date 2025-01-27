@@ -589,61 +589,61 @@ styles:
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
 
 openTypeFeatures:
-   - dnom:
-       name: Denominators
-       fontStyle: FC MAD Serif Light
+   - ss01:
+       name: Alternate a
+       fontStyle: FC MAD Serif Fill Black
        examples:
-         - "0123456789"
-   - frac:
-       name: Fractions
-       fontStyle: FC MAD Serif Light
+         - "Tasty Tarantula"
+   - ss02:
+       name: Alternate g
+       fontStyle: FC MAD Serif Fill Black
        examples:
-         - "/0123456789"
-   - numr:
-       name: Numerators
-       fontStyle: FC MAD Serif Light
+         - "Gregorian Songs"
+   - case:
+       name: Case-Sensitive Forms
+       fontStyle: FC MAD Serif Fill Black
        examples:
-         - "0123456789"
+         - "(Yes) ¿Que? [afb 1.]"
    - onum:
        name: Oldstyle Figures
-       fontStyle: FC MAD Serif Light
+       fontStyle: FC MAD Serif Fill Black
+       examples:
+         - "0123456789#%‰€$¥₩₿"
+   - tnum:
+       name: Tabular Figures
+       fontStyle: FC MAD Serif Fill Black
+       examples:
+         - "0123456789#%‰€$¥₩₿"
+   - zero:
+       name: Slashed Zero
+       fontStyle: FC MAD Serif Fill Black
+       examples:
+         - "€1.000 ⁴²⁰ ₅₀₈"
+   - frac:
+       name: Fractions
+       fontStyle: FC MAD Serif Fill Black
+       examples:
+         - "12345/67890"
+   - sups:
+       name: Superscript
+       fontStyle: FC MAD Serif Fill Black
+       examples:
+         - "0123456789"
+   - numr:
+       name: Numerators
+       fontStyle: FC MAD Serif Fill Black
+       examples:
+         - "0123456789"
+   - dnom:
+       name: Denominators
+       fontStyle: FC MAD Serif Fill Black
        examples:
          - "0123456789"
    - sinf:
-       name: Scientific Inferiors
-       fontStyle: FC MAD Serif Light
+       name: Scientific Inferiors + Subscript
+       fontStyle: FC MAD Serif Fill Black
        examples:
          - "0123456789"
-   - ss01:
-       name: Alternate a
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "aàáâãäåæāăąǽ"
-   - ss02:
-       name: Alternate g
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "gĝġģ"
-   - subs:
-       name: Subscript
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "0123456789"
-   - sups:
-       name: Superscript
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "0123456789"
-   - tnum:
-       name: Tabular Figures
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "0123456789"
-   - zero:
-       name: Slashed Zero
-       fontStyle: FC MAD Serif Light
-       examples:
-         - "0⁰₀"
 
 css: mad-serif-style.css
 

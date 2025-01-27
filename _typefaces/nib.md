@@ -541,106 +541,101 @@ styles:
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
            
 openTypeFeatures:
-   - case:
-       name: Case-Sensitive Forms
-       fontStyle: FC Nib Black
-       examples:
-         - "()-/[\\]{|}¡¦«­»¿–—•‹›"
-   - dnom:
-       name: Denominators
-       fontStyle: FC Nib Black
-       examples:
-         - "0123456789"
-   - frac:
-       name: Fractions
-       fontStyle: FC Nib Black
-       examples:
-         - "/0123456789"
-   - numr:
-       name: Numerators
-       fontStyle: FC Nib Black
-       examples:
-         - "0123456789"
-   - onum:
-       name: Oldstyle Figures
-       fontStyle: FC Nib Black
-       examples:
-         - "\"#$%'+0123456789<=>¢£¥ª°±²³¹º¼½¾×÷ƒ฿‰₣₨₩₪₫€₭₱₴₸₹₺₽₿⅓⅔⅛⅜⅝⅞−≈≠≤≥"
    - salt:
        name: Stylistic Alternates
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "agàáâãäåæāăąĝğġģǽ"
-   - sinf:
-       name: Scientific Inferiors
-       fontStyle: FC Nib Black
-       examples:
-         - "0123456789"
+         - "Exchange rate"
    - ss01:
        name: Schoolbook a and g
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "agàáâãäåæāăąĝğġģǽ"
+         - "Capture the Flag"
    - ss02:
        name: Classic g
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "g"
+         - "Pigğybackinġ"
    - ss03:
        name: Alternate R
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "RŔŖŘ"
+         - "ROARING RAGE"
    - ss04:
        name: Zero Inverted Contrast
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "0⁰₀"
+         - "€1.000 ⁴²⁰ ₅₀₈"
    - ss05:
        name: Eager Exclamation
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "!¡"
+         - "¡Estoy gritando!"
    - ss06:
        name: Eager Ellipsis
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "…"
+         - "Build … Suspense"
    - ss07:
        name: Resigned Ellipsis
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "…"
+         - "Release … Tension"
+   - ss08:
+       name: "ITALICS ONLY: Alternate Q" 
+       fontStyle: FC Nib SemiBold Italic
+       examples:
+         - "Quality Quorn"
    - ss09:
        name: Bulgarian Alternates
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "ДЖКЛНФбвгджзийклптцчшщъьюѓѝ"
-   - subs:
-       name: Subscript
-       fontStyle: FC Nib Black
+         - "Хляб & Зеленчук"
+   - case:
+       name: Case-Sensitive Forms
+       fontStyle: FC Nib SemiBold
        examples:
-         - "0123456789"
-   - sups:
-       name: Superscript
-       fontStyle: FC Nib Black
+         - "(Yes) ¿Que? [afb 1.]"
+   - onum:
+       name: Oldstyle Figures
+       fontStyle: FC Nib SemiBold
        examples:
-         - "0123456789"
+         - "0123456789#%‰€$¥"
    - tnum:
        name: Tabular Figures
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "\"#$%'+0123456789<=>¢£¥ª°±²³¹º¼½¾×÷ƒ฿‰₣₨₩₪₫€₭₱₴₸₹₺₽₿⅓⅔⅛⅜⅝⅞−≈≠≤≥"
+         - "0123456789#%‰€$¥"
    - zero:
        name: Slashed Zero
-       fontStyle: FC Nib Black
+       fontStyle: FC Nib SemiBold
        examples:
-         - "0⁰₀"
-   - ss08:
-       name: Alternate Q
-       fontStyle: FC Nib Black Italic
+         - "€1.000 ⁴²⁰ ₅₀₈"
+   - frac:
+       name: Fractions
+       fontStyle: FC Nib SemiBold
        examples:
-         - "Q"
+         - "12345/67890"
+   - sups:
+       name: Superscript
+       fontStyle: FC Nib SemiBold
+       examples:
+         - "0123456789"
+   - numr:
+       name: Numerators
+       fontStyle: FC Nib SemiBold
+       examples:
+         - "0123456789"
+   - dnom:
+       name: Denominators
+       fontStyle: FC Nib SemiBold
+       examples:
+         - "0123456789"
+   - sinf:
+       name: Scientific Inferiors + Subscript
+       fontStyle: FC Nib SemiBold
+       examples:
+         - "0123456789"
 
 css: Nib-style.css
 
@@ -679,12 +674,20 @@ testers:
       fontSize: 200
 
     - text: |
-        Í myndlist vísar andstæða til meðvitaðs andstæðings tveggja ólíkra þátta til að skapa spennu, jafnvægi eða dýpri merkingu innan samsetningar. Þetta hugtak getur verið tjáð með andstæðum litum, formum, áferðum eða efnistökum, og er oft notað til að draga fram flækjur í þemum eða vekja sterkar tilfinningalegar viðbrögð hjá áhorfandanum.
-        Til dæmis, í barokklist, þar á meðal verkum Caravaggio, er notkun ljóss og skugga (chiaroscuro) notuð til að skapa andstæðu milli birtu og myrkurs, sem undirstrikar dramatíkina og andstæðuna milli hins guðlega og hins jarðneska. Á sama hátt gætu abstrakt listamenn notað beitt, hornlaga form í mótsögn við mjúk, lífræn form til að leggja áherslu á árekstra eða sátt innan samsetningarinnar.
-        Þegar kemur að efnistökum gætu listamenn sett saman myndir sem tákna andstæðar hugmyndir, eins og líf og dauða, fegurð og hrörnun eða ringulreið og reglu. Þessar sjónrænu andstæður vekja áhorfandann til umhugsunar um tvískiptinguna sem býr í mannlegri reynslu. Notkun andstæðu í myndlist getur einnig þjónað þeim tilgangi að draga fram siðferðileg eða heimspekileg þemu, líkt og í bókmenntum, en gert það í gegnum sjónrænt mál.
-        Með notkun andstæðu skapa listamenn kraftmikla spennu sem dregur áhorfandann inn í verkið og hvetur til dýpri þátttöku, sem leiðir til betri skilnings á framsetta andstæðunni.
-      fontStyle: FC Nib Light Italic
-      fontSize: 70
+        V výtvarnom umení sa antitéza týka zámerného postavenia dvoch protikladných prvkov do kontrastu s cieľom vytvoriť napätie, rovnováhu alebo hlbší zmysel v kompozícii. Tento koncept môže byť vyjadrený prostredníctvom kontrastu farieb, tvarov, textúr alebo tematiky a často sa používa na zdôraznenie zložitosti tém alebo na vyvolanie silných emocionálnych reakcií u diváka.
+        Napríklad použitie svetla a tieňa (chiaroscuro) v barokovom umení, obzvlášť v dielach Caravaggia, vytvára antitézu medzi svetlosťou a tmavosťou, čo podčiarkuje drámu a kontrast medzi božským a pozemským svetom. Podobne abstraktní umelci môžu používať ostré, hranaté tvary v protiklade s jemnými, organickými, aby zdôraznili konflikt alebo harmóniu v kompozícii.
+        Čo sa týka tematiky, umelci môžu postaviť do kontrastu postavy, ktoré reprezentujú protikladné myšlienky, ako napríklad život a smrť, krásu a rozklad, chaos a poriadok. Tieto vizuálne kontrasty podnecujú diváka k zamysleniu nad dualitami prítomnými v ľudskej skúsenosti.
+        Používaním antitézy vytvárajú umelci dynamické napätie, ktoré priťahuje pozornosť diváka a povzbudzuje ho k hlbšiemu zapojeniu do diela, čo vedie k hlbšiemu pochopeniu prezentovaného kontrastu.
+      fontStyle: FC Nib SemiBold Italic
+      fontSize: 40
+
+    - text: |
+        In den visuellen Künsten bezieht sich die Antithese auf den bewussten Kontrast zwischen zwei gegensätzlichen Elementen, um Spannung, Ausgewogenheit oder eine tiefere Bedeutung innerhalb einer Komposition zu schaffen. Dieses Konzept kann durch kontrastierende Farben, Formen, Texturen oder Themen ausgedrückt werden und wird oft verwendet, um die Komplexität von Themen hervorzuheben oder starke emotionale Reaktionen beim Betrachter auszulösen.
+        Zum Beispiel schafft die Verwendung von Licht und Schatten (Chiaroscuro) in der Barockkunst, insbesondere in den Werken von Caravaggio, eine Antithese zwischen Helligkeit und Dunkelheit, wodurch das Drama und der Kontrast zwischen der göttlichen und der irdischen Welt betont werden. Ebenso können abstrakte Künstler scharfe, eckige Formen gegen weiche, organische setzen, um Konflikte oder Harmonie innerhalb einer Komposition zu betonen.
+        In Bezug auf das Thema können Künstler Figuren gegenüberstellen, die gegensätzliche Ideen darstellen, wie Leben und Tod, Schönheit und Verfall oder Chaos und Ordnung. Diese visuellen Kontraste regen zum Nachdenken über die Dualitäten an, die in der menschlichen Erfahrung verankert sind. Die Verwendung der Antithese in den visuellen Künsten kann auch dazu dienen, moralische oder philosophische Themen hervorzuheben, ähnlich wie in der Literatur, jedoch durch eine rein visuelle Sprache.
+        Durch den Einsatz der Antithese schaffen Künstler eine dynamische Spannung, die den Betrachter fesselt und ein tieferes Eintauchen in das Werk fördert, was zu einem besseren Verständnis des dargestellten Kontrasts führt.
+      fontStyle: FC Nib Italic
+      fontSize: 80
 
     - text: |
         В изобразителното изкуство антитезата се отнася до умишленото противопоставяне на два противоположни елемента с цел създаване на напрежение, баланс или по-дълбок смисъл в композицията. Тази концепция може да се изрази чрез контраст на цветове, форми, текстури или тематика и често се използва за подчертаване на сложността на темите или за предизвикване на силни емоционални реакции у зрителя.
@@ -695,11 +698,11 @@ testers:
       fontSize: 20
 
     - text: |
-        In den visuellen Künsten bezieht sich die Antithese auf den bewussten Kontrast zwischen zwei gegensätzlichen Elementen, um Spannung, Ausgewogenheit oder eine tiefere Bedeutung innerhalb einer Komposition zu schaffen. Dieses Konzept kann durch kontrastierende Farben, Formen, Texturen oder Themen ausgedrückt werden und wird oft verwendet, um die Komplexität von Themen hervorzuheben oder starke emotionale Reaktionen beim Betrachter auszulösen.
-        Zum Beispiel schafft die Verwendung von Licht und Schatten (Chiaroscuro) in der Barockkunst, insbesondere in den Werken von Caravaggio, eine Antithese zwischen Helligkeit und Dunkelheit, wodurch das Drama und der Kontrast zwischen der göttlichen und der irdischen Welt betont werden. Ebenso können abstrakte Künstler scharfe, eckige Formen gegen weiche, organische setzen, um Konflikte oder Harmonie innerhalb einer Komposition zu betonen.
-        In Bezug auf das Thema können Künstler Figuren gegenüberstellen, die gegensätzliche Ideen darstellen, wie Leben und Tod, Schönheit und Verfall oder Chaos und Ordnung. Diese visuellen Kontraste regen zum Nachdenken über die Dualitäten an, die in der menschlichen Erfahrung verankert sind. Die Verwendung der Antithese in den visuellen Künsten kann auch dazu dienen, moralische oder philosophische Themen hervorzuheben, ähnlich wie in der Literatur, jedoch durch eine rein visuelle Sprache.
-        Durch den Einsatz der Antithese schaffen Künstler eine dynamische Spannung, die den Betrachter fesselt und ein tieferes Eintauchen in das Werk fördert, was zu einem besseren Verständnis des dargestellten Kontrasts führt.
-      fontStyle: FC Nib Italic
+        Í myndlist vísar andstæða til meðvitaðs andstæðings tveggja ólíkra þátta til að skapa spennu, jafnvægi eða dýpri merkingu innan samsetningar. Þetta hugtak getur verið tjáð með andstæðum litum, formum, áferðum eða efnistökum, og er oft notað til að draga fram flækjur í þemum eða vekja sterkar tilfinningalegar viðbrögð hjá áhorfandanum.
+        Til dæmis, í barokklist, þar á meðal verkum Caravaggio, er notkun ljóss og skugga (chiaroscuro) notuð til að skapa andstæðu milli birtu og myrkurs, sem undirstrikar dramatíkina og andstæðuna milli hins guðlega og hins jarðneska. Á sama hátt gætu abstrakt listamenn notað beitt, hornlaga form í mótsögn við mjúk, lífræn form til að leggja áherslu á árekstra eða sátt innan samsetningarinnar.
+        Þegar kemur að efnistökum gætu listamenn sett saman myndir sem tákna andstæðar hugmyndir, eins og líf og dauða, fegurð og hrörnun eða ringulreið og reglu. Þessar sjónrænu andstæður vekja áhorfandann til umhugsunar um tvískiptinguna sem býr í mannlegri reynslu. Notkun andstæðu í myndlist getur einnig þjónað þeim tilgangi að draga fram siðferðileg eða heimspekileg þemu, líkt og í bókmenntum, en gert það í gegnum sjónrænt mál.
+        Með notkun andstæðu skapa listamenn kraftmikla spennu sem dregur áhorfandann inn í verkið og hvetur til dýpri þátttöku, sem leiðir til betri skilnings á framsetta andstæðunni.
+      fontStyle: FC Nib Light Italic
       fontSize: 200
 
     - text: |
@@ -711,20 +714,12 @@ testers:
       fontSize: 30
 
     - text: |
-        V výtvarnom umení sa antitéza týka zámerného postavenia dvoch protikladných prvkov do kontrastu s cieľom vytvoriť napätie, rovnováhu alebo hlbší zmysel v kompozícii. Tento koncept môže byť vyjadrený prostredníctvom kontrastu farieb, tvarov, textúr alebo tematiky a často sa používa na zdôraznenie zložitosti tém alebo na vyvolanie silných emocionálnych reakcií u diváka.
-        Napríklad použitie svetla a tieňa (chiaroscuro) v barokovom umení, obzvlášť v dielach Caravaggia, vytvára antitézu medzi svetlosťou a tmavosťou, čo podčiarkuje drámu a kontrast medzi božským a pozemským svetom. Podobne abstraktní umelci môžu používať ostré, hranaté tvary v protiklade s jemnými, organickými, aby zdôraznili konflikt alebo harmóniu v kompozícii.
-        Čo sa týka tematiky, umelci môžu postaviť do kontrastu postavy, ktoré reprezentujú protikladné myšlienky, ako napríklad život a smrť, krásu a rozklad, chaos a poriadok. Tieto vizuálne kontrasty podnecujú diváka k zamysleniu nad dualitami prítomnými v ľudskej skúsenosti.
-        Používaním antitézy vytvárajú umelci dynamické napätie, ktoré priťahuje pozornosť diváka a povzbudzuje ho k hlbšiemu zapojeniu do diela, čo vedie k hlbšiemu pochopeniu prezentovaného kontrastu.
-      fontStyle: FC Nib SemiBold Italic
-      fontSize: 70
-
-    - text: |
         Nas artes visuais, a antítese refere-se ao contraste deliberado entre dois elementos opostos para criar tensão, equilíbrio ou um significado mais profundo dentro de uma composição. Este conceito pode ser expresso por meio de cores, formas, texturas ou temas contrastantes, e é frequentemente utilizado para destacar a complexidade dos temas ou evocar fortes respostas emocionais do espectador.
         Por exemplo, o uso de luz e sombra (chiaroscuro) na arte barroca, especialmente nas obras de Caravaggio, cria uma antítese entre brilho e escuridão, enfatizando o drama e o contraste entre os reinos divino e terreno. Da mesma forma, artistas abstratos podem usar formas agudas e angulares em contraste com formas suaves e orgânicas para enfatizar conflito ou harmonia dentro de uma composição.
         Em termos de temática, os artistas podem justapor figuras que representam ideias opostas, como vida e morte, beleza e decadência, ou caos e ordem. Esses contrastes visuais provocam uma reflexão sobre as dualidades inerentes à experiência humana. O uso da antítese nas artes visuais também pode servir para enfatizar temas morais ou filosóficos, muito semelhante à literatura, mas através de uma linguagem puramente visual.
         Ao empregar a antítese, os artistas criam uma tensão dinâmica que atrai a atenção do espectador e incentiva um envolvimento mais profundo com a obra, levando a uma compreensão mais profunda do contraste apresentado.
       fontStyle: FC Nib Bold
-      fontSize: 200
+      fontSize: 80
 
     - text: |
         Στις εικαστικές τέχνες, η έννοια της αντίθεσης αναφέρεται στην εσκεμμένη αντίθεση δύο αντιθετικών στοιχείων με σκοπό τη δημιουργία έντασης, ισορροπίας ή βαθύτερου νοήματος μέσα σε μια σύνθεση. Αυτή η έννοια μπορεί να εκφραστεί μέσω αντίθεσης χρωμάτων, σχημάτων, υφών ή θεματολογίας και χρησιμοποιείται συχνά για να τονίσει την πολυπλοκότητα θεμάτων ή να προκαλέσει ισχυρές συναισθηματικές αντιδράσεις στον θεατή.
@@ -732,15 +727,15 @@ testers:
         Όσον αφορά τη θεματολογία, οι καλλιτέχνες μπορεί να παραθέσουν φιγούρες που εκπροσωπούν αντίθετες ιδέες, όπως η ζωή και ο θάνατος, η ομορφιά και η αποσύνθεση, ή το χάος και η τάξη. Αυτές οι οπτικές αντιθέσεις προκαλούν σκέψεις σχετικά με τις δυαδικότητες που είναι έμφυτες στην ανθρώπινη εμπειρία.
         Χρησιμοποιώντας την αντίθεση, οι καλλιτέχνες δημιουργούν δυναμική ένταση που τραβά την προσοχή του θεατή και ενθαρρύνει μια βαθύτερη αφοσίωση στο έργο, οδηγώντας σε πιο ουσιαστική κατανόηση της παρουσιαζόμενης αντίθεσης.
       fontStyle: FC Nib Bold Italic
-      fontSize: 30
+      fontSize: 200
 
     - text: |
-        Dans les arts visuels, l'antithèse fait référence au contraste délibéré entre deux éléments opposés pour créer de la tension, un équilibre ou un sens plus profond au sein d'une composition. Ce concept peut s'exprimer par le contraste des couleurs, des formes, des textures ou de la thématique, et il est souvent utilisé pour souligner la complexité des thèmes ou susciter de fortes réactions émotionnelles chez le spectateur.
+        Dans les arts visuels, l’antithèse fait référence au contraste délibéré entre deux éléments opposés pour créer de la tension, un équilibre ou un sens plus profond au sein d'une composition. Ce concept peut s'exprimer par le contraste des couleurs, des formes, des textures ou de la thématique, et il est souvent utilisé pour souligner la complexité des thèmes ou susciter de fortes réactions émotionnelles chez le spectateur.
         Par exemple, l'utilisation de la lumière et de l'ombre (chiaroscuro) dans l'art baroque, en particulier dans les œuvres de Caravaggio, crée une antithèse entre la luminosité et l'obscurité, accentuant le drame et le contraste entre les mondes divin et terrestre. De même, les artistes abstraits peuvent utiliser des formes angulaires et nettes en opposition avec des formes douces et organiques pour souligner un conflit ou une harmonie au sein d'une composition.
         En ce qui concerne le sujet, les artistes peuvent juxtaposer des figures représentant des idées opposées, comme la vie et la mort, la beauté et la déchéance, ou le chaos et l'ordre. Ces contrastes visuels incitent à la réflexion sur les dualités inhérentes à l'expérience humaine. L'utilisation de l'antithèse dans les arts visuels peut également servir à souligner des thèmes moraux ou philosophiques, comme en littérature, mais à travers un langage purement visuel.
         En utilisant l'antithèse, les artistes créent une tension dynamique qui attire l'attention du spectateur et encourage un engagement plus profond avec l'œuvre, menant à une compréhension plus poussée du contraste présenté.
       fontStyle: FC Nib ExtraBold
-      fontSize: 70
+      fontSize: 30
 
     - text: |
         I visuell kunst refererer antithese til den bevisste kontrasten mellom to motstridende elementer for å skape spenning, balanse eller dypere mening i en komposisjon. Dette konseptet kan uttrykkes gjennom kontrasterende farger, former, teksturer eller emner, og brukes ofte for å fremheve kompleksiteten i temaer eller for å fremkalle sterke følelsesmessige reaksjoner fra betrakteren.
@@ -748,7 +743,7 @@ testers:
         Når det gjelder emnet, kan kunstnere sette figurer opp mot hverandre som representerer motstridende ideer, som liv og død, skjønnhet og forfall, eller kaos og orden. Disse visuelle kontrastene provoserer til ettertanke om dualitetene som er iboende i menneskelig erfaring. Bruken av antithese i visuell kunst kan også tjene til å fremheve moralske eller filosofiske temaer, mye som i litteraturen, men gjennom et rent visuelt språk.
         Ved å bruke antithese skaper kunstnere en dynamisk spenning som tiltrekker betrakterens oppmerksomhet og oppmuntrer til en dypere engasjement med verket, noe som fører til en mer grundig forståelse av kontrasten som presenteres.
       fontStyle: FC Nib ExtraBold Italic
-      fontSize: 200
+      fontSize: 50
 
     - text: |
         В образотворчому мистецтві антитеза стосується навмисного протиставлення двох протилежних елементів з метою створення напруги, балансу або глибшого сенсу в композиції. Ця концепція може виражатися через контраст кольорів, форм, текстур або тематики та часто використовується для підкреслення складності тем або для викликання сильних емоційних реакцій у глядача.
@@ -756,7 +751,7 @@ testers:
         Щодо тематики, художники можуть протиставляти фігури, що представляють протилежні ідеї, такі як життя і смерть, краса і розпад, хаос і порядок. Ці візуальні контрасти спонукають до роздумів над дуалістичною природою людського досвіду.
         Використовуючи антитезу, художники створюють динамічну напругу, яка привертає увагу глядача і заохочує глибше занурення у твір, що веде до більш глибокого розуміння представленого контрасту.
       fontStyle: FC Nib Black
-      fontSize: 30
+      fontSize: 200
 
     - text: |
         Nelle arti visive, l'antitesi si riferisce al contrasto deliberato tra due elementi opposti per creare tensione, equilibrio o un significato più profondo all'interno di una composizione. Questo concetto può essere espresso attraverso colori, forme, texture o tematiche contrastanti e viene spesso utilizzato per evidenziare la complessità dei temi o per evocare forti risposte emotive da parte dello spettatore.
@@ -764,12 +759,7 @@ testers:
         Per quanto riguarda il soggetto, gli artisti possono giustapporre figure che rappresentano idee opposte, come vita e morte, bellezza e decadenza, o caos e ordine. Questi contrasti visivi provocano riflessioni sulle dualità inerenti all'esperienza umana. L'uso dell'antitesi nelle arti visive può anche servire a enfatizzare temi morali o filosofici, molto simile alla letteratura, ma attraverso un linguaggio puramente visivo.
         Utilizzando l'antitesi, gli artisti creano una tensione dinamica che attira l'attenzione dello spettatore e incoraggia un coinvolgimento più profondo con l'opera, portando a una comprensione più approfondita del contrasto presentato.
       fontStyle: FC Nib Black Italic
-      fontSize: 70
-
-
-
-
-
+      fontSize: 20
 
 about:
     - text: |

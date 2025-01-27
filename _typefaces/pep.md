@@ -491,57 +491,57 @@ styles:
 openTypeFeatures:
    - ss01:
        name: Double storey a
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - "Anagrammatical"
    - ss02:
        name: Single storey a
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - "Abracadabra"
    - ss03:
        name: Rounded I
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - "Indivisibility"
    - ss04:
        name: Lowercase wide n
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
-         - "Nonconventional"
+         - "UNconventional"
    - ss05:
        name: Wide smooth Zero
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - "$1.000.000,99"
    - ss06:
        name: Wide angular Zero
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - "€69.420,50"
    - ss07:
        name: Dropped T bar
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - "Trisubstituted"
    - ss08:
        name: Cyrillic A alternate
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - "Адаптация"
    - ss09:
        name: Cyrillic De alternate
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
-         - "Дедовщина Дедушка"
+         - "Дедовщина"
    - ss10:
        name: Bulgarian Alternates
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
-         - "Чужбинец вижда хубавица на улицата"
+         - "Хляб & Зеленчук"
    - ss11:
        name: Alternate Apple
-       fontStyle: FC Pep Shapes Classic
+       fontStyle: FC Pep Shapes Black
        examples:
          - ""
 
