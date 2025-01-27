@@ -97,8 +97,8 @@ technicalSupport:
     greek: false
     vietnamese: false
 
-    weights: 🎛️
-    widths: 🎛️
+    weights: ↔️
+    widths: ↔️
 
     italics: true
 
