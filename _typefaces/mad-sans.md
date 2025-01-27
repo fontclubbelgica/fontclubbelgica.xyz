@@ -573,61 +573,62 @@ styles:
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
 openTypeFeatures:
 
-   - dnom:
-       name: Denominators
-       fontStyle: FC MAD Sans Fill Bold
-       examples:
-         - "0123456789"
-   - frac:
-       name: Fractions
-       fontStyle: FC MAD Sans Fill Bold
-       examples:
-         - "/0123456789"
-   - numr:
-       name: Numerators
-       fontStyle: FC MAD Sans Fill Bold
-       examples:
-         - "0123456789"
-   - onum:
-       name: Oldstyle Figures
-       fontStyle: FC MAD Sans Fill Bold
-       examples:
-         - "0123456789"
-   - sinf:
-       name: Scientific Inferiors
-       fontStyle: FC MAD Sans Fill Bold
-       examples:
-         - "0123456789"
+openTypeFeatures:
    - ss01:
        name: Alternate a
        fontStyle: FC MAD Sans Fill Bold
        examples:
-         - "aàáâãäåæāăąǎǽ"
+         - "Tasty Tarantula"
    - ss02:
        name: Alternate g
        fontStyle: FC MAD Sans Fill Bold
        examples:
-         - "gĝġģǧ"
-   - subs:
-       name: Subscript
+         - "Gregorian Songs"
+   - case:
+       name: Case-Sensitive Forms
        fontStyle: FC MAD Sans Fill Bold
        examples:
-         - "0123456789"
+         - "(Yes) ¿Que? [afb 1.]"
+   - onum:
+       name: Oldstyle Figures
+       fontStyle: FC MAD Sans Fill Bold
+       examples:
+         - "0123456789#%‰€$¥₩₿"
+   - tnum:
+       name: Tabular Figures
+       fontStyle: FC MAD Sans Fill Bold
+       examples:
+         - "0123456789#%‰€$¥₩₿"
+   - zero:
+       name: Slashed Zero
+       fontStyle: FC MAD Sans Fill Bold
+       examples:
+         - "€1.000 ⁴²⁰ ₅₀₈"
+   - frac:
+       name: Fractions
+       fontStyle: FC MAD Sans Fill Bold
+       examples:
+         - "12345/67890"
    - sups:
        name: Superscript
        fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
-   - tnum:
-       name: Tabular Figures
+   - numr:
+       name: Numerators
        fontStyle: FC MAD Sans Fill Bold
        examples:
          - "0123456789"
-   - zero:
-       name: Slashed Zero
+   - dnom:
+       name: Denominators
        fontStyle: FC MAD Sans Fill Bold
        examples:
-         - "0⁰₀"
+         - "0123456789"
+   - sinf:
+       name: Scientific Inferiors + Subscript
+       fontStyle: FC MAD Sans Fill Bold
+       examples:
+         - "0123456789"
 
 css: mad-sans-style.css
 

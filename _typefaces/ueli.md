@@ -8,7 +8,7 @@ information: |
     FC Ueli combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
 
 designer: Dries Wiewauters
-date: 2024-12-01
+date: 2025-01-01
 
 styles:
    - FC Ueli 110 X Condensed Light:
@@ -2677,27 +2677,37 @@ openTypeFeatures:
        name: Capital Q (short)
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
-         - "QOCHAMOQO"
+         - "ACQUIRED TASTE"
    - ss04:
        name: lowercase a (schoolbook)
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
-         - "aáâàãäåāăąǎǻȃæǽ"
+         - "Bäląclāvȃ"
    - ss05:
        name: lowercase u (schoolbook)
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
-         - "uùúûüũūŭůűų"
+         - "Tûmūltűoųs"
    - ss06:
        name: lowercase y (schoolbook)
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
-         - "yýÿŷỳ"
+         - "Sÿnonŷmitỳ"
+   - ss07:
+       name: Circled Numbers
+       fontStyle: FC Ueli 110 X Condensed Light
+       examples:
+         - "34 815 96270"
+   - ss08:
+       name: Circled Numbers Negative 
+       fontStyle: FC Ueli 110 X Condensed Light
+       examples:
+         - "6284 97 3145"
    - onum+pnum:
        name: Proportional Oldstyle Figures
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
-         - "0123456789"
+         - "1234567890"
    - onum+tnum:
        name: Tabular Oldstyle  Figures
        fontStyle: FC Ueli 110 X Condensed Light
@@ -2712,7 +2722,7 @@ openTypeFeatures:
        name: Fractions
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
-         - "1234/567890"
+         - "12345/67890"
    - sups:
        name: Superscript
        fontStyle: FC Ueli 110 X Condensed Light
@@ -2738,16 +2748,6 @@ openTypeFeatures:
        fontStyle: FC Ueli 110 X Condensed Light
        examples:
          - "€1.000 ⁴²⁰ ₅₀₈"
-   - ss07:
-       name: Circled Numbers
-       fontStyle: FC Ueli 110 X Condensed Light
-       examples:
-         - "34 815 96270"
-   - ss08:
-       name: Circled Numbers Negative 
-       fontStyle: FC Ueli 110 X Condensed Light
-       examples:
-         - "6284 97 3145"
 
 css: Ueli-style.css
 

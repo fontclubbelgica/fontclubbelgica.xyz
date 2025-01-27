@@ -100,37 +100,37 @@ openTypeFeatures:
         name: Ligatures
         fontStyle: FC PDU Regular
         examples:
-            - fi fl ff ffi ffl
+            - fierce affluence
 
     - dlig:
         name: Discretionary Ligatures
         fontStyle: FC PDU Regular
         examples:
-            - fb fh fj fk ft ffb ffh ffj ffk fft
+            - afbeelding fjord
 
     - case:
         name: All Caps
         fontStyle: FC PDU Regular
         examples:
-            - "(ABCdef123)"
+            - "(YES) ¿QUE? [AFB 1.]"
 
     - smcp:
         name: Small Capitals
         fontStyle: FC PDU Regular
         examples:
-            - Smallcaps
+            - Intellectual capital
 
     - c2sc:
         name: Small Capitals From Capitals
         fontStyle: FC PDU Regular
         examples:
-            - SMALLCAPS
+            - MANUFACTURED CAPITAL
 
     - calt:
         name: Contextual Alternates
         fontStyle: FC PDU Regular
         examples:
-            - "-> /> ^- ^\\- <-"
+            - "-> -/^ ^- ^\\- <- ^/- -^ -\\^"
 
     - salt:
         name: Stylistic Alternates
@@ -142,7 +142,7 @@ openTypeFeatures:
         name: "Shorter Crossbars"
         fontStyle: FC PDU Regular
         examples:
-            - AFTEREFFECT EFFORTFULNESSES
+            - EFFORTFULNESSES
 
     - ss02:
         name: "Slab I"
@@ -202,7 +202,7 @@ openTypeFeatures:
         name: "Randomise Uppercase"
         fontStyle: FC PDU Regular
         examples:
-            - SUPERCALIFRAGILISTICEXPIALIDOCIOUS
+            - SUPERCALIFRAGILISTIC- EXPIALIDOCIOUS
 
     - lnum+tnum:
         name: Lining Tabular Numbers
@@ -228,20 +228,20 @@ openTypeFeatures:
         examples:
             - "1.000.000,00"
 
+    - ordn:
+        name: Ordindals
+        fontStyle: FC PDU Regular
+        examples:
+            - "No. 123A 456O"
+
     - frac:
         name: Fractions
         fontStyle: FC PDU Regular
         examples:
-            - "123/456"
+            - "12345/67890"
 
     - sups:
         name: Superscript
-        fontStyle: FC PDU Regular
-        examples:
-            - "1234567890"
-
-    - subs:
-        name: Subscript
         fontStyle: FC PDU Regular
         examples:
             - "1234567890"
@@ -258,14 +258,8 @@ openTypeFeatures:
         examples:
             - "1234567890"
 
-    - ordn:
-        name: Ordindals
-        fontStyle: FC PDU Regular
-        examples:
-            - "1234567890"
-
-    - sinf:
-        name: Scientific Inferiors
+    - subs:
+        name: Scientific Inferiors + Subscript
         fontStyle: FC PDU Regular
         examples:
             - "1234567890"
