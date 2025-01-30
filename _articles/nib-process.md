@@ -7,6 +7,8 @@ tags:
     - process
 featuredImage: FCB_Article_Splash_Nib.jpg
 thumbnailImage: FCB_ANR_Nib.jpg
+font_match:
+- FC Nib
 ---
 
 ## Introducing Nib: A Study in Duality
@@ -99,5 +101,3 @@ Whether used for a bold, impactful headline or a long block of text, Nib brings 
   </div>
   </div>
 
-font_match:
-  - FC Nib

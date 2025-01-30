@@ -12,4 +12,7 @@ layout: default
 			{{ content | markdownify }}
 		</div>
 	</section>
+	{% if page.font_match %}
+	{% include library fontcount=3 %}
+	{% endif %}
 </main>

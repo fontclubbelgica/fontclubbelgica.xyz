@@ -1065,6 +1065,9 @@ section.library {
     padding-right: calc(var(--padding) + var(--bigpadding));
     background-color: rgb(240,240,240);
     font-family: 'FCBELGICA';
+    >h2 {
+      padding-bottom: 40px;
+    }
     .grid {
       padding-bottom: 40px;
     }
