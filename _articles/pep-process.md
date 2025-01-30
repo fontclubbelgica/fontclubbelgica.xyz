@@ -7,6 +7,8 @@ tags:
   - process
 featuredImage: FCB_Article_Splash_Pep.svg
 thumbnailImage: FCB_ANR_Pep.svg
+font_match:
+- FC Pep
 ---
 
 ## ABC Con Fantasia
@@ -84,7 +86,4 @@ Today, "ABC Con Fantasia" is still a relevant and valuable resource for anyone i
 Conclusion: "ABC Con Fantasia" by Bruno Munari is more than an alphabet book—it is an exploration of imagination and creativity. Munari’s playful and artistic approach to learning turns the ABCs into a world of possibilities, encouraging children to think differently about language and symbols. Through its timeless illustrations and inventive take on the alphabet, this book continues to captivate readers and serves as a testament to Munari’s belief that education should be as imaginative as it is informative.
 
   </div>
-  </div>
-
-font_match:
-  - FC Pep  
+  </div>  

@@ -1,4 +1,7 @@
 <section class="library">
+    {% if page.layout == "article" %}
+    <h2>Fonts mentioned in this article</h2>
+    {% endif %}
     <div class="grid">
         {% if page.font_match %}
             {% assign typefaces = [] %}

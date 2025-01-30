@@ -7,6 +7,8 @@ tags:
     - process
 featuredImage: FCB_Article_Splash_Ueli.svg
 thumbnailImage: FCB_ANR_Ueli.svg
+font_match:
+- FC Ueli
 ---
 
 # Introducing&nbsp;Ueli:&nbsp;Resurrecting an&nbsp;Ingenious&nbsp;Idea&nbsp;for&nbsp;Modern Design
@@ -61,6 +63,3 @@ With Ueli, Font Club Belgica has honored Dwiggins’ innovative thinking, creati
 
   </div>
 </div>
-
-font_match:
-  - FC Ueli

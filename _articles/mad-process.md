@@ -7,6 +7,9 @@ tags:
     - process
 featuredImage: FCB_Article_Splash_Mad.svg
 thumbnailImage: FCB_ANR_MAD.svg
+font_match:
+- FC MAD Sans
+- FC MAD Serif
 ---
 
 ## The&nbsp;History&nbsp;and&nbsp;Evolution&nbsp;of&nbsp;the Hershey&nbsp;Fonts:&nbsp;From&nbsp;A.V.&nbsp;Hershey to&nbsp;Mad&nbsp;Sans&nbsp;and&nbsp;Mad&nbsp;Serif
@@ -93,6 +96,3 @@ The Hershey Fonts, born from the constraints of early computing and plotter tech
 
 
 
-font_match:
-  - FC MAD Sans
-  - FC MAD Serif

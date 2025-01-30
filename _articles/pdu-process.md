@@ -8,6 +8,8 @@ tags:
   - process
 featuredImage: FCB_Article_Splash_PDU.svg
 thumbnailImage: FCB_ANR_PDU.svg
+font_match:
+- FC PDU
 ---
 
 # Le Système Typographique Imparfaite
@@ -130,6 +132,3 @@ As such PDU regular and outline contain a whopping 1578 glyphs each and 229 more
 
   </div>
   </div>
-
-font_match:
-  - FC PDU

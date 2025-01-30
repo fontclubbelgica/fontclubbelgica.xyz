@@ -7,6 +7,8 @@ tags:
     - process
 featuredImage: FCB_Article_Splash_Cru.svg
 thumbnailImage: FCB_ANR_Cru.jpg
+font_match:
+- FC Cru
 ---
 
 # Behind Cru: An Exploration of Form and History
@@ -89,5 +91,3 @@ Dries Wiewauters has created a typeface that is both highly functional and aesth
   </div>
 </div>
 
-font_match:
-  - FC Cru
