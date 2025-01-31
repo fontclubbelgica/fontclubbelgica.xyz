@@ -2,7 +2,7 @@
 layout: font
 title: FC Ueli
 
-draft: false
+draft: true
 
 information: |
     FC Ueli combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
