@@ -9,6 +9,8 @@ featuredImage: FCB_Article_Splash_Cru.svg
 thumbnailImage: FCB_ANR_Cru.jpg
 font_match:
 - FC Cru
+
+draft: false
 ---
 
 # Behind Cru: An Exploration of Form and History

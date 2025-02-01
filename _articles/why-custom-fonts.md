@@ -7,6 +7,8 @@ tags:
   - bespoke fonts
 featuredImage: FCB_Article_Splash_Custom.svg
 thumbnailImage: FCB_ANR_Custom-Font.svg
+
+draft: false
 ---
 
 # Why order a custom font?
