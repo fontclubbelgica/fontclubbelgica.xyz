@@ -3,12 +3,14 @@ layout: article
 date: 2023-05-07
 type: research
 tags:
-    - pdu
+    - FC Gorp
     - process
 featuredImage: FCB_Article_Splash_Ueli.svg
 thumbnailImage: FCB_ANR_Ueli.svg
 font_match:
-- FC Ueli
+- FC Gorp
+
+draft: false
 ---
 
 # Introducing&nbsp;Ueli:&nbsp;Resurrecting an&nbsp;Ingenious&nbsp;Idea&nbsp;for&nbsp;Modern Design

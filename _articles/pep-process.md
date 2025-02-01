@@ -9,6 +9,8 @@ featuredImage: FCB_Article_Splash_Pep.svg
 thumbnailImage: FCB_ANR_Pep.svg
 font_match:
 - FC Pep
+
+draft: false
 ---
 
 ## ABC Con Fantasia
