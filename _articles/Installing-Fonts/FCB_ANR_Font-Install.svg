@@ -49,52 +49,52 @@
      inkscape:label="1">
     <path
        id="path1"
-       d="M 1199.46,3500 V 0 H 2399.64 V 3500 H 1199.46"
+       d="M 1791.69,3500 V 0 H 2991.87 V 3500 H 1791.69"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path2"
-       d="M 3599.82,3500 V 0 H 4800 V 3500 H 3599.82"
+       d="M 4192.05,3500 V 0 H 5392.23 V 3500 H 4192.05"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path3"
-       d="M 2399.64,3500 V 0 H 3599.82 V 3500 H 2399.64"
-       style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M -608.66,3500 V 0 H 591.516 V 3500 H -608.66"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path4"
-       d="M -0.714844,3500 V 0 H 1199.46 V 3500 H -0.714844"
+       d="M 2991.87,3500 V 0 H 4192.05 V 3500 H 2991.87"
        style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path5"
-       d="M 578.371,1144.67 2999.73,1144.66 1789.05,2355.34 Z"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 591.516,3500 V 0 H 1791.69 V 3500 H 591.516"
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path6"
-       d="m 2999.73,1144.67 2421.36,-0.01 -1210.68,1210.68 z"
+       d="m 1170.6,1144.67 2421.36,-0.01 -1210.68,1210.68 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path7"
-       d="M -1842.99,1144.67 578.371,1144.66 -632.313,2355.34 Z"
+       d="m 3591.96,1144.67 2421.36,-0.01 -1210.68,1210.68 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path8"
-       d="M 1789.05,2355.34 H 4210.41 L 2999.73,1144.66 Z"
-       style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M -1250.76,1144.67 1170.6,1144.66 -40.082,2355.34 Z"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path9"
-       d="M 4210.41,2355.34 H 6631.77 L 5421.09,1144.66 Z"
+       d="M 2381.28,2355.34 H 4802.64 L 3591.96,1144.66 Z"
        style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path
        id="path10"
-       d="M -632.309,2355.34 H 1789.05 L 578.371,1144.66 Z"
+       d="M -40.0781,2355.34 H 2381.28 L 1170.6,1144.66 Z"
        style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,466.66667)" />
     <path

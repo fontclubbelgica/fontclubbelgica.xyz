@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2025-02-01
+date: 2023-11-01
 type: article
 tags:
   - clearing font cache
@@ -8,7 +8,7 @@ tags:
   - how to
   - tutorial
 featuredImage: FCB_Article_Splash_Cache.jpg
-thumbnailImage: FCB_ANR_Font-Caches.svg
+thumbnailImage: FCB_ANR_Font-Caches.jpg
 
 draft: false
 ---
@@ -30,7 +30,7 @@ draft: false
 <div markdown="1">
   <div markdown="1">
 
-  ![](install.svg)
+  ![](clear.svg)
 
   </div>
   <div markdown="1">
