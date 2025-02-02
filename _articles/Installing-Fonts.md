@@ -9,7 +9,7 @@ tags:
 featuredImage: FCB_Article_Splash_Install.svg
 thumbnailImage: FCB_ANR_Font-Install.svg
 
-draft: true
+draft: false
 ---
 
 # How to Install Fonts on MacOS and Windows
