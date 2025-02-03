@@ -29,7 +29,7 @@ draft: true
 <div markdown="1">
   <div markdown="1">
 
-  ![]()
+  ![](Web-Formats.svg)
 
   </div>
   <div markdown="1">
@@ -53,17 +53,6 @@ This old-school format was made by Microsoft for ancient versions of Internet Ex
 If your audience is rocking modern browsers, you can keep it simple by serving just WOFF and WOFF2. That way, you work with fewer files and enjoy top-notch compression. But if you need to cover all your bases, you might add TTF into the mix. (SVG and EOT? Those are so last decade!) At Font Club Beglica, we supply you with both WOFF2 and TTF files.
 
 At {% include fcb %} we believe in providing fonts made to the best of our abilities. As such, as standard we provide TTF and WOFF2 fonts. If for some reason you need WOFF or EOT fonts, please contact us at {% include mail a="typefaces" %}.
-
-  </div>
-  </div>
-
-<div markdown="1">
-  <div markdown="1">
-
-  ![]()
-
-  </div>
-  <div markdown="1">
 
 ## Embedding Web Fonts Made Easy
 
@@ -94,17 +83,6 @@ The Full Monty (for Maximum Browser Coverage)
 
 That’s it! Your website now proudly sports our good looking type!
 
-  </div>
-  </div>
-
-<div markdown="1">
-  <div markdown="1">
-
-  ![]()
-
-  </div>
-  <div markdown="1">
-
 ## Hosting Your Web Fonts: Your Fonts, Your Rules
 
 Self-hosting your fonts is the most flexible option—you control everything, and your fonts are always there for your visitors without relying on a third party. No extra JavaScript or tracking codes needed! Many premium type foundries offer fonts for direct download, and at our place, we think that’s the best way to go. However, some foundries prefer to host them for you. Just know what you’re signing up for because hosting can affect how your fonts are delivered to the world.
@@ -115,7 +93,7 @@ Self-hosting your fonts is the most flexible option—you control everything, an
 <div markdown="1">
   <div markdown="1">
 
-  ![]()
+  ![](OTF-Features.svg)
 
   </div>
   <div markdown="1">
