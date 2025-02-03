@@ -43,6 +43,12 @@
     </div>
 
     <script>
+    function isNumeric(str) {
+      if (typeof str != "string") return false // we only process strings!
+      return !isNaN(str) && // use type coercion to parse the _entirety_ of the string (`parseFloat` alone does not do this)...
+             !isNaN(parseFloat(str)) // ...and ensure strings of whitespace fail
+    }
+
     // adjusted from https://www.w3schools.com/howto/howto_js_sort_table.asp
 
     function sortTable(n) {
@@ -68,14 +74,20 @@
           y = rows[i + 1].getElementsByTagName("TD")[n];
           /*check if the two rows should switch place,
           based on the direction, asc or desc:*/
+          valueX = x.textContent.toLowerCase()
+          valueY = y.textContent.toLowerCase()
+          if (isNumeric(valueX) && isNumeric(valueY)) {
+            valueX = parseFloat(valueX)
+            valueY = parseFloat(valueY)
+          }
           if (dir == "asc") {
-            if (x.textContent.toLowerCase() > y.textContent.toLowerCase()) {
+            if (valueX > valueY) {
               //if so, mark as a switch and break the loop:
               shouldSwitch= true;
               break;
             }
           } else if (dir == "desc") {
-            if (x.textContent.toLowerCase() < y.textContent.toLowerCase()) {
+            if (valueX < valueY) {
               //if so, mark as a switch and break the loop:
               shouldSwitch = true;
               break;
