@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2023-05-07
+date: 2023-12-07
 type: research
 tags:
     - pdu
@@ -9,6 +9,8 @@ featuredImage: FCB_Article_Splash_Cru.svg
 thumbnailImage: FCB_ANR_Cru.jpg
 font_match:
 - FC Cru
+
+draft: false
 ---
 
 # Behind Cru: An Exploration of Form and History

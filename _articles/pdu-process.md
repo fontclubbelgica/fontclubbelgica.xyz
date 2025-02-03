@@ -10,6 +10,8 @@ featuredImage: FCB_Article_Splash_PDU.svg
 thumbnailImage: FCB_ANR_PDU.svg
 font_match:
 - FC PDU
+
+draft: false
 ---
 
 # Le Système Typographique Imparfaite

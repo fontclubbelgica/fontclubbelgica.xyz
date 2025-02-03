@@ -1,12 +1,14 @@
 ---
 layout: article
-date: 2025-01-21
+date: 2022-01-21
 type: article
 tags:
   - custom fonts
   - bespoke fonts
 featuredImage: FCB_Article_Splash_Custom.svg
 thumbnailImage: FCB_ANR_Custom-Font.svg
+
+draft: false
 ---
 
 # Why order a custom font?

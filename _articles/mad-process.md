@@ -10,6 +10,8 @@ thumbnailImage: FCB_ANR_MAD.svg
 font_match:
 - FC MAD Sans
 - FC MAD Serif
+
+draft: false
 ---
 
 ## The&nbsp;History&nbsp;and&nbsp;Evolution&nbsp;of&nbsp;the Hershey&nbsp;Fonts:&nbsp;From&nbsp;A.V.&nbsp;Hershey to&nbsp;Mad&nbsp;Sans&nbsp;and&nbsp;Mad&nbsp;Serif

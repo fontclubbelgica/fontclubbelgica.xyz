@@ -9,6 +9,8 @@ featuredImage: FCB_Article_Splash_Nib.jpg
 thumbnailImage: FCB_ANR_Nib.jpg
 font_match:
 - FC Nib
+
+draft: false
 ---
 
 ## Introducing Nib: A Study in Duality
