@@ -212,6 +212,7 @@ document.addEventListener('DOMContentLoaded', function() {
     removeChildrenWhenAddingFamily(product);
     var s =
     {
+      "reset": true,
       'products' : cart.map(product => ({
         path: product,
         quantity: 1
