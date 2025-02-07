@@ -39,7 +39,7 @@
             {% if page.buy_redirect %}
                 <a href="{{ page.buy_redirect.url }}" target="_blank" >{{ page.buy_redirect.title }}</a>
             {% else %}
-                <a href="#">Add to cart</a>
+                <a href="/shop">Buy fonts</a>
             {% endif %}
         </nav>
     </div>
