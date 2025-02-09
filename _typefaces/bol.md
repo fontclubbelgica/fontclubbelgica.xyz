@@ -8,7 +8,21 @@ information: |
     Woodtype for the web. Bol pays hommage to old wood type whilst optimizing those forms for digital design.
 
 designer: Dries Wiewauters
-date: 2025-01-10
+date: 2025-02-08
+
+technicalSupport:
+
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: false
+
+    weights: ↔️
+    widths: 
+
+    italics: true
+
+    variable: true
 
 styles:
    - Bol BETA:
