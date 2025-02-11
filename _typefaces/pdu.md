@@ -19,6 +19,20 @@ fastspring:
           - outline
           - stencil
 
+technicalSupport:
+    latin: true
+    cyrillic: false
+    greek: false
+    vietnamese: false
+
+    weights: 1
+
+    widths:
+
+    italics: false
+
+    variable: false
+
 styles:
    - FC PDU Regular:
         glyphCount: 1277
@@ -288,20 +302,6 @@ showcases:
 tags:
     - display
     - Stencil font
-
-technicalSupport:
-    latin: true
-    cyrillic: false
-    greek: false
-    vietnamese: false
-
-    weights: 1
-
-    widths:
-
-    italics: false
-
-    variable: false
 
 testers:
     - text: |

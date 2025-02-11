@@ -10,6 +10,39 @@ information: |
 designer: Dries Wiewauters
 date: 2023-04-01
 
+fastspring: 
+  - name: fc-cru
+    family:
+      - name: full-family
+        styles:
+          - xcondensed black
+          - xcondensed black italic
+          - condensed black
+          - condensed black italic
+          - semicondensed black
+          - semicondensed black italic
+          - black
+          - black italic
+          - semiexpanded black
+          - semiexpanded black italic
+          - expanded black
+          - expanded black italic
+          - xexpanded black
+          - xexpanded black italic
+
+technicalSupport:
+
+   latin: true
+   cyrillic: true
+   greek: true
+   vietnamese: false
+
+   weights: 1
+
+   widths: 7
+
+   italics: true
+
 styles:
    - FC Cru 100 X Condensed Black:
         glyphCount: 1177
@@ -682,20 +715,6 @@ showcases:
     - äbcdęfghijklmno
     - pqrstuvwxyzωд
     - 0123456789
-
-technicalSupport:
-
-   latin: true
-   cyrillic: true
-   greek: true
-   vietnamese: false
-
-   weights: 1
-
-   widths: 7
-
-   italics: true
-
 
 testers:
     - text: |

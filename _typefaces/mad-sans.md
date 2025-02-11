@@ -10,6 +10,35 @@ information: |
 designer: Dries Wiewauters
 date: 2017-01-01
 
+fastspring: 
+  - name: fc-mad-sans
+    family:
+      - name: full-family
+        styles:
+          - light
+          - light italic
+          - regular
+          - regular italic
+          - bold
+          - bold italic
+          - black
+          - black italic
+
+technicalSupport:
+
+    latin: true
+    cyrillic: false
+    greek: false
+    vietnamese: false
+
+    weights: 4 + 4
+
+    widths:
+
+    italics: true
+
+    variable: false
+
 styles:
    - FC MAD Sans Light:
         glyphCount: 746
@@ -642,21 +671,6 @@ showcases:
     - abcdefghijklm
     - nopqrstuvwxyz
     - 0123456789
-
-technicalSupport:
-
-    latin: true
-    cyrillic: false
-    greek: false
-    vietnamese: false
-
-    weights: 4 + 4
-
-    widths:
-
-    italics: true
-
-    variable: false
 
 testers:
     - text: |

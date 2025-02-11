@@ -10,6 +10,95 @@ information: |
 designer: Dries Wiewauters
 date: 2025-01-01
 
+fastspring: 
+  - name: fc-ueli
+    family:
+      - name: full-family-x-condensed
+        styles:
+          - light
+          - light italic
+          - regular
+          - regular italic
+          - medium
+          - medium italic
+          - bold
+          - bold italic
+          - extrabold
+          - extrabold italic
+          - black
+          - black italic   
+      - name: full-family-condensed
+        styles:
+          - light
+          - light italic
+          - regular
+          - regular italic
+          - medium
+          - medium italic
+          - bold
+          - bold italic
+          - extrabold
+          - extrabold italic
+          - black
+          - black italic   
+      - name: full-family
+        styles:
+          - light
+          - light italic
+          - regular
+          - regular italic
+          - medium
+          - medium italic
+          - bold
+          - bold italic
+          - extrabold
+          - extrabold italic
+          - black
+          - black italic   
+      - name: full-family-expanded
+        styles:
+          - light
+          - light italic
+          - regular
+          - regular italic
+          - medium
+          - medium italic
+          - bold
+          - bold italic
+          - extrabold
+          - extrabold italic
+          - black
+          - black italic   
+      - name: full-family-x-expanded
+        styles:
+          - light
+          - light italic
+          - regular
+          - regular italic
+          - medium
+          - medium italic
+          - bold
+          - bold italic
+          - extrabold
+          - extrabold italic
+          - black
+          - black italic   
+
+technicalSupport:
+
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: true
+
+    weights: 6
+
+    widths: 5
+
+    italics: true
+
+    variable: false
+
 styles:
    - FC Ueli 110 X Condensed Light:
         glyphCount: 1388
@@ -2775,23 +2864,6 @@ showcases:
 tags:
     - display
     - Stencil font
-
-
-technicalSupport:
-
-    latin: true
-    cyrillic: true
-    greek: true
-    vietnamese: true
-
-    weights: 6
-
-    widths: 5
-
-    italics: true
-
-    variable: false
-
 
 testers:
     - text: |
