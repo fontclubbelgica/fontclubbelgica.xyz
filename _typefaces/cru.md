@@ -15,20 +15,20 @@ fastspring:
     family:
       - name: full-family
         styles:
-          - xcondensed black
-          - xcondensed black italic
-          - condensed black
-          - condensed black italic
-          - semicondensed black
-          - semicondensed black italic
+          - xcondensed-black
+          - xcondensed-black-italic
+          - condensed-black
+          - condensed-black-italic
+          - semicondensed-black
+          - semicondensed-black-italic
           - black
-          - black italic
-          - semiexpanded black
-          - semiexpanded black italic
-          - expanded black
-          - expanded black italic
-          - xexpanded black
-          - xexpanded black italic
+          - black-italic
+          - semiexpanded-black
+          - semiexpanded-black-italic
+          - expanded-black
+          - expanded-black-italic
+          - xexpanded-black
+          - xexpanded-black-italic
 
 technicalSupport:
 
