@@ -10,6 +10,28 @@ information: |
 designer: Dries Wiewauters
 date: 2019-02-01
 
+fastspring: 
+  - name: fc-pep
+    family:
+      - name: full-family
+        styles:
+          - solid
+          - shapes
+
+technicalSupport:
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: false
+
+    weights: 2
+
+    widths:
+
+    italics: false
+
+    variable: false
+
 styles:
    - FC Pep Shapes Black:
         glyphCount: 2542
@@ -557,20 +579,6 @@ showcases:
     - abcdefghijklm
     - nopqrstuvwxyz
     - 0123456789
-
-technicalSupport:
-    latin: true
-    cyrillic: true
-    greek: true
-    vietnamese: false
-
-    weights: 2
-
-    widths:
-
-    italics: false
-
-    variable: false
 
 testers:
     - text: |

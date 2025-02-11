@@ -10,6 +10,38 @@ information: |
 designer: Dries Wiewauters
 date: 2019-01-01
 
+fastspring: 
+  - name: fc-nib
+    family:
+      - name: full-family
+        styles:
+          - light
+          - light italic
+          - regular
+          - regular italic
+          - semibold
+          - semibold italic
+          - bold
+          - bold italic
+          - extrabold
+          - extrabold italic
+          - black
+          - black italic
+
+technicalSupport:
+    latin: true
+    cyrillic: true
+    greek: true
+    vietnamese: false
+
+    weights: 6
+
+    widths:
+
+    italics: true
+
+    variable: false
+
 styles:
    - FC Nib Black:
         glyphCount: 1082
@@ -649,20 +681,6 @@ showcases:
     - äbcdęfghijklmno
     - pqrstuvwxyzωд
     - 0123456789
-
-technicalSupport:
-    latin: true
-    cyrillic: true
-    greek: true
-    vietnamese: false
-
-    weights: 6
-
-    widths:
-
-    italics: true
-
-    variable: false
 
 testers:
     - text: |

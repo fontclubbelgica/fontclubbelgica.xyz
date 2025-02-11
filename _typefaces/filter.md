@@ -14,6 +14,20 @@ buy_redirect:
     title: Buy on Future Fonts
     url: https://www.futurefonts.xyz
 
+technicalSupport:
+
+    latin: true
+    cyrillic: false
+    greek: false
+    vietnamese: false
+
+    weights: ↔️
+    widths: ↔️
+
+    italics: true
+
+    variable: true
+
 css: filter-style.css
 
 splash: filter-splash.svg
@@ -88,22 +102,6 @@ fontVariations:
 #        fontStyle: FC MAD Serif Light
 #        examples:
 #          - "/0123456789"
-
-
-technicalSupport:
-
-    latin: true
-    cyrillic: false
-    greek: false
-    vietnamese: false
-
-    weights: ↔️
-    widths: ↔️
-
-    italics: true
-
-    variable: true
-
 
 testers:
     - text: |
