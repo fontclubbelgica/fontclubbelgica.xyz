@@ -16,13 +16,13 @@ fastspring:
       - name: full-family
         styles:
           - light
-          - light italic
+          - light-italic
           - regular
-          - regular italic
+          - regular-italic
           - bold
-          - bold italic
+          - bold-italic
           - black
-          - black italic
+          - black-italic
 
 technicalSupport:
 
