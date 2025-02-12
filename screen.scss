@@ -1699,7 +1699,7 @@ body.shop {
       margin-top: 10px;
       margin-right: 0;
       margin-left: auto;
-      
+
     }
     button:disabled {
       background-color: white;
@@ -1742,7 +1742,7 @@ body.shop {
     }
     img {
       width: 30px;
-      
+
     }
     h2 {
       font-size: 16px;
@@ -1773,10 +1773,10 @@ body.shop {
   .product-family h2 {
     width: calc(50% - 30px);
   }
-  
+
   figure {
     transition: filter 0.3s;
-    filter: grayscale(0); 
+    filter: grayscale(0);
   }
   .fade figure {
     filter: grayscale(1);
@@ -1787,7 +1787,8 @@ body.shop {
     margin-bottom: 20px;
   }
   .preview-font-shop.active figure {
-    border: solid 3px black;
+    // border: solid 3px black;
+    box-shadow: #00FF00 0 0 40px;
   }
   fieldset {
     border: none;
@@ -1908,7 +1909,7 @@ body.shop {
   #license-type {
     display: flex;
     flex-wrap: wrap;
-    
+
     >p {
       width: 250px;
       padding-top: 15px;
