@@ -1,27 +1,7 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <title>{{ site.name }}</title>
-
-    {% include META %}
-    {% include HEAD %}
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/screen.css" />
-    {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}{{ page.url}}{{ page.css }}" />{% endif %}
-
-    <script src="{{ site.baseurl }}/main.js?v=1"></script>
-    {% if page.js %} <script src="{{ site.baseurl }}{{ page.js }}"></script>{% endif %}
-
-</head>
-<body class="{{ page.path | replace: '.md', '' | split: '/' | last }}">
-
-{% include header %}
+---
+layout: default
+---
 
 <main class="page">
 {{ content }}
 </main>
-
-{% include footer %}
-
-</body>
-</html>
