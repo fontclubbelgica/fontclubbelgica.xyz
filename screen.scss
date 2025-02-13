@@ -1709,6 +1709,12 @@ body.shop {
       display: block;
     }
   }
+  #container, &.products-loaded .loading, #styles .next, #styles .total {
+    display: none;
+  }
+  &.products-loaded #container,&.products-loaded #styles .next, &.products-loaded #styles .total {
+    display: block;
+  }
   .product-family, .product {
     background-color: white;
   }

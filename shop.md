@@ -38,7 +38,20 @@ js: assets/js/shop.js
     id="fsc-api"
     src="https://sbl.onfastspring.com/sbl/1.0.1/fastspring-builder.min.js"
     type="text/javascript"
-    data-storefront="fontclubbelgica.test.onfastspring.com/popup-fontclubbelgica">
+    data-storefront="fontclubbelgica.test.onfastspring.com"
+    data-debug="true"
+    data-after-requests-callback="dataAfterRequestsCallback"
+    >
+  </script>
+  <script>
+      var c = 0;
+      function dataAfterRequestsCallback() {
+          c++;
+          if(c == 2) {
+            fastspring.builder.reset();
+            document.body.classList.add('products-loaded');
+          }
+      }
   </script>
 
 <main class="shop">
@@ -118,12 +131,7 @@ js: assets/js/shop.js
       </table>
     </div>
     <button class="next" data-fsc-action="Checkout">
-      View Cart
+      Go to checkout
     </button>
-  </section>
-  <section id="checkout" class="open">
-    <h2>Your information</h2>
-    <div></div>
-    <button class="next" disabled>Proceed to payment</button>
   </section>
 </main>
