@@ -36,8 +36,8 @@
 
     <div>
         <nav class="cart">
-            {% if page.buy_redirect %}
-                <a href="{{ page.buy_redirect.url }}" target="_blank" >{{ page.buy_redirect.title }}</a>
+            {% if page.fastspring %}
+                <a href="/shop#{{ page.fastspring[0].name }}" target="_blank" >Add to cart</a>
             {% else %}
                 <a href="/shop">Buy fonts</a>
             {% endif %}

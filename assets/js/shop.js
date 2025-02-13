@@ -96,6 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
   function buildFSProducts() {
+    const productsToLoad = [];
     const container = document.getElementById("container");
     
     const licensetypes = {
@@ -129,26 +130,26 @@ document.addEventListener('DOMContentLoaded', function() {
         familyDiv.appendChild(fullFamilyDiv);
         
         const h2 = document.createElement("h2");
-        h2.textContent = 'Product Name';
+        h2.textContent = '';
         h2.setAttribute('data-fsc-item-path', fontname+'-'+item.name+'-'+ tier);
         h2.setAttribute('data-fsc-item-display', '');
         
         const p = document.createElement("p");
-        p.textContent = 'Product description';
+        p.textContent = '';
         p.setAttribute('data-fsc-item-path', fontname+'-'+item.name+'-'+ tier);
         p.setAttribute('data-fsc-item-description-summary', '');
         
         const price = document.createElement("span");
-        price.textContent = '60 €';
+        price.textContent = '';
         price.setAttribute('data-fsc-item-path', fontname+'-'+item.name+'-'+ tier);
-        price.setAttribute('data-fsc-item-price', '');
+        price.setAttribute('data-fsc-item-priceWithoutTax', '');
         
         const figure = document.createElement("figure");
         const img = document.createElement("img");
         img.setAttribute('data-fsc-item-path', fontname+'-'+item.name+'-'+ tier);
         img.setAttribute('data-fsc-item-image', '');
         figure.appendChild(img);
-        
+        productsToLoad.push(fontname+'-'+item.name+'-'+ tier);
         
         let product = { name: fontname+'-'+item.name+'-'+ tier , children: [] };
         fullFamilyDiv.appendChild(figure);
@@ -177,13 +178,14 @@ document.addEventListener('DOMContentLoaded', function() {
           const price = document.createElement("span");
           price.textContent = '60 €';
           price.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
-          price.setAttribute('data-fsc-item-price', '');
+          price.setAttribute('data-fsc-item-priceWithoutTax', '');
           
           const figure = document.createElement("figure");
           const img = document.createElement("img");
           img.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
           img.setAttribute('data-fsc-item-image', '');
           figure.appendChild(img);
+          productsToLoad.push(fontname+'-'+style+'-'+ tier);
           
           productDiv.appendChild(figure);
           productDiv.appendChild(h2);
@@ -197,8 +199,18 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
     
-    fastspring.builder.reset();
+    var s =
+    {
+      "reset": true,
+      'products' : productsToLoad.map(product => ({
+        path: product,
+        quantity: 1
+      })),
+      "update": true,
+    }
+    fastspring.builder.push(s);
     
+    displayCartContents();    
   }
   
   function addToCart(product) {
