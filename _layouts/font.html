@@ -2,6 +2,13 @@
 layout: default
 ---
 
+{% if page.draft %}
+{% if page.splash %}
+<section class="hero">
+    <figure><img src="{{ page.url }}{{ page.splash }}"></figure>
+</section>
+{% endif %}
+{% else %}
 {% assign font_styles = "" | split: ','  %}
 {% for styleItem in page.styles %}
     {% for style in styleItem %}
@@ -215,4 +222,5 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 
 {% if page.font_match %}
 {% include library fontcount=3 %}
+{% endif %}
 {% endif %}
