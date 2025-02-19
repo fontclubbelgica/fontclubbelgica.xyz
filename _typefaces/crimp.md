@@ -1,91 +1,90 @@
 ---
 layout: font
-title: FC Ueli
+title: FC Crimp
 
-draft: true
+draft: false
 
 information: |
-    FC Ueli combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
+    FC Crimp combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
 
 designer: Dries Wiewauters
 date: 2025-01-01
 
-fastspring: 
-  - name: fc-ueli
-    family:
-      - name: full-family-x-condensed
-        styles:
-          - light
-          - light italic
-          - regular
-          - regular italic
-          - medium
-          - medium italic
-          - bold
-          - bold italic
-          - extrabold
-          - extrabold italic
-          - black
-          - black italic   
-      - name: full-family-condensed
-        styles:
-          - light
-          - light italic
-          - regular
-          - regular italic
-          - medium
-          - medium italic
-          - bold
-          - bold italic
-          - extrabold
-          - extrabold italic
-          - black
-          - black italic   
-      - name: full-family
-        styles:
-          - light
-          - light italic
-          - regular
-          - regular italic
-          - medium
-          - medium italic
-          - bold
-          - bold italic
-          - extrabold
-          - extrabold italic
-          - black
-          - black italic   
-      - name: full-family-expanded
-        styles:
-          - light
-          - light italic
-          - regular
-          - regular italic
-          - medium
-          - medium italic
-          - bold
-          - bold italic
-          - extrabold
-          - extrabold italic
-          - black
-          - black italic   
-      - name: full-family-x-expanded
-        styles:
-          - light
-          - light italic
-          - regular
-          - regular italic
-          - medium
-          - medium italic
-          - bold
-          - bold italic
-          - extrabold
-          - extrabold italic
-          - black
-          - black italic   
+#Fastspring: 
+#  - name: fc-Crimp
+#    family:
+#      - name: full-family-x-condensed
+#        styles:
+#          - light
+#          - light italic
+#          - regular
+#          - regular italic
+#          - medium
+#          - medium italic
+#          - bold
+#          - bold italic
+#          - extrabold
+#          - extrabold italic
+#          - black
+#          - black italic   
+#      - name: full-family-condensed
+#        styles:
+#          - light
+#          - light italic
+#          - regular
+#          - regular italic
+#          - medium
+#          - medium italic
+#          - bold
+#          - bold italic
+#          - extrabold
+#          - extrabold italic
+#          - black
+#          - black italic   
+#      - name: full-family
+#        styles:
+#          - light
+#          - light italic
+#          - regular
+#          - regular italic
+#          - medium
+#          - medium italic
+#          - bold
+#          - bold italic
+#          - extrabold
+#          - extrabold italic
+#          - black
+#          - black italic   
+#      - name: full-family-expanded
+#        styles:
+#          - light
+#          - light italic
+#          - regular
+#          - regular italic
+#          - medium
+#          - medium italic
+#          - bold
+#          - bold italic
+#          - extrabold
+#          - extrabold italic
+#          - black
+#          - black italic   
+#      - name: full-family-x-expanded
+#        styles:
+#          - light
+#          - light italic
+#          - regular
+#          - regular italic
+#          - medium
+#          - medium italic
+#          - bold
+#          - bold italic
+#          - extrabold
+#          - extrabold italic
+#          - black
+#          - black italic   
 
 technicalSupport:
-
     latin: true
     cyrillic: true
     greek: true
@@ -100,9 +99,9 @@ technicalSupport:
     variable: false
 
 styles:
-   - FC Ueli 110 X Condensed Light:
+   - FC Crimp 110 X Condensed Light:
         glyphCount: 1388
-        fastspring: FC_Ueli_110_X_Condensed_Light
+        fastspring: FC_Crimp_110_X_Condensed_Light
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -144,9 +143,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 115 X Condensed Light Italic:
+   - FC Crimp 111 X Condensed Light Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_115_X_Condensed_Light_Italic
+        fastspring: FC_Crimp_111_X_Condensed_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -188,9 +187,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 120 X Condensed Regular:
+   - FC Crimp 120 X Condensed Regular:
         glyphCount: 1388
-        fastspring: FC_Ueli_120_X_Condensed_Regular
+        fastspring: FC_Crimp_120_X_Condensed_Regular
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -232,9 +231,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 125 X Condensed Regular Italic:
+   - FC Crimp 121 X Condensed Regular Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_125_X_Condensed_Regular_Italic
+        fastspring: FC_Crimp_121_X_Condensed_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -276,9 +275,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 130 X Condensed Medium:
+   - FC Crimp 130 X Condensed Medium:
         glyphCount: 1388
-        fastspring: FC_Ueli_130_X_Condensed_Medium
+        fastspring: FC_Crimp_130_X_Condensed_Medium
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -320,97 +319,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 135 X Condensed Medium Italic:
+   - FC Crimp 131 X Condensed Medium Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_135_X_Condensed_Medium_Italic
-        characterset:
-           Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
-           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
-           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
-           Latin Extended-B: "ƒ Ơ ơ Ư ư Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌ ̒ ̛ ̣ ̦ ̧ ̨"
-           Greek and Coptic: "͵ ; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
-           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
-           Latin Extended Additional: "Ḡ ḡ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ"
-           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
-           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
-           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
-           Geometric Shapes: "◊"
-           Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-           Case-Sensitive Forms: "–-case —-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case Q-case [-case \\-case ]-case {-case |-case }-case"
-           Discretionary Ligatures: "Ā-dlig Ă-dlig Ą-dlig À-dlig A-dlig Á-dlig Â-dlig Ä-dlig Å-dlig Ã-dlig Æ-dlig Ǎ-dlig y-dlig ũ-dlig ū-dlig ŭ-dlig Ǽ-dlig ů-dlig ű-dlig Ǻ-dlig ų-dlig ỳ-dlig u-dlig ŷ-dlig ù-dlig ú-dlig û-dlig ü-dlig ý-dlig ÿ-dlig"
-           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
-           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
-           Localized Forms: "Ţ-locl ţ-locl Ş-locl ş-locl"
-           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
-           Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Capital A (rounded): "À-ss01 A-ss01 Ă-ss01 Á-ss01 Â-ss01 Ä-ss01 Ā-ss01 Ą-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 Ǻ-ss01 Ǽ-ss01"
-           Capital I (wide): "Ĩ-ss02 I-ss02 Ī-ss02 Ĭ-ss02 Í-ss02 Î-ss02 Ï-ss02 İ-ss02 Ì-ss02 Į-ss02"
-           Capital Q (short): "Q-ss03"
-           lowercase k (roman): "k-ss04 ķ-ss04"
-           lowercase u (schoolbook): "ũ-ss05 ū-ss05 ŭ-ss05 ů-ss05 ű-ss05 ų-ss05 u-ss05 ù-ss05 ú-ss05 û-ss05 ü-ss05"
-           lowercase y (schoolbook): "ỳ-ss06 ŷ-ss06 y-ss06 ý-ss06 ÿ-ss06"
-           Stylistic Set 7: "0-ss07 1-ss07 2-ss07 3-ss07 4-ss07 5-ss07 6-ss07 7-ss07 8-ss07 9-ss07"
-           Stylistic Set 8: "0-ss08 1-ss08 2-ss08 3-ss08 4-ss08 5-ss08 6-ss08 7-ss08 8-ss08 9-ss08"
-           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
-           Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 140 X Condensed Bold:
-        glyphCount: 1388
-        fastspring: FC_Ueli_140_X_Condensed_Bold
-        characterset:
-           Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
-           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
-           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
-           Latin Extended-B: "ƒ Ơ ơ Ư ư Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
-           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
-           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌ ̒ ̛ ̣ ̦ ̧ ̨"
-           Greek and Coptic: "͵ ; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
-           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
-           Latin Extended Additional: "Ḡ ḡ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ"
-           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
-           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
-           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
-           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
-           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
-           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
-           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
-           Geometric Shapes: "◊"
-           Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
-           Private Use Area: ""
-           Alphabetic Presentation Forms: "ﬁ ﬂ"
-           Case-Sensitive Forms: "–-case —-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case Q-case [-case \\-case ]-case {-case |-case }-case"
-           Discretionary Ligatures: "Ā-dlig ā-dlig Ă-dlig ă-dlig Ą-dlig ȃ-dlig ą-dlig À-dlig A-dlig Á-dlig Â-dlig Ä-dlig Å-dlig Ã-dlig Æ-dlig Ǎ-dlig ǎ-dlig ý-dlig à-dlig a-dlig á-dlig â-dlig ä-dlig å-dlig ã-dlig æ-dlig y-dlig ũ-dlig ú-dlig ū-dlig ŭ-dlig û-dlig ů-dlig ű-dlig ų-dlig ü-dlig u-dlig ỳ-dlig ŷ-dlig ù-dlig Ǻ-dlig ǻ-dlig Ǽ-dlig ǽ-dlig ÿ-dlig"
-           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
-           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
-           Localized Forms: "Ţ-locl ţ-locl Ş-locl ş-locl"
-           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
-           Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
-           Capital A (rounded): "À-ss01 A-ss01 Ă-ss01 Á-ss01 Â-ss01 Ä-ss01 Ā-ss01 Ą-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 Ǻ-ss01 Ǽ-ss01"
-           Capital I (wide): "Ĩ-ss02 I-ss02 Ī-ss02 Ĭ-ss02 Í-ss02 Î-ss02 Ï-ss02 İ-ss02 Ì-ss02 Į-ss02"
-           Capital Q (short): "Q-ss03"
-           lowercase a (schoolbook): "à-ss04 a-ss04 â-ss04 ă-ss04 á-ss04 ä-ss04 ȃ-ss04 ā-ss04 ą-ss04 å-ss04 ã-ss04 æ-ss04 ǎ-ss04 ǻ-ss04 ǽ-ss04"
-           lowercase u (schoolbook): "ũ-ss05 ū-ss05 ŭ-ss05 ů-ss05 ű-ss05 ų-ss05 u-ss05 ù-ss05 ú-ss05 û-ss05 ü-ss05"
-           lowercase y (schoolbook): "ỳ-ss06 ŷ-ss06 y-ss06 ý-ss06 ÿ-ss06"
-           Circled Numbers: "0-ss07 1-ss07 2-ss07 3-ss07 4-ss07 5-ss07 6-ss07 7-ss07 8-ss07 9-ss07"
-           Circled Numbers Negative : "0-ss08 1-ss08 2-ss08 3-ss08 4-ss08 5-ss08 6-ss08 7-ss08 8-ss08 9-ss08"
-           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
-           Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
-           Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 145 X Condensed Bold Italic:
-        glyphCount: 1367
-        fastspring: FC_Ueli_145_X_Condensed_Bold_Italic
+        fastspring: FC_Crimp_131_X_Condensed_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -452,9 +363,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 150 X Condensed Extra Bold:
+   - FC Crimp 140 X Condensed Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_150_X_Condensed_Extra_Bold
+        fastspring: FC_Crimp_140_X_Condensed_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -496,9 +407,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 155 X Condensed Extra Bold Italic:
+   - FC Crimp 141 X Condensed Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_155_X_Condensed_Extra_Bold_Italic
+        fastspring: FC_Crimp_141_X_Condensed_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -540,9 +451,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 160 X Condensed Black:
+   - FC Crimp 150 X Condensed Extra Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_160_X_Condensed_Black
+        fastspring: FC_Crimp_150_X_Condensed_Extra_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -584,9 +495,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 165 X Condensed Black Italic:
+   - FC Crimp 151 X Condensed Extra Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_165_X_Condensed_Black_Italic
+        fastspring: FC_Crimp_151_X_Condensed_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -628,9 +539,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 210 Condensed Light:
+   - FC Crimp 160 X Condensed Black:
         glyphCount: 1388
-        fastspring: FC_Ueli_210_Condensed_Light
+        fastspring: FC_Crimp_160_X_Condensed_Black
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -672,9 +583,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 215 Condensed Light Italic:
+   - FC Crimp 161 X Condensed Black Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_215_Condensed_Light_Italic
+        fastspring: FC_Crimp_161_X_Condensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -716,9 +627,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 220 Condensed Regular:
+   - FC Crimp 210 Condensed Light:
         glyphCount: 1388
-        fastspring: FC_Ueli_220_Condensed_Regular
+        fastspring: FC_Crimp_210_Condensed_Light
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -760,9 +671,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 225 Condensed Regular Italic:
+   - FC Crimp 211 Condensed Light Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_225_Condensed_Regular_Italic
+        fastspring: FC_Crimp_211_Condensed_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -804,9 +715,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 230 Condensed Medium:
+   - FC Crimp 220 Condensed Regular:
         glyphCount: 1388
-        fastspring: FC_Ueli_230_Condensed_Medium
+        fastspring: FC_Crimp_220_Condensed_Regular
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -848,9 +759,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 235 Condensed Medium Italic:
+   - FC Crimp 221 Condensed Regular Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_235_Condensed_Medium_Italic
+        fastspring: FC_Crimp_221_Condensed_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -892,9 +803,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 240 Condensed Bold:
+   - FC Crimp 230 Condensed Medium:
         glyphCount: 1388
-        fastspring: FC_Ueli_240_Condensed_Bold
+        fastspring: FC_Crimp_230_Condensed_Medium
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -936,9 +847,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 245 Condensed Bold Italic:
+   - FC Crimp 231 Condensed Medium Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_245_Condensed_Bold_Italic
+        fastspring: FC_Crimp_231_Condensed_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -980,9 +891,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 250 Condensed Extra Bold:
+   - FC Crimp 240 Condensed Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_250_Condensed_Extra_Bold
+        fastspring: FC_Crimp_240_Condensed_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1024,9 +935,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 255 Condensed Extra Bold Italic:
+   - FC Crimp 241 Condensed Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_255_Condensed_Extra_Bold_Italic
+        fastspring: FC_Crimp_241_Condensed_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1068,9 +979,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 260 Condensed Black:
+   - FC Crimp 250 Condensed Extra Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_260_Condensed_Black
+        fastspring: FC_Crimp_250_Condensed_Extra_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1112,9 +1023,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 265 Condensed Black Italic:
+   - FC Crimp 251 Condensed Extra Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_265_Condensed_Black_Italic
+        fastspring: FC_Crimp_251_Condensed_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1156,9 +1067,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 310 Light:
+   - FC Crimp 260 Condensed Black:
         glyphCount: 1388
-        fastspring: FC_Ueli_310_Light
+        fastspring: FC_Crimp_260_Condensed_Black
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1200,9 +1111,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 315 Light Italic:
+   - FC Crimp 261 Condensed Black Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_315_Light_Italic
+        fastspring: FC_Crimp_261_Condensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1244,9 +1155,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 320 Regular:
+   - FC Crimp 310 Light:
         glyphCount: 1388
-        fastspring: FC_Ueli_320_Regular
+        fastspring: FC_Crimp_310_Light
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1288,9 +1199,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 325 Regular Italic:
+   - FC Crimp 311 Light Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_325_Regular_Italic
+        fastspring: FC_Crimp_311_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1332,9 +1243,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 330 Medium:
+   - FC Crimp 320 Regular:
         glyphCount: 1388
-        fastspring: FC_Ueli_330_Medium
+        fastspring: FC_Crimp_320_Regular
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1376,9 +1287,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 335 Medium Italic:
+   - FC Crimp 321 Regular Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_335_Medium_Italic
+        fastspring: FC_Crimp_321_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1420,9 +1331,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 340 Bold:
+   - FC Crimp 330 Medium:
         glyphCount: 1388
-        fastspring: FC_Ueli_340_Bold
+        fastspring: FC_Crimp_330_Medium
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1464,9 +1375,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 345 Bold Italic:
+   - FC Crimp 331 Medium Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_345_Bold_Italic
+        fastspring: FC_Crimp_331_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1508,9 +1419,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 350 Extra Bold:
+   - FC Crimp 340 Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_350_Extra_Bold
+        fastspring: FC_Crimp_340_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1552,9 +1463,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 355 Extra Bold Italic:
+   - FC Crimp 341 Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_355_Extra_Bold_Italic
+        fastspring: FC_Crimp_341_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1596,9 +1507,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 360 Black:
+   - FC Crimp 350 Extra Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_360_Black
+        fastspring: FC_Crimp_350_Extra_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1640,9 +1551,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 365 Black Italic:
+   - FC Crimp 351 Extra Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_365_Black_Italic
+        fastspring: FC_Crimp_351_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1684,9 +1595,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 410 Expanded Light:
+   - FC Crimp 360 Black:
         glyphCount: 1388
-        fastspring: FC_Ueli_410_Expanded_Light
+        fastspring: FC_Crimp_360_Black
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1728,9 +1639,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 415 Expanded Light Italic:
+   - FC Crimp 361 Black Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_415_Expanded_Light_Italic
+        fastspring: FC_Crimp_361_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1772,9 +1683,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 420 Expanded Regular:
+   - FC Crimp 410 Expanded Light:
         glyphCount: 1388
-        fastspring: FC_Ueli_420_Expanded_Regular
+        fastspring: FC_Crimp_410_Expanded_Light
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1816,9 +1727,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 425 Expanded Regular Italic:
+   - FC Crimp 411 Expanded Light Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_425_Expanded_Regular_Italic
+        fastspring: FC_Crimp_411_Expanded_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1860,9 +1771,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 430 Expanded Medium:
+   - FC Crimp 420 Expanded Regular:
         glyphCount: 1388
-        fastspring: FC_Ueli_430_Expanded_Medium
+        fastspring: FC_Crimp_420_Expanded_Regular
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1904,9 +1815,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 435 Expanded Medium Italic:
+   - FC Crimp 421 Expanded Regular Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_435_Expanded_Medium_Italic
+        fastspring: FC_Crimp_421_Expanded_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1948,9 +1859,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 440 Expanded Bold:
+   - FC Crimp 430 Expanded Medium:
         glyphCount: 1388
-        fastspring: FC_Ueli_440_Expanded_Bold
+        fastspring: FC_Crimp_430_Expanded_Medium
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1992,9 +1903,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 445 Expanded Bold Italic:
+   - FC Crimp 431 Expanded Medium Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_445_Expanded_Bold_Italic
+        fastspring: FC_Crimp_431_Expanded_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2036,9 +1947,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 450 Expanded Extra Bold:
+   - FC Crimp 440 Expanded Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_450_Expanded_Extra_Bold
+        fastspring: FC_Crimp_440_Expanded_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2080,9 +1991,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 455 Expanded Extra Bold Italic:
+   - FC Crimp 441 Expanded Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_455_Expanded_Extra_Bold_Italic
+        fastspring: FC_Crimp_441_Expanded_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2124,9 +2035,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 460 Expanded Black:
+   - FC Crimp 450 Expanded Extra Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_460_Expanded_Black
+        fastspring: FC_Crimp_450_Expanded_Extra_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2168,9 +2079,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 465 Expanded Black Italic:
+   - FC Crimp 451 Expanded Extra Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_465_Expanded_Black_Italic
+        fastspring: FC_Crimp_451_Expanded_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2212,9 +2123,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 510 X Expanded Light:
+   - FC Crimp 460 Expanded Black:
         glyphCount: 1388
-        fastspring: FC_Ueli_510_X_Expanded_Light
+        fastspring: FC_Crimp_460_Expanded_Black
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2256,9 +2167,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 515 X Expanded Light Italic:
+   - FC Crimp 461 Expanded Black Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_515_X_Expanded_Light_Italic
+        fastspring: FC_Crimp_461_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2300,9 +2211,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 520 X Expanded Regular:
+   - FC Crimp 510 X Expanded Light:
         glyphCount: 1388
-        fastspring: FC_Ueli_520_X_Expanded_Regular
+        fastspring: FC_Crimp_510_X_Expanded_Light
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2344,9 +2255,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 525 X Expanded Regular Italic:
+   - FC Crimp 511 X Expanded Light Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_525_X_Expanded_Regular_Italic
+        fastspring: FC_Crimp_511_X_Expanded_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2388,9 +2299,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 530 X Expanded Medium:
+   - FC Crimp 520 X Expanded Regular:
         glyphCount: 1388
-        fastspring: FC_Ueli_530_X_Expanded_Medium
+        fastspring: FC_Crimp_520_X_Expanded_Regular
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2432,9 +2343,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 535 X Expanded Medium Italic:
+   - FC Crimp 521 X Expanded Regular Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_535_X_Expanded_Medium_Italic
+        fastspring: FC_Crimp_521_X_Expanded_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2476,9 +2387,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 540 X Expanded Bold Italic:
+   - FC Crimp 530 X Expanded Medium:
         glyphCount: 1388
-        fastspring: FC_Ueli_540_X_Expanded_Bold_Italic
+        fastspring: FC_Crimp_530_X_Expanded_Medium
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2520,9 +2431,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 545 X Expanded Bold Italic:
+   - FC Crimp 531 X Expanded Medium Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_545_X_Expanded_Bold_Italic
+        fastspring: FC_Crimp_531_X_Expanded_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2564,9 +2475,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 550 X Expanded Extra Bold:
+   - FC Crimp 540 X Expanded Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_550_X_Expanded_Extra_Bold
+        fastspring: FC_Crimp_540_X_Expanded_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2608,9 +2519,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 555 X Expanded Extra Bold Italic:
+   - FC Crimp 541 X Expanded Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_555_X_Expanded_Extra_Bold_Italic
+        fastspring: FC_Crimp_541_X_Expanded_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2652,9 +2563,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 560 X Expanded Black:
+   - FC Crimp 550 X Expanded Extra Bold:
         glyphCount: 1388
-        fastspring: FC_Ueli_560_X_Expanded_Black
+        fastspring: FC_Crimp_550_X_Expanded_Extra_Bold
         characterset:
            Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2696,9 +2607,97 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero ₀-zero"
-   - FC Ueli 565 X Expanded Black Italic:
+   - FC Crimp 551 X Expanded Extra Bold Italic:
         glyphCount: 1367
-        fastspring: FC_Ueli_565_X_Expanded_Black_Italic
+        fastspring: FC_Crimp_551_X_Expanded_Extra_Bold_Italic
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ơ ơ Ư ư Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌ ̒ ̛ ̣ ̦ ̧ ̨"
+           Greek and Coptic: "͵ ; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ḡ ḡ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case Q-case [-case \\-case ]-case {-case |-case }-case"
+           Discretionary Ligatures: "Ā-dlig Ă-dlig Ą-dlig À-dlig A-dlig Á-dlig Â-dlig Ä-dlig Å-dlig Ã-dlig Æ-dlig Ǎ-dlig y-dlig ũ-dlig ū-dlig ŭ-dlig Ǽ-dlig ů-dlig ű-dlig Ǻ-dlig ų-dlig ỳ-dlig u-dlig ŷ-dlig ù-dlig ú-dlig û-dlig ü-dlig ý-dlig ÿ-dlig"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "Ţ-locl ţ-locl Ş-locl ş-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Capital A (rounded): "À-ss01 A-ss01 Ă-ss01 Á-ss01 Â-ss01 Ä-ss01 Ā-ss01 Ą-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 Ǻ-ss01 Ǽ-ss01"
+           Capital I (wide): "Ĩ-ss02 I-ss02 Ī-ss02 Ĭ-ss02 Í-ss02 Î-ss02 Ï-ss02 İ-ss02 Ì-ss02 Į-ss02"
+           Capital Q (short): "Q-ss03"
+           lowercase k (roman): "k-ss04 ķ-ss04"
+           lowercase u (schoolbook): "ũ-ss05 ū-ss05 ŭ-ss05 ů-ss05 ű-ss05 ų-ss05 u-ss05 ù-ss05 ú-ss05 û-ss05 ü-ss05"
+           lowercase y (schoolbook): "ỳ-ss06 ŷ-ss06 y-ss06 ý-ss06 ÿ-ss06"
+           Stylistic Set 7: "0-ss07 1-ss07 2-ss07 3-ss07 4-ss07 5-ss07 6-ss07 7-ss07 8-ss07 9-ss07"
+           Stylistic Set 8: "0-ss08 1-ss08 2-ss08 3-ss08 4-ss08 5-ss08 6-ss08 7-ss08 8-ss08 9-ss08"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
+           Slashed Zero: "0-zero ₀-zero"
+   - FC Crimp 560 X Expanded Black:
+        glyphCount: 1388
+        fastspring: FC_Crimp_560_X_Expanded_Black
+        characterset:
+           Basic Latin: " ! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "ƒ Ơ ơ Ư ư Ƶ ƶ Ǎ ǎ Ǧ ǧ Ǻ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
+           Spacing Modifier Letters: "ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌ ̒ ̛ ̣ ̦ ̧ ̨"
+           Greek and Coptic: "͵ ; ΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Currency Symbols: "฿ ₣ ₨ ₩ ₪ ₫ € ₭ ₱ ₴ ₸ ₹ ₺ ₽ ₿"
+           Latin Extended Additional: "Ḡ ḡ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ"
+           Greek Extended: "ἀ ἁ ἂ ἃ ἄ ἅ ἆ ἇ Ἀ Ἁ Ἂ Ἃ Ἄ Ἅ Ἆ Ἇ ἐ ἑ ἒ ἓ ἔ ἕ Ἐ Ἑ Ἒ Ἓ Ἔ Ἕ ἠ ἡ ἢ ἣ ἤ ἥ ἦ ἧ Ἠ Ἡ Ἢ Ἣ Ἤ Ἥ Ἦ Ἧ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ Ἰ Ἱ Ἲ Ἳ Ἴ Ἵ Ἶ Ἷ ὀ ὁ ὂ ὃ ὄ ὅ Ὀ Ὁ Ὂ Ὃ Ὄ Ὅ ὐ ὑ ὒ ὓ ὔ ὕ ὖ ὗ Ὑ Ὓ Ὕ Ὗ ὠ ὡ ὢ ὣ ὤ ὥ ὦ ὧ Ὠ Ὡ Ὢ Ὣ Ὤ Ὥ Ὦ Ὧ ὰ ά ὲ έ ὴ ή ὶ ί ὸ ό ὺ ύ ὼ ώ ᾀ ᾁ ᾂ ᾃ ᾄ ᾅ ᾆ ᾇ ᾈ ᾉ ᾊ ᾋ ᾌ ᾍ ᾎ ᾏ ᾐ ᾑ ᾒ ᾓ ᾔ ᾕ ᾖ ᾗ ᾘ ᾙ ᾚ ᾛ ᾜ ᾝ ᾞ ᾟ ᾠ ᾡ ᾢ ᾣ ᾤ ᾥ ᾦ ᾧ ᾨ ᾩ ᾪ ᾫ ᾬ ᾭ ᾮ ᾯ ᾰ ᾱ ᾲ ᾳ ᾴ ᾶ ᾷ Ᾰ Ᾱ Ὰ Ά ᾼ ᾽ ι ῁ ῂ ῃ ῄ ῆ ῇ Ὲ Έ Ὴ Ή ῌ ῍ ῎ ῏ ῐ ῑ ῒ ΐ ῖ ῗ Ῐ Ῑ Ὶ Ί ῝ ῞ ῟ ῠ ῡ ῢ ΰ ῤ ῥ ῦ ῧ Ῠ Ῡ Ὺ Ύ Ῥ ῭ ΅ ῲ ῳ ῴ ῶ ῷ Ὸ Ό Ὼ Ώ ῼ ῾"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∆ ∏ ∑ − ∕ ∙ √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Case-Sensitive Forms: "–-case —-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case Q-case [-case \\-case ]-case {-case |-case }-case"
+           Discretionary Ligatures: "Ā-dlig ā-dlig Ă-dlig ă-dlig Ą-dlig ȃ-dlig ą-dlig À-dlig A-dlig Á-dlig Â-dlig Ä-dlig Å-dlig Ã-dlig Æ-dlig Ǎ-dlig ǎ-dlig ý-dlig à-dlig a-dlig á-dlig â-dlig ä-dlig å-dlig ã-dlig æ-dlig y-dlig ũ-dlig ú-dlig ū-dlig ŭ-dlig û-dlig ů-dlig ű-dlig ų-dlig ü-dlig u-dlig ỳ-dlig ŷ-dlig ù-dlig Ǻ-dlig ǻ-dlig Ǽ-dlig ǽ-dlig ÿ-dlig"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Localized Forms: "Ţ-locl ţ-locl Ş-locl ş-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Capital A (rounded): "À-ss01 A-ss01 Ă-ss01 Á-ss01 Â-ss01 Ä-ss01 Ā-ss01 Ą-ss01 Å-ss01 Ã-ss01 Æ-ss01 Ǎ-ss01 Ǻ-ss01 Ǽ-ss01"
+           Capital I (wide): "Ĩ-ss02 I-ss02 Ī-ss02 Ĭ-ss02 Í-ss02 Î-ss02 Ï-ss02 İ-ss02 Ì-ss02 Į-ss02"
+           Capital Q (short): "Q-ss03"
+           lowercase a (schoolbook): "à-ss04 a-ss04 â-ss04 ă-ss04 á-ss04 ä-ss04 ȃ-ss04 ā-ss04 ą-ss04 å-ss04 ã-ss04 æ-ss04 ǎ-ss04 ǻ-ss04 ǽ-ss04"
+           lowercase u (schoolbook): "ũ-ss05 ū-ss05 ŭ-ss05 ů-ss05 ű-ss05 ų-ss05 u-ss05 ù-ss05 ú-ss05 û-ss05 ü-ss05"
+           lowercase y (schoolbook): "ỳ-ss06 ŷ-ss06 y-ss06 ý-ss06 ÿ-ss06"
+           Circled Numbers: "0-ss07 1-ss07 2-ss07 3-ss07 4-ss07 5-ss07 6-ss07 7-ss07 8-ss07 9-ss07"
+           Circled Numbers Negative : "0-ss08 1-ss08 2-ss08 3-ss08 4-ss08 5-ss08 6-ss08 7-ss08 8-ss08 9-ss08"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
+           Slashed Zero: "0-zero ₀-zero"
+   - FC Crimp 561 X Expanded Black Italic:
+        glyphCount: 1367
+        fastspring: FC_Crimp_561_X_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2744,126 +2743,124 @@ styles:
 openTypeFeatures:
    - case:
        name: Case-Sensitive Forms
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "¿Que? (3)[7]{1} «OUI»"
    - dlig:
        name: Discretionary Ligatures
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "Maŷonnāise Ãjűin"
    - ss01:
        name: Capital A (rounded)
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "PORANGAHAU ÆSTA"
    - ss02:
        name: Capital I (wide)
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "MÍNÎMALÌSM"
    - ss03:
        name: Capital Q (short)
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "ACQUIRED TASTE"
    - ss04:
        name: lowercase a (schoolbook)
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "Bäląclāvȃ"
    - ss05:
        name: lowercase u (schoolbook)
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "Tûmūltűoųs"
    - ss06:
        name: lowercase y (schoolbook)
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "Sÿnonŷmitỳ"
    - ss07:
        name: Circled Numbers
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "34 815 96270"
    - ss08:
        name: Circled Numbers Negative 
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "6284 97 3145"
    - onum+pnum:
        name: Proportional Oldstyle Figures
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "1234567890"
    - onum+tnum:
        name: Tabular Oldstyle  Figures
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "0123456789"
    - tnum+lnum:
        name: Tabular Lining Figures
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "0123456789"
    - frac:
        name: Fractions
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "12345/67890"
    - sups:
        name: Superscript
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "0123456789"
    - numr:
        name: Numerators
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "0123456789"
    - dnom:
        name: Denominators
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "0123456789"
    - sinf:
        name: Scientific Inferiors
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "0123456789"
    - zero:
        name: Slashed Zero
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "€1.000 ⁴²⁰ ₅₀₈"
    - ss07:
        name: Circled Numbers
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "34 815 96270"
    - ss08:
        name: Circled Numbers Negative
-       fontStyle: FC Ueli 110 X Condensed Light
+       fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "6284 97 3145"
 
-css: Ueli-style.css
+css: Crimp-style.css
 
-splash: Ueli-splash.svg
+splash: Crimp-splash.jpg
 
-hometile: FCB_Library_Ueli_Large.svg
+hometile: FCB_Library_Crimp_Large.svg
 
 showcases:
-    - ABCDEFGHIJKLMNƠ
-    - PQRSTUVWXYZΩД
-    - äbcdęfghijklmnơ
-    - pqrstuvwxyzωд
+    - ABCDEFGHIJKLMN
+    - OPQRSTUVWXYZ
+    - ΑΒΓΔΕΦ АБЦДЕФ 
+    - äbcdęfghijklmn
+    - opqrstuvwxyz
+    - αβγδεφ абцде
     - 0123456789
-
-tags:
-    - display
-    - Stencil font
 
 testers:
     - text: |
@@ -2882,7 +2879,7 @@ testers:
         A melhor época para visitar Torres del Paine é durante o verão austral, entre novembro e março, quando os dias são mais longos e as temperaturas mais amenas. Contudo, cada estação oferece uma perspectiva única do parque. No inverno, por exemplo, a paisagem ganha um manto de neve, e o número de visitantes diminui, oferecendo uma experiência mais tranquila e solitária.
 
         Visitar Torres del Paine é uma jornada de descoberta e respeito pela natureza. Cada trilha percorrida, cada cume avistado e cada glaciar contemplado revelam a grandiosidade e fragilidade do nosso planeta. É um lembrete constante da importância de preservar esses ambientes únicos para as futuras gerações.
-      fontStyle: FC Ueli 110 X Condensed Light
+      fontStyle: FC Crimp 110 X Condensed Light
       fontSize: 30
 
     - text: |
@@ -2901,7 +2898,7 @@ testers:
         In de lente, wanneer de Ronde van Vlaanderen door de streek trekt, wordt de Koppenberg een bruisend theater van passie en traditie. Duizenden toeschouwers verzamelen zich langs de kasseien, zwaaiend met Vlaamse leeuwenvlaggen en aanmoedigende kreten. De combinatie van het gejuich, het geluid van kettingen die strak staan, en het kraken van banden op de kasseien creëert een sfeer die je nergens anders vindt.
 
         De Koppenberg is meer dan alleen een heuvel; het is een symbool van doorzettingsvermogen, uitdaging en de pure essentie van de Vlaamse wielercultuur. Hij herinnert ons eraan dat ware kracht niet alleen in de benen zit, maar ook in het hart en de geest.
-      fontStyle: FC Ueli 125 X Condensed Regular Italic
+      fontStyle: FC Crimp 121 X Condensed Regular Italic
       fontSize: 70
 
     - text: |
@@ -2920,7 +2917,7 @@ testers:
         For many today, Denali represents more than a physical conquest; it symbolizes a connection to history, culture, and the untamed wilderness. Indigenous narratives continue to remind us that Denali is not merely a peak to be conquered but a living entity deserving of respect. The mountain's ancient name, Dghelay Ka’a, resonates as a tribute to those who first understood its significance.
 
         In acknowledging Denali’s indigenous heritage, we honor not only the mountain itself but the wisdom of the people who have lived beside it for centuries.
-      fontStyle: FC Ueli 140 X Condensed Bold
+      fontStyle: FC Crimp 140 X Condensed Bold
       fontSize: 200
 
 
@@ -2942,7 +2939,7 @@ testers:
         Сходження на Аконкаґуа – це більше, ніж просто підкорення висоти. Це зустріч із власними обмеженнями, перевірка стійкості духу та можливість споглядати одну з найпрекрасніших панорам світу. Гора нагадує про велич природи та силу людської рішучості.
 
         Аконкаґуа продовжує кликати до себе мандрівників, альпіністів і дослідників, які прагнуть піднятися до її вершини та відчути на собі подих Анд.
-      fontStyle: FC Ueli 155 X Condensed Extra Bold Italic
+      fontStyle: FC Crimp 151 X Condensed Extra Bold Italic
       fontSize: 50
 
     - text: |
@@ -2959,7 +2956,7 @@ testers:
         Además de su relevancia científica y mitológica, el Popocatépetl es un destino popular para excursionistas y montañistas experimentados. Aunque actualmente está prohibido el ascenso a su cumbre debido a su actividad, las zonas circundantes, como el Parque Nacional Izta-Popo, ofrecen rutas de senderismo y vistas espectaculares del volcán y su vecina, la Iztaccíhuatl.
 
         El Popocatépetl no solo es un fenómeno natural impresionante, sino también un símbolo de la fuerza y resiliencia del pueblo mexicano. Su imagen aparece en arte, literatura y música, y su constante presencia en el horizonte es un recordatorio de la poderosa naturaleza que rodea y define a México.
-      fontStyle: FC Ueli 220 Condensed Regular
+      fontStyle: FC Crimp 320 Condensed Regular
       fontSize: 18
 
     - text: |
@@ -2974,7 +2971,7 @@ testers:
         Παρά τους κινδύνους, η περιοχή παραμένει δημοφιλής για τους ορειβάτες που επιθυμούν να δοκιμάσουν τις ικανότητές τους και να κατακτήσουν έναν από τους πιο δύσκολους τοίχους στον κόσμο. Οι λάτρεις της ορειβασίας έρχονται από όλο τον κόσμο για να ζήσουν την εμπειρία της αναρρίχησης και να δοκιμάσουν τις δυνατότητές τους σε αυτό το απίστευτα δύσκολο βουνό.
 
         Επιπλέον, η περιοχή γύρω από τον Είγκερ είναι γνωστή για τη φυσική της ομορφιά, με καταπληκτικά τοπία και εκπληκτικά θέα προς τις γύρω βουνοκορφές. Παρά τον κίνδυνο και την δυσκολία του, ο Είγκερ North Wall παραμένει ένα από τα πιο αναγνωρίσιμα και ιστορικά βράχια στον κόσμο, που συνδυάζει την πρόκληση του αθλητισμού με τη μεγαλοπρέπεια της φύσης.
-      fontStyle: FC Ueli 220 Condensed Regular
+      fontStyle: FC Crimp 220 Condensed Regular
       fontSize: 80
 
     - text: |
@@ -2991,7 +2988,7 @@ testers:
         Il Matterhorn è anche un punto di riferimento culturale e simbolico. È stato utilizzato in innumerevoli opere artistiche, fotografate e dipinte da generazioni di artisti. Il suo profilo ha ispirato loghi, immagini e icone, inclusa la celebre immagine sulla scatola del cioccolato Toblerone.
 
         Inoltre, il Matterhorn è un simbolo di resilienza e bellezza. Le sue ripide pareti e la sua magnificenza naturale rappresentano la forza della natura, ma anche la delicatezza del nostro ambiente montano, che deve essere preservato per le future generazioni. La sua presenza costante nel paesaggio alpino continua a ricordarci la maestosità della natura e la passione per l’esplorazione.
-      fontStyle: FC Ueli 250 Condensed Extra Bold
+      fontStyle: FC Crimp 250 Condensed Extra Bold
       fontSize: 200
 
     - text: |
@@ -3006,7 +3003,7 @@ testers:
         Una altra característica fascinant de l'Annapurna és el seu ecosistema divers. Al peu de la muntanya, la zona d'Annapurna Conservation Area és una àrea protegida que alberga una gran varietat de flora i fauna. Des de boscos subtropicals fins a pasturatges alpins, la regió és un paradís per als amants de la natura. També és un lloc ideal per al trekking, amb rutes populars com el Annapurna Circuit, que ofereix una vista espectacular de la muntanya i una experiència cultural única, passant per diversos pobles i monestirs de l'Himàlaia.
 
         L'Annapurna no només és una muntanya desafiant per als alpinistes, sinó que també ocupa un lloc especial en la cultura del Nepal. Molts habitants locals consideren Annapurna com una deessa protectora que els guaita des de les seves altures. Així, Annapurna segueix sent una font d'admiració, respecte i misteri, tant per la seva bellesa natural com per les seves dificultats extremes.
-      fontStyle: FC Ueli 265 Condensed Black Italic
+      fontStyle: FC Crimp 261 Condensed Black Italic
       fontSize: 80
 
     - text: |
@@ -3023,7 +3020,7 @@ testers:
         Til tross for de enorme utfordringene har Cerro Torre fortsatt å tiltrekke seg noen av de beste klatrerne i verden. De som klarer å nå toppen, kan nyte en fantastisk utsikt over de omkringliggende fjellene og isbreene i Patagonia. I tillegg er Cerro Torre et populært reisemål for fjellinteresserte og eventyrere som ønsker å utforske Patagonias unike og uberørte natur.
 
         Cerro Torre står som et symbol på både klatrekunst og de ekstreme utfordringene som naturen kan by på. Selv om det er en av de vanskeligste fjellene å bestige, fortsetter det å tiltrekke seg de mest dedikerte og modige klatrerne i verden.
-      fontStyle: FC Ueli 310 Light
+      fontStyle: FC Crimp 310 Light
       fontSize: 160
 
     - text: |
@@ -3040,7 +3037,7 @@ testers:
         Kilimanjaro ni sehemu muhimu sana kiutamaduni kwa Wakilimanjaro, kabila ambalo linaishi karibu na mpenda mlima huu. Kwao, mlima ni ishara ya utamaduni, uzalendo, na historia. Vilevile, Kilimanjaro ni alama muhimu ya utalii na uchumi nchini Tanzania, ambapo huchangia kwa kiasi kikubwa katika mapato ya taifa.
 
         Kilimanjaro ni mlima wa kipekee, ambao hauwezi kupuuziliwa mbali katika safari ya kutembelea bara la Afrika. Ni kivutio cha asili, changamoto ya kupanda, na alama ya urithi wa Afrika.
-      fontStyle: FC Ueli 325 Regular Italic
+      fontStyle: FC Crimp 321 Regular Italic
       fontSize: 32
 
     - text: |
@@ -3059,7 +3056,7 @@ testers:
         Z perspektywy ekologicznej, Lhotse jest częścią Parku Narodowego Sagarmatha, który jest wpisany na Listę Światowego Dziedzictwa UNESCO. Jako część tego obszaru, Lhotse jest otoczona przez unikalne ekosystemy górskie, w których żyją rzadkie gatunki fauny, takie jak jak czy tibetański dzik.
 
         Lhotse to nie tylko symbol wytrwałości i odwagi alpinistów, ale również niezwykła część Himalajów, pełna tajemnic i piękna. Choć często w cieniu Mount Everestu, jest to góra, która na zawsze pozostanie w pamięci tych, którzy podjęli wyzwanie jej zdobycia.
-      fontStyle: FC Ueli 340 Bold
+      fontStyle: FC Crimp 340 Bold
       fontSize: 120
 
     - text: |
@@ -3077,7 +3074,7 @@ testers:
         В последние десятилетия гора стала популярным туристическим направлением, и с каждым годом количество восходителей увеличивается. Тем не менее, с ростом популярности возникают проблемы с загрязнением окружающей среды и необходимостью защиты экосистемы. Властями предпринимаются меры для обеспечения безопасности и сохранения природы Эльбруса.
 
         Эльбрус — это не просто гора, это символ силы и величия Кавказа. Она привлекает путешественников и альпинистов, желающих испытать себя и насладиться уникальной природой, а также теми, кто ищет покоя и умиротворения на высоте.
-      fontStyle: FC Ueli 355 Extra Bold Italic
+      fontStyle: FC Crimp 351 Extra Bold Italic
       fontSize: 80
 
     - text: |
@@ -3096,7 +3093,7 @@ testers:
         Walau bagaimanapun, aktiviti pelancongan yang tidak terkawal dan perubahan iklim memberi tekanan kepada ekosistem Rinjani. Sampah yang ditinggalkan oleh pendaki dan hakisan tanah adalah antara isu yang membimbangkan. Oleh itu, usaha pemuliharaan dijalankan oleh pihak berkuasa taman nasional dan komuniti tempatan untuk memastikan keindahan Gunung Rinjani dipelihara untuk generasi akan datang.
 
         Gunung Rinjani bukan sahaja simbol keindahan alam tetapi juga warisan budaya yang kaya. Setiap pendakian ke puncaknya adalah pengembaraan yang menguji kekuatan fizikal dan mental, serta peluang untuk merenung keagungan alam semula jadi. Keunikan geografi, kepentingan spiritual, dan keindahan pemandangan menjadikan Rinjani salah satu gunung yang paling berharga di Indonesia dan dunia.
-      fontStyle: FC Ueli 420 Expanded Regular
+      fontStyle: FC Crimp 420 Expanded Regular
       fontSize: 14
 
     - text: |
@@ -3115,7 +3112,7 @@ testers:
         Mont Blanc est également riche en culture et en légendes. Selon certaines histoires locales, la montagne serait habitée par des esprits et des créatures mystérieuses. La ville de Chamonix, avec ses charmants chalets et ses rues animées, est un mélange parfait de tradition alpine et de modernité.
 
         Symbole de grandeur et de défi, Mont Blanc continue de fasciner et d’inspirer tous ceux qui le contemplent ou osent gravir ses pentes. C’est une merveille naturelle qui incarne la beauté sauvage et éternelle des Alpes, un lieu où l’homme et la nature se rencontrent dans un respect mutuel.
-      fontStyle: FC Ueli 435 Expanded Medium Italic
+      fontStyle: FC Crimp 431 Expanded Medium Italic
       fontSize: 50
 
     - text: |
@@ -3134,7 +3131,7 @@ testers:
         Kombinácia prírodnej krásy, náročnosti výstupu a kultúrnej hodnoty robí Ama Dablam jedným z najfascinujúcejších cieľov pre horolezcov z celého sveta. Pre tých, ktorí sa odvážia zdolať jej vrchol, je odmena v podobe panoramatických výhľadov na okolité himalájske velikány, ako sú Mount Everest, Lhotse a Makalu, jednoducho neopísateľná.
 
         Ama Dablam zostáva symbolom odhodlania, úcty k prírode a krásy Himalájí. Je to hora, ktorá inšpiruje nielen horolezcov, ale aj všetkých, ktorí túžia objavovať divoké a nedotknuté kúty našej planéty.
-      fontStyle: FC Ueli 450 Expanded Extra Bold
+      fontStyle: FC Crimp 450 Expanded Extra Bold
       fontSize: 30
 
     - text: |
@@ -3153,7 +3150,7 @@ testers:
         Turistams Fitz Roy yra svajonių tikslas. El Chaltén miestelis, esantis kalno papėdėje, yra laikomas Argentinos žygeivių sostine. Iš čia driekiasi daugybė takų, vedančių prie įspūdingiausių apžvalgos taškų. Žygiai prie Fitz Roy suteikia nepakartojamą galimybę patirti Patagonijos laukinę gamtą, mėgautis didingais kalnų peizažais ir išbandyti savo ištvermę.
 
         Nors šis kalnas yra sudėtingas ir pavojingas, jis įkvepia nuotykių ieškotojus ir gamtos mylėtojus iš viso pasaulio. Fitz Roy simbolizuoja žmogaus norą įveikti iššūkius ir kartu primena gamtos didybę bei galią. Jis yra ne tik alpinistų svajonė, bet ir nepakartojamas gamtos meno kūrinys, kviečiantis kiekvieną atrasti Patagonijos grožį ir paslaptingumą.
-      fontStyle: FC Ueli 465 Expanded Black Italic
+      fontStyle: FC Crimp 461 Expanded Black Italic
       fontSize: 200
 
     - text: |
@@ -3172,7 +3169,7 @@ testers:
         Fjallið er einnig mikilvægur náttúruauður fyrir umhverfið í kring. Fjallshlíðarnar eru heimili fjölbreytts lífríkis, þar með talið plöntur eins og furur, eikur og ýmis konar kaktusa. Villt dýr eins og kójótar, gaupur og fjölmargar fuglategundir lifa í þessum fjallaslóðum.
 
         Pico de Orizaba er ekki bara náttúruundur heldur tákn um styrk og þrautseigju. Það stendur sem vitnisburður um hið fjölbreytta landslag Mexíkó og mikilvægi náttúrunnar í menningu landsins. Þetta fjall hefur veitt innblástur til kynslóða og heldur áfram að kalla á þá sem þrá að kanna stórkostlegu undur jarðarinnar.
-      fontStyle: FC Ueli 510 X Expanded Light
+      fontStyle: FC Crimp 510 X Expanded Light
       fontSize: 80
 
     - text: |
@@ -3191,7 +3188,7 @@ testers:
         Освен че представлява предизвикателство за алпинистите, Макалу предлага и уникални възможности за туризъм и фотография. Всяка година ентусиасти от цял свят посещават района, за да се насладят на величествените гледки и да изследват дивата природа. Базовият лагер на Макалу се намира на около 4 870 метра височина и е отправна точка за повечето експедиции.
 
         Въпреки че Макалу е по-малко известен от съседния Еверест, той привлича тези, които търсят по-голяма изолация и по-непокътната природа. Изкачването му изисква не само физическа сила и издръжливост, но и уважение към могъществото на планината. Макалу продължава да бъде символ на предизвикателството, природната красота и човешкия стремеж към покоряване на непознатото.
-      fontStyle: FC Ueli 525 X Expanded Regular Italic
+      fontStyle: FC Crimp 521 X Expanded Regular Italic
       fontSize: 24
 
     - text: |
@@ -3208,7 +3205,7 @@ testers:
         He wahi hoʻokipa pū ʻo Mauna Kea no nā mea holo wāwae a me nā mea holoholo huakaʻi. He mea kupaianaha ka ʻike ʻana i ka lā e puka ana mai nā ao me ka hau keokeo e uhi ana i ka piko o ke kuahiwi. I ka pō, ua ʻike ʻia nā hōkū e kāhāhā ana i nā poʻe e ʻike ana i ka nani a me ka mana o ka honua.
 
         I ka ʻōlelo ʻana o nā kūpuna, e hoʻomanaʻo mau kākou i ka ʻōlelo noʻeau: “Mauna Kea kuahiwi ku haʻo i ka mālie” – ʻo ia hoʻi, ʻo Mauna Kea e kū ana me ka noho mālie a me ka haʻaheo. He hōʻailona ʻo ia o ka nohona Hawaiʻi, o nā kūpuna, a o nā hanauna e hiki mai ana.
-      fontStyle: FC Ueli 540 X Expanded Bold Italic
+      fontStyle: FC Crimp 540 X Expanded Bold Italic
       fontSize: 64
 
     - text: |
@@ -3225,32 +3222,32 @@ testers:
         Đối với những người yêu thích phiêu lưu và khám phá, Kangchenjunga là điểm đến đầy mê hoặc nhưng cũng không kém phần thử thách. Mỗi chuyến hành trình đến đây không chỉ là một cuộc leo núi mà còn là hành trình khám phá bản thân, đối mặt với sự hùng vĩ và khắc nghiệt của thiên nhiên. Cảnh tượng bình minh nhuộm đỏ đỉnh núi phủ tuyết trắng hay những đám mây lượn lờ quanh các sườn núi sẽ mãi khắc sâu trong tâm trí của những ai may mắn được chiêm ngưỡng.
 
         Kangchenjunga không chỉ là một kỳ quan thiên nhiên mà còn là biểu tượng của lòng kiên trì, niềm tin và sự tôn kính đối với sức mạnh to lớn của thiên nhiên.
-      fontStyle: FC Ueli 555 X Expanded Extra Bold Italic
+      fontStyle: FC Crimp 551 X Expanded Extra Bold Italic
       fontSize: 140
 
 about:
-    - image: FCB_Articles_Ueli.svg
-      caption: All glyphs of Ueli have a monospaced width or that are 50% (l + i), 150% (M + w), …
+    - image: FCB_Articles_Crimp.svg
+      caption: All glyphs of Crimp have a monospaced width or that are 50% (l + i), 150% (M + w), …
 
       text: |
         ## Restrained weirdness with better  “monospaced” ragging
 
-        FC Ueli by Font Club Belgica is a modern revival of a brilliant yet overlooked idea from type history, blending technical precision with contemporary design. Inspired by W.A. Dwiggins’ concept of variable-width characters to improve fixed-width typewriters, Ueli features 50% and 150% glyphs for refined spacing. Historically, engineering and technical industries relied on rigid, monospaced typefaces like Courier and OCR-A, designed for clarity and machine readability, but these came with visual constraints. Ueli transcends these limitations by incorporating angled, stubbed terminals and half-width spaces, adding a distinctive mechanical flair while enhancing legibility and efficiency. Ideal for applications in engineering, aerospace, gaming, and outdoor branding, Ueli offers a nod to tradition while delivering a fresh, versatile tool for modern design.
+        FC Crimp by Font Club Belgica is a modern revival of a brilliant yet overlooked idea from type history, blending technical precision with contemporary design. Inspired by W.A. Dwiggins’ concept of variable-width characters to improve fixed-width typewriters, Crimp features 50% and 150% glyphs for refined spacing. Historically, engineering and technical industries relied on rigid, monospaced typefaces like Courier and OCR-A, designed for clarity and machine readability, but these came with visual constraints. Crimp transcends these limitations by incorporating angled, stubbed terminals and half-width spaces, adding a distinctive mechanical flair while enhancing legibility and efficiency. Ideal for applications in engineering, aerospace, gaming, and outdoor branding, Crimp offers a nod to tradition while delivering a fresh, versatile tool for modern design.
 
 research: |
-    ## Introducing Ueli: Resurrecting an Ingenious Idea for Modern Design
+    ## Introducing Crimp: Resurrecting an Ingenious Idea for Modern Design
 
     <div markdown="1">
       <div markdown="1">
 
-    ![](FCB_Research_Ueli_1.svg)
+    ![](FCB_Research_Crimp_1.svg)
 
       </div>
       <div markdown="1">
 
-      Font Club Belgica’s Ueli revives a nearly forgotten concept from the golden age of type design—a solution proposed by the legendary W.A. Dwiggins to address the limitations of fixed-width typewriters. Just before the rise of phototypesetting and digital type, businesses were restricted to using typewriters, which forced every glyph into a rigid monospaced format. Each character occupied the same horizontal space, regardless of its shape, leading to awkward gaps and inconsistent texture. Dwiggins envisioned a way to improve spacing by introducing 50% width and 150% width characters, but the technology of the time rendered this idea impractical. Ueli breathes life into this concept, merging historical ingenuity with contemporary design sensibilities.
+      Font Club Belgica’s Crimp revives a nearly forgotten concept from the golden age of type design—a solution proposed by the legendary W.A. Dwiggins to address the limitations of fixed-width typewriters. Just before the rise of phototypesetting and digital type, businesses were restricted to using typewriters, which forced every glyph into a rigid monospaced format. Each character occupied the same horizontal space, regardless of its shape, leading to awkward gaps and inconsistent texture. Dwiggins envisioned a way to improve spacing by introducing 50% width and 150% width characters, but the technology of the time rendered this idea impractical. Crimp breathes life into this concept, merging historical ingenuity with contemporary design sensibilities.
 
-      Ueli leans into this technical heritage with distinctive, angular forms. Stubbed, angled terminals on letters like V, K, and A evoke the mechanical precision of typewriters and engineering diagrams. This attention to structure is balanced by the creative use of variable widths: half-width characters like “l”, “i”, and “j” and extended 150% glyphs like “W”, “M”, “m” and “w” break free from the monotony of strict monospacing. Ueli also employs half-width spaces to refine overall text flow, enhancing readability while retaining its mechanical roots.
+      Crimp leans into this technical heritage with distinctive, angular forms. Stubbed, angled terminals on letters like V, K, and A evoke the mechanical precision of typewriters and engineering diagrams. This attention to structure is balanced by the creative use of variable widths: half-width characters like “l”, “i”, and “j” and extended 150% glyphs like “W”, “M”, “m” and “w” break free from the monotony of strict monospacing. Crimp also employs half-width spaces to refine overall text flow, enhancing readability while retaining its mechanical roots.
 
       </div>
     </div>
@@ -3258,7 +3255,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](FCB_Research_Ueli_2.svg)
+    ![](FCB_Research_Crimp_2.svg)
 
        </div>
        <div markdown="1">
@@ -3267,7 +3264,7 @@ research: |
 
     One of the inherent challenges of traditional monospaced fonts is the lack of control over ragging—the uneven alignment of text on the right margin in left-aligned typesetting. Because each character takes up the same amount of space, shorter letters like i or l leave excessive gaps, while wider letters like m or w struggle to fit within their fixed width. This results in uneven, jagged text edges and disrupts the rhythm and flow of paragraphs. The uniform spacing, while useful for typewriters and early computing, compromises visual harmony and legibility in modern design contexts.
 
-    Ueli addresses these ragging limitations by embracing Dwiggins’ idea of variable-width monospacing. By allowing some characters to take up half-width space and others to extend to 150% width, Ueli achieves more refined and natural line breaks. The introduction of half-width spaces further mitigates ragging issues, helping designers achieve a cleaner, more balanced text edge while maintaining a mechanical, monospaced aesthetic. These subtle adjustments provide Ueli with a unique advantage, offering improved text texture without sacrificing the distinctive look of monospaced type.
+    Crimp addresses these ragging limitations by embracing Dwiggins’ idea of variable-width monospacing. By allowing some characters to take up half-width space and others to extend to 150% width, Crimp achieves more refined and natural line breaks. The introduction of half-width spaces further mitigates ragging issues, helping designers achieve a cleaner, more balanced text edge while maintaining a mechanical, monospaced aesthetic. These subtle adjustments provide Crimp with a unique advantage, offering improved text texture without sacrificing the distinctive look of monospaced type.
 
       </div>
     </div>
@@ -3275,49 +3272,47 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](FCB_Research_Ueli_3.svg)
+    ![](FCB_Research_Crimp_3.svg)
 
       </div>
       <div markdown="1">
 
     ## A Typeface for Precision and Technical Design
 
-    These design choices give Ueli a distinctly technical flair, making it an excellent fit for industries that value precision and functionality: engineering, aerospace, space exploration, gaming, racing, and outdoor brands. In fact, Ueli’s name itself nods to outdoor culture, referencing “Good Old Raisins and Peanuts,” the classic hiker’s trail mix—a blend of utility, simplicity, and endurance.
+    These design choices give Crimp a distinctly technical flair, making it an excellent fit for industries that value precision and functionality: engineering, aerospace, space exploration, gaming, racing, and outdoor brands. In fact, Crimp’s name itself nods to outdoor culture, referencing “Good Old Raisins and Peanuts,” the classic hiker’s trail mix—a blend of utility, simplicity, and endurance.
 
-    Ueli is a typeface with a purpose-driven aesthetic. Its varied widths and weights provide flexibility, while the quirky italic offers a dynamic contrast to its structured uprights. This versatility allows Ueli to move seamlessly between display and text settings, maintaining clarity and character while solving the historical problems of fixed-width design.
+    Crimp is a typeface with a purpose-driven aesthetic. Its varied widths and weights provide flexibility, while the quirky italic offers a dynamic contrast to its structured uprights. This versatility allows Crimp to move seamlessly between display and text settings, maintaining clarity and character while solving the historical problems of fixed-width design.
 
-    With Ueli, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Ueli delivers a balance of mechanical heritage and modern versatility.
-
+    With Crimp, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Crimp delivers a balance of mechanical heritage and modern versatility.
 
       </div>
     </div>
 
 library_preview:
-    - FCB_Library_Ueli_1.svg
-    - FCB_Library_Ueli_2.svg
-    - FCB_Library_Ueli_3.svg
-    - FCB_Library_Ueli_4.svg
-    - FCB_Library_Ueli_5.svg
-    - FCB_Library_Ueli_6.svg
-    - FCB_Library_Ueli_7.svg
-    - FCB_Library_Ueli_8.svg
-    - FCB_Library_Ueli_9.svg
-    - FCB_Library_Ueli_10.svg
-    - FCB_Library_Ueli_11.svg
-    - FCB_Library_Ueli_12.svg
-    - FCB_Library_Ueli_13.svg
-    - FCB_Library_Ueli_14.svg
-    - FCB_Library_Ueli_15.svg
-    - FCB_Library_Ueli_16.svg
-    - FCB_Library_Ueli_53.svg
-    - FCB_Library_Ueli_54.svg
-    - FCB_Library_Ueli_55.svg
-    - FCB_Library_Ueli_56.svg
-    - FCB_Library_Ueli_57.svg
-    - FCB_Library_Ueli_58.svg
-    - FCB_Library_Ueli_59.svg
-    - FCB_Library_Ueli_60.svg
-
+    - FCB_Library_Crimp_1.svg
+    - FCB_Library_Crimp_2.svg
+    - FCB_Library_Crimp_3.svg
+    - FCB_Library_Crimp_4.svg
+    - FCB_Library_Crimp_5.svg
+    - FCB_Library_Crimp_6.svg
+    - FCB_Library_Crimp_7.svg
+    - FCB_Library_Crimp_8.svg
+    - FCB_Library_Crimp_9.svg
+    - FCB_Library_Crimp_10.svg
+    - FCB_Library_Crimp_11.svg
+    - FCB_Library_Crimp_12.svg
+    - FCB_Library_Crimp_13.svg
+    - FCB_Library_Crimp_14.svg
+    - FCB_Library_Crimp_15.svg
+    - FCB_Library_Crimp_16.svg
+    - FCB_Library_Crimp_53.svg
+    - FCB_Library_Crimp_54.svg
+    - FCB_Library_Crimp_55.svg
+    - FCB_Library_Crimp_56.svg
+    - FCB_Library_Crimp_57.svg
+    - FCB_Library_Crimp_58.svg
+    - FCB_Library_Crimp_59.svg
+    - FCB_Library_Crimp_60.svg
 
 font_match:
     - FC MAD Serif

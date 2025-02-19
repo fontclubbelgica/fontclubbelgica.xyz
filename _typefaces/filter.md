@@ -8,7 +8,7 @@ information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
 
 designer: Frederik Berlaen
-date: 2025-01-20
+date: 2025-02-10
 
 buy_redirect:
     title: Buy on Future Fonts
@@ -30,7 +30,7 @@ technicalSupport:
 
 css: filter-style.css
 
-splash: filter-splash.svg
+splash: filter-splash.jpg
 
 hometile: FCB_Library_Filter_Large.svg
 
