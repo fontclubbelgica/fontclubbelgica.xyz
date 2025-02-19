@@ -711,9 +711,11 @@ hometile: FCB_Library_Cru_Large.svg
 
 showcases:
     - ABCDEFGHIJKLMN
-    - OPQRSTUVWXYZΩД
-    - äbcdęfghijklmno
-    - pqrstuvwxyzωд
+    - OPQRSTUVWXYZ
+    - ΑΒΓΔΕΦ АБЦДЕФ 
+    - äbcdęfghijklmn
+    - opqrstuvwxyz
+    - αβγδεφ абцде
     - 0123456789
 
 testers:
@@ -824,7 +826,7 @@ about:
       text: |
         ## Cru: A Typeface Balancing Tradition and Modernity
 
-        Cru is a typeface that harmoniously blends the historical influences of woodtype with a modern, geometric design. At first glance, it appears entirely contemporary, defined by its precise, minimalist forms. However, Cru’s DNA is rooted in the bold, attention-grabbing aesthetic of 19th-century American woodtype, particularly as reinterpreted by fonts like Poplar, designed by Barbara Lind. Poplar, based on early American woodtype from William Leavenworth, shares a visual lineage with Cru’s structural clarity and boldness.
+        Cru is a typeface that harmoniously blends the historical influences of woodtype with a modern, geometric design. At first glance, it appears entirely contemporary, defined by its precise, minimalist forms. However, Cru’s DNA is rooted in the bold, attention-grabbing aesthetic of 19th-century American woodtype, particularly as reinterpreted by fonts like Poplar, designed by Barbara Lind. Based on early American woodtype from William Leavenworth, shares a visual lineage with Cru’s structural clarity and boldness.
 
         While Poplar embraces the weight and formal elements of woodtype, Cru refines these qualities into something more usable for the digital age. Its smooth, controlled shapes, circular counters, and flat terminals are reminiscent of Poplar’s striking visual impact but optimized for today’s digital design needs. This synthesis gives Cru the ability to shift between digital and print usage as well as editorial and branding use, balancing its historical roots with contemporary functionality.
 
@@ -842,7 +844,7 @@ research: |
       </div>
       <div markdown="1">
 
-    Every typeface has its roots in history, even those designed with a forward-thinking sensibility. Cru, is no exception. At first glance, Cru is a modernist statement: its geometric precision and controlled proportions speak to the digital age. However, just beneath its surface lies a more layered dialogue—a synthesis of the past and present, drawing inspiration from historic woodtype and reinterpreting it for contemporary contexts.
+    <i> Every typeface has its roots in history, even those designed with a forward-thinking sensibility. Cru, is no exception. At first glance, Cru is a modernist statement: its geometric precision and controlled proportions speak to the digital age. However, just beneath its surface lies a more layered dialogue—a synthesis of the past and present, drawing inspiration from historic woodtype and reinterpreting it for contemporary contexts.</i>
 
     # The Woodtype Connection
     Woodtype emerged in the 19th century, a direct response to the need for large-scale letters in poster design, advertising, and signage. Metal type, limited by its material constraints, couldn’t support the size or durability needed for booming print requirements. Enter woodtype: lighter, cheaper, and capable of achieving much larger letterforms.
@@ -860,13 +862,13 @@ research: |
        </div>
        <div markdown="1">
 
-    # Poplar’s Influence on Cru
+    # Leavenworth’s influence on Cru
 
-    While Cru might seem a world away from the bustling posters of 19th-century America, the connection lies in its rigorous geometry and the modularity of form—key elements in woodtype design. Cru, much like Poplar, makes use of consistent, rational shapes, but does so with a more reductive approach.
+    While Cru might seem a world away from the bustling posters of 19th-century America, the connection lies in its rigorous geometry and the modularity of form—key elements in woodtype design. Cru, much like Leavenworth, makes use of consistent, rational shapes, but does so with a more reductive approach.
 
-    Where Poplar embraced the density and weight of woodtype, Cru takes these structural ideas and reduces them to their most simplistic form. Its circular counters, flat terminals, and variable widths echo the boldness of Poplar’s source material, but without the historical baggage.
+    Where Leavenworths most known revival Poplar, embraced the density and weight of woodtype, Cru takes these structural ideas and reduces them to their most simplistic form. Its circular counters, flat terminals, and variable widths echo the boldness of Leavenworth, but without being a strict revival.
 
-    The proportions of Cru are meticulously controlled, achieving a balance between tradition and modernity. The square-like forms of the “O “ and “C, “ for instance, evoke the strong horizontal emphasis of woodtype but have been smoothed and updated, lending the letters a sense of crisp refinement. Poplar’s rugged qualities are still faintly visible here, but they’ve been honed and stripped back to their essence.
+    The proportions of Cru are meticulously controlled, achieving a balance between tradition and modernity. The square-like forms of the “O “ and “C, “ for instance, evoke the strong horizontal emphasis of woodtype but have been smoothed and updated, lending the letters a sense of crisp refinement. Leavenworth’s rugged qualities are still faintly visible here, but they’ve been honed and stripped back to their essence.
 
       </div>
     </div>
