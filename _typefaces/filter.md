@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: true
+draft: false
 
 information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
