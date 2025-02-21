@@ -10,6 +10,8 @@ information: |
 designer: Dries Wiewauters
 date: 2017-01-01
 
+specimen: specimens/17-01_FC-Mad-Serif_Specimen.pdf
+
 fastspring: 
   - name: fc-mad-serif
     family:

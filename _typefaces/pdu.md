@@ -10,6 +10,8 @@ information: |
 designer: Dries Wiewauters
 date: 2010-01-01
 
+specimen: specimens/10-01_FC-PDU_Specimen.pdf
+
 fastspring: 
   - name: fc-pdu
     family:

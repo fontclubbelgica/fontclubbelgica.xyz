@@ -10,6 +10,8 @@ information: |
 designer: Dries Wiewauters
 date: 2025-01-01
 
+specimen: specimens/25-03_FC-Crimp_Type-Specimen.pdf
+
 #Fastspring: 
 #  - name: fc-Crimp
 #    family:
