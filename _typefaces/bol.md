@@ -2,13 +2,13 @@
 layout: font
 title: FC Bol
 
-draft: true
+draft: false
 
 information: |
-    Woodtype for the web. Bol pays hommage to old wood type whilst optimizing those forms for digital design.
+    FC Bol tries to showcase the possibilities of varialbe type. It is highly effective when it is used in dinamic web typography and videos.
 
 designer: Dries Wiewauters
-date: 2025-02-08
+date: 2025-01-10
 
 technicalSupport:
 
@@ -180,7 +180,7 @@ openTypeFeatures:
 
 css: Bol-style.css
 
-splash: Bol-splash.svg
+splash: Bol-splash-WIP.jpg
 
 hometile: FCB_Library_Bol_Large.svg
 
@@ -207,205 +207,112 @@ variable: true
 
 testers:
     - text: |
-       Cirrostratus è un tipo di nube alta che si forma a grandi altitudini, generalmente tra i 5.000 e i 13.000 metri sopra la superficie terrestre. Questo tipo di nube è caratterizzato da un aspetto sottile, quasi trasparente, e spesso copre l'intero cielo come un velo biancastro. A differenza delle nubi più spesse, i cirrostrati non oscurano completamente il sole o la luna, ma piuttosto creano un effetto di alone attorno a questi corpi celesti, un fenomeno ottico che si verifica quando la luce viene rifratta dai minuscoli cristalli di ghiaccio presenti nelle nubi.
+        Nimbostratus Clouds er en type sky som ofte er assosiert med dårlig vær og langvarig nedbør. De er lavtliggende skyer, som vanligvis befinner seg mellom 1 000 og 2 000 meter over bakken, og de dekker ofte store deler av himmelen. Nimbostratus-skyer er tette, mørke skyer som kan skape et tykt, grått og overcast utseende på himmelen.
 
-       I cirrostrati si formano prevalentemente quando una massa d'aria umida viene sollevata ad altitudini elevate, dove le temperature sono molto basse e favoriscono la sublimazione del vapore acqueo in cristalli di ghiaccio. Queste nubi sono spesso associate all'arrivo di fronti caldi, il che significa che la loro presenza può essere un segnale dell'avvicinarsi di precipitazioni o di un cambiamento del tempo nelle successive 12-24 ore. Per questo motivo, i cirrostrati sono spesso osservati dai meteorologi come un segnale premonitore di piogge o nevicate.
+        Disse skyene dannes når varm, fuktig luft stiger og møter kald luft, noe som får vanndampene til å kondensere og danne skyene. Nimbostratus-skyer er ofte forbundet med langvarig og jevn nedbør, som kan være i form av regn, snø eller sludd. De er forskjellige fra cumulus- og cumulonimbus-skyer, som er mer knyttet til kortvarige, intense regnbyger og tordenvær.
 
-       Una delle caratteristiche più affascinanti dei cirrostrati è il loro effetto ottico. Quando la luce del sole o della luna attraversa questi strati sottili di cristalli di ghiaccio, si possono formare fenomeni spettacolari come aloni, archi e falsi soli (conosciuti anche come pareli). Questi effetti si verificano a causa della rifrazione e riflessione della luce nei cristalli esagonali di ghiaccio che compongono la nube.
+        Et av kjennetegnene ved Nimbostratus-skyer er deres evne til å dekke store områder av himmelen, og de gir et inntrykk av at været er stabilt og ugunstig i lengre tid. Nedbøren som følger med disse skyene er vanligvis lett til moderat, men kan vedvare i flere timer eller til og med dager. På grunn av den jevne og langvarige nedbøren er Nimbostratus-skyer ofte et tegn på at været vil være grått og overskyet i lengre tid.
 
-       Esistono due sottotipi principali di cirrostrati:
-
-       1. Cirrostratus fibratus – Presentano una struttura più fibrosa e discontinua, con sottili strisce che si estendono nel cielo.
-       2. Cirrostratus nebulosus – Sono più uniformi e compatti, creando un velo continuo che copre il cielo senza interruzioni visibili.
-
-       A differenza dei cirri, che sono nubi alte ma più filiformi e sparse, i cirrostrati tendono a coprire una porzione più ampia del cielo e hanno un aspetto più omogeneo. Inoltre, a differenza degli altostrati, che si trovano a quote più basse e possono portare pioggia leggera o neve, i cirrostrati non producono direttamente precipitazioni, anche se spesso precedono l'arrivo di nubi più basse e cariche di umidità.
-
-       I piloti di aerei prestano particolare attenzione ai cirrostrati, perché questi possono indicare la presenza di correnti a getto e turbolenze. Inoltre, possono segnalare formazioni di ghiaccio sulle ali degli aerei, un fenomeno che può influenzare le operazioni di volo.
-
-       Nel complesso, i cirrostrati sono tra le nubi più affascinanti e utili per la previsione del tempo. Sebbene possano sembrare innocue, la loro presenza nel cielo è spesso un avvertimento dell'imminente cambiamento meteorologico. Osservare i cirrostrati e comprendere il loro comportamento può aiutare chiunque, dai meteorologi agli escursionisti, a prepararsi meglio per il tempo futuro.
+        Disse skyene er viktige for landbruket, da de gir den typen jevn og forsiktig nedbør som er gunstig for plantevekst. På den annen side kan de også være et hinder for friluftsliv og soling, da de dekker solens lys fullstendig.
       fontStyle: Bol BETA
       fontSize: 200
 
     - text: |
-       Technika „fear appeals“ (apel na strach) je metóda propagandy, ktorá využíva strach ako motiváciu na ovplyvnenie správania a názorov ľudí. Tento prístup predkladá potenciálne hrozby alebo nebezpečenstvá, aby vyvolal pocit úzkosti a naliehavosti. Napríklad, kampane proti fajčeniu môžu ukazovať drastické zdravotné dôsledky, aby odradili ľudí od tejto závislosti.
-        Cieľom apelu na strach je presvedčiť ľudí, že ak nezmenia svoje správanie, môžu čeliť vážnym problémom. Tento prístup sa často kombinuje s ponukou riešení, ktoré sľubujú ochranu pred uvedenými hrozbami. Napríklad, politické kampane môžu varovať pred nebezpečenstvami, ak sa k moci dostanú určité osoby, pričom ponúkajú seba ako stabilnú alternatívu.
-        Napriek svojej účinnosti má táto technika aj nevýhody. Príliš silné alebo znepokojujúce apely môžu viesť k pocitom beznádeje alebo rezignácie, čo môže mať opačný efekt. Je dôležité, aby propagandisti našli rovnováhu medzi vyvolaním strachu a ponukou realistických a povzbudzujúcich riešení.
+       Altocumulus Clouds (Αλτοκουμuluς σύννεφα) είναι σύννεφα μεσαίου ύψους, που βρίσκονται συνήθως σε υψόμετρα μεταξύ 2.000 και 6.000 μέτρων πάνω από την επιφάνεια της Γης. Αυτά τα σύννεφα συνήθως εμφανίζονται ως μικρές, λευκές ή γκρι κηλίδες, που συχνά σχηματίζουν σειρές ή ομάδες στον ουρανό. Τα Αλτοκουμuluς σύννεφα έχουν μια χαρακτηριστική εμφάνιση, με κυρτό ή επίπεδο σχήμα και μπορεί να καλύπτουν μεγάλες εκτάσεις του ουρανού.
+
+        Συνήθως, τα Αλτοκουμuluς σύννεφα δεν είναι άμεσα συνδεδεμένα με έντονα καιρικά φαινόμενα, αλλά μπορεί να υποδηλώνουν επικείμενη αλλαγή του καιρού. Όταν εμφανίζονται σε μεγάλες εκτάσεις, συχνά προαναγγέλλουν την άφιξη μιας θερμής ή ψυχρής μετώπου, ανάλογα με τη θέση και τη συμπεριφορά τους. Μπορεί επίσης να είναι το σημάδι μιας επερχόμενης καταιγίδας αν αυξηθούν σε ύψος και πυκνότητα.
+
+        Τα Αλτοκουμuluς σύννεφα αποτελούνται από σταγόνες νερού ή κρυστάλλους πάγου, και η πυκνότητά τους εξαρτάται από τη θερμοκρασία και την υγρασία στην ατμόσφαιρα. Σε ορισμένες περιπτώσεις, τα Αλτοκουμuluς σύννεφα μπορούν να φέρουν ελαφριά βροχή ή χιονόνερο, αλλά γενικά η βροχόπτωση είναι ελαφριά και βραχύβια.
+
+        Παρά την ήπια φύση τους, τα Αλτοκουμuluς σύννεφα είναι όμορφα και εντυπωσιακά, προσφέροντας μια απαλή και γραφική εμφάνιση στον ουρανό. Οι αλλαγές στη μορφή τους μπορούν να μας δώσουν ενδείξεις για τον καιρό που πλησιάζει, καθιστώντας τα ένα χρήσιμο εργαλείο για τη μελέτη των καιρικών φαινομένων.
       fontStyle: FC Bol
       fontSize: 40
 
     - text: |
-       Teknolojia ya “testimonials” ni mbinu ya propaganda inayotumia ushuhuda kutoka kwa watu maarufu au wenye mamlaka ili kuathiri maoni na tabia za watu. Wakati mtu maarufu, mtaalamu, au kiongozi wa umma anapokuja mbele na kuzungumzia bidhaa, wazo, au sababu fulani, inaweza kuunda athari kubwa kwa hadhira. Watu mara nyingi huamini na kuheshimu watu hawa, wakidhani kuwa ushawishi wao unaashiria ubora au ukweli.
-        Kwa mfano, muigizaji maarufu anaweza kutangaza bidhaa ya kiafya, akidai kuwa imebadilisha maisha yake. Hadithi hii ya kibinafsi inaweza kuungana na wapenzi wake, na kuwahamasisha kujaribu bidhaa hiyo pia. Ushuhuda ni nguvu kwa sababu unalenga hisia, na kufanya ujumbe kuwa wa karibu zaidi na wa kuaminika.
-        Hata hivyo, ni muhimu kuzingatia uhalali wa ushirikiano huu. Wakati mwingine, watu wanaotoa ushuhuda huenda hawatumii bidhaa hiyo kwa kweli au hawaamini katika sababu hiyo, jambo ambalo linaweza kuleta mashaka miongoni mwa hadhira ikiwa litagundulika. Kwa ujumla, testimonials ni mbinu inayotumiwa sana katika masoko na propaganda, ikilenga kujenga imani na uaminifu kwa kuunganisha ujumbe na sauti inayoaminika.
+        Cirrus Clouds are high-altitude clouds that form above 20,000 feet (6,000 meters) in the sky. These clouds are often recognized for their delicate, wispy appearance, resembling strands of hair or feathery strokes across the vast expanse of the heavens. Made up of ice crystals due to the extremely cold temperatures at these altitudes, cirrus clouds are typically white or light gray, and their thin, transparent nature allows them to appear almost ethereal.
+
+        Cirrus clouds play a crucial role in the weather system, serving as indicators of changes in the atmosphere. While they rarely bring precipitation to the ground, their presence often signals that a change in the weather is on the horizon. As cirrus clouds tend to form in advance of larger weather systems, such as warm fronts or low-pressure areas, their arrival can be a precursor to upcoming rain or snow, especially in the case of low-pressure systems moving into the area.
+
+        Though beautiful to observe, cirrus clouds are not typically associated with severe weather. They form when moist air rises and cools at high altitudes, causing water vapor to freeze into ice crystals. These clouds are often seen in the early stages of storms, as they appear long before more substantial cloud systems, such as nimbostratus or cumulonimbus clouds, take shape.
+
+        In addition to their role in weather prediction, cirrus clouds are an important part of Earth's energy balance. They can both trap heat in the atmosphere and reflect sunlight, affecting the global climate in subtle ways. Thus, cirrus clouds, though small in size, are integral to the intricate processes that govern Earth's weather and climate.
       fontStyle: FC Bol
       fontSize: 140
 
     - text: |
-       “Glittering generalities” is a propaganda technique that uses vague, emotionally appealing phrases to evoke positive feelings without providing specific details or concrete evidence. This approach relies on words that carry strong emotional connotations, such as “freedom,” “justice,” or “the American dream.” By appealing to these ideals, the speaker aims to generate a favorable response from the audience.
-        For example, a political campaign might promote a candidate by stating that they will bring “hope and change,” appealing to the public's desire for progress and positivity. However, the lack of specific policies or actions can leave the audience feeling inspired but unclear about what exactly is being proposed.
-        This technique is effective because it taps into deep-seated values and emotions, allowing the audience to project their own interpretations onto the message. However, it can also be manipulative, as it can obscure the truth and prevent critical thinking. By focusing on appealing language rather than substantive content, glittering generalities can sway opinions and mobilize support, making it a common strategy in advertising, political campaigns, and social movements.
+       Cumulus Clouds (Кумулятивні хмари) — це тип хмар, який легко впізнається завдяки їх пухнастому, білій і об'ємному вигляду. Вони утворюються на низьких висотах, зазвичай між 1,000 і 2,000 метрами над рівнем моря, і зазвичай асоціюються з гарною погодою. Кумулятивні хмари мають округлу форму, з рівною, чітко вираженою основою та піками, що можуть виглядати схожими на купи вати або бавовни. Вони можуть варіюватися за розмірами — від маленьких пухнастих купок до великих, величезних хмар, які можуть досягати величезних висот.
+
+        Ці хмари формуються через конвекцію, коли тепле повітря піднімається вгору, охолоджується, і водяна пара конденсується, утворюючи водяні краплі. Кумулятивні хмари зазвичай не приносять дощу, але можуть бути першими ознаками більш серйозних погодних змін. Якщо кумулятивні хмари зростають вгору і набувають більш густого вигляду, вони можуть перетворитися на грозові хмари — кумулонімбуси, які приносять сильні дощі, грози і навіть град.
+
+        Кумулятивні хмари часто стають чудовим об'єктом для спостережень, особливо в ясний день, коли вони створюють яскраві контрасти на фоні синього неба. Їх популярний образ у природі та мистецтві символізує спокійну, безтурботну погоду. Ці хмари не лише милують око, але й є важливим індикатором атмосферних процесів, що відбуваються на земній поверхні.
       fontStyle: FC Bol 205 Condensed Black Italic
       fontSize: 80
 
     - text: |
-        La tecnica del “transfer” è un metodo di propaganda che sfrutta l'associazione di idee e sentimenti positivi con un prodotto, un'idea o una figura pubblica. In sostanza, si cerca di trasferire le emozioni e le connotazioni positive di un elemento già rispettato o ammirato su un altro, meno noto. Questo può avvenire attraverso immagini, simboli o parole che evocano sentimenti di fiducia, amore o ammirazione.
-        Ad esempio, un marchio di automobili potrebbe utilizzare immagini di paesaggi naturali incontaminati o famiglie felici per evocare un senso di sicurezza e benessere. Anche l'uso di figure carismatiche, come celebrità o leader, può servire a trasferire la loro popolarità e credibilità al prodotto o all'idea promossa.
-        Tuttavia, la tecnica del transfer può anche essere manipolativa, poiché non sempre riflette la verità o la qualità del prodotto. L'obiettivo è creare un legame emotivo che possa influenzare le decisioni di acquisto o di voto, spingendo le persone ad accettare un messaggio basato su emozioni piuttosto che su fatti concreti. Questa strategia è comune in pubblicità, campagne politiche e movimenti sociali.
+        Stratus Clouds (Nubes estratiformes) son un tipo de nubes bajas que se caracterizan por cubrir grandes áreas del cielo con una capa densa y uniforme. Se encuentran generalmente a altitudes entre los 600 y 2,000 metros sobre el nivel del mar, y su apariencia es la de un manto gris que a menudo oscurece el cielo. A diferencia de las nubes cúmulo o cirros, las nubes estratiformes no tienen la misma estructura visible de cúmulos o formaciones en capas.
+
+        Estas nubes se forman cuando el aire húmedo se eleva suavemente y se enfría a medida que asciende, lo que provoca la condensación de la humedad presente en el aire. El resultado es una capa de nubes gruesas y uniformes que pueden provocar condiciones meteorológicas estables, como cielos nublados, lluvias ligeras o lloviznas. En ocasiones, las nubes estratiformes también pueden generar niebla o neblina cerca del suelo, dificultando la visibilidad.
+
+        Las nubes estratiformes son comunes en muchas regiones del mundo, especialmente en áreas donde la atmósfera se mantiene estable y la humedad es alta. Aunque no suelen traer tormentas intensas, las nubes estratiformes son responsables de períodos prolongados de tiempo nublado y lluvias suaves. Este tipo de nubes es más común en los meses de otoño e invierno, cuando las condiciones atmosféricas son más propensas a la formación de capas de nubes estables.
+
+        En resumen, las nubes estratiformes son un fenómeno meteorológico importante que influye en las condiciones climáticas locales, proporcionando nublados constantes y lluvias ligeras que afectan el tiempo en las regiones donde se forman.
       fontStyle: FC Bol 300 SemiCondensed Black
       fontSize: 200
 
     - text: |
-        Le name-calling (ou étiquetage péjoratif) est une technique de propagande qui consiste à utiliser des termes dévalorisants ou insultants pour discréditer un individu, un groupe, ou une idée. L'objectif est d'associer ces personnes ou idées à des connotations négatives, souvent sans preuve ou analyse approfondie. En utilisant des mots chargés émotionnellement comme “traître”, “incompétent”, ou “terroriste”, cette technique vise à susciter une réaction de rejet chez le public, sans qu'il prenne le temps d'examiner objectivement les arguments ou les faits.
-        Cette méthode s'appuie sur des stéréotypes et des préjugés, et est couramment utilisée dans les discours politiques, les campagnes publicitaires ou les médias pour influencer l'opinion publique. Elle peut conduire à des jugements hâtifs et à des divisions sociales en exagérant les différences entre “nous” et “eux”. Par exemple, un politicien pourrait qualifier ses adversaires de “corrompus” ou “dangereux” pour détourner l'attention de ses propres faiblesses et semer la méfiance.
-        Le name-calling est particulièrement efficace car il exploite les émotions du public, notamment la peur ou la colère, et fait appel à des réflexes instinctifs plutôt qu'à la réflexion rationnelle.
+        Altocumulus Clouds (Altokumulusz felhők) közepes magasságú felhők, amelyek jellemzően 2 000 és 6 000 méter közötti magasságban alakulnak ki. Ezek a felhők gyakran fehér vagy szürke foltokban jelennek meg az égen, és szabad szemmel kis, puffadt halmazokra emlékeztetnek. Az altokumulusz felhők gyakran csoportosulnak vagy sorba rendeződnek, és bár nem hoznak mindig esőt, jelzésértékűek lehetnek a közelgő időjárási változások szempontjából.
+
+        Ezek a felhők a légkör közepes magasságaiban képződnek, ahol a levegő viszonylag stabil, de még elég nedvességet tartalmaz ahhoz, hogy kondenzációt eredményezzen. Az altokumulusz felhők előfordulása gyakran annak a jele, hogy egy időjárási front közeledik, amely esetleg esőt, havat vagy más csapadékkal kapcsolatos jelenségeket hozhat. Ha az altokumulusz felhők sűrűsödnek vagy növekednek, akkor egy erősebb légköri zűrzavart jelezhetnek, mint például egy esőfrontot.
+
+        Bár az altokumulusz felhők nem általában veszélyesek, mégis fontos szerepet játszanak az időjárás előrejelzésében. Ezek a felhők képesek jelezni a változó időjárást, mint például eső, szél vagy más légköri jelenségek. Az altokumuluszok gyakran az égbolt festői látványát nyújtják, szépen szétterjedve az égen, amelyek nemcsak meteorológiai jelentőséggel bírnak, hanem esztétikai élményt is nyújtanak.
       fontStyle: FC Bol 305 SemiCondensed Black Italic
       fontSize: 40
 
     - text: |
-        Plain Folks jẹ̀ ẹ̀kúnrẹ́rẹ́ ìmúlò tí àwọn olùkọni-èrò lo láti ṣe àfihàn pé wọn jẹ́ ẹ̀yin ènìyàn ìbílẹ̀, ẹni tí ó ṣòro láti fi àṣírí sọ. Ètò yìí máa ń fẹ́ràn láti fi àwọn òṣìṣẹ́ ní àwùjọ tàbí àwọn alágbára ṣe bí ẹni pẹ̀lú irẹ́lẹ̀ àti ìwà ìbílẹ̀. Ìdí èyí ni láti tún mọ́jú fún àwọn olùgbọ́ kó lè jẹ́ kí wọn gbé igbóòrọ̀ fúnni.
-        Ní ìgbà míì, àwọn olóṣèlú máa ń lò tèchnìkì yìí láti fi hàn pé ìwà wọn àti àwọn erò wọn jẹ́ tàbí rí bí èyí tó jẹ́ ti àwọn èèyàn ibìlè tí kò ní ohunkóhun tàbí tó fẹ́ gbé ìwà ìgbésí ayé rẹ bí ẹni tó ń ṣe bíi ẹni pé ó mọ àwọn ìpèníjà wọn. Bí àpẹẹrẹ, olóṣèlú kan lè lọ sí ògìrìílé, maalu gbógbò, tàbí ṣe ohun kan tí àwọn ènìyàn ìbílẹ̀ ṣèdájọ̀ bí ìdílé tí ó báà wọ́n ní gbígba.
-        Èyí máa ń jẹ́ kí àwọn ènìyàn rò pé àwọn ń dá sí òṣèlú kan tàbí erò tó bá àwọn àdájọ́ tó máa ń ṣẹ̀dájọ̀ mọ. Tèchnìkì yìí ń mú kí àwọn ènìyàn gbà gbólóhùn wọn àti erò tí wọ́n wá fún.
+        Cumulonimbus Clouds (Cúmuls nimbus) són un tipus de núvols que es formen en condicions meteorològiques molt específiques i que són coneguts per la seva capacitat de produir tempestes i fenòmens meteorològics extremadament intensos. Aquestes formacions nuvoloses són enormes i tenen una estructura vertical que pot arribar a molts quilòmetres d'altura. Els cúmuls nimbus són els responsables de tempestes fortes, ruixats torrencials, llamps i fins i tot tornados en casos més extrems.
+
+        La seva característica més destacada és el seu gran desenvolupament vertical. Mentre que altres núvols poden ser relativament plans, els cúmuls nimbus s’estenen cap amunt com una torre imponent, sovint amb un "cap" ampli que pot assembrar-se a un sortit de cotó o a una gran muntanya de núvols. Aquest tipus de núvol es forma quan l'aire calent i humit s'eleva ràpidament, refredant-se mentre puja, el que causa la condensació de la humitat i forma aquestes masses denses i espectaculars.
+
+        Els cúmuls nimbus són també responsables de canvis meteorològics sobtats. A mesura que s'intensifiquen, poden alliberar grans quantitats d’aigua, donant lloc a pluges fortes que poden provocar inundacions. El seu caràcter imprevisible fa que aquests núvols siguin un dels principals focus d’estudi per als meteoròlegs. Malgrat la seva bellesa, els cúmuls nimbus són un recordatori del poder destructiu de la natura, i la seva presència al cel és sovint un presagi de condicions perilloses a la superfície.
+
+        En resum, els cúmuls nimbus són núvols massius i impressionants que marquen la intensitat dels fenòmens meteorològics, i la seva formació i comportament són essencials per entendre el clima dinàmic del nostre planeta.
       fontStyle: FC Bol 400 Black
       fontSize: 140
 
     - text: |
-        Η τεχνική του Card Stacking ή Cherry-Picking είναι μια μορφή προπαγάνδας που περιλαμβάνει την επιλεκτική παρουσίαση πληροφοριών με σκοπό να υποστηριχθεί μια συγκεκριμένη άποψη ή ιδέα, ενώ αποκρύπτονται στοιχεία που την αντικρούουν. Ο στόχος αυτής της τεχνικής είναι να παραπλανήσει το κοινό, δίνοντάς του μόνο τα δεδομένα που ευνοούν τον προπαγανδιστή, δημιουργώντας έτσι μια μονόπλευρη εικόνα της πραγματικότητας.
-        Αυτή η μέθοδος μπορεί να χρησιμοποιηθεί σε πολιτικές ομιλίες, διαφημίσεις, ή ακόμη και στα μέσα ενημέρωσης. Για παράδειγμα, ένας πολιτικός μπορεί να αναφέρει μόνο τις επιτυχίες της κυβέρνησής του, παραλείποντας να αναφερθεί στις αποτυχίες ή στα προβλήματα που προέκυψαν. Με αυτόν τον τρόπο, καλλιεργείται η εντύπωση ότι η πολιτική ή το προϊόν που προωθείται είναι αλάνθαστα.
-        Το Card Stacking εκμεταλλεύεται την τάση του κοινού να μην αναζητά πλήρη εικόνα ή να μην αμφισβητεί τις πληροφορίες που του δίνονται. Έτσι, η χειραγώγηση είναι ευκολότερη, καθώς οι πληροφορίες παρουσιάζονται με τρόπο που ευνοεί μια συγκεκριμένη ατζέντα. Είναι μια από τις πιο αποτελεσματικές αλλά και παραπλανητικές τεχνικές προπαγάνδας.
+        Stratocumulus Clouds (Stratocumuluswolken) sind eine Art von Wolken, die in niedrigen bis mittelhohen Höhen vorkommen, typischerweise zwischen 600 und 2.000 Metern über dem Erdboden. Sie erscheinen oft als flache, dichte, graue oder weiße Wolkenschichten, die den Himmel in großen, unregelmäßigen Blöcken oder Flocken bedecken. Stratocumuluswolken können verschiedene Größen und Formen haben, aber sie sind in der Regel nicht so hoch wie Cumuluswolken und haben weniger vertikale Entwicklung.
+
+        Diese Wolken entstehen, wenn feuchte Luftmassen aufsteigen und abkühlen, wodurch die enthaltene Feuchtigkeit kondensiert und Wolken bilden. Stratocumuluswolken können auch aus anderen Wolkenarten wie Altostratus oder Cumulus entstehen, wenn sich die atmosphärischen Bedingungen ändern. Sie sind oft mit ruhigem, aber bedecktem Wetter verbunden und können leichtes bis mäßiges Niederschlagsgeschehen verursachen, wie zum Beispiel Nieselregen oder leichten Regen.
+
+        Obwohl Stratocumuluswolken nicht mit schweren Stürmen verbunden sind, können sie die Sonne vollständig verdecken und somit für eine graue, trübe Atmosphäre sorgen. In einigen Fällen, wenn sie sich verdicken oder größere Ausdehnung erreichen, können sie intensiveren Regen oder sogar Gewitter hervorrufen. Jedoch bleibt die Niederschlagsmenge in der Regel im Vergleich zu anderen Wolkenarten wie den Cumulonimbuswolken relativ gering.
+
+        Stratocumuluswolken sind häufig und können in vielen verschiedenen Klimazonen weltweit auftreten. Sie sind ein wichtiger Bestandteil des Wettergeschehens, da sie den Übergang zwischen stabilen und instabilen atmosphärischen Bedingungen darstellen. Ihr Erscheinen am Himmel kann auf Veränderungen im Wetter hinweisen, auch wenn sie selbst nicht zu extremen Wetterereignissen führen.
       fontStyle: FC Bol 405 Black Italic
       fontSize: 80
 
-    - text: |
-        Technika opakovania je účinný prostriedok propagandy, pri ktorom sa určitá myšlienka, slogan alebo informácia neustále opakuje, aby sa zakorenila v mysli publika. Cieľom tejto metódy je, že čím častejšie sa správa opakuje, tým viac sa stáva známou a prijímanou ako pravdivá, aj keď môže byť zavádzajúca alebo nepresná.
-        Opakovanie sa využíva v reklame, politike či médiách. Napríklad politický kandidát môže neustále opakovať heslá ako „lepšia budúcnosť“ alebo „spravodlivosť pre všetkých,“ aby si získal dôveru voličov, aj keď tieto slogany nemusia byť podložené konkrétnymi činmi. V reklame sa často opakujú slogany a značky, aby sa produkt dostal do povedomia spotrebiteľov a tí si ho zapamätali pri nákupe.
-        Táto technika funguje preto, že ľudský mozog má tendenciu zapamätať si informácie, s ktorými sa stretáva často, a začne ich vnímať ako pravdu, aj keď nie sú podložené dôkazmi. Opakovanie vytvára dojem spoľahlivosti a pravdivosti, čo môže ovplyvniť rozhodnutia a názory ľudí, aj keď pôvodná informácia môže byť skreslená alebo neúplná.
-      fontStyle: FC Bol 500 SemiExpanded Black
-      fontSize: 200
-
-    - text: |
-        Der Autoritätsappell (Appeal to Authority) ist eine Propagandatechnik, bei der eine Meinung oder ein Argument dadurch gestützt wird, dass es von einer als Autorität angesehenen Person oder Institution stammt. Diese Technik nutzt das Vertrauen und den Respekt, den die Menschen gegenüber Experten, bekannten Persönlichkeiten oder offiziellen Organisationen haben, um eine Botschaft überzeugender erscheinen zu lassen.
-        Dabei wird oft suggeriert, dass die Aussage einer Autoritätsperson oder einer angesehenen Institution per se richtig ist, ohne dass der Inhalt selbst kritisch hinterfragt oder überprüft wird. Ein typisches Beispiel wäre der Satz: „Wissenschaftler sagen, dass dieses Produkt am besten ist,“ oder „Ein bekannter Arzt empfiehlt diese Diät.“ Solche Aussagen zielen darauf ab, das Vertrauen der Menschen in die Expertise anderer zu nutzen, um sie von einer bestimmten Handlung oder Meinung zu überzeugen.
-        Der Autoritätsappell ist effektiv, weil viele Menschen dazu neigen, sich auf das Wissen von Experten oder prominenten Persönlichkeiten zu verlassen, anstatt eigene Nachforschungen anzustellen. Allerdings kann diese Technik auch manipulierend sein, wenn die Autoritätsperson nicht wirklich qualifiziert ist oder wenn das Argument nicht auf fundierten Beweisen beruht, sondern nur auf dem Ansehen der Person.
-      fontStyle: FC Bol 505 SemiExpanded Black Italic
-      fontSize: 40
-
-    - text: |
-        Эвфемизмы — это пропагандистская техника, заключающаяся в замене грубых, неприятных или нежелательных слов и выражений на более мягкие и нейтральные. Цель использования эвфемизмов — смягчить восприятие негативных событий, действий или явлений, делая их более приемлемыми для аудитории. В результате, серьезные проблемы могут казаться менее значительными или даже безобидными.
-        Эвфемизмы часто применяются в политике, рекламе и СМИ. Например, вместо того чтобы сказать «война», могут использовать выражение «военная операция», или вместо «сокращение рабочих мест» — «оптимизация кадров». Таким образом, негативные последствия действий скрываются за нейтральными или даже положительными терминами, что позволяет манипулировать общественным мнением и избегать открытого обсуждения сложных вопросов.
-        Эта техника эффективна, поскольку люди склонны воспринимать информацию через призму эмоциональной окраски слов. Если негативные события описаны мягко, у аудитории может сложиться ложное представление о том, что ситуация не так серьезна. В результате, эвфемизмы позволяют скрывать реальные последствия и уменьшать критику со стороны общественности.
-      fontStyle: FC Bol 600 Expanded Black
-      fontSize: 140
-
-    - text: |
-        Tekniikka iskulauseet ja tunnuslauseet (Slogans and Catchphrases) on tehokas propagandakeino, jossa käytetään lyhyitä, mieleenpainuvia ja tunteisiin vetoavia lauseita, jotta viesti jäisi helposti ihmisten mieleen. Nämä iskulauseet ovat usein yksinkertaisia, mutta voimakkaita, ja niiden tarkoituksena on kiteyttää monimutkaiset ajatukset tai ideat helposti ymmärrettävään muotoon.
-        Politiikassa iskulauseet kuten “Kansa ensin” tai “Yhteinen hyvä” luodaan usein herättämään tunteita ja vahvistamaan yhteenkuuluvuuden tunnetta. Yritykset taas käyttävät niitä mainonnassa, esimerkiksi “Parasta laatua” tai “Tee elämästäsi helpompaa”, jotta tuotteet tai palvelut erottuvat kilpailijoista ja jäävät kuluttajien mieleen.
-        Iskulauseet ja tunnuslauseet ovat tehokkaita, koska ne ovat helppoja muistaa ja usein toistuvat, mikä auttaa ihmisiä sisäistämään viestin lähes automaattisesti. Ne hyödyntävät tunteita ja saavat ihmiset reagoimaan ilman syvempää pohdintaa. Tämä tekee niistä voimakkaan työkalun mielipiteiden muokkaamisessa ja ihmisten toimintaan vaikuttamisessa. Ne voivat kuitenkin myös yksinkertaistaa monimutkaisia kysymyksiä ja johtaa siihen, että syvällisempi keskustelu jää taka-alalle.
-      fontStyle: FC Bol 605 Expanded Black Italic
-      fontSize: 80
-
-    - text: |
-        técnica de bode expiatório (Scapegoating) é uma estratégia de propaganda que consiste em culpar uma pessoa, grupo ou entidade por problemas ou crises, desviando a atenção das verdadeiras causas ou responsabilidades. O objetivo é simplificar questões complexas, criando um vilão claro e fácil de identificar, para que o público direcione sua frustração e raiva contra esse “culpado”.
-        Essa técnica é frequentemente usada em contextos políticos e sociais, onde líderes ou grupos de poder buscam desviar a atenção de suas próprias falhas ou de fatores estruturais mais amplos. Por exemplo, em tempos de crise econômica, pode-se culpar minorias, imigrantes ou outro grupo marginalizado pelos problemas do país, criando um inimigo comum. Isso fortalece a coesão do grupo majoritário ao mesmo tempo em que perpetua o preconceito e a desinformação.
-        O bode expiatório é eficaz porque oferece uma solução fácil para problemas complexos, apelando para as emoções das pessoas, como medo, frustração e ódio. No entanto, essa técnica é extremamente perigosa, pois alimenta divisões sociais, injustiças e violência, além de mascarar as verdadeiras causas dos problemas, impedindo soluções reais e eficazes.
-      fontStyle: FC Bol 700 X Expanded Black
-      fontSize: 200
-
-    - text: |
-        Technika falošnej dilemy (False Dilemma) je forma argumentácie, ktorá prezentuje situáciu ako keby existovali iba dve možné možnosti, pričom ignoruje iné, často relevantné alternatívy. Cieľom tejto techniky je prinútiť ľudí urobiť rozhodnutie na základe skreslených možností, čo môže viesť k zjednodušeným a nepresným záverom.
-        Príkladom falošnej dilemy môže byť tvrdenie: „Buď sa pripojíš k našej strane, alebo budeš proti nám.“ Takéto vyjadrenie vytvára dojem, že neexistuje žiadna stredná cesta, a núti ľudí, aby si vybrali medzi dvoma extrémnymi možnosťami, čo môže ovplyvniť ich názory a rozhodovanie.
-
-        Falošná dilema sa často využíva v politických diskusiách, reklamách a sociálnych médiách, kde je cieľom mobilizovať publikum alebo posilniť určitý naratív. Týmto spôsobom môže propagandista manipulovať s názorom verejnosti a vytvárať umelé rozdelenia.
-        Tento typ argumentácie je nebezpečný, pretože zjednodušuje zložitosti a nuansy skutočného sveta, čo môže viesť k nesprávnym rozhodnutiam a polarizácii spoločnosti. Je dôležité kriticky analyzovať informácie a hľadať širší kontext, aby sme sa vyhli tomuto typu manipulácie.
-      fontStyle: FC Bol 705 X Expanded Black Italic
-      fontSize: 40
 
 about:
-    - image: FCB_Articles_Bol.jpg
-      caption: "Leavenworth: Sixteen and Twelve Lines Condensed Gothic"
+    - image: 
+      caption: "small text under the images that has to be designed"
 
       text: |
-        ## Bol: A Typeface Balancing Tradition and Modernity
+        ## Yes this is a title
 
-        Bol is a typeface that harmoniously blends the historical influences of woodtype with a modern, geometric design. At first glance, it appears entirely contemporary, defined by its precise, minimalist forms. However, Bol’s DNA is rooted in the bold, attention-grabbing aesthetic of 19th-century American woodtype, particularly as reinterpreted by fonts like Poplar, designed by Barbara Lind. Poplar, based on early American woodtype from William Leavenworth, shares a visual lineage with Bol’s structural clarity and boldness.
-
-        While Poplar embraces the weight and formal elements of woodtype, Bol refines these qualities into something more usable for the digital age. Its smooth, controlled shapes, circular counters, and flat terminals are reminiscent of Poplar’s striking visual impact but optimized for today’s digital design needs. This synthesis gives Bol the ability to shift between digital and print usage as well as editorial and branding use, balancing its historical roots with contemporary functionality.
-
-        Bol excels as a display typeface, offering a blend of geometric precision and a warm, humanistic edge. By drawing from the history of bold woodtype and transforming it into something sleek and versatile, Dries Wiewauters has created a typeface that is both reflective of the past and relevant for modern use.
+        INSERT INTERESTING TEXT
 
 research: |
 
-    ## Behind Bol: An Exploration of Form and History
+    ## Yes this is a title
 
     <div markdown="1">
       <div markdown="1">
 
-    ![](FCB_Research_Bol_1.jpg)
+    ![]()
 
       </div>
       <div markdown="1">
 
-    Every typeface has its roots in history, even those designed with a forward-thinking sensibility. Bol, is no exception. At first glance, Bol is a modernist statement: its geometric precision and controlled proportions speak to the digital age. However, just beneath its surface lies a more layered dialogue—a synthesis of the past and present, drawing inspiration from historic woodtype and reinterpreting it for contemporary contexts.
-
-    # The Woodtype Connection
-    Woodtype emerged in the 19th century, a direct response to the need for large-scale letters in poster design, advertising, and signage. Metal type, limited by its material constraints, couldn’t support the size or durability needed for booming print requirements. Enter woodtype: lighter, cheaper, and capable of achieving much larger letterforms.
-
-    The typefaces of this era were often unapologetically loud, crafted to seize attention from busy city streets. Leavenworth, one of the oldest producers of woodtype in the United States, developed many of the iconic styles we now associate with the aesthetic of the period, including the wide, square-proportioned forms that Poplar draws from. Poplar’s exaggerated stroke contrast, extended serifs, and condensed letterforms encapsulate the bold, brash energy of its wooden ancestors.
-
-      </div>
-    </div>
-
-    <div markdown="1">
-      <div markdown="1">
-
-    ![](FCB_Research_Bol_2.svg)
-
-       </div>
-       <div markdown="1">
-
-    # Poplar’s Influence on Bol
-
-    While Bol might seem a world away from the bustling posters of 19th-century America, the connection lies in its rigorous geometry and the modularity of form—key elements in woodtype design. Bol, much like Poplar, makes use of consistent, rational shapes, but does so with a more reductive approach.
-
-    Where Poplar embraced the density and weight of woodtype, Bol takes these structural ideas and reduces them to their most simplistic form. Its circular counters, flat terminals, and variable widths echo the boldness of Poplar’s source material, but without the historical baggage.
-
-    The proportions of Bol are meticulously controlled, achieving a balance between tradition and modernity. The square-like forms of the “O “ and “C, “ for instance, evoke the strong horizontal emphasis of woodtype but have been smoothed and updated, lending the letters a sense of crisp refinement. Poplar’s rugged qualities are still faintly visible here, but they’ve been honed and stripped back to their essence.
-
-      </div>
-    </div>
-
-    <div markdown="1">
-      <div markdown="1">
-
-    ![](FCB_Research_Bol_3.svg)
-
-      </div>
-      <div markdown="1">
-
-    # Modernity in Mind: Bol’s Versatility
-    Bol’s aesthetic might nod to history, but its application is thoroughly modern. The typeface is crafted for versatility across both print and digital media, boasting a range of widths from Extra Condensed to Extra Expanded, making it ideal for headline up until larger display settings.
-
-    Unlike its woodtype predecessors, which were intended for short, impactful uses like headlines or posters, Bol has adjusted counters to retain readability and optimal crispness at smaller display sizes. Bol balances two extremes: the structural logic of geometric typefaces and the subtle warmth of a humanist approach.
-
-      </div>
-    </div>
-
-    <div markdown="1">
-      <div markdown="1">
-
-    ![](FCB_Research_Bol_4.svg)
-
-      </div>
-      <div markdown="1">
-
-    # From small to wide widths: Filling the void
-    One of Bol’s most remarkable qualities is its ability to navigate between the different widths. These are optimized to appear with a consistent “greyness”, enabling to be used intermittently to fill the whitespace where needed. With the variable version this allows you to fill the void where needed and make the most of your message.
-
-    In the most condensed version Bol has hints of Impact and other simplified condensed heavy sans serifs. The wider cuts are reminiscent of wider type such as Paul Renner's Plak. Bol combines their reduced forms with woodtype-inspired boldness, making them perfect for headlines or impactful branding just the right amount of character to stand out from the competition.  This is where Bol truly shines: as a typeface that bridges eras, it feels equally at home in a high-end magazine spread as it does on a modern website or brand collateral.
-
-    # Bol: A Typeface for the Present, Grounded in the Past
-    In a time when typography often feels detached from its history, Bol serves as a reminder that every form, no matter how modern, has its roots in the past. By weaving together geometric precision with the spirit of woodtype, Bol embodies a harmonious blend of history and innovation.
-
-    Dries Wiewauters has created a typeface that is both highly functional and aesthetically distinctive. Bol is a testament to the enduring power of form and the thoughtful balance of tradition and progress. It encourages us to look back to understand the future, a quiet but powerful statement in today’s world of typography.
+        INSERT INTERESTING TEXT
 
       </div>
     </div>

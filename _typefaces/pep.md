@@ -10,6 +10,8 @@ information: |
 designer: Dries Wiewauters
 date: 2019-02-01
 
+specimen: specimens/19-02_FC-Pep_Type-Specimen.pdf
+
 fastspring: 
   - name: fc-pep
     family:
