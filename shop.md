@@ -56,7 +56,7 @@ js: assets/js/shop.js
 
 <main class="shop">
   <section id="select" class="open">
-    <h2>Font Family</h2>
+    <h2>Font Family<span></span></h2>
     <div class="grid">
       {% for typeface in site.typefaces %}
       {% if typeface.fastspring %}
@@ -123,10 +123,11 @@ js: assets/js/shop.js
   </section>
   <section id="styles" class="open">
     <h2>Styles</h2>
+    <p class="loading">Loading styles...</p>
     <div id="container"></div>
     <div class="total">
       <table>
-        <tr><td>TAX</td><td><span data-fsc-order-tax></span></td></tr>
+        <tr><td>VAT (<span data-fsc-order-taxRate></span>)</td><td><span data-fsc-order-tax></span></td></tr>
         <tr><td>TOTAL</td><td><span data-fsc-order-total></span></td></tr>
       </table>
     </div>
