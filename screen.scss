@@ -1677,6 +1677,10 @@ section.articles {
 body.shop {
   background-color: rgb(209, 209, 209);
   padding-top: 100px;
+  
+  &.s-1 #select>h2, &.s-2 #select>h2, &.s-2 #license>h2 {
+    cursor: pointer;
+  }
   section {
     background-color: rgb(240,240,240);
     border-radius: 18px;
@@ -1727,11 +1731,12 @@ body.shop {
       margin-top: 10px;
       margin-right: 0;
       margin-left: auto;
-
+      cursor: pointer;
     }
     button:disabled {
       background-color: white;
       color: rgb(209, 209, 209);
+      cursor: default;
     }
     &.open button {
       display: block;
@@ -1743,7 +1748,10 @@ body.shop {
   #container, &.products-loaded .loading, #styles .next, #styles .total, #styles:not(.open) .loading {
     display: none;
   }
-  &.products-loaded #container,&.products-loaded #styles .next, &.products-loaded #styles .total {
+  #styles .total, #styles .next {
+    display: none;
+  }
+  &.products-loaded .open #container,&.products-loaded #styles.open .next, &.products-loaded #styles.open .total {
     display: block;
   }
   .product-family, .product {
@@ -1783,32 +1791,41 @@ body.shop {
     }
     h2 {
       font-size: 16px;
-      line-height: 30px;
-      width: calc(100% - 160px);
-      padding-left: 10px;
+      line-height: 20px;
+      
+      padding-left: 20px;
     }
     p {
       font-size: 16px;
-      line-height: 30px;
-      width: calc(50% - 130px);
+      line-height: 20px;
+      padding-left: 20px;
     }
     span {
-      display: block;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
       font-size: 16px;
-      line-height: 30px;
+      line-height: 20px;
       right: 0;
       width: 130px;
       text-align: right;
     }
+  }
+  .product h2, .product-family div {
+    width: calc(100% - 160px);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .product-family div>* {
+    width: 100%;
   }
   .product-family {
     width: 100%;
   }
   .product {
     width: 100%;
-  }
-  .product-family h2 {
-    width: calc(100% - 30px);
   }
 
   figure {
@@ -1902,7 +1919,7 @@ body.shop {
     background-color: #00FF00 !important;
   }
   .cart-child {
-    background-color: rgba(0, 255, 0, 0.5) !important;
+    background-color: white !important;
     pointer-events: none !important;
     h2:after {
       content: ' — INCLUDED';
@@ -1949,6 +1966,8 @@ body.shop {
     #quote {
       color: var(--red);
       font-weight: bold;
+      padding-top: 20px;
+      padding-bottom: 20px;
     }
   }
   #license-type {
