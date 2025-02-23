@@ -89,9 +89,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Cru 105 X Condensed Black Italic:
+   - FC Cru 101 X Condensed Black Italic:
         glyphCount: 1152
-        fastspring: FC_Cru_105_X_Condensed_Black_Italic
+        fastspring: FC_Cru_101_X_Condensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -172,9 +172,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Cru 205 Condensded Black Italic:
+   - FC Cru 201 Condensded Black Italic:
         glyphCount: 1152
-        fastspring: FC_Cru_205_Condensded_Black_Italic
+        fastspring: FC_Cru_201_Condensded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -255,9 +255,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Cru 305 SemiCondensed Black Italic:
+   - FC Cru 301 SemiCondensed Black Italic:
         glyphCount: 1152
-        fastspring: FC_Cru_305_SemiCondensed_Black_Italic
+        fastspring: FC_Cru_301_SemiCondensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -338,9 +338,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Cru 405 Black Italic:
+   - FC Cru 401 Black Italic:
         glyphCount: 1152
-        fastspring: FC_Cru_405_Black_Italic
+        fastspring: FC_Cru_401_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -421,9 +421,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Cru 505 SemiExpanded Black Italic:
+   - FC Cru 501 SemiExpanded Black Italic:
         glyphCount: 1152
-        fastspring: FC_Cru_505_SemiExpanded_Black_Italic
+        fastspring: FC_Cru_501_SemiExpanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -504,9 +504,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Cru 605 Expanded Black Italic:
+   - FC Cru 601 Expanded Black Italic:
         glyphCount: 1152
-        fastspring: FC_Cru_605_Expanded_Black_Italic
+        fastspring: FC_Cru_601_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -587,9 +587,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum £-tnum ₨-tnum ₩-tnum ₪-tnum ₫-tnum €-tnum ₭-tnum ¥-tnum +-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum ₴-tnum ₺-tnum ₹-tnum ₽-tnum ₸-tnum ₿-tnum ฿-tnum =-tnum >-tnum <-tnum %-tnum ≈-tnum §-tnum ×-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Cru 705 X Expanded Black Italic:
+   - FC Cru 701 X Expanded Black Italic:
         glyphCount: 1152
-        fastspring: FC_Cru_705_X_Expanded_Black_Italic
+        fastspring: FC_Cru_701_X_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -732,7 +732,7 @@ testers:
        Technika „fear appeals“ (apel na strach) je metóda propagandy, ktorá využíva strach ako motiváciu na ovplyvnenie správania a názorov ľudí. Tento prístup predkladá potenciálne hrozby alebo nebezpečenstvá, aby vyvolal pocit úzkosti a naliehavosti. Napríklad, kampane proti fajčeniu môžu ukazovať drastické zdravotné dôsledky, aby odradili ľudí od tejto závislosti.
         Cieľom apelu na strach je presvedčiť ľudí, že ak nezmenia svoje správanie, môžu čeliť vážnym problémom. Tento prístup sa často kombinuje s ponukou riešení, ktoré sľubujú ochranu pred uvedenými hrozbami. Napríklad, politické kampane môžu varovať pred nebezpečenstvami, ak sa k moci dostanú určité osoby, pričom ponúkajú seba ako stabilnú alternatívu.
         Napriek svojej účinnosti má táto technika aj nevýhody. Príliš silné alebo znepokojujúce apely môžu viesť k pocitom beznádeje alebo rezignácie, čo môže mať opačný efekt. Je dôležité, aby propagandisti našli rovnováhu medzi vyvolaním strachu a ponukou realistických a povzbudzujúcich riešení.
-      fontStyle: FC Cru 105 X Condensed Black Italic
+      fontStyle: FC Cru 101 X Condensed Black Italic
       fontSize: 40
 
     - text: |
@@ -746,7 +746,7 @@ testers:
        “Glittering generalities” is a propaganda technique that uses vague, emotionally appealing phrases to evoke positive feelings without providing specific details or concrete evidence. This approach relies on words that carry strong emotional connotations, such as “freedom,” “justice,” or “the American dream.” By appealing to these ideals, the speaker aims to generate a favorable response from the audience.
         For example, a political campaign might promote a candidate by stating that they will bring “hope and change,” appealing to the public's desire for progress and positivity. However, the lack of specific policies or actions can leave the audience feeling inspired but unclear about what exactly is being proposed.
         This technique is effective because it taps into deep-seated values and emotions, allowing the audience to project their own interpretations onto the message. However, it can also be manipulative, as it can obscure the truth and prevent critical thinking. By focusing on appealing language rather than substantive content, glittering generalities can sway opinions and mobilize support, making it a common strategy in advertising, political campaigns, and social movements.
-      fontStyle: FC Cru 205 Condensed Black Italic
+      fontStyle: FC Cru 201 Condensed Black Italic
       fontSize: 80
 
     - text: |
@@ -760,7 +760,7 @@ testers:
         Le name-calling (ou étiquetage péjoratif) est une technique de propagande qui consiste à utiliser des termes dévalorisants ou insultants pour discréditer un individu, un groupe, ou une idée. L'objectif est d'associer ces personnes ou idées à des connotations négatives, souvent sans preuve ou analyse approfondie. En utilisant des mots chargés émotionnellement comme “traître”, “incompétent”, ou “terroriste”, cette technique vise à susciter une réaction de rejet chez le public, sans qu'il prenne le temps d'examiner objectivement les arguments ou les faits.
         Cette méthode s'appuie sur des stéréotypes et des préjugés, et est couramment utilisée dans les discours politiques, les campagnes publicitaires ou les médias pour influencer l'opinion publique. Elle peut conduire à des jugements hâtifs et à des divisions sociales en exagérant les différences entre “nous” et “eux”. Par exemple, un politicien pourrait qualifier ses adversaires de “corrompus” ou “dangereux” pour détourner l'attention de ses propres faiblesses et semer la méfiance.
         Le name-calling est particulièrement efficace car il exploite les émotions du public, notamment la peur ou la colère, et fait appel à des réflexes instinctifs plutôt qu'à la réflexion rationnelle.
-      fontStyle: FC Cru 305 SemiCondensed Black Italic
+      fontStyle: FC Cru 301 SemiCondensed Black Italic
       fontSize: 40
 
     - text: |
@@ -774,7 +774,7 @@ testers:
         Η τεχνική του Card Stacking ή Cherry-Picking είναι μια μορφή προπαγάνδας που περιλαμβάνει την επιλεκτική παρουσίαση πληροφοριών με σκοπό να υποστηριχθεί μια συγκεκριμένη άποψη ή ιδέα, ενώ αποκρύπτονται στοιχεία που την αντικρούουν. Ο στόχος αυτής της τεχνικής είναι να παραπλανήσει το κοινό, δίνοντάς του μόνο τα δεδομένα που ευνοούν τον προπαγανδιστή, δημιουργώντας έτσι μια μονόπλευρη εικόνα της πραγματικότητας.
         Αυτή η μέθοδος μπορεί να χρησιμοποιηθεί σε πολιτικές ομιλίες, διαφημίσεις, ή ακόμη και στα μέσα ενημέρωσης. Για παράδειγμα, ένας πολιτικός μπορεί να αναφέρει μόνο τις επιτυχίες της κυβέρνησής του, παραλείποντας να αναφερθεί στις αποτυχίες ή στα προβλήματα που προέκυψαν. Με αυτόν τον τρόπο, καλλιεργείται η εντύπωση ότι η πολιτική ή το προϊόν που προωθείται είναι αλάνθαστα.
         Το Card Stacking εκμεταλλεύεται την τάση του κοινού να μην αναζητά πλήρη εικόνα ή να μην αμφισβητεί τις πληροφορίες που του δίνονται. Έτσι, η χειραγώγηση είναι ευκολότερη, καθώς οι πληροφορίες παρουσιάζονται με τρόπο που ευνοεί μια συγκεκριμένη ατζέντα. Είναι μια από τις πιο αποτελεσματικές αλλά και παραπλανητικές τεχνικές προπαγάνδας.
-      fontStyle: FC Cru 405 Black Italic
+      fontStyle: FC Cru 401 Black Italic
       fontSize: 80
 
     - text: |
@@ -788,7 +788,7 @@ testers:
         Der Autoritätsappell (Appeal to Authority) ist eine Propagandatechnik, bei der eine Meinung oder ein Argument dadurch gestützt wird, dass es von einer als Autorität angesehenen Person oder Institution stammt. Diese Technik nutzt das Vertrauen und den Respekt, den die Menschen gegenüber Experten, bekannten Persönlichkeiten oder offiziellen Organisationen haben, um eine Botschaft überzeugender erscheinen zu lassen.
         Dabei wird oft suggeriert, dass die Aussage einer Autoritätsperson oder einer angesehenen Institution per se richtig ist, ohne dass der Inhalt selbst kritisch hinterfragt oder überprüft wird. Ein typisches Beispiel wäre der Satz: „Wissenschaftler sagen, dass dieses Produkt am besten ist,“ oder „Ein bekannter Arzt empfiehlt diese Diät.“ Solche Aussagen zielen darauf ab, das Vertrauen der Menschen in die Expertise anderer zu nutzen, um sie von einer bestimmten Handlung oder Meinung zu überzeugen.
         Der Autoritätsappell ist effektiv, weil viele Menschen dazu neigen, sich auf das Wissen von Experten oder prominenten Persönlichkeiten zu verlassen, anstatt eigene Nachforschungen anzustellen. Allerdings kann diese Technik auch manipulierend sein, wenn die Autoritätsperson nicht wirklich qualifiziert ist oder wenn das Argument nicht auf fundierten Beweisen beruht, sondern nur auf dem Ansehen der Person.
-      fontStyle: FC Cru 505 SemiExpanded Black Italic
+      fontStyle: FC Cru 501 SemiExpanded Black Italic
       fontSize: 40
 
     - text: |
@@ -802,7 +802,7 @@ testers:
         Tekniikka iskulauseet ja tunnuslauseet (Slogans and Catchphrases) on tehokas propagandakeino, jossa käytetään lyhyitä, mieleenpainuvia ja tunteisiin vetoavia lauseita, jotta viesti jäisi helposti ihmisten mieleen. Nämä iskulauseet ovat usein yksinkertaisia, mutta voimakkaita, ja niiden tarkoituksena on kiteyttää monimutkaiset ajatukset tai ideat helposti ymmärrettävään muotoon.
         Politiikassa iskulauseet kuten “Kansa ensin” tai “Yhteinen hyvä” luodaan usein herättämään tunteita ja vahvistamaan yhteenkuuluvuuden tunnetta. Yritykset taas käyttävät niitä mainonnassa, esimerkiksi “Parasta laatua” tai “Tee elämästäsi helpompaa”, jotta tuotteet tai palvelut erottuvat kilpailijoista ja jäävät kuluttajien mieleen.
         Iskulauseet ja tunnuslauseet ovat tehokkaita, koska ne ovat helppoja muistaa ja usein toistuvat, mikä auttaa ihmisiä sisäistämään viestin lähes automaattisesti. Ne hyödyntävät tunteita ja saavat ihmiset reagoimaan ilman syvempää pohdintaa. Tämä tekee niistä voimakkaan työkalun mielipiteiden muokkaamisessa ja ihmisten toimintaan vaikuttamisessa. Ne voivat kuitenkin myös yksinkertaistaa monimutkaisia kysymyksiä ja johtaa siihen, että syvällisempi keskustelu jää taka-alalle.
-      fontStyle: FC Cru 605 Expanded Black Italic
+      fontStyle: FC Cru 601 Expanded Black Italic
       fontSize: 80
 
     - text: |
@@ -818,7 +818,7 @@ testers:
 
         Falošná dilema sa často využíva v politických diskusiách, reklamách a sociálnych médiách, kde je cieľom mobilizovať publikum alebo posilniť určitý naratív. Týmto spôsobom môže propagandista manipulovať s názorom verejnosti a vytvárať umelé rozdelenia.
         Tento typ argumentácie je nebezpečný, pretože zjednodušuje zložitosti a nuansy skutočného sveta, čo môže viesť k nesprávnym rozhodnutiam a polarizácii spoločnosti. Je dôležité kriticky analyzovať informácie a hľadať širší kontext, aby sme sa vyhli tomuto typu manipulácie.
-      fontStyle: FC Cru 705 X Expanded Black Italic
+      fontStyle: FC Cru 701 X Expanded Black Italic
       fontSize: 40
 
 about:
