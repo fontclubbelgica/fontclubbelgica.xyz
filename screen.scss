@@ -1264,7 +1264,10 @@ section.table {
         margin-left: 24px;
     }
 }
-
+.return {
+  padding: var(--padding);
+  font-weight: bold;
+}
 
 
 // Footer
@@ -1675,6 +1678,13 @@ body.shop {
     &:not(.open)>div {
       display: none;
     }
+    &#select h2 span {
+      display: none;
+    }
+    &#select:not(.open) h2 span {
+      display: inline-block;
+    //  font-family: 'FCBELGICA Menu';
+    }
     p {
       font-size: 16px;
       line-height: 20px;
@@ -1709,7 +1719,10 @@ body.shop {
       display: block;
     }
   }
-  #container, &.products-loaded .loading, #styles .next, #styles .total {
+  &.products-loaded #styles.open>h2 {
+    display: none;
+  }
+  #container, &.products-loaded .loading, #styles .next, #styles .total, #styles:not(.open) .loading {
     display: none;
   }
   &.products-loaded #container,&.products-loaded #styles .next, &.products-loaded #styles .total {
@@ -1725,7 +1738,6 @@ body.shop {
       line-height: 28px;
       padding-bottom: 30px;
       text-transform: capitalize;
-      color: rgb(209, 209, 209);
     }
   }
   .family {
@@ -1736,6 +1748,7 @@ body.shop {
     margin-top: 30px;
   }
   .product-family, .product {
+    cursor: pointer;
     font-family: 'FCBELGICA Condensed';
     display: flex;
     padding: 10px;
@@ -1743,11 +1756,11 @@ body.shop {
     figure {
       border-radius: 30px;
       overflow: hidden;
-      width: 30px;
-      height: 30px;
+      width: 50px;
+      height: 50px;
     }
     img {
-      width: 30px;
+      width: 50px;
 
     }
     h2 {
@@ -1777,7 +1790,7 @@ body.shop {
     width: 100%;
   }
   .product-family h2 {
-    width: calc(50% - 30px);
+    width: calc(100% - 30px);
   }
 
   figure {
@@ -1869,6 +1882,14 @@ body.shop {
   }
   .in-cart {
     background-color: #00FF00 !important;
+  }
+  .cart-child {
+    background-color: rgba(0, 255, 0, 0.5) !important;
+    pointer-events: none !important;
+    h2:after {
+      content: ' — INCLUDED';
+      font-weight: normal;
+    }
   }
   .total table {
     margin-right: 0;

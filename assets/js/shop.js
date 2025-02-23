@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const hash = window.location.hash.substr(1);
   const preview = document.querySelector('div.preview-font-shop[data-fsid="'+hash+'"]');
   if(preview !== null) {
-    fontname = hash;
+    setFont(hash);
     fontstyles = JSON.parse(preview.getAttribute('data-styles'));
     goToStep(1);
     activateButton(0);
@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
         p.classList.add('fade');
       }
     });
-    fontname = preview.getAttribute('data-fsid');
+    setFont(preview.getAttribute('data-fsid'));
     fontstyles = JSON.parse(preview.getAttribute('data-styles'));
     activateButton(0);
   //  goToStep(1)
@@ -257,6 +257,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const removeInCartClass = (elements) => {
       elements.forEach(element => {
         element.classList.remove('in-cart');
+        element.classList.remove('cart-child');
       });
     };
     removeInCartClass(productFamilies);
@@ -272,6 +273,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const cartProduct = document.querySelector(`.product[data-fsc-item-path="${child}"]`);
           if (cartProduct) {
             cartProduct.classList.add('in-cart');
+            cartProduct.classList.add('cart-child');
           }
         });
       }
@@ -336,5 +338,10 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById("desktop-size").addEventListener('change', toggleDS);
   document.getElementById("web-size").addEventListener('change', toggleWeb);
   
-  
+  function setFont(font) {
+    const span = document.querySelector('#select h2 span');
+    const fontName = document.querySelector('[data-fsid="'+font+'"] .font-info h2').textContent;
+    span.textContent = ': '+fontName;
+    fontname = font;
+  }
 })
