@@ -217,6 +217,10 @@ header {
     }
 }
 
+main {
+  min-height: calc(100vh - 519px);
+}
+
 figcaption {
     font-size: 10px;
     line-height: 14px;
@@ -651,7 +655,11 @@ section.research {
     padding-top: 20px;
     padding-left: var(--padding);
     padding-right: var(--padding);
-
+    a {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      text-decoration-thickness: 1px;
+    }
     h1 {
       padding-top: 30px;
       padding-bottom: 60px;
@@ -667,6 +675,7 @@ section.research {
     }
     ol, ul {
       padding-left: 25px;
+      padding-bottom: 24px;
     }
     p+p {
         text-indent: 33px;
@@ -695,6 +704,9 @@ section.research {
       h2 {
         font-size: 24px;
         line-height: 28px;
+        padding-bottom: 12px;
+      }
+      h3 {
         padding-bottom: 12px;
       }
       >div {
@@ -1265,8 +1277,13 @@ section.table {
     }
 }
 .return {
-  padding: var(--padding);
-  font-weight: bold;
+  text-align: center;
+  a {
+    font-size: 24px;
+    line-height: 24px;
+    padding-top: 14px;
+    border-radius: 30px;
+  }
 }
 
 
@@ -1439,6 +1456,7 @@ footer {
   a {
     text-decoration: underline;
     text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
   }
   p, ol, ul {
       font-size: 15px;
@@ -1807,7 +1825,7 @@ body.shop {
   }
   .preview-font-shop.active figure {
     // border: solid 3px black;
-    box-shadow: #00FF00 0 0 40px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.2),0 1px 15px 0 rgba(0,0,0,0.19) !important
   }
   fieldset {
     border: none;

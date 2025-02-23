@@ -214,9 +214,13 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 <section class="buy">
     <h2 class="f2">Get it!</h2>
     <ul class="buy-btns">
-        <li><a href="#" download>PDF Specimen</a></li>
-        <li><a href="#" download>Get Trials</a></li>
-        <li><a href="#">Buy Font</a></li>
+        {% if page.specimen %}
+        <li><a href="/assets/{{ page.specimen }}" download>PDF Specimen</a></li>
+        {% endif %}
+        {% if page.fastspring %}
+        <li><a href="/shop#{{ page.fastspring[0].name }}">Get Trials</a></li>
+        <li><a href="/shop#{{ page.fastspring[0].name }}">Buy Font</a></li>
+        {% endif %}
     </ul>
 </section>
 

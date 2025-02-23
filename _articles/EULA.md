@@ -11,7 +11,7 @@ thumbnailImage: FCB_ANR_EULA.svg
 draft: false
 ---
 
-# So You Want to Use Our Fonts? Here's the Deal!
+# So You Want to Use Our Fonts?<br>Here's the Deal!
 
 <div markdown="1">
   <div markdown="1">
@@ -32,7 +32,7 @@ We’ve got different types of licenses depending on how you plan to use our fon
 <div markdown="1">
   <div markdown="1">
 
-  ![](FCB_Research_EULA-Desktop.svg)
+  [![](FCB_Research_EULA-Desktop.svg)](/assets/eula/Font-Club-Belgica_EULA-Desktop-v1-0.pdf){:target="_blank"}
 
   </div>
   <div markdown="1">
@@ -49,7 +49,7 @@ Want to install a font on your computer and use it in your favorite design softw
 <div markdown="1">
   <div markdown="1">
 
-  ![](FCB_Research_EULA-Web.svg)
+  [![](FCB_Research_EULA-Web.svg)](/assets/eula/Font-Club-Belgica_EULA-Web-v1-0.pdf){:target="_blank"}
 
   </div>
   <div markdown="1">
@@ -65,7 +65,7 @@ Got a website that needs some typographic flair? This license lets you upload th
 <div markdown="1">
   <div markdown="1">
 
-  ![](FCB_Research_EULA-App.svg)
+  [![](FCB_Research_EULA-App.svg)](/assets/eula/Font-Club-Belgica_EULA-App-v1-0.pdf){:target="_blank"}
 
   </div>
   <div markdown="1">
@@ -82,7 +82,7 @@ Building an app and want to give it some stylish text? This license lets you emb
 <div markdown="1">
   <div markdown="1">
 
-  ![](FCB_Research_EULA-Broadcast.svg)
+  [![](FCB_Research_EULA-Broadcast.svg)](/assets/eula/Font-Club-Belgica_EULA-Broadcast-v1-0.pdf){:target="_blank"}
 
   </div>
   <div markdown="1">
@@ -99,7 +99,7 @@ Making a TV show, movie, or a video masterpiece? This license lets you use our f
 <div markdown="1">
   <div markdown="1">
 
-  ![](FCB_Research_EULA-TRIAL.svg)
+  [![](FCB_Research_EULA-TRIAL.svg)](/assets/eula/Font-Club-Belgica_EULA-TRIAL-v1-0.pdf){:target="_blank"}
 
   </div>
   <div markdown="1">
