@@ -365,6 +365,7 @@ document.addEventListener('DOMContentLoaded', function() {
   select.addEventListener('click', goToSelect)
   function goToSelect() {
     if(step > 0) {
+      cart = [];
       c=1;
       document.body.classList.remove('products-loaded');
       goToStep(0);
@@ -374,6 +375,7 @@ document.addEventListener('DOMContentLoaded', function() {
   license.addEventListener('click', goToLicense)
   function goToLicense() {
     if(step > 1) {
+      cart = [];
       c=1;
       document.body.classList.remove('products-loaded');
       goToStep(1);
