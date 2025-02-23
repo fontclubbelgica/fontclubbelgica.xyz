@@ -39,19 +39,8 @@ js: assets/js/shop.js
     src="https://sbl.onfastspring.com/sbl/1.0.1/fastspring-builder.min.js"
     type="text/javascript"
     data-storefront="fontclubbelgica.test.onfastspring.com"
-    data-debug="true"
-    data-after-requests-callback="dataAfterRequestsCallback"
+    data-after-requests-callback="fsCallback"
     >
-  </script>
-  <script>
-      var c = 0;
-      function dataAfterRequestsCallback() {
-          c++;
-          if(c == 2) {
-            fastspring.builder.reset();
-            document.body.classList.add('products-loaded');
-          }
-      }
   </script>
 
 <main class="shop">
@@ -116,7 +105,7 @@ js: assets/js/shop.js
               <p>This includes any and all internal and external employees working for the client irregardless wether they are using the fonts.</p>
             </div>
         </fieldset>
-        <p id="quote">Please contact us on licensing@fontclubbelgica.xyz for a custom quote.</p>
+        <p id="quote">Please contact us on <a href="mailto:licensing@fontclubbelgica.xyz">licensing@fontclubbelgica.xyz</a> for a custom quote.</p>
       </form>
     </div>
     <button class="next" disabled>Select your font styles</button>

@@ -1,19 +1,28 @@
+let step = 0; 
+let fontname;
+let productFamilyArray = [];
+let fontstyles;
+let desktoptier;
+let websitetier;
+let trialtier;
+let cart = [];
+let c = 0;
+function fsCallback() {
+  c++;
+  console.log(c);
+  if(c == 2) {
+    fastspring.builder.reset();
+    document.body.classList.add('products-loaded');
+  }
+}
+
 document.addEventListener('DOMContentLoaded', function() {
-  let step = 0; 
-  let fontname;
-  let productFamilyArray = [];
-  let fontstyles;
-  let desktoptier;
-  let websitetier;
-  let trialtier;
-  let cart = [];
   
   // check if hash is an existing font
   const hash = window.location.hash.substr(1);
   const preview = document.querySelector('div.preview-font-shop[data-fsid="'+hash+'"]');
   if(preview !== null) {
     setFont(hash);
-    fontstyles = JSON.parse(preview.getAttribute('data-styles'));
     goToStep(1);
     activateButton(0);
   }
@@ -23,6 +32,8 @@ document.addEventListener('DOMContentLoaded', function() {
   function goToStep(index) {
     step = index;
     const sections = document.querySelectorAll('section');
+    document.body.classList.remove('s-0', 's-1', 's-2');
+    document.body.classList.add('s-'+index);
     sections.forEach(section => section.classList.remove('open'));
     
     if (sections[index]) {
@@ -79,18 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   function handlePreviewClick(event) {
     const preview = event.currentTarget;
-    
-    document.querySelectorAll('div.preview-font-shop').forEach(p => {
-      if (p === preview) {
-        p.classList.add('active');
-        p.classList.remove('fade');
-      } else {
-        p.classList.remove('active');
-        p.classList.add('fade');
-      }
-    });
     setFont(preview.getAttribute('data-fsid'));
-    fontstyles = JSON.parse(preview.getAttribute('data-styles'));
     activateButton(0);
   //  goToStep(1)
   }
@@ -98,6 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
   function buildFSProducts() {
     const productsToLoad = [];
     const container = document.getElementById("container");
+    container.innerHTML = "";
     
     const licensetypes = {
       ...(desktoptier!=="" && { desktop: desktoptier }),
@@ -139,6 +140,10 @@ document.addEventListener('DOMContentLoaded', function() {
         p.setAttribute('data-fsc-item-path', fontname+'-'+item.name+'-'+ tier);
         p.setAttribute('data-fsc-item-description-summary', '');
         
+        const div = document.createElement("div");
+        div.appendChild(h2);
+        div.appendChild(p);
+        
         const price = document.createElement("span");
         price.textContent = '';
         price.setAttribute('data-fsc-item-path', fontname+'-'+item.name+'-'+ tier);
@@ -153,8 +158,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         let product = { name: fontname+'-'+item.name+'-'+ tier , children: [] };
         fullFamilyDiv.appendChild(figure);
-        fullFamilyDiv.appendChild(h2);
-        fullFamilyDiv.appendChild(p);
+        fullFamilyDiv.appendChild(div);
         fullFamilyDiv.appendChild(price);
         
         familyDiv.appendChild(fullFamilyDiv);
@@ -339,9 +343,42 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById("web-size").addEventListener('change', toggleWeb);
   
   function setFont(font) {
+    const preview = document.querySelector('div.preview-font-shop[data-fsid="'+font+'"]');
+    document.querySelectorAll('div.preview-font-shop').forEach(p => {
+      if (p === preview) {
+        p.classList.add('active');
+        p.classList.remove('fade');
+      } else {
+        p.classList.remove('active');
+        p.classList.add('fade');
+      }
+    });
+    fontstyles = JSON.parse(preview.getAttribute('data-styles'));
     const span = document.querySelector('#select h2 span');
     const fontName = document.querySelector('[data-fsid="'+font+'"] .font-info h2').textContent;
     span.textContent = ': '+fontName;
     fontname = font;
   }
+  
+  
+  const select = document.querySelector('#select>h2');
+  select.addEventListener('click', goToSelect)
+  function goToSelect() {
+    if(step > 0) {
+      c=1;
+      document.body.classList.remove('products-loaded');
+      goToStep(0);
+    }
+  }
+  const license = document.querySelector('#license>h2');
+  license.addEventListener('click', goToLicense)
+  function goToLicense() {
+    if(step > 1) {
+      c=1;
+      document.body.classList.remove('products-loaded');
+      goToStep(1);
+    }
+  }
+  
+  
 })
