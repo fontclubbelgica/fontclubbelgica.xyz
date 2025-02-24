@@ -41,15 +41,17 @@ draft: false
 
 1. Close All Applications: Ensure all applications using fonts are closed.
 
-2. Open Terminal: Press Command + Space, type "Terminal," and hit Enter.
+2. Open Terminal:<br>
+   &emsp;&emsp;Press Command + Space, type <i>"Terminal"</i><br>
+   &emsp;&emsp;and hit Enter.
 
 3. Enter the Commands:
 
-   <i>sudo atsutil databases -remove
+   <i>&emsp;&emsp;sudo atsutil databases -remove
 
-   <i>atsutil server -shutdown
+   <i>&emsp;&emsp;atsutil server -shutdown
 
-   <i>atsutil server -restart
+   <i>&emsp;&emsp;atsutil server -restart
 
    The first command removes font cache databases.
 
@@ -61,19 +63,20 @@ draft: false
 
 1. Close All Applications.
 
-2. Open Finder and go to <i>Go > Go to Folder</i> (Shift + Command + G).
+2. Open Finder and go to<br> 
+   <i>&emsp;&emsp;Go > Go to Folder</i> (Shift + Command + G).
 
-3. Enter the Following Path:
+3. Enter the Following Path:<br>
 
-   <i>/Library/Caches/</i>
+   <i>&emsp;&emsp;/Library/Caches/</i>
 
-4. Locate and Delete Font Cache Files:
+4. Locate and Delete Font Cache Files:<br>
 
-   Delete files and folders starting with <i>com.apple.ATS</i>.
+   &emsp;&emsp;Delete files and folders starting with <i>com.apple.ATS</i>.
 
-5. Repeat for User Cache:
+5. Repeat for User Cache:<br>
 
-   Navigate to <i>~/Library/Caches/</i> and delete <i>com.apple.ATS</i>.
+   &emsp;&emsp;Navigate to <i>~/Library/Caches/</i> and delete <i>com.apple.ATS</i>.
 
 6. Restart Your Mac.
 
@@ -86,17 +89,19 @@ draft: false
 
 2. Press Win + R, type <i>services.msc</i>, and hit Enter.
 
-3. Find and Stop the "Windows Font Cache Service":
+3. Find and Stop the "Windows Font Cache Service":<br>
 
-   Locate <i>"Windows Font Cache Service"</i> and <i>"Windows Presentation Foundation Font Cache"</i>.
+   &emsp;&emsp;Locate <i>"Windows Font Cache Service"</i><br>
+   &emsp;&emsp;and <i>"Windows Presentation Foundation Font Cache"</i>.
 
    Right-click each service and select Stop.
 
-4. Delete Font Cache Files:
+4. Delete Font Cache Files:<br>
 
-   Open File Explorer and navigate to:
+   Open File Explorer and navigate to:<br>
 
-   <i>C:\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache</i>
+   <i>&emsp;&emsp;C:\Windows\ServiceProfiles\LocalService\AppData\\</i><br>
+   <i>&emsp;&emsp;Local\FontCache</i>
 
    Delete all files in this folder.
 

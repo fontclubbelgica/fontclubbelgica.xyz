@@ -61,24 +61,24 @@ The Full Monty (for Maximum Browser Coverage)
 
 1. The Full Monty (for Maximum Browser Coverage)
 
-   <i>@font-face {
-       font-family: 'YourFontName';
-       src: url('path/filename.woff2') format('woff2'),
-            url('path/filename.ttf') format('truetype');
+   <i>@font-face {<br>
+   &emsp;&emsp;font-family: 'YourFontName';<br>
+   &emsp;&emsp;src:&emsp;url('path/filename.woff2') format('woff2'),<br>
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;url('path/filename.ttf') format('truetype');<br>
    }</i>
 
 2. Just the Essentials (for Modern Browsers)
 
-   <i>@font-face {
-       font-family: 'YourFontName';
-       src: url('path/filename.woff2') format('woff2'),
+   <i>@font-face {<br>
+   &emsp;&emsp;font-family: 'YourFontName';<br>
+   &emsp;&emsp;src:&emsp;url('path/filename.woff2') format('woff2'),<br>
    }</i>
 
 
 3. Once you’ve declared your font, using it is a breeze:
 
-   <i>body {
-       font-family: 'YourFontName', Helvetica, Arial, sans-serif;
+   <i>body {<br>
+   &emsp;&emsp;font-family: 'YourFontName', Helvetica, Arial, sans-serif;<br>
    }</i>i
 
 That’s it! Your website now proudly sports our good looking type!
@@ -108,61 +108,61 @@ OpenType features are like secret superpowers hidden in your fonts. They let you
 
 2. Font-kerning: This fine-tunes the space between specific letter pairs (like making sure “AV” looks just right).Activate kerning with:
 
-   <i>p {
-       font-feature-settings: "kern" 1;
-       font-kerning: normal;
+   <i>p {<br>
+   &emsp;&emsp;font-feature-settings: "kern" 1;<br>
+   &emsp;&emsp;font-kerning: normal;<br>
    }</i>
 
 ### Ligatures: Better Together
 
-Ligatures are those pretty connections between letters like “fi” and “fl” that make text flow naturally.
+1. Ligatures are those pretty connections between letters like “fi” and “fl” that make text flow naturally.
 
-   <i>p {
-       font-feature-settings: 'liga' on;
+   <i>p {<br>
+   &emsp;&emsp;font-feature-settings: 'liga' on;<br>
    }</i>
 
 ### Stylistic Alternates: Switch It Up
 
-Fancy a different look for certain characters? Enable stylistic alternates:
+1. Fancy a different look for certain characters? Enable stylistic alternates:
 
-   <i>h1 {
-       font-feature-settings: 'salt' on;
+   <i>h1 {<br>
+   &emsp;&emsp;font-feature-settings: 'salt' on;<br>
    }</i>
 
 ### Oldstyle vs. Lining Numbers: Choose Your Vibe
 
 1. Oldstyle Numbers (onum): These give a vintage, elegant touch.
 
-   <i>.numbers {
-       font-feature-settings: 'onum' on; 
+   <i>.numbers {<br>
+   &emsp;&emsp;font-feature-settings: 'onum' on; <br>
    }</i>
 
 2. Lining Numbers (lnum): These are your standard, all-in-a-row digits.
 
-   <i>.numbers {
-       font-feature-settings: 'lnum' on; 
+   <i>.numbers {<br>
+   &emsp;&emsp;font-feature-settings: 'lnum' on;<br> 
    }</i>
 
 ### Swashes & Small Caps: Extra Flair
 
 1. Swashes (swsh): Activate dramatic, fancy letter flourishes.
 
-   <i>.swashy {
-       font-feature-settings: 'swsh' on;
+   <i>.swashy {<br>
+   &emsp;&emsp;font-feature-settings: 'swsh' on;<br>
    }</i>
 
 2. Small Caps (smcp): Turn lowercase letters into classy, smaller uppercase versions.
 
-   <i>.upperclass {
-       font-feature-settings: 'smcp' on;
+   <i>.upperclass {<br>
+   &emsp;&emsp;font-feature-settings: 'smcp' on;<br>
    }<i>
 
 ### Mix and Match Features.
 
-And if you’re feeling adventurous, you can mix several features at once:
+1. And if you’re feeling adventurous, you can mix several features at once:
 
-   <i>.my-element {
-       font-feature-settings: "onum" 1, "kern" 1, "salt" 1, "swsh" 1;
+   <i>.my-element {<br>
+   &emsp;&emsp;font-feature-settings: "onum" 1, "kern" 1, "salt" 1, "swsh" 1;<br>
    }</i>
 
   </div>
