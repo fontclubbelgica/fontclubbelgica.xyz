@@ -2,7 +2,7 @@
 layout: font
 title: FC Crimp
 
-draft: false
+draft: true
 
 information: |
     FC Crimp combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
@@ -3281,11 +3281,13 @@ research: |
 
     ## A Typeface for Precision and Technical Design
 
-    These design choices give Crimp a distinctly technical flair, making it an excellent fit for industries that value precision and functionality: engineering, aerospace, space exploration, gaming, racing, and outdoor brands. In fact, Crimp’s name itself nods to outdoor culture, referencing “Good Old Raisins and Peanuts,” the classic hiker’s trail mix—a blend of utility, simplicity, and endurance.
+    These design choices give Crimp a distinctly technical flair, making it an excellent fit for industries that value precision and functionality: engineering, aerospace, space exploration, gaming, racing, and outdoor brands. In fact, Crimp’s name itself nods to outdoor culture, being a type of climbing hold. A crimp in climbing is a small edge or ledge that a climber grips using bent fingers. It’s an high-tension hold that is commonly used on steep or technical routes.
 
-    Crimp is a typeface with a purpose-driven aesthetic. Its varied widths and weights provide flexibility, while the quirky italic offers a dynamic contrast to its structured uprights. This versatility allows Crimp to move seamlessly between display and text settings, maintaining clarity and character while solving the historical problems of fixed-width design.
+    In engineering, a crimp is a method of joining or securing materials by deforming them through compression. It is commonly used in electrical and mechanical applications, such as attaching connectors to wires or securing metal components. Crimping creates a strong, reliable bond without the need for soldering, welding, or adhesives.
 
-    With Crimp, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Crimp delivers a balance of mechanical heritage and modern versatility.
+    FC Crimp is a typeface with a purpose-driven aesthetic. Its varied widths and weights provide flexibility, while the quirky italic offers a dynamic contrast to its structured uprights. This versatility allows Crimp to move seamlessly between display and text settings, maintaining clarity and character while solving the historical problems of fixed-width design.
+
+    With Crimp, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Crimp delivers a balance of mechanical heritage and modern versatility. 
 
       </div>
     </div>
