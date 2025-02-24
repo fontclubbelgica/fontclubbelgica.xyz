@@ -24,9 +24,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.466875"
+     inkscape:zoom="0.40125"
      inkscape:cx="800"
-     inkscape:cy="600.80321"
+     inkscape:cy="599.37695"
      inkscape:window-width="1408"
      inkscape:window-height="1212"
      inkscape:window-x="0"
@@ -50,7 +50,7 @@
     <path
        id="path1"
        d="M 0,9000 V 0 H 12000 V 9000 H 0"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#e8e1d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,1200)" />
     <path
        id="path2"

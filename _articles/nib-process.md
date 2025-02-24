@@ -18,14 +18,23 @@ draft: false
 <div markdown="1">
   <div markdown="1">
 
+  </div>
+  <div markdown="1">
+
+<i>There is a certain tension within every typeface, a push and pull between form and function, history and innovation, precision and expression. Nib embodies this tension more than most. Like the dual nature of Dr. Jekyll and Mr. Hyde, Nib exists in a state of duality—seamlessly blending seemingly opposing design forces. It is both disciplined and free, chiseled and hand-drawn, restrained yet full of character.</i>
+
+<i>This duality isn’t accidental. At the heart of Nib’s design is a dialogue between two distinct traditions: the sharp, sculptural quality of chiseled forms and the fluid, humanistic movement of letters drawn by hand with a pen. By marrying these opposing aesthetics, Nib captures a sense of controlled spontaneity—a typeface that wears two faces, each revealing a different aspect of its character depending on its application.</i>
+
+  </div>
+  </div>
+
+<div markdown="1">
+  <div markdown="1">
+
   ![](FCB_Research_Nib_1.jpg)
 
   </div>
   <div markdown="1">
-
-There is a certain tension within every typeface, a push and pull between form and function, history and innovation, precision and expression. Nib embodies this tension more than most. Like the dual nature of Dr. Jekyll and Mr. Hyde, Nib exists in a state of duality—seamlessly blending seemingly opposing design forces. It is both disciplined and free, chiseled and hand-drawn, restrained yet full of character.
-
-This duality isn’t accidental. At the heart of Nib’s design is a dialogue between two distinct traditions: the sharp, sculptural quality of chiseled forms and the fluid, humanistic movement of letters drawn by hand with a pen. By marrying these opposing aesthetics, Nib captures a sense of controlled spontaneity—a typeface that wears two faces, each revealing a different aspect of its character depending on its application.
 
 ## Jekyll and Hyde: The Dual Nature of Nib
 
