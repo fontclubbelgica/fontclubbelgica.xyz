@@ -12,7 +12,7 @@ thumbnailImage: FCB_ANR_Web-Font.svg
 draft: true
 ---
 
-# Web Fonts & OpenType Features: a quick guide
+# Web Fonts & OpenType Features: a&nbsp;quick guide
 
 <div markdown="1">
   <div markdown="1">

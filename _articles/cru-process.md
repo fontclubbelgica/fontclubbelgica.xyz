@@ -13,7 +13,7 @@ font_match:
 draft: false
 ---
 
-# Behind Cru: An Exploration of Form and History
+# BEHIND CRU: An Exploration of&nbsp;Form and&nbsp;History
 
 <div markdown="1">
   <div markdown="1">
@@ -83,6 +83,16 @@ Unlike its woodtype predecessors, which were intended for short, impactful uses 
 One of Cru’s most remarkable qualities is its ability to navigate between the different widths. These are optimized to appear with a consistent “greyness”, enabling to be used intermittently to fill the whitespace where needed. With the variable version this allows you to fill the void where needed and make the most of your message.
 
 In the most condensed version Cru has hints of Impact and other simplified condensed heavy sans serifs. The wider cuts are reminiscent of wider type such as Paul Renner's Plak. Cru combines their reduced forms with woodtype-inspired boldness, making them perfect for headlines or impactful branding just the right amount of character to stand out from the competition.  This is where Cru truly shines: as a typeface that bridges eras, it feels equally at home in a high-end magazine spread as it does on a modern website or brand collateral.
+
+  </div>
+</div>
+
+<div markdown="1">
+  <div markdown="1">
+
+  </div>
+  <div markdown="1">
+
 
 ## Cru: A Typeface for the Present, Grounded in the Past
 

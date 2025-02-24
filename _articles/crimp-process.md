@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2023-05-07
+date: 2025-02-20
 type: research
 tags:
     - FC Gorp
@@ -10,7 +10,7 @@ thumbnailImage: FCB_ANR_Crimp.svg
 font_match:
 - FC Gorp
 
-draft: false
+draft: true
 ---
 
 # INTRODUCING CRIMP: Resurrecting an Ingenious Idea for Modern Design

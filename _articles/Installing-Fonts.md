@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2024-07-01
+date: 2025-02-14
 type: article
 tags:
   - installing fonts
