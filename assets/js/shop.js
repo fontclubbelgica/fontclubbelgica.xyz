@@ -163,39 +163,40 @@ document.addEventListener('DOMContentLoaded', function() {
         
         familyDiv.appendChild(fullFamilyDiv);
         
-        
-        item.styles.forEach(style => {
-          const productDiv = document.createElement("div");
-          productDiv.classList.add("product");
-          productDiv.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
-          
-          productDiv.addEventListener('click', function() {
-            addToCart(fontname+'-'+style+'-'+ tier);
+        if(license!=='trial') {
+          item.styles.forEach(style => {
+            const productDiv = document.createElement("div");
+            productDiv.classList.add("product");
+            productDiv.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
+            
+            productDiv.addEventListener('click', function() {
+              addToCart(fontname+'-'+style+'-'+ tier);
+            });
+            
+            const h2 = document.createElement("h2");
+            h2.textContent = 'Product Name';
+            h2.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
+            h2.setAttribute('data-fsc-item-display', '');
+            product.children.push(fontname+'-'+style+'-'+ tier);
+            
+            const price = document.createElement("span");
+            price.textContent = '60 €';
+            price.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
+            price.setAttribute('data-fsc-item-priceWithoutTax', '');
+            
+            const figure = document.createElement("figure");
+            const img = document.createElement("img");
+            img.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
+            img.setAttribute('data-fsc-item-image', '');
+            figure.appendChild(img);
+            productsToLoad.push(fontname+'-'+style+'-'+ tier);
+            
+            productDiv.appendChild(figure);
+            productDiv.appendChild(h2);
+            productDiv.appendChild(price);
+            familyDiv.appendChild(productDiv);
           });
-          
-          const h2 = document.createElement("h2");
-          h2.textContent = 'Product Name';
-          h2.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
-          h2.setAttribute('data-fsc-item-display', '');
-          product.children.push(fontname+'-'+style+'-'+ tier);
-          
-          const price = document.createElement("span");
-          price.textContent = '60 €';
-          price.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
-          price.setAttribute('data-fsc-item-priceWithoutTax', '');
-          
-          const figure = document.createElement("figure");
-          const img = document.createElement("img");
-          img.setAttribute('data-fsc-item-path', fontname+'-'+style+'-'+ tier);
-          img.setAttribute('data-fsc-item-image', '');
-          figure.appendChild(img);
-          productsToLoad.push(fontname+'-'+style+'-'+ tier);
-          
-          productDiv.appendChild(figure);
-          productDiv.appendChild(h2);
-          productDiv.appendChild(price);
-          familyDiv.appendChild(productDiv);
-        });
+        }
         
         licenseDiv.appendChild(familyDiv);
         productFamilyArray.push(product);
