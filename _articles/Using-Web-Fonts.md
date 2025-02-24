@@ -61,25 +61,31 @@ The Full Monty (for Maximum Browser Coverage)
 
 1. The Full Monty (for Maximum Browser Coverage)
 
-   <i>@font-face {<br>
-   &emsp;&emsp;font-family: 'YourFontName';<br>
-   &emsp;&emsp;src:&emsp;url('path/filename.woff2') format('woff2'),<br>
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;url('path/filename.ttf') format('truetype');<br>
-   }</i>
+   ```css
+   @font-face {
+       font-family: 'YourFontName';
+       src:          url('path/filename.woff2') format('woff2'),
+       url('path/filename.ttf') format('truetype');
+   }
+   ```
 
 2. Just the Essentials (for Modern Browsers)
 
-   <i>@font-face {<br>
-   &emsp;&emsp;font-family: 'YourFontName';<br>
-   &emsp;&emsp;src:&emsp;url('path/filename.woff2') format('woff2'),<br>
-   }</i>
+   ```css
+   @font-face {
+       font-family: 'YourFontName';
+       src:          url('path/filename.woff2') format('woff2'),
+   }
+   ```
 
 
 3. Once you’ve declared your font, using it is a breeze:
 
-   <i>body {<br>
-   &emsp;&emsp;font-family: 'YourFontName', Helvetica, Arial, sans-serif;<br>
-   }</i>i
+   ```html
+   body {
+       font-family: 'YourFontName', Helvetica, Arial, sans-serif;
+   }
+   ```
 
 That’s it! Your website now proudly sports our good looking type!
 
@@ -108,62 +114,77 @@ OpenType features are like secret superpowers hidden in your fonts. They let you
 
 2. Font-kerning: This fine-tunes the space between specific letter pairs (like making sure “AV” looks just right).Activate kerning with:
 
-   <i>p {<br>
-   &emsp;&emsp;font-feature-settings: "kern" 1;<br>
-   &emsp;&emsp;font-kerning: normal;<br>
-   }</i>
+   ```html
+   p {
+       font-feature-settings: "kern" 1;
+       font-kerning: normal;
+   }
+   ```
 
 ### Ligatures: Better Together
 
 1. Ligatures are those pretty connections between letters like “fi” and “fl” that make text flow naturally.
 
-   <i>p {<br>
-   &emsp;&emsp;font-feature-settings: 'liga' on;<br>
-   }</i>
+   ```html
+   p {
+       font-feature-settings: 'liga' on;
+   }
+   ```
 
 ### Stylistic Alternates: Switch It Up
 
 1. Fancy a different look for certain characters? Enable stylistic alternates:
 
-   <i>h1 {<br>
-   &emsp;&emsp;font-feature-settings: 'salt' on;<br>
-   }</i>
+   ```html
+   h1 {
+       font-feature-settings: 'salt' on;
+   }
+   ```
 
 ### Oldstyle vs. Lining Numbers: Choose Your Vibe
 
-1. Oldstyle Numbers (onum): These give a vintage, elegant touch.
+1. Oldstyle Numbers (`onum`): These give a vintage, elegant touch.
 
-   <i>.numbers {<br>
-   &emsp;&emsp;font-feature-settings: 'onum' on; <br>
-   }</i>
+   ```css
+   .numbers {
+      font-feature-settings: 'onum' on;
+   }
 
-2. Lining Numbers (lnum): These are your standard, all-in-a-row digits.
+2. Lining Numbers (`lnum`): These are your standard, all-in-a-row digits.
 
-   <i>.numbers {<br>
-   &emsp;&emsp;font-feature-settings: 'lnum' on;<br> 
-   }</i>
+   ```css
+   .numbers {
+        font-feature-settings: 'lnum' on;
+   }
+   ```
 
 ### Swashes & Small Caps: Extra Flair
 
-1. Swashes (swsh): Activate dramatic, fancy letter flourishes.
+1. Swashes (`swsh`): Activate dramatic, fancy letter flourishes.
 
-   <i>.swashy {<br>
-   &emsp;&emsp;font-feature-settings: 'swsh' on;<br>
-   }</i>
+   ```css
+   .swashy {
+        font-feature-settings: 'swsh' on;
+   }
+   ```
 
-2. Small Caps (smcp): Turn lowercase letters into classy, smaller uppercase versions.
+2. Small Caps (`smcp`): Turn lowercase letters into classy, smaller uppercase versions.
 
-   <i>.upperclass {<br>
-   &emsp;&emsp;font-feature-settings: 'smcp' on;<br>
-   }<i>
+   ```css
+   .upperclass {
+        font-feature-settings: 'smcp' on;
+   }
+   ```
 
 ### Mix and Match Features.
 
 1. And if you’re feeling adventurous, you can mix several features at once:
 
-   <i>.my-element {<br>
-   &emsp;&emsp;font-feature-settings: "onum" 1, "kern" 1, "salt" 1, "swsh" 1;<br>
-   }</i>
+   ```css
+   .my-element {
+        font-feature-settings: "onum" 1, "kern" 1, "salt" 1, "swsh" 1;
+   }
+   ```
 
   </div>
   </div>
@@ -181,4 +202,4 @@ OpenType features are like secret superpowers hidden in your fonts. They let you
 There you have it. A fun, straightforward guide to installing web fonts and unleashing the cool powers of OpenType. With these tips, you can make your website look amazing and add that extra flair and refinement to your projects. Go ahead, experiment, and let your creativity shine! Happy coding, and may our fonts forever make you look good!
 
   </div>
-  </div>  
+  </div>
