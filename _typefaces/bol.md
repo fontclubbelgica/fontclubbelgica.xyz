@@ -2,7 +2,7 @@
 layout: font
 title: FC Bol
 
-draft: false
+draft: true
 
 information: |
     FC Bol tries to showcase the possibilities of varialbe type. It is highly effective when it is used in dinamic web typography and videos.
