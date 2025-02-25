@@ -45,7 +45,7 @@ title: Frequently Asked Questions
 
   ### Frederik Berlaen
 
-  > Robofont Investor, Technical Wizard, Python Linguist, Type Lover, Flandrien
+  > RoboFont Investor, Technical Wizard, Python Linguist, Type Lover, Flandrien
 
   Is Frederik Berlaen: a typedesigner that loves programming and scripting? Or coder that designs type?
   It doesn’t matter. Although mostly known for [RoboFont][RF], one of the leading font editors over
