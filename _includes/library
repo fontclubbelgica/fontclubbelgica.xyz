@@ -1,20 +1,21 @@
+{% if page.font_match %}
+    {% assign typefaces = [] %}
+    {% for font_match in page.font_match %}
+        {% assign match = site.typefaces | where: 'title', font_match %}
+        {% assign typefaces = typefaces | concat: match %}
+    {% endfor %}
+{% else %}
+    {% assign typefaces = site.typefaces limit:include.fontcount %}
+{% endif %}
+{% assign typefaces = typefaces | where: "draft", "false" | sort:"date" %}
+
+{% if typefaces.size > 0 %}
 <section class="library">
     {% if page.layout == "article" %}
     <h2>Fonts mentioned in this article</h2>
     {% endif %}
     <div class="grid">
-        {% if page.font_match %}
-            {% assign typefaces = [] %}
-            {% for font_match in page.font_match %}
-                {% assign match = site.typefaces | where: 'title', font_match %}
-                {% assign typefaces = typefaces | concat: match %}
-            {% endfor %}
-        {% else %}
-            {% assign typefaces = site.typefaces limit:include.fontcount %}
-        {% endif %}
-        {% assign typefaces = typefaces | sort:"date" %}
         {% for typeface in typefaces %}
-        {% unless typeface.draft %}
         <div class="preview-font">
             <a href="{{ typeface.url }}">
                 <div class="stack stack-{{ typeface.library_preview | size }}">
@@ -28,7 +29,6 @@
                 </div>
             </a>
         </div>
-        {% endunless %}
         {% endfor %}
         {% unless include.fontcount %}
         <div class="more"><p>and many<br>more to<br>come!</p></div>
@@ -38,3 +38,4 @@
     <p><a href="/typefaces" class="library-btn">Explore full library</a></p>
     {% endif %}
 </section>
+{% endif %}
