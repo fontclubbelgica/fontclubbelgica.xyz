@@ -10,9 +10,9 @@ information: |
 designer: Dries Wiewauters
 date: 2023-04-01
 
-specimen: specimens/23-04_FC-Cru_Type-Specimen.pdf
+specimen: 23-04_FC-Cru_Type-Specimen.pdf
 
-fastspring: 
+fastspring:
   - name: fc-cru
     family:
       - name: full-family
@@ -714,7 +714,7 @@ hometile: FCB_Library_Cru_Large.svg
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ
-    - ΑΒΓΔΕΦ АБЦДЕФ 
+    - ΑΒΓΔΕΦ АБЦДЕФ
     - äbcdęfghijklmn
     - opqrstuvwxyz
     - αβγδεφ абцде
