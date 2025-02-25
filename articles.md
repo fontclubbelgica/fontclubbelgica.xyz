@@ -6,7 +6,7 @@ title: Articles, Research and News
 # Articles, Research and&nbsp;News
 
 <section class="articles">
-{% assign sortedArticles = site.articles | sort: "date" | reverse %}
+{% assign sortedArticles = site.articles | where: "draft", "false" | sort: "date" | reverse %}
 {% for articlePage in sortedArticles %}
     <div class="preview-article">
         <a href="{{ articlePage.url }}">

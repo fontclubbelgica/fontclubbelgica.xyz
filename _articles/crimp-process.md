@@ -10,10 +10,9 @@ thumbnailImage: FCB_ANR_Crimp.svg
 font_match:
 - FC Crimp
 
-draft: false
+draft: true
 ---
 
-draft: false
 
 # INTRODUCING CRIMP: Resurrecting an Ingenious Idea for Modern Design
 
@@ -65,7 +64,7 @@ In engineering, a crimp is a method of joining or securing materials by deformin
 
 FC Crimp is a typeface with a purpose-driven aesthetic. Its varied widths and weights provide flexibility, while the quirky italic offers a dynamic contrast to its structured uprights. This versatility allows Crimp to move seamlessly between display and text settings, maintaining clarity and character while solving the historical problems of fixed-width design.
 
-With Crimp, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Crimp delivers a balance of mechanical heritage and modern versatility. 
+With Crimp, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Crimp delivers a balance of mechanical heritage and modern versatility.
 
   </div>
 </div>
