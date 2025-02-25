@@ -1923,8 +1923,9 @@ body.shop {
     background-color: white !important;
     pointer-events: none !important;
     h2:after {
-      content: ' — INCLUDED';
-      font-weight: normal;
+      content: '\00a0INCLUDED';
+      font-weight: bold;
+        color: #00FF00;
     }
   }
   .total table {
