@@ -10,9 +10,9 @@ information: |
 designer: Dries Wiewauters
 date: 2025-01-01
 
-specimen: specimens/25-03_FC-Crimp_Type-Specimen.pdf
+specimen: 25-03_FC-Crimp_Type-Specimen.pdf
 
-#Fastspring: 
+#Fastspring:
 #  - name: fc-Crimp
 #    family:
 #      - name: full-family-x-condensed
@@ -28,7 +28,7 @@ specimen: specimens/25-03_FC-Crimp_Type-Specimen.pdf
 #          - extrabold
 #          - extrabold italic
 #          - black
-#          - black italic   
+#          - black italic
 #      - name: full-family-condensed
 #        styles:
 #          - light
@@ -42,7 +42,7 @@ specimen: specimens/25-03_FC-Crimp_Type-Specimen.pdf
 #          - extrabold
 #          - extrabold italic
 #          - black
-#          - black italic   
+#          - black italic
 #      - name: full-family
 #        styles:
 #          - light
@@ -56,7 +56,7 @@ specimen: specimens/25-03_FC-Crimp_Type-Specimen.pdf
 #          - extrabold
 #          - extrabold italic
 #          - black
-#          - black italic   
+#          - black italic
 #      - name: full-family-expanded
 #        styles:
 #          - light
@@ -70,7 +70,7 @@ specimen: specimens/25-03_FC-Crimp_Type-Specimen.pdf
 #          - extrabold
 #          - extrabold italic
 #          - black
-#          - black italic   
+#          - black italic
 #      - name: full-family-x-expanded
 #        styles:
 #          - light
@@ -84,7 +84,7 @@ specimen: specimens/25-03_FC-Crimp_Type-Specimen.pdf
 #          - extrabold
 #          - extrabold italic
 #          - black
-#          - black italic   
+#          - black italic
 
 technicalSupport:
     latin: true
@@ -2789,7 +2789,7 @@ openTypeFeatures:
        examples:
          - "34 815 96270"
    - ss08:
-       name: Circled Numbers Negative 
+       name: Circled Numbers Negative
        fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "6284 97 3145"
@@ -2858,7 +2858,7 @@ hometile: FCB_Library_Crimp_Large.svg
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ
-    - ΑΒΓΔΕΦ АБЦДЕФ 
+    - ΑΒΓΔΕΦ АБЦДЕФ
     - äbcdęfghijklmn
     - opqrstuvwxyz
     - αβγδεφ абцде
@@ -3287,7 +3287,7 @@ research: |
 
     FC Crimp is a typeface with a purpose-driven aesthetic. Its varied widths and weights provide flexibility, while the quirky italic offers a dynamic contrast to its structured uprights. This versatility allows Crimp to move seamlessly between display and text settings, maintaining clarity and character while solving the historical problems of fixed-width design.
 
-    With Crimp, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Crimp delivers a balance of mechanical heritage and modern versatility. 
+    With Crimp, Font Club Belgica has honored Dwiggins’ innovative thinking, creating a typeface that thrives in designs where precision, efficiency, and a touch of rugged individuality are key. Whether on a spacecraft blueprint, a racing interface, or an outdoor gear label, Crimp delivers a balance of mechanical heritage and modern versatility.
 
       </div>
     </div>

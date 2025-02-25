@@ -10,9 +10,9 @@ information: |
 designer: Dries Wiewauters
 date: 2017-01-01
 
-specimen: specimens/17-01_FC-Mad-Sans_Specimen.pdf
+specimen: 17-01_FC-Mad-Sans_Specimen.pdf
 
-fastspring: 
+fastspring:
   - name: fc-mad-sans
     family:
       - name: full-family

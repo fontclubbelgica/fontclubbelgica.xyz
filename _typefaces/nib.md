@@ -10,9 +10,9 @@ information: |
 designer: Dries Wiewauters
 date: 2019-01-01
 
-specimen: specimens/19-01_FC-Nib_Type-Specimen.pdf
+specimen: 19-01_FC-Nib_Type-Specimen.pdf
 
-fastspring: 
+fastspring:
   - name: fc-nib
     family:
       - name: full-family
@@ -616,7 +616,7 @@ openTypeFeatures:
        examples:
          - "Release … Tension"
    - ss08:
-       name: "ITALICS ONLY: Alternate Q" 
+       name: "ITALICS ONLY: Alternate Q"
        fontStyle: FC Nib SemiBold Italic
        examples:
          - "Quality Quorn"
