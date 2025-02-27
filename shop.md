@@ -115,13 +115,18 @@ js: assets/js/shop.js
     <p class="loading">Loading styles...</p>
     <div id="container"></div>
     <div class="total">
+      <p>* Heading to checkout?<br>
+        You’ll be briefly directed to our trusted payment partner FastSpring, who securely handles all transactions. They’ll automatically calculate the correct VAT according to your local laws, ensuring a smooth, compliant purchase experience. We’ll see you right back here after payment!</p>
+      <div>
       <table>
         <tr><td>VAT (<span data-fsc-order-taxRate></span>)</td><td><span data-fsc-order-tax></span></td></tr>
         <tr><td>TOTAL</td><td><span data-fsc-order-total></span></td></tr>
       </table>
+      <button class="next" data-fsc-action="Checkout">
+        Go to checkout
+      </button>
+      </div>
     </div>
-    <button class="next" data-fsc-action="Checkout">
-      Go to checkout
-    </button>
+    
   </section>
 </main>
