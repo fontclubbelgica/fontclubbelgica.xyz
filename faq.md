@@ -259,6 +259,12 @@ title: Frequently Asked Questions
 
     [Please click here to access the complete terms of the Broadcast License EULA.](/assets/eula/Font-Club-Belgica_EULA-Broadcast-v1-0.pdf){:target="_blank"}
 
+  * #### Trial License:
+
+    A Trial license permits testing our fonts before comitting. This means you can install and experiment with the typeface in your mockups, drafts and pitchdecks. Just remember, trial fonts aren’t for final products or public use—but they’re perfect for getting a feel for the style before making a purchase.
+
+    [Please click here to access the complete terms of the TRIAL License EULA.](/assets/eula/Font-Club-Belgica_EULA-TRIAL-v1-0.pdf){:target="_blank"}
+
 * ## Legal
 
   ### Colophon
