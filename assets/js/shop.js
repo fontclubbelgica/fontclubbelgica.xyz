@@ -17,14 +17,24 @@ function fsCallback() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  
-  // check if hash is an existing font
-  const hash = window.location.hash.substr(1);
-  const preview = document.querySelector('div.preview-font-shop[data-fsid="'+hash+'"]');
+  const fullHash = window.location.hash.substring(1); 
+  const [hashValue, queryString] = fullHash.split('?');
+  const urlParams = new URLSearchParams(queryString || '');
+  const isTrial = urlParams.get('trial') === 'true';
+
+  const preview = document.querySelector('div.preview-font-shop[data-fsid="'+hashValue+'"]');
   if(preview !== null) {
-    setFont(hash);
+    setFont(hashValue);
     goToStep(1);
     activateButton(0);
+    
+    if (isTrial) {
+      const trialCheckbox = document.getElementById('license-trial');
+      if (trialCheckbox) {
+        trialCheckbox.checked = true;
+        evaluateLicense();
+      }
+    }
   }
   else {
     goToStep(0);

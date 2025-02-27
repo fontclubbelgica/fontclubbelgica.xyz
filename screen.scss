@@ -173,7 +173,7 @@ header {
             font-weight: bold;
         }
         li {
-          line-height: 22px;
+          line-height: 23px;
         }
         &.main-menu li a {
           font-weight: normal;
@@ -188,7 +188,7 @@ header {
                 display: block;
                 font-weight: normal;
                 text-transform: none;
-                font-size: 250%;
+                font-size: 300%;
                 line-height: 120%;
             }
             li:first-child {
@@ -205,6 +205,9 @@ header {
         ul {
             margin-top: 5px;
         }
+        &.main-menu ul {
+          margin-top: 15px;
+        }
         &.font-menu:not(.open) ul, &.main-menu:not(.open) ul {
             display: none;
         }
@@ -216,7 +219,7 @@ header {
 }
 
 main {
-  min-height: calc(100vh - 519px);
+  min-height: calc(100vh - 443px);
 }
 
 figcaption {
@@ -1752,8 +1755,27 @@ body.shop {
   #styles .total, #styles .next {
     display: none;
   }
-  &.products-loaded .open #container,&.products-loaded #styles.open .next, &.products-loaded #styles.open .total {
+  &.products-loaded .open #container,&.products-loaded #styles.open .next {
     display: block;
+  }
+  &.products-loaded #styles.open .total {
+    display: flex;
+    justify-content: space-between;
+  }
+  .total p {
+    font-size: 10px;
+    line-height: 13px;
+    color: #858585;
+    margin-top: auto;
+    padding-right: 30px;
+    margin-bottom: 0;
+    max-width: 580px;
+  }
+  .total div {
+    width: 280px;
+  }
+  .total button {
+    width: 280px;
   }
   .product-family, .product {
     background-color: white;
@@ -1779,6 +1801,7 @@ body.shop {
     font-family: 'FCBELGICA Condensed';
     display: flex;
     padding: 10px;
+    padding-right: 20px;
     border-radius: 18px;
     figure {
       border-radius: 30px;
@@ -1929,8 +1952,7 @@ body.shop {
     }
   }
   .total table {
-    margin-right: 0;
-    margin-left: auto;
+    width: 280px;
     border-collapse: collapse;
     background-color: white;
     border-radius: 18px;
@@ -1938,6 +1960,15 @@ body.shop {
   .total table td {
     padding: 10px 20px;
     font-weight: bold;
+  }
+  .total tr:first-child td {
+    padding-top: 16px;
+  }
+  .total tr:last-child td {
+    padding-bottom: 12px;
+  }
+  .total td:last-child {
+    text-align: right;
   }
   input[type="checkbox"]+label {
     display: inline-block;
