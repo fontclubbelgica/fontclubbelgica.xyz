@@ -24,7 +24,7 @@ draft: false
 </i>
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -94,7 +94,7 @@ That’s it! Your website now proudly sports our good looking type!
 Self-hosting your fonts is the most flexible option—you control everything, and your fonts are always there for your visitors without relying on a third party. No extra JavaScript or tracking codes needed! Many premium type foundries offer fonts for direct download, and at our place, we think that’s the best way to go. However, some foundries prefer to host them for you. Just know what you’re signing up for because hosting can affect how your fonts are delivered to the world.
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -149,6 +149,7 @@ OpenType features are like secret superpowers hidden in your fonts. They let you
    .numbers {
       font-feature-settings: 'onum' on;
    }
+   ```
 
 2. Lining Numbers (`lnum`): These are your standard, all-in-a-row digits.
 
@@ -187,7 +188,7 @@ OpenType features are like secret superpowers hidden in your fonts. They let you
    ```
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -202,4 +203,4 @@ OpenType features are like secret superpowers hidden in your fonts. They let you
 There you have it. A fun, straightforward guide to installing web fonts and unleashing the cool powers of OpenType. With these tips, you can make your website look amazing and add that extra flair and refinement to your projects. Go ahead, experiment, and let your creativity shine! Happy coding, and may our fonts forever make you look good!
 
   </div>
-  </div>
+</div>
