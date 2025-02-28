@@ -9,7 +9,7 @@ tags:
 featuredImage: FCB_Article_Splash_Web-Font.svg
 thumbnailImage: FCB_ANR_Web-Font.svg
 
-draft: true
+draft: false
 ---
 
 # Web Fonts & OpenType Features: a&nbsp;quick guide
