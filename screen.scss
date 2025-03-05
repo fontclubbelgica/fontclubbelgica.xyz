@@ -195,7 +195,7 @@ header {
                 display: block;
                 font-weight: normal;
                 text-transform: none;
-                font-size: 300%;
+                font-size: 430%;
                 line-height: 120%;
                 cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🇧🇪</text></svg>")
                     8 8, auto;
@@ -696,6 +696,20 @@ section.research {
     }
     li p {
       text-indent: 0 !important;
+    }
+    pre code {
+      font-family: 'Courier', monospace;
+      max-width: 100%;
+      display: inline-block;
+    }
+    pre {
+      max-width: 100%;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .highlighter-rouge {
+      max-width: 100%;
+      white-space: pre-wrap;
     }
     .research-content {
         margin: 0 auto;
@@ -1316,7 +1330,11 @@ footer {
         font-size: 20px;
         line-height: 25px;
     }
-
+    .top a {
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
     nav {
         li {
             font-weight: normal;
