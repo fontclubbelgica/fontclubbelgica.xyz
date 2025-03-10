@@ -17,7 +17,7 @@ technicalSupport:
     greek: true
     vietnamese: false
 
-    weights: ↔️
+    weights: ⮂
     widths: 
 
     italics: true
