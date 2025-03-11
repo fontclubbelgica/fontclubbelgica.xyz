@@ -112,8 +112,6 @@ body {
 a {
     color: inherit;
     text-decoration: none;
-    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🏆</text></svg>")
-        8 8, auto;
 }
 
 // Font Club Belgica flag colors
@@ -177,10 +175,6 @@ header {
         li {
           line-height: 23px;
         }
-        &.main-menu h2 a, &.main-menu li a  {
-            cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🔡</text></svg>")
-            8 8, auto;
-        }
         &.main-menu li a {
           font-weight: normal;
         }
@@ -197,8 +191,6 @@ header {
                 text-transform: none;
                 font-size: 430%;
                 line-height: 120%;
-                cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🇧🇪</text></svg>")
-                    8 8, auto;
             }
 
             li:first-child {
