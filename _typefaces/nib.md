@@ -783,8 +783,6 @@ testers:
 
 about:
     - text: |
-        ## Nib: A Typeface of Duality and&nbsp;Craftsmanship
-
         Nib captures the essence of duality, much like the classic literary figure Dr. Jekyll and Mr. Hyde. It presents two distinct faces: one that is sharp and controlled, influenced by the precise, angular forms of chiseled type, and another that is fluid and human, evoking the warmth of pen-drawn lettering. In larger sizes, Nib’s angular, chiseled features dominate, offering a sharp, irregular look. However, in smaller text settings, its calligraphic roots emerge, adding subtle warmth and approachability.
 
         This duality gives Nib a versatility that few typefaces achieve. It bridges two different traditions: the monumental precision of stone-carved letters and the organic, expressive qualities of hand-drawn type. Nib balances these extremes, making it adaptable for both impactful display work and more intimate, readable text.
