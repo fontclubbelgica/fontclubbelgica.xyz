@@ -826,8 +826,6 @@ about:
       caption: "Leavenworth: Sixteen and Twelve Lines Condensed Gothic"
 
       text: |
-        ## Cru: A Typeface Balancing Tradition and Modernity
-
         Cru is a typeface that harmoniously blends the historical influences of woodtype with a modern, geometric design. At first glance, it appears entirely contemporary, defined by its precise, minimalist forms. However, Cru’s DNA is rooted in the bold, attention-grabbing aesthetic of 19th-century American woodtype, particularly as reinterpreted by fonts like Poplar, designed by Barbara Lind. Based on early American woodtype from William Leavenworth, shares a visual lineage with Cru’s structural clarity and boldness.
 
         While Poplar embraces the weight and formal elements of woodtype, Cru refines these qualities into something more usable for the digital age. Its smooth, controlled shapes, circular counters, and flat terminals are reminiscent of Poplar’s striking visual impact but optimized for today’s digital design needs. This synthesis gives Cru the ability to shift between digital and print usage as well as editorial and branding use, balancing its historical roots with contemporary functionality.
