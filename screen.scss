@@ -405,6 +405,7 @@ figcaption {
             height: 30px;
         }
 
+
         div {
             margin-top: 10px;
             margin-bottom: 10px;
@@ -423,6 +424,10 @@ figcaption {
         }
     }
     &:hover >  form {
+        display: table;
+    }
+
+    form:has(input[type="range"]:active) {
         display: table;
     }
 }
