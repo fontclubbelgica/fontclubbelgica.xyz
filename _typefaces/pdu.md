@@ -319,14 +319,14 @@ testers:
 
     - text: |
         Sabloonakirjaimet ovat kirjaimia tai symboleja, jotka luodaan käyttämällä sabloonaa – ohutta materiaalia (esim. muovia, metallia tai paperia), johon on leikattu muotoja. Sabloona toimii mallina, ja kun sen päälle levitetään maalia, mustetta tai muuta materiaalia, kirjaimen muoto siirtyy alla olevalle pinnalle.
-        Sabloonakirjainten tunnusmerkki on usein, että niissä on aukkoja tai siltoja tietyissä kirjainten osissa. Nämä aukot estävät kirjainten, kuten "A", "O" tai "B", sisäosia irtoamasta sabloonasta. Aukot sijaitsevat tavallisesti suljetuissa muodoissa (kuten "O"-kirjaimen ympyrässä), mikä antaa sabloonakirjaimille erottuvan, pirstaloituneen ilmeen.
+        Sabloonakirjainten tunnusmerkki on usein, että niissä on aukkoja tai siltoja tietyissä kirjainten osissa. Nämä aukot estävät kirjainten, kuten “A”, “O” tai “B”, sisäosia irtoamasta sabloonasta. Aukot sijaitsevat tavallisesti suljetuissa muodoissa (kuten “O”-kirjaimen ympyrässä), mikä antaa sabloonakirjaimille erottuvan, pirstaloituneen ilmeen.
         Sabloonakirjaimia käytetään laajasti käytännön tarkoituksiin, kuten:
         1. Teollinen merkintä: Kuljetuskonttien, laatikoiden ja koneiden merkitsemisessä, missä selkeys ja kestävyys ovat tärkeitä.
         2. Sotilaalliset sovellukset: Yhtenäiset ja vahvat kirjaimet varusteiden ja ajoneuvojen merkitsemiseen.
         3. Katutaide: Taiteilijat käyttävät sabloonia usein graffitissa monimutkaisten kuvioiden nopeaan toistamiseen.
         Tätä menetelmää arvostetaan nopeuden, johdonmukaisuuden ja sabloonan uudelleenkäytön mahdollisuuden vuoksi eri pinnoilla.
       fontStyle: FC PDU Regular
-      fontSize: 70
+      fontSize: 40
 
     - text: |
         Literele șablon sunt caractere sau simboluri create folosind un șablon, care este un material subțire (precum plastic, metal sau hârtie) cu forme decupate. Șablonul funcționează ca un tipar, iar când vopseaua, cerneala sau un alt mediu este aplicat deasupra, forma literei este transferată pe suprafața de dedesubt.
@@ -337,7 +337,7 @@ testers:
         3. Artă stradală: Artiștii folosesc adesea șabloane pentru graffiti pentru a replica rapid modele complexe.
         Această metodă este apreciată pentru rapiditate, consistență și capacitatea de a reutiliza șablonul de mai multe ori pe diferite suprafețe.
       fontStyle: FC PDU Stencil
-      fontSize: 120
+      fontSize: 80
 
 
     - text: |
@@ -348,7 +348,7 @@ testers:
         QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP
         qqqqq rrrrrrrr ssssssss tttt uuuuuuuu vvvv wwwwwwww xxx yyyyyyyyyy zzzzzz aaa bbbbbbbb cccc dddddd eeeeeeee ffff ggggggggg hhh iiiiiii jjjjjj kkk llll mmmmmmmmm nnnnnnn ooo ppppppppppp
       fontStyle: FC PDU Pattern Regular
-      fontSize: 50
+      fontSize: 40
 
     - text: |
         JJJ KKKK LLLLL MMMMMMMM NNN OOOOO PPPPPP QQQQ RRRRRRR SSSS TTTTT UUUUUUUU VVVVV WWWWW XXXX YYY ZZZZZZZZZ AAAA BBBBBB CCCCC DDDDDDDDD EEE FFFFFF GGGGGGGGGGG HHHHHHHH IIII
@@ -358,7 +358,7 @@ testers:
         AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ
         aaaaaa bbbbbbbbb cccccc dddddd eeeeeeeeee fff gggggg hhhh iiiiiiiii jjjjjjjjj kkkk lllllll nnnnn oooooooooo ppppp qqq rrrrrrrr uuuuuuuuuu ssss ttttttt uuu vvvvvvv wwwwww xxxxx yyy zzzzzzzzzzzz
       fontStyle: FC PDU Pattern Outline
-      fontSize: 300
+      fontSize: 200
 
     - text: |
        QQQQQQQQQQ RRRR SSS TTTTTTT UUUU VVVVVVVV WWWWW XXXXXXXXX YYYY ZZZZZZ AAAAAA BBB CCCCCCCCC DDDDD EEE FFFFFFFFF GGGGG HHHHHHH IIIII JJJJJJJJ KKKKKKK LLLLL MMMM NNNNNN OOOOOO PPPPP

@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: true
+draft: false
 
 information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
@@ -30,7 +30,7 @@ technicalSupport:
 
 css: filter-style.css
 
-splash: filter-splash.jpg
+splash: filter-splash.svg
 
 hometile: FCB_Library_Filter_Large.svg
 
@@ -296,7 +296,7 @@ library_preview:
 
 font_match:
     - FC Nib
-    - FC Ueli
+    - FC Crimp
     - FC MAD Sans
     - FC Cru
 ---
