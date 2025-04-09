@@ -26,12 +26,12 @@
                     <td>{{ typeface.styles | size }}</td>
                     <td>{{ typeface.technicalSupport.weights }}</td>
                     <td>{{ typeface.technicalSupport.widths }}</td>
-                    <td>{% if typeface.technicalSupport.italics %}∙{% endif %}</td>
-                    <td>{% if typeface.technicalSupport.variable %}∙{% endif %}</td>
-                    <td>{% if typeface.technicalSupport.latin %}∙{% endif %}</td>
-                    <td>{% if typeface.technicalSupport.cyrillic %}∙{% endif %}</td>
-                    <td>{% if typeface.technicalSupport.greek %}∙{% endif %}</td>
-                    <td>{% if typeface.technicalSupport.vietnamese %}∙{% endif %}</td>
+                    <td>{% if typeface.technicalSupport.italics %}<i class="mf">&#10003;</i>{% endif %}</td>
+                    <td>{% if typeface.technicalSupport.variable %}<i class="mf">&#10003;</i>{% endif %}</td>
+                    <td>{% if typeface.technicalSupport.latin %}<i class="mf">&#10003;</i>{% endif %}</td>
+                    <td>{% if typeface.technicalSupport.cyrillic %}<i class="mf">&#10003;</i>{% endif %}</td>
+                    <td>{% if typeface.technicalSupport.greek %}<i class="mf">&#10003;</i>{% endif %}</td>
+                    <td>{% if typeface.technicalSupport.vietnamese %}<i class="mf">&#10003;</i>{% endif %}</td>
                     {% if typeface.draft %}
                     <td>FC.20??.??</td>
                     {% else %}
