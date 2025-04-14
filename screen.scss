@@ -950,6 +950,16 @@ p.meta span:last-child {
     display: inline-block;
     text-align: left;
 }
+.language-list {
+  padding-top: 3px;
+}
+.language-list .language+.language {
+  padding-top: 10px;
+}
+.language-list p {
+  font-size: 13px;
+  line-height: 19px;
+}
 @media (max-width: 500px) {
     p.meta span, p.meta span:last-child {
         width: 100%;
