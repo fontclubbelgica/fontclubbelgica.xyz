@@ -209,6 +209,21 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
         </div>
         <a href="#" class="btn expand">&#8595; Expand &#8595;</a>
     </div>
+
+    {% if page.languageSupport %}
+    <div class="languageSupport expandable">
+        <h2 class="section-title">Language Support</h2>
+        <div class="language-list">
+            {% for language in page.languageSupport %}
+            <div class="language">
+                <h3>{{ language[0] }}</h3>
+                <p>{{ language[1] }}</p>
+            </div>
+            {% endfor %}
+        </div>
+        <a href="#" class="btn expand">&#8595; Expand &#8595;</a>
+    </div>
+    {% endif %}
 </section>
 
 <section class="buy">
