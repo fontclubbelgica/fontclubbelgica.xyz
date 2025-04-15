@@ -28,6 +28,9 @@ technicalSupport:
 
     variable: true
 
+languageSupport:
+    Latin: A B C D E Fill out further
+
 css: filter-style.css
 
 splash: filter-splash.svg

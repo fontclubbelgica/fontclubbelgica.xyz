@@ -24,6 +24,9 @@ technicalSupport:
 
     variable: true
 
+languageSupport:
+    Latin: A B C D E Fill out further
+
 styles:
    - Bol BETA:
         glyphCount: 913

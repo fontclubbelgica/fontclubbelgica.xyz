@@ -98,6 +98,9 @@ technicalSupport:
 
     variable: false
 
+languageSupport:
+    Latin: A B C D E Fill out further
+
 styles:
    - FC Oblate 110 X Condensed Light:
         glyphCount: 1329
