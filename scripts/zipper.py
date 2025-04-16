@@ -1,4 +1,5 @@
 from pathlib import Path
+from zipfile import ZipFile
 import ezui
 
 from mojo.extensions import getExtensionDefault, setExtensionDefault, removeExtensionDefault
@@ -84,18 +85,20 @@ class Controller(ezui.WindowController):
         zipped = source / "zipped"        
         zipped.mkdir(parents=True, exist_ok=True)
     
-        root = Path('/Users/frederik/Documents/dev/fontClubBelgica/fontclubbelgica-site')
-        typeface = "PDU"
-        eulaRoot = root / "assets" / "eula"
+        root = Path(self.w.getItem("repoRoot").get())
+        typeface = self.w.getItem("typefaces").getItem()
+        typefaceRoot = root / "_typefaces" / typeface
+        eulaRoot = Path(root) / "assets" / "eula"
 
         fontPaths = []
         for fileType in ("ttf", "otf"):
             for subfolder in (staticFontsRoot, variableFontsRoot):
                 fontRoot = source / subfolder
                 fontPaths.extend(fontRoot.glob(f'*.{fileType}'))
-    
         
-        desktopEulaPath = list(eulaRoot.glob("*EULA-Desktop-*"))
+        specimenPaths = list(typefaceRoot.glob("*Specimen*"))
+        desktopEulaPath = list(eulaRoot.glob("*EULA-Desktop*"))
+
         if fontPaths and desktopEulaPath:
             desktopEulaPath = desktopEulaPath[0]
         
@@ -105,18 +108,23 @@ class Controller(ezui.WindowController):
                     zipFile.write(fontPath, arcname=fontPath.name)
         
                 zipFile.write(desktopEulaPath, arcname=desktopEulaPath.name)
-        
+                
+                for specimentPath in specimenPaths:
+                    zipFile.write(specimentPath, arcname=specimentPath.name)
             # desktop style
             for fontPath in fontPaths:
                 with ZipFile(zipped / f'desktop-{fontPath.name[:-4]}.zip', 'w') as zipFile:
                     zipFile.write(fontPath, arcname=fontPath.name)
                     zipFile.write(desktopEulaPath, arcname=desktopEulaPath.name)
+                    
+                    for specimentPath in specimenPaths:
+                        zipFile.write(specimentPath, arcname=specimentPath.name)
     
         webFontPaths = []
         for subfolder in (staticFontsRoot, variableFontsRoot):
             fontRoot = source / webFontsRoot  / subfolder
             webFontPaths.extend(fontRoot.glob(f'*.woff2'))
-
+            
         webDocuments = list(eulaRoot.glob("*EULA-Web*"))
         if webDocuments and webFontPaths:
             # webfonts
@@ -126,6 +134,11 @@ class Controller(ezui.WindowController):
             
                 for webDocument in webDocuments:
                     zipFile.write(webDocument, arcname=webDocument.name)
+                
+                for specimentPath in specimenPaths:
+                    zipFile.write(specimentPath, arcname=specimentPath.name)
+        
+        print("done")
 
     def setTypefaces(self):
         root = self.w.getItem("repoRoot").get()
