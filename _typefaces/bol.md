@@ -2,13 +2,15 @@
 layout: font
 title: FC Bol
 
-draft: fa
+draft: true
 
 information: |
-    FC Bol tries to showcase the possibilities of varialbe type. It is highly effective when it is used in dinamic web typography and videos.
+    FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
 
 designer: Dries Wiewauters
 date: 2025-01-10
+
+specimen: 25-04_FC-Bol_Type-Specimen.pdf
 
 technicalSupport:
 
@@ -183,7 +185,7 @@ openTypeFeatures:
 
 css: Bol-style.css
 
-splash: Bol-splash-WIP.jpg
+splash: Bol-splash.jpg
 
 hometile: FCB_Library_Bol_Large.svg
 

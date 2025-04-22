@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: false
+draft: true
 
 information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
@@ -296,6 +296,10 @@ library_preview:
     - FCB_Library_Filter_3.svg
     - FCB_Library_Filter_4.svg
     - FCB_Library_Filter_5.svg
+    - FCB_Library_Filter_6.svg
+    - FCB_Library_Filter_7.svg
+    - FCB_Library_Filter_8.svg
+    - FCB_Library_Filter_9.svg
 
 font_match:
     - FC Nib
