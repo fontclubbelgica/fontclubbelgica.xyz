@@ -149,6 +149,24 @@ class Controller(ezui.WindowController):
                     for specimentPath in specimenPaths:
                         zipFile.write(specimentPath, arcname=specimentPath.name)
 
+        trialFontPaths = []
+        for fileType in ("ttf", "otf"):
+            fontRoot = source / trialFontsRoot
+            trialFontPaths.extend(fontRoot.glob(f'*.{fileType}'))
+
+        trialDocuments = list(eulaRoot.glob("*TRIAL*"))
+        if trialDocuments and trialFontPaths:
+            # trial family
+            with ZipFile(zipped / f'trial-{typeface}.zip', 'w') as zipFile:
+                for trialFontPath in trialFontPaths:
+                    zipFile.write(trialFontPath, arcname=trialFontPath.name)
+
+                for trialDocument in trialDocuments:
+                        zipFile.write(trialDocument, arcname=trialDocument.name)
+
+                for specimentPath in specimenPaths:
+                    zipFile.write(specimentPath, arcname=specimentPath.name)
+
         print("done")
 
     def setTypefaces(self):
