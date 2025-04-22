@@ -8,7 +8,9 @@ information: |
     What started as a sans serif companion to FC Nib has turned into a highly multifunctional sans serif that just like it's companion is both highly usable and expressive.
 
 designer: Dries Wiewauters
-date: 2025-01-20
+date: 2025-04-01
+
+specimen: 25-04_FC-Oblate_Type-Specimen.pdf
 
 #Fastspring: 
 #  - name: fc-Oblate
@@ -99,11 +101,13 @@ technicalSupport:
     variable: false
 
 languageSupport:
-    Latin: A B C D E Fill out further
+    Latin: Abua, Achinese, Acoli, Afar, Afrikaans, Ahtna, Alago, Albanian, Alekano, Aleut, Anaang, Ao Naga, Arabic, Chadian Spoken, Aragonese, Asturian, Asu, Awak, Aymara, Balinese, Banda, West Central, Bangwinji, Bapuku, Bari, Basque, Batak Toba, Bedawiyet, Bekwarra, Bemba, Bena, Bench, Benga, Bikol, Bilen, Bini, Bislama, Bokobaru, Bosnian, Breton, Bube, C’Lela, Catalan, Cebuano, Chamorro, Cheyenne, Chiduruma, Chiga, Chimborazo Highland Quichua, Chokwe, Chuukese, Colognian, Comorian, Ngazidja, Cornish, Corsican, Crioulo, Upper Guinea, Croatian, Czech, Danish, Dawro, Delaware, Dikaka, Dutch, Efik, Ekajuk, Embu, English, Esperanto, Estonian, Ezaa, Faroese, Fijian, Filipino, Finnish, French, Friulian, Fuliiru, Galician, Gamo, Ganda, Gawwada, Gbaya, Sudan, German, Gheg Albanian, Gilbertese, Gofa, Gokana, Gourmanchéma, Gusii, Gwichʼin, Gyele, Hadiyya, Haitian Creole, Hanga, Harari, Hiligaynon, Hmong, Hopi, Hungarian, Ibani, Icelandic, Igbo, Igede, Ika, Ikwo, Iloko, Inari Sami, Indonesian, Innu, Interlingua, Iraqw, Irish, Italian, Ivbie North-Okpela-Arhe, Izere, Izii, Jamaican Creole English, Javanese, Jibu, Jola-Fonyi, Jukun Takum, Kabuverdianu, Kaingang, Kalaallisut, Kalanga, Kalenjin, Kamba, Kaonde, Karelian, Kashubian, Khasi, Kikuyu, Kimbundu, Kinyarwanda, Kirike, Kirmanjki, Kituba, Kombe, Kongo, Konjo, Kuanyama, Kunama, Kurdish (Latin), Kuria, Kutep, Kutu, Kwere, Kʼicheʼ, Lakota, Lamba, Lango, Uganda, Latgalian, Latin, Latvian, Lele, Ligurian, Lithuanian, Lokaa, Lombard, Lomwe, Low German, Lower Sorbian, Lozi, Luba-Lulua, Luguru, Lule Sami, Lunda, Luo, Luvale, Luwo, Luxembourgish, Luyia, Machame, Madurese, Makhuwa, Makhuwa-Meetto, Makonde, Malagasy, Malay (Latin), Maltese, Mam, Mambila, Nigeria, Mandinka, Mandjak, Mankanya, Manx, Manyika, Maori, Mapuche, Masaaba, Meru, Minangkabau, Mirandese, Mohawk, Morisyen, Muscogee, Mwani, Nara, Ndamba, Ndau, Ndonga, Neapolitan, Ngindo, Ngulu, Niuean, North Ndebele, Northern Sami, Northern Sotho, Norwegian, Norwegian Bokmål, Norwegian Nynorsk, Novial, Nupe-Nupe-Tako, Nyanja, Nyankole, Nyasa Tonga, Nyemba, Nyoro, Occitan, Ogbah, Okiek, Oromo, Otuho, Palauan, Pampanga, Papiamento, Picard, Piedmontese, Pogolo, Pohnpeian, Pökoot, Polish, Portuguese, Punu, Quechua, Rarotongan, Rendille, Réunion Creole French, Rinconada Bikol, Romansh, Romany, Rombo, Ronga, Rundi, Rwa, Saho, Samburu, Samoan, Sandawe, Sango, Sangu, Sãotomense, Sapiny, Sardinian, Sassarese Sardinian, Scots, Scottish Gaelic, Sena, Serbian (Latin), Seri, Seselwa Creole French, Shambala, Shilluk, Shona, Sicilian, Sidamo, Siksika, Silesian, Slovak, Slovenian, Soga, Somali, South Ndebele, Southern Sami, Southern Sotho, Spanish, Sranan Tongo, Suba, Sukuma, Sundanese, Swahili, Swahili, Congo, Swati, Swedish, Swiss German, Tahitian, Taita, Takwane, Tedaga, Tedim Chin, Tetum, Tiv, Tok Pisin, Tokelau, Tonga, Tooro, Tsamai, Tsonga, Tsuvadi, Tswana, Tula, Tumbuka, Tuvalu, Uab Meto, Umbundu, Upper Sorbian, Uyghur (Latin), Venetian, Veps, Vidunda, Vietnamese, Volapük, Võro, Vunjo, Walloon, Walser, Waray, Warlpiri, Wayuu, Welsh, Wendat, West Albay Bikol, Western Frisian, Wolaytta (Latin), Wolof, Xavánte, Xhosa, Yao, Yapese, Yasa, Yucateco, Zaghawa, Zande, Zayse, Zaza, Zigula, Zulu, Zuni
+    Cyrillic: Abaza, Belarusian, Bosnian (Cyrillic), Bulgarian, Crimean Turkish, Cyrillic, Erzya, Gagauz (Cyrillic), Karachay-Balkar, Komi, Komi-Permyak, Kumyk, Macedonian, Moksha, Nogai, Romanian (Cyrillic), Russian, Rusyn, Serbian, Udmurt, Ukranian, Western Mari
+    Greek: Ελληνικά (Greek)
 
 styles:
    - FC Oblate 110 X Condensed Light:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_110_X_Condensed_Light
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -126,25 +130,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 111 X Condensed Light Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_111_X_Condensed_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -172,19 +182,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 120 X Condensed Regular:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_120_X_Condensed_Regular
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -207,25 +218,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 121 X Condensed Regular Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_121_X_Condensed_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -253,19 +270,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 130 X Condensed Medium:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_130_X_Condensed_Medium
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -288,25 +306,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 131 X Condensed Medium Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_131_X_Condensed_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -334,19 +358,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 140 X Condensed Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_140_X_Condensed_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -369,25 +394,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 141 X Condensed Bold Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_141_X_Condensed_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -415,19 +446,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 150 X Condensed Extra Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_150_X_Condensed_Extra_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -450,26 +482,32 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
-   - FC Oblate 151 X Condensed Black Italic:
-        glyphCount: 1259
-        fastspring: FC_Oblate_151_X_Condensed_Black_Italic
+   - FC Oblate 151 X Condensed Extra Bold Italic:
+        glyphCount: 1270
+        fastspring: FC_Oblate_151_X_Condensed_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -496,19 +534,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 160 X Condensed Black:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_160_X_Condensed_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -531,25 +570,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 161 X Condensed Black Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_161_X_Condensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -577,19 +622,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 210 Condensed Light:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_210_Condensed_Light
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -612,25 +658,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 211 Condensed Light Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_211_Condensed_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -658,19 +710,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 220 Condensed Regular:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_220_Condensed_Regular
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -693,25 +746,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 221 Condensed Regular Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_221_Condensed_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -739,19 +798,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 230 Condensed Medium:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_230_Condensed_Medium
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -774,25 +834,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 231 Condensed Medium Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_231_Condensed_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -820,19 +886,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 240 Condensed Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_240_Condensed_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -855,25 +922,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 241 Condensed Bold Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_241_Condensed_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -901,19 +974,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 250 Condensed Extra Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_250_Condensed_Extra_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -936,26 +1010,32 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
-   - FC Oblate 251 Condensed Black Italic:
-        glyphCount: 1259
-        fastspring: FC_Oblate_251_Condensed_Black_Italic
+   - FC Oblate 251 Condensed Extra Bold Italic:
+        glyphCount: 1270
+        fastspring: FC_Oblate_251_Condensed_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -982,19 +1062,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 260 Condensed Black:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_260_Condensed_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1017,25 +1098,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 261 Condensed Black Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_261_Condensed_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1063,19 +1150,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 310 Light:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_310_Light
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1098,25 +1186,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 311 Light Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_311_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1144,19 +1238,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 320 Regular:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_320_Regular
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1179,25 +1274,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 321 Regular Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_321_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1225,19 +1326,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 330 Medium:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_330_Medium
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1260,25 +1362,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 331 Medium Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_331_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1306,19 +1414,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 340 Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_340_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1341,25 +1450,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 341 Bold Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_341_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1387,19 +1502,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 350 Extra Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_350_Extra_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1422,26 +1538,32 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
-   - FC Oblate 351 Black Italic:
-        glyphCount: 1259
-        fastspring: FC_Oblate_351_Black_Italic
+   - FC Oblate 351 Extra Bold Italic:
+        glyphCount: 1270
+        fastspring: FC_Oblate_351_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1468,19 +1590,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 360 Black:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_360_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1503,25 +1626,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 361 Black Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_361_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1549,19 +1678,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 410 Expanded Light:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_410_Expanded_Light
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1584,25 +1714,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 411 Expanded Light Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_411_Expanded_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1630,19 +1766,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 420 Expanded Regular:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_420_Expanded_Regular
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1665,25 +1802,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 421 Expanded Regular Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_421_Expanded_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1711,19 +1854,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 430 Expanded Medium:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_430_Expanded_Medium
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1746,25 +1890,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 431 Expanded Medium Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_431_Expanded_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1792,19 +1942,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 440 Expanded Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_440_Expanded_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1827,25 +1978,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 441 Expanded Bold Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_441_Expanded_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1873,19 +2030,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 450 Expanded Extra Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_450_Expanded_Extra_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1908,26 +2066,32 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
-   - FC Oblate 451 Expanded Black Italic:
-        glyphCount: 1259
-        fastspring: FC_Oblate_451_Expanded_Black_Italic
+   - FC Oblate 451 Expanded Extra Bold Italic:
+        glyphCount: 1270
+        fastspring: FC_Oblate_451_Expanded_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -1954,19 +2118,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 460 Expanded Black:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_460_Expanded_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -1989,25 +2154,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 461 Expanded Black Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_461_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2035,19 +2206,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 510 X Expanded Light:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_510_X_Expanded_Light
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2070,25 +2242,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 511 X Expanded Light Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_511_X_Expanded_Light_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2116,19 +2294,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 520 X Expanded Regular:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_520_X_Expanded_Regular
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2151,25 +2330,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 521 X Expanded Regular Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_521_X_Expanded_Regular_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2197,19 +2382,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 530 X Expanded Medium:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_530_X_Expanded_Medium
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2232,25 +2418,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 531 X Expanded Medium Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_531_X_Expanded_Medium_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2278,19 +2470,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 540 X Expanded Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_540_X_Expanded_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2313,25 +2506,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 541 X Expanded Bold Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_541_X_Expanded_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2359,19 +2558,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 550 X Expanded Extra Bold:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_550_X_Expanded_Extra_Bold
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2394,26 +2594,32 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
-   - FC Oblate 551 X Expanded Black Italic:
-        glyphCount: 1259
-        fastspring: FC_Oblate_551_X_Expanded_Black_Italic
+   - FC Oblate 551 X Expanded Extra Bold Italic:
+        glyphCount: 1270
+        fastspring: FC_Oblate_551_X_Expanded_Extra_Bold_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -2440,19 +2646,20 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 560 X Expanded Black:
-        glyphCount: 1329
+        glyphCount: 1378
         fastspring: FC_Oblate_560_X_Expanded_Black
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2475,25 +2682,31 @@ styles:
            Dingbats: "➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉ ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓"
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Case-Sensitive Forms: "–-case —-case ―-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Schoolbook auy: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ừ-ss01 ữ-ss01 ự-ss01 ỳ-ss01 ỵ-ss01 ŷ-ss01 y-ss01 ǻ-ss01 ǽ-ss01 ÿ-ss01"
-           double g: "ġ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Capital G: "G-ss03"
-           Capital J: "J-ss04"
-           Capital K: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase a: "a-ss08"
-           lowercase k: "k-ss09"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           schoolbook alternates: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ấ-ss01 ầ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ư-ss01 ằ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 ý-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ụ-ss01 ứ-ss01 ũ-ss01 ừ-ss01 ū-ss01 ŭ-ss01 y-ss01 û-ss01 ữ-ss01 ự-ss01 ű-ss01 ų-ss01 ů-ss01 u-ss01 ỵ-ss01 ŷ-ss01 ỳ-ss01 ù-ss01 ú-ss01 ǻ-ss01 ü-ss01 ǽ-ss01 ÿ-ss01"
+           Alternate Capital G: "Ġ-ss02 Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase schoolbook a: "ā-ss07 ă-ss07 ȃ-ss07 ą-ss07 ạ-ss07 ấ-ss07 ầ-ss07 ẫ-ss07 ậ-ss07 ắ-ss07 а-ss07 ằ-ss07 ẵ-ss07 ặ-ss07 ǎ-ss07 à-ss07 a-ss07 á-ss07 â-ss07 ä-ss07 å-ss07 ã-ss07 æ-ss07 ǻ-ss07 ǽ-ss07"
+           alternate lowercase alternate a: "ā-ss08 ă-ss08 ȃ-ss08 ą-ss08 ạ-ss08 ấ-ss08 ầ-ss08 ẫ-ss08 ậ-ss08 ắ-ss08 а-ss08 ằ-ss08 ẵ-ss08 ặ-ss08 ǎ-ss08 à-ss08 a-ss08 á-ss08 â-ss08 ä-ss08 å-ss08 ã-ss08 æ-ss08 ǻ-ss08 ǽ-ss08"
+           alternate lowercase schoolbook g: "ġ-ss09 ģ-ss09 ǧ-ss09 g-ss09 ĝ-ss09 ğ-ss09"
+           alternate lowercase alternate k: "k-ss10 ķ-ss10"
+           alternate lowercase alternate l: "ŀ-ss11 ł-ss11 l-ss11 ĺ-ss11 ļ-ss11 ľ-ss11"
+           alternate lowercase alternate r: "ř-ss12 r-ss12 ŕ-ss12 ŗ-ss12"
+           alternate lowercase schoolbook u: "ụ-ss13 ứ-ss13 ũ-ss13 ừ-ss13 ū-ss13 ŭ-ss13 ữ-ss13 ư-ss13 ự-ss13 ű-ss13 ų-ss13 ů-ss13 u-ss13 ù-ss13 ú-ss13 û-ss13 ü-ss13"
+           alternate lowercase schoolbook y: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "ƒ-tnum −-tnum ¢-tnum #-tnum ¤-tnum $-tnum ₣-tnum §-tnum ₨-tnum £-tnum ₪-tnum ₫-tnum ,-tnum €-tnum .-tnum ₭-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum ;-tnum ₴-tnum ₹-tnum ₽-tnum ₸-tnum ₺-tnum ¥-tnum =-tnum >-tnum <-tnum ≈-tnum %-tnum ₩-tnum ×-tnum +-tnum ≠-tnum ¬-tnum ≤-tnum ≥-tnum ±-tnum ‰-tnum ÷-tnum ₱-tnum"
            Slashed Zero: "0-zero"
    - FC Oblate 561 X Expanded Black Italic:
-        glyphCount: 1259
+        glyphCount: 1270
         fastspring: FC_Oblate_561_X_Expanded_Black_Italic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
@@ -2521,13 +2734,14 @@ styles:
            Localized Forms: "к-locl ц-locl ш-locl щ-locl ъ-locl ь-locl ю-locl в-locl Д-locl з-locl Ж-locl ж-locl ѕ-locl К-locl Л-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum"
-           Capital G: "G-ss03"
-           Capital G: "J-ss04"
-           Capital G: "K-ss05"
-           Capital Q: "Q-ss06"
-           Capital R: "R-ss07"
-           lowercase l: "l-ss10"
-           lowercase r: "r-ss11"
+           Alternate Capital G: "Ḡ-ss02 Ģ-ss02 Ǧ-ss02 G-ss02 Ĝ-ss02 Ğ-ss02"
+           Alternate Capital J: "J-ss03 Ĵ-ss03"
+           Alternate Capital K: "K-ss04 Ķ-ss04"
+           Alternate Capital Q: "Q-ss05"
+           Alternate Capital R: "Ř-ss06 R-ss06 Ŕ-ss06 Ŗ-ss06"
+           alternate lowercase alternate l: "l-ss11"
+           Stylistic Set 12: "r-ss12"
+           Stylistic Set 14: "ỳ-ss14 ỵ-ss14 ŷ-ss14 y-ss14 ý-ss14 ÿ-ss14"
            circled numbers: "0-ss19 1-ss19 2-ss19 3-ss19 4-ss19 5-ss19 6-ss19 7-ss19 8-ss19 9-ss19"
            circled numbers negative: "0-ss20 1-ss20 2-ss20 3-ss20 4-ss20 5-ss20 6-ss20 7-ss20 8-ss20 9-ss20"
            Tabular Figures: "0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum"
@@ -2622,7 +2836,7 @@ openTypeFeatures:
 
 css: Oblate-style.css
 
-splash: Oblate-splash.jpg
+splash: Oblate-splash.svg
 
 hometile: FCB_Library_Oblate_Large.svg
 
@@ -2704,8 +2918,8 @@ testers:
         Петоъгълникът също има важни приложения в графичния дизайн, логотипите и емблемите, защото предлага баланс между симетрия и уникалност.
 
         Тази проста, но елегантна форма има дълбоки връзки с природата, науката и изкуството, което я прави една от най-завладяващите геометрични фигури.
-      fontStyle: FC Oblate 320 Condensed Regular
-      fontSize: 18
+      fontStyle: FC Oblate 320 Regular
+      fontSize: 30
       features: BGR; ss19
 
     - text: |
@@ -2904,21 +3118,22 @@ testers:
 
 about:
     - text: |
-        ## The Oblate Earth: A Dance of Forces
+        The word oblate holds within it the soft whispers of the Earth’s true shape—a shape that is not quite spherical, but gracefully distorted by the forces that govern it. The Earth, as it spins on its axis, experiences a subtle yet powerful transformation. The forces of rotation push against the equator, causing it to swell ever so slightly, while the poles are compressed, creating a shape that is an imperfect harmony between expansion and contraction. This is the oblate spheroid.
+        
+        Like it’s sister typeface <ins>[FC Nib](https://fontclubbelgica.com/typefaces/nib)</ins>, FC Oblate blends the lines of font classification. It is neither a calligraphic humanist nor a mathematical modernist sans. It merges the usage of warm obloid curves in contrast with pointy and bulbous calligraphic touches. FC Oblate has the appearance of a neutral sans but details that are far from it. In a world of copious sans serifs it is a breath of fresh air. 
 
-        The word oblate holds within it the soft whispers of the Earth’s true shape—a shape that is not quite spherical, but gracefully distorted by the forces that govern it. The Earth, as it spins tirelessly on its axis, experiences a subtle yet powerful transformation. The forces of rotation push against the equator, causing it to swell ever so slightly, while the poles are gently compressed, creating a shape that is a delicate, imperfect harmony between expansion and contraction. This is the oblate spheroid.
+        On top this visual uniqueness, it also boasts a wide array of weights and widths with matching calligraphic inspired italics. And if the six weights and 5 widths aren’t enough, there is even a variable version to help you further fine tune your ideal grayness and column widths. And then we haven’t even spoken about the extended language support: Extended Latin, Cyrillic, Greek and Vietnamese. To say that FC Oblate is an unique workhorse typeface is an understatement. As much so as saying that it was made on a perfect sphere floating around a nearly perfect sphere of hot plasma.
 
-        It is a shape of motion, of constant energy, of a planet alive with forces unseen. The equator, slightly bulging like the curve of a dancer’s hips, contrasts with the flattened poles—evidence of the invisible pull of gravity and rotation. This shape, though not perfect, is beautiful in its imperfection, a testament to the dynamic forces at play. The Earth, in its oblate form, is not static but a living, breathing entity shaped by time, energy, and the very forces that allow life to flourish. And in that, it reminds us that even the most delicate flaws are part of what makes our world uniquely perfect.
-      image: 
-      caption: This is the footer text of the image that has still to be made
+      image: FCB_Articles_Oblate.svg
+      caption: FC Oblate has a organic warmth in it’s curves, just like the planet on which it was made.
 
 research: |
-    ## Introducing Oblate: more title text
+    ## FC Oblate: From here to there and everywhere
 
     <div markdown="1">
       <div markdown="1">
 
-    ![]()
+    ![](FCB_Research_Oblate_1.jpg)
 
       </div>
       <div markdown="1">
@@ -2927,9 +3142,31 @@ research: |
 
     Imagine, if you will, the Earth as a massive sphere, suspended in the vast expanse of the cosmos. Yet, this sphere is not the perfect ball one might imagine. Instead, the Earth, through the delicate forces of rotation, experiences a subtle transformation. The Earth spins, turning on its axis with a graceful and perpetual motion. As it spins, centrifugal forces, like invisible hands, tug gently at its equator, causing it to swell outward ever so slightly. This bulge creates an elliptical form, one that is ever so slightly flattened at the poles, where the rotational pull is weaker, and more prominent at the equator, where the force is strongest. Thus, the Earth is described not as a perfect sphere but as an oblate spheroid—a shape that sings of the cosmic forces and dance of gravity that define the natural world.
 
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](FCB_Research_Oblate_2.svg)
+
+       </div>
+       <div markdown="1">
+
     This concept was not always known, but through the observations of great minds, we came to understand this truth. The idea that the Earth is not a perfect sphere was first posited by Isaac Newton in the 17th century, a notion later proven through measurements of the Earth’s circumference. The most famous experiments, such as the French expedition to Lapland and the measurements taken by astronomers in other distant lands, confirmed that the Earth’s poles were slightly compressed. This knowledge revolutionized our understanding of the world, making the Earth feel less like a simple sphere and more like a living, breathing entity, influenced by the forces of nature in ways we had yet to fully comprehend.
 
     In its most poetic sense, the term oblate captures the delicate imperfection of the world we inhabit. The Earth, while offering us its lush landscapes and vast oceans, is not an object of perfection. Instead, it carries the story of motion, forces, and time, sculpted by the unseen hands of cosmic dance. It is a reminder that even in the grandest things, there is beauty in the small imperfections. The very bulge at the equator, the flattening at the poles, is a testimony to the Earth’s dynamic nature, ever-changing and yet enduring.
+
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](FCB_Research_Oblate_3.svg)
+
+       </div>
+       <div markdown="1">
 
     If we stand at the equator, we can feel the Earth’s bulge beneath our feet, a reminder that we are not standing on a uniform, unchanging surface, but rather, we are perched on a planet that is a living, breathing thing, with its own rhythms and motions. The very fact that we experience this “oblate” shape serves as a humbling reminder of how vast and powerful the forces of nature are, shaping our world in ways we cannot always see, but can feel and measure. And so, while the Earth may not be a perfect sphere, it is nonetheless perfect in its own right, for it carries with it the story of the universe itself—a story of motion, of energy, of life.
 
