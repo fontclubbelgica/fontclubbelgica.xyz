@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: true
+draft: false
 
 information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
@@ -45,28 +45,27 @@ showcases:
      - 0123456789
 
 styles:
-   - Filter Engraved:
+   - FC Filter Engraved Light Normal Roman  Rounded:
         glyphCount: 73
-        fastspring: Filter_light_normal_roman_neutral_rounded
+        fastspring: FC_Filter_Engraved_Light_Normal_Roman__Rounded
         characterset:
            Basic Latin: "& , - . 0 1 2 3 4 5 6 7 8 9 : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Latin-1 Supplement: "é"
            Emoticons: "😀 😎"
            Transport and Map Symbols: "🚲"
-   - Filter Machine Tool:
+   - FC Filter Machine Tool Light Normal Roman  Rounded:
         glyphCount: 64
-        fastspring: Filter_light_normal_roman_neutral_rounded
+        fastspring: FC_Filter_Machine_Tool_Light_Normal_Roman__Rounded
         characterset:
            Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-   - Filter Vlotte:
+   - FC Filter Vlotte Light Normal Roman  Rounded:
         glyphCount: 66
-        fastspring: Filter_light_normal_roman_neutral_rounded
+        fastspring: FC_Filter_Vlotte_Light_Normal_Roman__Rounded
         characterset:
            Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Latin Extended-A: "ŭ"
            Spacing Modifier Letters: "˘"
-
-
+           
 fontVariations:
    - wght:
       name: Weight
