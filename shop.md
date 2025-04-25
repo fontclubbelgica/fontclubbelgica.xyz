@@ -105,7 +105,7 @@ js: assets/js/shop.js
               <p>This includes any and all internal and external employees working for the client irregardless wether they are using the fonts.</p>
             </div>
         </fieldset>
-        <p id="quote">Please contact us on <a href="mailto:licensing@fontclubbelgica.xyz">licensing@fontclubbelgica.xyz</a> for a custom quote.</p>
+        <p id="quote">Please contact us on <a href="mailto:licensing@fontclubbelgica.com">licensing@fontclubbelgica.com</a> for a custom quote.</p>
       </form>
     </div>
     <button class="next" disabled>Select your font styles</button>
