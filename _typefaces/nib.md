@@ -10,7 +10,7 @@ information: |
 designer: Dries Wiewauters
 date: 2019-01-01
 
-specimen: 19-01_FC-Nib_Type-Specimen.pdf
+specimen: FC-Nib_Type-Specimen-V1.0.pdf
 
 fastspring:
   - name: fc-nib

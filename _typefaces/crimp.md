@@ -2,7 +2,7 @@
 layout: font
 title: FC Crimp
 
-draft: true
+draft: false
 
 information: |
     FC Crimp combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
@@ -10,7 +10,7 @@ information: |
 designer: Dries Wiewauters
 date: 2025-01-01
 
-specimen: 25-03_FC-Crimp_Type-Specimen.pdf
+specimen: FC-Crimp_Type-Specimen-V1.0.pdf
 
 #Fastspring:
 #  - name: fc-Crimp

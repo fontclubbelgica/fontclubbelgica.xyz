@@ -2,7 +2,7 @@
 layout: font
 title: FC Oblate
 
-draft: true
+draft: false
 
 information: |
     What started as a sans serif companion to FC Nib has turned into a highly multifunctional sans serif that just like it's companion is both highly usable and expressive.

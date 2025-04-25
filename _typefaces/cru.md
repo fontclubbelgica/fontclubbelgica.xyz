@@ -10,7 +10,7 @@ information: |
 designer: Dries Wiewauters
 date: 2023-04-01
 
-specimen: 23-04_FC-Cru_Type-Specimen.pdf
+specimen: FC-Cru_Type-Specimen-V1.0.pdf
 
 fastspring:
   - name: fc-cru
