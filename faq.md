@@ -238,16 +238,14 @@ title: Frequently Asked Questions
   * #### Web License:
 
     A web license (or self-hosting web license) allows the font to be used in live text on a website
-    by uploading the typeface to a web server and referencing it via @font-face. This license is based
-    on the number of page views per month that a website receives.
+    by uploading the typeface to a web server and referencing it via @font-face. This license are for one website and are based upon the number individuals employed by the Licensee.
 
     [Please click here to access the complete terms of the Web License EULA.](/assets/eula/Font-Club-Belgica_EULA-Web-v1-0.pdf){:target="_blank"}
 
   * #### App License:
 
     An app license allows the font to be integrated into an application, whether it's a desktop app,
-    iOS, Android, or similar platform. This license is based on the expected number of downloads the
-    application will receive.
+    iOS, Android, or similar platform. This license is based on the number individuals employed by the Licensee.
 
     [Please click here to access the complete terms of the App License EULA.](/assets/eula/Font-Club-Belgica_EULA-App-v1-0.pdf){:target="_blank"}
 
