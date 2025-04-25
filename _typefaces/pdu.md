@@ -10,7 +10,7 @@ information: |
 designer: Dries Wiewauters
 date: 2010-01-01
 
-specimen: 10-01_FC-PDU_Specimen.pdf
+specimen: FC-PDU_Specimen-V1.0.pdf
 
 fastspring:
   - name: fc-pdu
