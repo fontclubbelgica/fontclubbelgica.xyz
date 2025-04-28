@@ -10,6 +10,10 @@ information: |
 designer: Dries Wiewauters
 date: 2019-02-01
 
+seo_description: |
+    Pep is a font by Dries Wiewauters, available on Font Club Belgica.
+seo_image: best jpg van 630*1200px
+
 specimen: 19-02_FC-Pep_Type-Specimen.pdf
 
 fastspring:

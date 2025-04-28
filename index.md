@@ -62,7 +62,8 @@ slogans:
 </div> --->
 
 <div class="search-splash">
-    {% for typeface in site.typefaces %}
+    {% assign typefaces = site.typefaces | reverse %}
+    {% for typeface in typefaces %}
         {% unless typeface.draft %}
             {% if typeface.hometile %}
             <div class="preview-font-home">
