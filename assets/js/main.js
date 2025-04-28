@@ -9,14 +9,14 @@ document.addEventListener('DOMContentLoaded', function() {
 			const element = event.target
 			const parent = element.closest('nav')
 			if (parent) {
-				parent.classList.toggle('open')
+				parent.classList.add('open')
 			}
 		})
 		nav.addEventListener('mouseout', (event) => {
 			const element = event.target;
 			const parent = element.closest('nav')
 			if (parent) {
-				parent.classList.toggle('open')
+				parent.classList.remove('open')
 			}
 		})
 	})
