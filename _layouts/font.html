@@ -210,7 +210,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
         <a href="#" class="btn expand">&#8595; Expand &#8595;</a>
     </div>
     {% if page.languageSupport %}
-    <div class="language-support">
+    <div class="language-support expandable">
         <h2 class="section-title">Language Support</h2>
         <div class="language-list">
             {% for language in page.languageSupport %}
@@ -220,6 +220,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
             </div>
             {% endfor %}
         </div>
+        <a href="#" class="btn expand">&#8595; Expand &#8595;</a>
     </div>
     {% endif %}
     
@@ -232,8 +233,8 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
         <li><a href="{{ page.specimen }}" download>PDF Specimen</a></li>
         {% endif %}
         {% if page.fastspring %}
-        <li><a href="/shop#{{ page.fastspring[0].name }}?trial=true">Get Trials</a></li>
-        <li><a href="/shop#{{ page.fastspring[0].name }}">Buy Font</a></li>
+        <li><a href="https://shop.fontclubbelgica.com/trials?f={{ page.fastspring[0].name }}">Get Trials</a></li>
+        <li><a href="https://shop.fontclubbelgica.com/#{{ page.fastspring[0].name }}">Buy Font</a></li>
         {% endif %}
     </ul>
 </section>

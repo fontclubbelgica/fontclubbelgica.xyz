@@ -1,1 +1,16 @@
 <!-- meta -->
+<meta name="description" content="{{ page.seo_description }}" />
+<meta name="robots" content="index, follow" />
+<meta property="og:title" content="{{ page.title }} | Font Club Belgica" />
+<meta property="og:description" content="{{ page.seo_description }}" />
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Font Club Belgica" />
+<meta property="og:locale" content="en_US" />
+{% if page.seo_image %}
+<meta property="og:image" content="{{ page.seo_image }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="{{ page.title }}" />
+<meta property="og:image:type" content="image/jpeg" />
+{% endif %}

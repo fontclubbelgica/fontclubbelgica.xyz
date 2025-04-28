@@ -37,9 +37,9 @@
     <div>
         <nav class="cart">
             {% if page.fastspring %}
-                <a href="/shop#{{ page.fastspring[0].name }}" target="_blank" >Add to cart</a>
+                <a href="https://shop.fontclubbelgica.com#{{ page.fastspring[0].name }}" target="_blank" >Add to cart</a>
             {% else %}
-                <a href="/shop">Buy fonts</a>
+                <a href="https://shop.fontclubbelgica.com">Buy fonts</a>
             {% endif %}
         </nav>
     </div>
