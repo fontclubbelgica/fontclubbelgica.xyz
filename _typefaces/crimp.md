@@ -12,79 +12,8 @@ date: 2025-01-01
 
 specimen: FC-Crimp_Type-Specimen-V1.0.pdf
 
-#Fastspring:
-#  - name: fc-Crimp
-#    family:
-#      - name: full-family-x-condensed
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic
-#      - name: full-family-condensed
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic
-#      - name: full-family
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic
-#      - name: full-family-expanded
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic
-#      - name: full-family-x-expanded
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic
+paypro: fc-Crimp
+
 
 technicalSupport:
     latin: true

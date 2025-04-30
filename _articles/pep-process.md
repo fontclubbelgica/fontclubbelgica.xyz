@@ -11,6 +11,10 @@ font_match:
 - FC Pep
 
 draft: false
+
+seo_description: |
+    Discover ABC Con Fantasia by Bruno Munari—an imaginative children's alphabet that transforms learning letters into a playful journey through experimentation.
+seo_image: FCB_SEO_Pep-Research.jpg
 ---
 
 ## ABC Con Fantasia

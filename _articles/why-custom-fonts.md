@@ -9,6 +9,11 @@ featuredImage: FCB_Article_Splash_Custom.svg
 thumbnailImage: FCB_ANR_Custom-Font.svg
 
 draft: false
+
+seo_description: |
+    Discover why custom fonts matter—how bespoke type elevates branding, cuts licensing costs, and helps your brand stand out with lasting visual impact.
+seo_image: FCB_SEO_Custom-Fonts.jpg
+
 ---
 
 # Why order a custom font?

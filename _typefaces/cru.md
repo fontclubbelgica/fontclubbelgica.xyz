@@ -12,25 +12,7 @@ date: 2023-04-01
 
 specimen: FC-Cru_Type-Specimen-V1.0.pdf
 
-fastspring:
-  - name: fc-cru
-    family:
-      - name: full-family
-        styles:
-          - xcondensed-black
-          - xcondensed-black-italic
-          - condensed-black
-          - condensed-black-italic
-          - semicondensed-black
-          - semicondensed-black-italic
-          - black
-          - black-italic
-          - semiexpanded-black
-          - semiexpanded-black-italic
-          - expanded-black
-          - expanded-black-italic
-          - xexpanded-black
-          - xexpanded-black-italic
+paypro:  fc-cru
 
 technicalSupport:
 

@@ -10,6 +10,11 @@ featuredImage: FCB_Article_Splash_Web-Font.svg
 thumbnailImage: FCB_ANR_Web-Font.svg
 
 draft: false
+
+seo_description: |
+     Learn how to use web fonts and unlock powerful OpenType features in this easy guide. Embod Woff2 fonts with ease using CSS for stunning, accessible typography.
+seo_image: FCB_SEO_Webfonts.jpg
+
 ---
 
 # Web Fonts & OpenType Features: a&nbsp;quick guide

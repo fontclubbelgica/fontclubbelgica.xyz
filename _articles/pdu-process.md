@@ -12,6 +12,10 @@ font_match:
 - FC PDU
 
 draft: false
+
+seo_description: |
+    Explore the imperfect beauty of typographic systems through the history of J. A. David’s Plaque Découpée Universelle — where design limitations meets engenuity.
+seo_image: FCB_SEO_PDU-Research.jpg
 ---
 
 # Le Système Typographique Imparfaite

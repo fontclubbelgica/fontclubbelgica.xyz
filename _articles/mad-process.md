@@ -12,6 +12,11 @@ font_match:
 - FC MAD Serif
 
 draft: false
+
+seo_description: |
+    Explore the origins of CAD, the Hershey Fonts and their evolution into Mad Sans and Mad Serif—how early vector typography inspired quirky yet refined typefaces.
+seo_image: FCB_SEO_MAD-Research.jpg
+
 ---
 
 ## The&nbsp;History&nbsp;and&nbsp;Evolution&nbsp;of&nbsp;the Hershey&nbsp;Fonts:&nbsp;From&nbsp;A.V.&nbsp;Hershey to&nbsp;Mad&nbsp;Sans&nbsp;and&nbsp;Mad&nbsp;Serif

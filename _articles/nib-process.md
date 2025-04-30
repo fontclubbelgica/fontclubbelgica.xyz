@@ -11,6 +11,11 @@ font_match:
 - FC Nib
 
 draft: false
+
+seo_description: |
+    Discover Nib, a modern typeface blending chiseled precision with pen-drawn expression—designed by Dries Wiewauters to balance structure and warmth in typography.
+seo_image: FCB_SEO_Nib-Research.jpg
+
 ---
 
 ## Introducing Nib: A Study in Duality

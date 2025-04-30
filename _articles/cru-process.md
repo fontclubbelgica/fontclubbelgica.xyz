@@ -11,6 +11,11 @@ font_match:
 - FC Cru
 
 draft: false
+
+seo_description: |
+    Cru is Woodtype for the web. Explore the concepts and process that inspired it's design and final form that reinterprets old wood type for modern digital media.
+seo_image: FCB_SEO_Cru-Research.jpg
+
 ---
 
 # BEHIND CRU: An Exploration of&nbsp;Form and&nbsp;History
