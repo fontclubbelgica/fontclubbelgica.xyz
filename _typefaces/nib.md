@@ -4,6 +4,10 @@ title: FC Nib
 
 draft: false
 
+seo_description: |
+    The Jekyll and Hyde of serif fonts, Nib combines chiseled and pointed pen forms into a multifunctional workhorse typeface, merging idiosyncrasy and utility.
+seo_image: FCB_SEO_Nib.jpg
+
 information: |
     The Jekyll and Hyde of serif fonts, Nib combines chiseled and pointed pen forms into a multifunctional workhorse typeface.
 
@@ -12,23 +16,7 @@ date: 2019-01-01
 
 specimen: FC-Nib_Type-Specimen-V1.0.pdf
 
-fastspring:
-  - name: fc-nib
-    family:
-      - name: full-family
-        styles:
-          - light
-          - light-italic
-          - regular
-          - regular-italic
-          - semibold
-          - semibold-italic
-          - bold
-          - bold-italic
-          - extrabold
-          - extrabold-italic
-          - black
-          - black-italic
+paypro:  fc-nib
 
 technicalSupport:
     latin: true

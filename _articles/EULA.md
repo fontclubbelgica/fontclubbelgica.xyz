@@ -9,6 +9,11 @@ featuredImage: FCB_Article_Splash_EULA.svg
 thumbnailImage: FCB_ANR_EULA.svg
 
 draft: false
+
+seo_description: |
+    What is a font EULA? From desktop to web, app, and broadcast licenses—here’s everything you need to know about font usage to use our fonts the right way.
+seo_image: FCB_SEO_EULA.jpg
+
 ---
 
 # So You Want to Use Our Fonts?<br>Here's the Deal!

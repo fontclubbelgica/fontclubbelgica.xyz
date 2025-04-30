@@ -4,6 +4,10 @@ title: FC Oblate
 
 draft: false
 
+seo_description: |
+    FC Oblate is the sans serif companion to Nib, that evolved into a multifunctional sans serif that is both usable and expressive. Perfect for all business needs.
+seo_image: FCB_SEO_Oblate.jpg
+
 information: |
     What started as a sans serif companion to FC Nib has turned into a highly multifunctional sans serif that just like it's companion is both highly usable and expressive.
 
@@ -12,79 +16,7 @@ date: 2025-04-01
 
 specimen: 25-04_FC-Oblate_Type-Specimen.pdf
 
-#Fastspring: 
-#  - name: fc-Oblate
-#    family:
-#      - name: full-family-x-condensed
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - regular italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic   
-#      - name: full-family-condensed
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - regular italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic   
-#      - name: full-family
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - regular italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic   
-#      - name: full-family-expanded
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - regular italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic   
-#      - name: full-family-x-expanded
-#        styles:
-#          - light
-#          - light italic
-#          - regular
-#          - regular italic
-#          - medium
-#          - medium italic
-#          - bold
-#          - bold italic
-#          - extrabold
-#          - extrabold italic
-#          - black
-#          - black italic   
+paypro:  fc-Oblate
 
 technicalSupport:
     latin: true

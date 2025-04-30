@@ -4,6 +4,10 @@ title: FC MAD Serif
 
 draft: false
 
+seo_description: |
+    MAD Serif is an exploration into the beauty and limitations of CAD fonts where each connection is constricted to a 45 UPM grid. Rough, digital yet organic fonts.
+seo_image: FCB_SEO_MAD-Serif.jpg
+
 information: |
     MAD Serif is an exploration into the beauty and limitations of CAD fonts where each connection is constricted to a 45 UPM grid.
 
@@ -12,19 +16,7 @@ date: 2017-01-01
 
 specimen: FC-Mad-Serif_Specimen-V1.0.pdf
 
-fastspring:
-  - name: fc-mad-serif
-    family:
-      - name: full-family
-        styles:
-          - light
-          - light-italic
-          - regular
-          - regular-italic
-          - bold
-          - bold-italic
-          - black
-          - black-italic
+paypro: fc-mad-serif
 
 technicalSupport:
     latin: true

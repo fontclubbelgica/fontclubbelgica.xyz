@@ -11,6 +11,11 @@ featuredImage: FCB_Article_Splash_Cache.jpg
 thumbnailImage: FCB_ANR_Font-Caches.jpg
 
 draft: false
+
+seo_description: |
+    Fix font issues on macOS and Windows with this step-by-step guide to clearing font caches. Solve missing fonts, crashes, and display glitches fast. 
+seo_image: FCB_SEO_Font-Caches.jpg
+
 ---
 
 # How to Clear Font Caches

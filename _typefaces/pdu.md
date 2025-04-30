@@ -4,6 +4,10 @@ title: FC PDU
 
 draft: false
 
+seo_description: |
+    PDU is a faithfull digitization and exploration into the limits of the Plaque Découpée Universelle, a stencil based system designed by Joseph A. David in 1876.
+seo_image: FCB_SEO_PDU.jpg
+
 information: |
     PDU is a faithfull digitization and exploration into the limits of the Plaque Découpée Universelle, a stencil based system originally designed by Joseph A. David in 1876.
 
@@ -12,14 +16,7 @@ date: 2010-01-01
 
 specimen: FC-PDU_Specimen-V1.0.pdf
 
-fastspring:
-  - name: fc-pdu
-    family:
-      - name: full-family
-        styles:
-          - regular
-          - outline
-          - stencil
+paypro:  fc-pdu
 
 technicalSupport:
     latin: true

@@ -3,6 +3,10 @@ layout: page
 title: Articles, Research and News
 ---
 
+seo_description: |
+    Explore in-depth articles on type design, font development, and the stories behind our typefaces—crafted for designers, typographers, and researchers.
+seo_image: assets/seo/FCB_SEO_Articles.jpg
+
 # Articles, Research and&nbsp;News
 
 <section class="articles">
