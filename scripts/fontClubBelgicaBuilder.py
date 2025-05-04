@@ -525,7 +525,7 @@ class Controller(ezui.WindowController):
             out += f"- {font["name"].getBestFullName()}:"
             out.indent()
             out += f"  glyphCount: {len(font.getGlyphOrder())}"
-            out += f"  fastspring: {font["name"].getBestFullName().replace(" ", "_")}"
+            out += f"  paypro: {font["name"].getBestFullName().replace(" ", "_")}"
 
             unicodes = {}
 

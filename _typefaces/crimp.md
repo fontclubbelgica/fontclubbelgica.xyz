@@ -2,7 +2,11 @@
 layout: font
 title: FC Crimp
 
-draft: false
+draft: true
+
+seo_description: |
+    FC Crimp revives William A. Dwiggins' idea of variable-width monospacing for better ragging. The perfect typeface for technical, engineering & aerospace needs.
+seo_image: FCB_SEO_Crimp.jpg
 
 information: |
     FC Crimp combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.

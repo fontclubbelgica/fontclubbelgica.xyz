@@ -12,7 +12,7 @@ thumbnailImage: FCB_ANR_Font-Install.svg
 draft: false
 
 seo_description: |
-    Fix font issues on macOS and Windows with this step-by-step guide to clearing font caches. Solve missing fonts, crashes, and display glitches fast. 
+    Learn how to install fonts on macOS and Windows with this step-by-step guide. Enhance your design projects with new fonts in just a few easy steps. 
 seo_image: FCB_SEO_Install-Fonts.jpg
 
 ---
