@@ -2,7 +2,7 @@
 layout: font
 title: FC Oblate
 
-draft: false
+draft: true
 
 seo_description: |
     FC Oblate is the sans serif companion to Nib, that evolved into a multifunctional sans serif that is both usable and expressive. Perfect for all business needs.

@@ -2,7 +2,11 @@
 layout: font
 title: FC Bol
 
-draft: false
+draft: true
+
+seo_description: |
+    FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
+seo_image: assets/seo/FCB_SEO_Bol.jpg
 
 information: |
     FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.

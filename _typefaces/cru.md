@@ -4,6 +4,10 @@ title: FC Cru
 
 draft: false
 
+seo_description: |
+    Woodtype for the web. FC Cru pays hommage to old wood type whilst optimizing those forms for digital design. Widths ranging from extra condensed to expanded.
+seo_image: FCB_SEO_Cru.jpg
+
 information: |
     Woodtype for the web. Cru pays hommage to old wood type whilst optimizing those forms for digital design.
 
