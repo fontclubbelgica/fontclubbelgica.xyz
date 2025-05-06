@@ -16,7 +16,7 @@ date: 2019-01-01
 
 specimen: FC-Nib_Type-Specimen-V1.0.pdf
 
-paypro:  fc-nib
+paypro: fc-nib
 
 technicalSupport:
     latin: true

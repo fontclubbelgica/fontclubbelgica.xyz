@@ -16,7 +16,7 @@ date: 2025-04-01
 
 specimen: 25-04_FC-Oblate_Type-Specimen.pdf
 
-paypro:  fc-Oblate
+paypro: fc-Oblate
 
 technicalSupport:
     latin: true
