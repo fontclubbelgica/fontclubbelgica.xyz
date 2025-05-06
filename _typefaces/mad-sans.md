@@ -732,7 +732,7 @@ testers:
         Rendering işlemi sırasında ışık, malzeme, doku, yansıma ve gölgeler gibi birçok faktör dikkate alınır. İleri düzey rendering motorları, özellikle ışığın ve gölgelerin gerçekçi bir şekilde işlenmesi için gelişmiş algoritmalar kullanır.
         Kısacası, rendering, dijital dünyadaki sahnelerin ve modellerin görsel hale getirilmesi sürecidir ve bu süreç, grafiklerin gerçekçi ya da stilize bir şekilde sunulmasına olanak tanır
       fontStyle: FC MAD Sans Black Italic
-      fontSize: 200
+      fontSize: 50
 
     - text: |
         Dimensionering is het proces van het toevoegen van maatlijnen en afmetingen aan technische tekeningen, zodat de exacte afmetingen en verhoudingen van een object duidelijk zijn. Dit wordt gebruikt in verschillende vakgebieden zoals architectuur, werktuigbouwkunde en productontwerp. Dimensionering zorgt ervoor dat iedereen die de tekening bekijkt, zoals ingenieurs, architecten of bouwers, precies weet hoe groot elk onderdeel moet zijn en hoe de verschillende elementen zich tot elkaar verhouden.
@@ -740,7 +740,7 @@ testers:
         Er zijn verschillende soorten dimensionering, zoals lineaire afmetingen voor lengte en breedte, radiale afmetingen voor cirkels en hoeken voor het meten van graden. Correct gebruik van dimensionering is cruciaal, omdat fouten in de afmetingen kunnen leiden tot onjuiste productie of bouwfouten.
         In CAD-software kunnen dimensioneringen automatisch worden gegenereerd op basis van het ontwerp, wat de nauwkeurigheid en efficiëntie van het proces verhoogt.
       fontStyle: FC MAD Sans Fill Light
-      fontSize: 30
+      fontSize: 200
 
     - text: |
         Il design parametrico è un approccio alla progettazione che utilizza parametri e variabili per definire e controllare le forme e le caratteristiche di un modello. Invece di progettare un oggetto con forme fisse e immutabili, il design parametrico consente di creare modelli che possono essere modificati facilmente cambiando i parametri che li definiscono.

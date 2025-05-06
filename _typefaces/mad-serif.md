@@ -698,7 +698,7 @@ testers:
         Snap (přichycení) umožňuje automatické přichycení objektů nebo bodů k určitým místům na mřížce nebo k dalším důležitým bodům (např. rohy, středy, koncové body). Když je snap aktivní, uživatel nemusí ručně umisťovat objekty přesně – program je automaticky přichytí na nejbližší bod mřížky nebo jiný definovaný bod.
         Tato funkce je velmi užitečná pro zajištění přesnosti a rychlosti při kreslení, zejména u technických výkresů, kde je třeba dodržovat přesné rozměry a zarovnání. Snap a mřížka tak pomáhají vytvářet čisté, přesné návrhy bez nutnosti ručního měření.
       fontStyle: FC MAD Serif Light Italic
-      fontSize: 30
+      fontSize: 50
 
     - text: |
         Las operaciones booleanas son herramientas fundamentales en diseño 3D y gráficos por computadora que permiten combinar o modificar objetos geométricos utilizando principios lógicos. Estas operaciones derivan de la lógica booleana, que trabaja con dos estados: verdadero (1) o falso (0). En el contexto del modelado 3D, las operaciones booleanas se utilizan para manipular volúmenes y formas al combinar, restar o intersecar dos o más objetos.
@@ -708,7 +708,7 @@ testers:
         3. Diferencia (Difference): Resta el volumen de un objeto del otro. El objeto resultante es el primero menos la parte que se solapa con el segundo.
         Estas operaciones permiten crear formas complejas a partir de formas simples, lo que las convierte en una herramienta poderosa en diseño industrial, arquitectura, y animación 3D. Las operaciones booleanas son rápidas y eficientes para modificar y manipular geometría, facilitando la creación de modelos precisos y detallados.
       fontStyle: FC MAD Serif Regular
-      fontSize: 70
+      fontSize: 80
 
     - text: |
         Az izometrikus nézet egyfajta háromdimenziós ábrázolási mód, amelyet a műszaki rajzokban és a számítógépes grafikában használnak. Ebben a nézetben az objektumot olyan szögből mutatjuk be, ahol mindhárom fő tengely (X, Y, Z) ugyanabban a mértékben dől, általában 30 fokos szögben a vízszinteshez képest. Ez azt eredményezi, hogy az objektum minden oldala azonos mértékben torzul, és nincs perspektivikus rövidülés – azaz a távolabbi részek sem lesznek kisebbek.
