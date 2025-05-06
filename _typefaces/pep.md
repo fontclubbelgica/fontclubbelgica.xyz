@@ -20,7 +20,7 @@ seo_image: best jpg van 630*1200px
 
 specimen: 19-02_FC-Pep_Type-Specimen.pdf
 
-paypro:  fc-pep
+paypro: fc-pep
 
 technicalSupport:
     latin: true

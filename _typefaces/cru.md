@@ -16,7 +16,7 @@ date: 2023-04-01
 
 specimen: FC-Cru_Type-Specimen-V1.0.pdf
 
-paypro:  fc-cru
+paypro: fc-cru
 
 technicalSupport:
 

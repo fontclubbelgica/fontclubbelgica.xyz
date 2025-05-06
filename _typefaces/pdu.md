@@ -16,7 +16,7 @@ date: 2010-01-01
 
 specimen: FC-PDU_Specimen-V1.0.pdf
 
-paypro:  fc-pdu
+paypro: fc-pdu
 
 technicalSupport:
     latin: true
