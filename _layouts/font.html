@@ -233,8 +233,8 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
         <li><a href="{{ page.specimen }}" download>PDF Specimen</a></li>
         {% endif %}
         {% if page.paypro %}
-        <li><a href="https://shop.fontclubbelgica.com/trials?f={{ page.paypro[0].name }}">Get Trials</a></li>
-        <li><a href="https://shop.fontclubbelgica.com/#{{ page.paypro[0].name }}">Buy Font</a></li>
+        <li><a href="https://shop.fontclubbelgica.com/trials?f={{ page.paypro }}">Get Trials</a></li>
+        <li><a href="https://shop.fontclubbelgica.com/#{{ page.paypro }}">Buy Font</a></li>
         {% endif %}
     </ul>
 </section>

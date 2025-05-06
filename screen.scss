@@ -543,6 +543,9 @@ input[type=range]:focus::-ms-fill-upper {
     nav.cart, nav.font-menu, nav.main-menu {
         padding: 9px 15px 5px 15px !important;
     }
+    nav.cart {
+      padding-bottom: 4px !important;
+    }
     header nav.main-menu.open {
       border-radius: 17px;
     }
@@ -576,7 +579,11 @@ section.showcase {
     font-size: 6vw;
     padding-left: var(--padding);
     padding-right: var(--padding);
-
+    @media(max-width: 600px) {
+      font-size: 10vw;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
     .select-font {
         margin: auto;
         margin-bottom: 10px;
@@ -589,7 +596,12 @@ section.showcase {
     #zone-fontname {
       color: black;
       background-color: #f0f0f0;
+      @media(max-width: 600px) {
+        margin-top: 20px;
+      }
+
     }
+
 }
 
 // ABOUT
@@ -875,6 +887,8 @@ section.details>div {
   text-decoration: none;
   transform: translateX(-50%);
   color: black;
+  min-width: 130px;
+  text-align: center;
 }
 .details .opentype.open:after, .details .characterSets.open:after, .expandable.open:after {
   display: none;
@@ -1351,9 +1365,16 @@ footer {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     margin-top: 40px;
+    @media(max-width: 600px) {
+      padding: 15px;
+    }
     p {
         font-size: 20px;
         line-height: 25px;
+        @media(max-width: 600px) {
+          font-size: 17px;
+          line-height: 21px;
+        }
     }
     .top a {
       text-decoration: underline;
