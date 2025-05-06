@@ -1,11 +1,12 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>{{ site.name }}</title>
+    <title>{{ page.title }} | Font Club Belgica</title>
 
     {% include META %}
     {% include HEAD %}
-
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/screen.css" />
     {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}{{ page.url}}{{ page.css }}" />{% endif %}
 
