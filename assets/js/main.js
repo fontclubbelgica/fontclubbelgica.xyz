@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	const navs = document.querySelectorAll('nav');
 	navs.forEach((nav)=> {
+		// Mouse events
 		nav.addEventListener('mouseover', (event) => {
 			const element = event.target
 			const parent = element.closest('nav')
@@ -17,6 +18,15 @@ document.addEventListener('DOMContentLoaded', function() {
 			const parent = element.closest('nav')
 			if (parent) {
 				parent.classList.remove('open')
+			}
+		})
+
+		// Touch events 
+		nav.addEventListener('touchstart', (event) => {
+			const element = event.target
+			const parent = element.closest('nav')
+			if (parent) {
+				parent.classList.toggle('open')
 			}
 		})
 	})

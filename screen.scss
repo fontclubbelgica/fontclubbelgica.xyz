@@ -167,7 +167,11 @@ header {
             justify-content: end;
         }
     }
-
+    @media(max-width: 600px) {
+        div:nth-child(2) {
+            display: none;
+        }
+    }
     nav {
         cursor: pointer;
         white-space: nowrap;
@@ -536,8 +540,11 @@ input[type=range]:focus::-ms-fill-upper {
         font-size: 13px;
         line-height: 17px;
     }
-    nav.cart a, nav.font-menu, nav.main-menu {
-        padding: 9px 15px 5px 15px;
+    nav.cart, nav.font-menu, nav.main-menu {
+        padding: 9px 15px 5px 15px !important;
+    }
+    header nav.main-menu.open {
+      border-radius: 17px;
     }
 }
 
@@ -623,6 +630,11 @@ section.about {
         position: sticky;
         align-self: start;
         top: 90px;
+      }
+      a {
+        text-decoration: underline;
+        text-underline-offset: 2px;
+        text-decoration-thickness: 1px;
       }
     }
   @media(min-width: 900px) {
@@ -1635,6 +1647,7 @@ body.index {
     position: -webkit-sticky;
     position: sticky;
     width: 500px;
+    max-width: calc(100% - 20px);
     z-index: 50;
     text-align: left;
     margin-left: 2px;
