@@ -21,14 +21,6 @@ document.addEventListener('DOMContentLoaded', function() {
 			}
 		})
 
-		// Touch events 
-		nav.addEventListener('touchstart', (event) => {
-			const element = event.target
-			const parent = element.closest('nav')
-			if (parent) {
-				parent.classList.toggle('open')
-			}
-		})
 	})
 
 	// font tester
