@@ -13,6 +13,22 @@
     <script src="{{ site.baseurl }}/assets/js/main.js?v=1"></script>
     {% if page.js %} <script src="{{ site.baseurl }}{{ page.js }}"></script>{% endif %}
 
+<!-- Matomo -->
+<script>
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+                var u="//shop.fontclubbelgica.com/matomo/";
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '1']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+</script>
+<!-- End Matomo Code -->
+
 </head>
 <body class="{{ page.path | replace: '.md', '' | split: '/' | last }}">
 
