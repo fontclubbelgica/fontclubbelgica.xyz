@@ -107,7 +107,7 @@ If you prefer to use a font manager, many third-party applications allow you to 
 
 ## Installing Webfonts
 
-[Are you looking to install a .Woff locally … that isn't possible since those are meant for online use. They are one of the fileformat you need to add fonts to your website. We've got a separate guide explaining how to get those working. Check out our article <i>webfonts and Opentype Features</i> for a step-by-step walkthrough on how to install webfonts and give your online projects that Font Club Belgica flavor!](/articles/Using-Web-Fonts)
+Are you looking to install a .Woff locally … that isn't possible since those are meant for online use. They are one of the fileformat you need to add fonts to your website. We've got a separate guide explaining how to get those working. [Check out our article <i>webfonts and Opentype Features</i>](/articles/Using-Web-Fonts) for a step-by-step walkthrough on how to install webfonts and give your online projects that Font Club Belgica flavor!
 
 ## Conclusion
 
