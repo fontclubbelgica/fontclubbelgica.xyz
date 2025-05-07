@@ -170,9 +170,9 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "²-tnum ³-tnum ₴-tnum −-tnum ƒ-tnum ₹-tnum ₸-tnum \"-tnum #-tnum $-tnum %-tnum ¢-tnum '-tnum £-tnum ¥-tnum ª-tnum +-tnum ₣-tnum ₨-tnum ₩-tnum ₪-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum ¹-tnum 9-tnum º-tnum ¼-tnum ½-tnum ¾-tnum =-tnum <-tnum >-tnum ฿-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ₫-tnum ≠-tnum €-tnum ≤-tnum ≥-tnum ₭-tnum ₱-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
            Slashed Zero: "0-zero ⁰-zero ₀-zero"
-   - FC Nib Regular talic:
+   - FC Nib Italic:
         glyphCount: 1074
-        fastspring: FC_Nib_Regular_talic
+        fastspring: FC_Nibtalic
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
