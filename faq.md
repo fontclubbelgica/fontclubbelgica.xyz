@@ -16,7 +16,7 @@ seo_image: FCB_SEO_FAQ.jpg
 
   In a world with a myriad of Dutch, Swiss, American,... boutique type foundries there is limited
   Belgian representation. Belgians are known for being humble, understated rooted in history, but also
-  very hardworking with a dash of dark humor. All qualities which are apparant in our librar
+  very hardworking with a dash of dark humor. All qualities which are apparant in our library
 
   The intent behind {% include fcb %} is to form a union of fonts, an outlet to promote the Belgian
   Type Scene. With three national languages, properly reflecting the complex nature of Belgium won’t
@@ -26,8 +26,7 @@ seo_image: FCB_SEO_FAQ.jpg
   The raison d’être of {% include fcb %} isn’t to make variations of Times, Caslon or the known Swiss
   Modernistic sans typefaces.
 
-  You can expect weird and wonderfull typographic experiments. Join us by following is on the Socials
-  channels or subscribing for our infrequent newsletter. We promise we will try our hardest to suprise you.
+  You can expect weird and wonderfull typographic experiments. Join us by following is on the Socials channels. We promise we will try our hardest to suprise you.
 
 
 * ## Our Team
