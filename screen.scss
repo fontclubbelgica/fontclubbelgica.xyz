@@ -592,6 +592,10 @@ section.showcase {
     }
     .zone {
         line-height: 1.1;
+        @media(max-width: 600px) {
+          height: 11vw;
+          overflow: hidden;
+        }
     }
     #zone-fontname {
       color: black;
@@ -637,7 +641,7 @@ section.about {
       padding-bottom: 80px;
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 60px;
+      column-gap: 60px;
       >div {
         position: sticky;
         align-self: start;
@@ -750,7 +754,7 @@ section.research {
       padding-bottom: 80px;
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 60px;
+      column-gap: 60px;
       img {
         padding-bottom: 7px;
       }
@@ -825,6 +829,14 @@ section.lang-support {
     gap: 30px;
     // padding: 0 var(--padding);
 }
+@media(max-width: 600px) {
+  .t-small, .t-xsmall {
+    column-count: 1;
+  }
+  .t-large p, .t-medium p {
+    word-break: break-all;
+  }
+}
 section.testers {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -848,6 +860,7 @@ section.testers {
     justify-content: space-between;
     padding: 0 var(--padding);
     visibility: hidden;
+    gap: 5px;
 }
 
 // DETAILS
@@ -948,6 +961,7 @@ p.meta span {
     flex-wrap: wrap;
     align-content: stretch;
 }
+
 p.features-example span {
     width: calc(50% - 50px);
 }
@@ -957,8 +971,24 @@ p.features-example span:first-child {
 p.features-example span.features-example-divider {
     font-family: "FCBELGICA";
     width: 100px;
-    text-align: left;
-    font-size: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+@media(max-width: 600px) {
+  .style-row p.features-example {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  p.features-example span {
+      width: calc(50% - 25px);
+  }
+  p.features-example span.features-example-divider {
+    font-size: 20px;
+    line-height: 30px;
+    width: 50px;
+  }
 }
 p.meta span:last-child {
     width: 20%;
@@ -1099,6 +1129,11 @@ section.buy {
     padding-bottom: 80px;
     font-family: 'FCBELGICA';
 }
+@media(max-width: 600px) {
+  section.buy {
+    padding-bottom: 20px;
+  }
+}
 .buy h2 {
     font-size: 130px;
     text-align: center;
@@ -1133,7 +1168,7 @@ section.buy {
     .buy-btns li, .library-btn  {
         font-size: 20px;
         line-height: 20px;
-        margin-bottom: 5px;
+        margin-bottom: 8px;
     }
 }
 
@@ -1150,6 +1185,11 @@ section.library {
     .grid {
       padding-bottom: 40px;
     }
+}
+@media(max-width: 600px) {
+  section.library {
+    padding-top: 40px;
+  }
 }
 .font-info h2, .font-info p {
     font-size: 13px;
