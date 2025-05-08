@@ -159,7 +159,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                             <div class="style-row" style="font-family: '{{ openTypeFeature[1].fontStyle }}';">
                                 <p class="meta"><span>{{ openTypeFeature[1].name }}</span><span>{{ openTypeFeature[0] }}</span></p>
                                 {% for example in openTypeFeature[1].examples %}
-                                    <p class="features-example"><span>{{ example }}</span><span class="features-example-divider">-></span><span style="font-feature-settings: {% for tag in featuretags %}'{{ tag }}'{% unless forloop.last %}, {% endunless -%}{% endfor %};">{{ example }}</span></p>
+                                    <p class="features-example"><span>{{ example }}</span><span class="features-example-divider">&rarr;</span><span style="font-feature-settings: {% for tag in featuretags %}'{{ tag }}'{% unless forloop.last %}, {% endunless -%}{% endfor %};">{{ example }}</span></p>
                                 {% endfor %}
                             </div>
                         {% endif %}
@@ -229,13 +229,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 <section class="buy">
     <h2 class="f2">Get it!</h2>
     <ul class="buy-btns">
-        {% if page.specimen %}
-        <li><a href="{{ page.specimen }}" download>PDF Specimen</a></li>
-        {% endif %}
-        {% if page.paypro %}
-        <li><a href="https://shop.fontclubbelgica.com/trials?f={{ page.paypro }}">Get Trials</a></li>
-        <li><a href="https://shop.fontclubbelgica.com/#{{ page.paypro }}">Buy Font</a></li>
-        {% endif %}
+        {% if page.specimen %}<li><a href="{{ page.specimen }}" download>PDF Specimen</a></li>{% endif %}{% if page.paypro %}<li><a href="https://shop.fontclubbelgica.com/trials?f={{ page.paypro }}">Get Trials</a></li><li><a href="https://shop.fontclubbelgica.com/#{{ page.paypro }}">Buy Font</a></li>{% endif %}
     </ul>
 </section>
 
