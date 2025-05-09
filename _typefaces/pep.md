@@ -727,7 +727,7 @@ about:
         Pep is available in two cuts — Solid and Shapes — both in colourways Classic, Pastel, Hot, Cold, RGN, Gray and Black. It is open to licensing in both Standard (‘STD’) and Professional (‘PRO’) versions, the latter containing language support for Cyrillic and Greek scripts as well as OpenType features, stylistic alternates, and symbols.
 
 research: |
-    ## “ABC Con Fantasia”
+    ## ABC Con Fantasia
 
     <div markdown="1">
       <div markdown="1">
@@ -737,7 +737,7 @@ research: |
       </div>
       <div markdown="1">
 
-   “ABC Con Fantasia” (translated as “ABC with Imagination”) is an innovative children’s book by the renowned Italian artist, designer and writer Bruno Munari. First published in 1960, the book offers a playful and creative approach to learning the alphabet. Munari’s work is celebrated for breaking traditional boundaries, and this book is no exception—turning the seemingly simple task of teaching letters into a whimsical and artistic adventure. It emphasizes imagination, visual creativity, and language play, making it stand out in the world of early childhood education.
+    “ABC Con Fantasia” (translated as “ABC with Imagination”) is an innovative children’s book by the renowned Italian artist, designer and writer Bruno Munari. First published in 1960, the book offers a playful and creative approach to learning the alphabet. Munari’s work is celebrated for breaking traditional boundaries, and this book is no exception—turning the seemingly simple task of teaching letters into a whimsical and artistic adventure. It emphasizes imagination, visual creativity, and language play, making it stand out in the world of early childhood education.
 
     A Journey Beyond the Alphabet: Unlike conventional alphabet books that focus strictly on teaching children letters and their corresponding sounds, “ABC Con Fantasia” adds an imaginative twist to the process. Munari's approach invites readers to view the alphabet not just as a set of letters to memorize but as an open door to creativity. Each letter is illustrated in a way that encourages children to imagine its possibilities. For example, letters might be transformed into playful shapes or objects that spark the reader’s curiosity and imagination.
 
