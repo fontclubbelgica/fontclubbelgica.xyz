@@ -1649,7 +1649,7 @@ openTypeFeatures:
 
 css: Crimp-style.css
 
-splash: Crimp-splash.svg
+splash: crimp-splash.svg
 
 hometile: FCB_Library_Crimp_Large.svg
 
