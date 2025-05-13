@@ -189,7 +189,7 @@ openTypeFeatures:
 
 css: Bol-style.css
 
-splash: Bol-splash.jpg
+splash: bol-splash.jpg
 
 hometile: FCB_Library_Bol_Large.svg
 
