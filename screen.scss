@@ -642,6 +642,7 @@ section.about {
       display: grid;
       grid-template-columns: 1fr 1fr;
       column-gap: 60px;
+      row-gap: 20px;
       >div {
         position: sticky;
         align-self: start;
