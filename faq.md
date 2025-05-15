@@ -137,10 +137,10 @@ seo_image: FCB_SEO_FAQ.jpg
 
   ### Where can I download them?
 
-  You can download trials by selecting a Trial License in the buying section of a typeface. You need
-  to fill out your information to complete the check out proces, but with a value of €0,00 a payment won’t be needed.
+  You can download trials by selecting a Trial License at the bottom section of a typeface. You need
+  to fill out your information to complete the check out proces, but they are free off charge.
 
-  You can read the full terms of the [Trial EULA here]().
+  You can read the full terms of the [Trial EULA here](/assets/eula/Font-Club-Belgica_EULA-TRIAL-v1-0.pdf){:target="_blank"}.
 
 
 * ## Payments
