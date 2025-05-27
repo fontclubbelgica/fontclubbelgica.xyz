@@ -10,13 +10,13 @@ seo_image: FCB_SEO_Index.jpg
 slogans:
     - /typefaces/pdu/FCB_Slogans_1.svg
     - /typefaces/mad-serif/FCB_Slogans_1.svg
+    - /typefaces/crimp/FCB_Slogans_1.svg
     - /typefaces/mad-sans/FCB_Slogans_1.svg
     - /typefaces/nib/FCB_Slogans_1.svg
     - /typefaces/cru/FCB_Slogans_1.svg
     - /typefaces/pep/FCB_Slogans_1.svg
     - /typefaces/cru/FCB_Slogans_2.svg
     - /typefaces/nib/FCB_Slogans_2.svg
-    - /typefaces/cru/FCB_Slogans_3.svg
     
 title: Home
 ---
