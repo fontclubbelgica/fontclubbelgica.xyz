@@ -22,7 +22,8 @@ title: Home
 ---
 
 <div class="splash">
-    {% for typeface in site.typefaces %}
+    {% assign typefaces = site.typefaces | sort:"date" | reverse %}
+    {% for typeface in typefaces %}
         {% unless typeface.draft %}
             {% if typeface.splash %}
             <div class="slide">

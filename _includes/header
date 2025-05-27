@@ -22,7 +22,7 @@
             <h2>Typefaces</h2>
             {% endif %}
             <ul>
-            {% assign typefaces = site.typefaces | sort:"date" %}
+            {% assign typefaces = site.typefaces | sort:"title" %}
             {% for fontPage in typefaces %}
                 {% unless fontPage.draft %}
                 {% if fontPage != page %}
