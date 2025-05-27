@@ -12,7 +12,7 @@ information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
 
 designer: Frederik Berlaen
-date: 2025-02-10
+date: 2025-05-28
 
 buy_redirect:
     title: Buy on Future Fonts
