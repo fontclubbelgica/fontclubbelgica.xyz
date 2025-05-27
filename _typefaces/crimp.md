@@ -2727,7 +2727,7 @@ openTypeFeatures:
        examples:
          - "6284 97 3145"
 
-css: Crimp-style.css
+css: crimp-style.css
 
 splash: crimp-splash.svg
 
