@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: false
+draft: true
 
 seo_description: |
     FC Filter is a variable font with the most axis possible that Future Fonts supports. What started as an inside joke now pushes the boundaries of type design.
