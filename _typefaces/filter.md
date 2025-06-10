@@ -2,10 +2,10 @@
 layout: font
 title: FC Filter
 
-draft: true
+draft: false
 
 seo_description: |
-    FC Filter is a variable font with the most axis possible that Future Fonts supports. What started as an inside joke now pushes the boundaries of type design. 
+    FC Filter is a variable font with the most axis possible that Future Fonts supports. What started as an inside joke now pushes the boundaries of type design.
 seo_image: FCB_SEO_Filter.jpg
 
 information: |
@@ -42,14 +42,15 @@ splash: filter-splash.svg
 hometile: FCB_Library_Filter_Large.svg
 
 showcases:
-     - ABCDEFGHIJKLMN
-     - OPQRSTUVWXYZ
-     - abcdefghijklm
-     - nopqrstuvwxyz
-     - 0123456789
+    -
+    - ABCDEFGHIJKLMN
+    - OPQRSTUVWXYZ
+    - abcdefghijklm
+    - nopqrstuvwxyz
+    - 0123456789
 
 styles:
-   - FC Filter Engraved Light Normal Roman  Rounded:
+    - FC Filter Engraved Light Normal Roman  Rounded:
         glyphCount: 73
         fastspring: FC_Filter_Engraved_Light_Normal_Roman__Rounded
         characterset:
@@ -57,12 +58,12 @@ styles:
            Latin-1 Supplement: "é"
            Emoticons: "😀 😎"
            Transport and Map Symbols: "🚲"
-   - FC Filter Machine Tool Light Normal Roman  Rounded:
+    - FC Filter Machine Tool Light Normal Roman  Rounded:
         glyphCount: 64
         fastspring: FC_Filter_Machine_Tool_Light_Normal_Roman__Rounded
         characterset:
            Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-   - FC Filter Vlotte Light Normal Roman  Rounded:
+    - FC Filter Vlotte Light Normal Roman  Rounded:
         glyphCount: 66
         fastspring: FC_Filter_Vlotte_Light_Normal_Roman__Rounded
         characterset:
@@ -71,27 +72,27 @@ styles:
            Spacing Modifier Letters: "˘"
 
 fontVariations:
-   - wght:
+    - wght:
       name: Weight
       minValue: 1.0
       maxValue: 1000.0
       defaultValue: 400.0
-   - wdth:
+    - wdth:
       name: Width
       minValue: 30
       maxValue: 100
       defaultValue: 300
-   - slnt:
+    - slnt:
       name: Slant
       minValue: -30.0
       maxValue: 30.0
       defaultValue: 0.0
-   - shft:
+    - shft:
       name: Shift
       minValue: -40.0
       maxValue: 40.0
       defaultValue: 0.0
-   - cap_:
+    - cap_:
       name: Capstyle
       minValue: 0.0
       maxValue: 1.0
@@ -274,24 +275,34 @@ about:
       text: |
         ## FILTER korte uitleg
 
-        Hier komt dan de uitleg over Filter waarom het werd gemaakt
+        Skeleton to stretch! Filter is a collection of skeleton based fonts dropped in a magical melting pot of sliders.
+        Moving from fine to mega-black over a back slant to ultra wide where curves are dancing and while maintaining the
+        line thickness at all cost.
 
-research: |
+        Filter has multiple transformations in a variable font:
 
-    ## FILTER Research
+        * **Weight**: going from thin over black to mega-black.
+        * **Slant**: going from a backslant to a slant in the reading direction.
+        * **Width**: Going from extremely compressed to extremely extended
+        * **Stroke endings**: stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
+        * **Stroke shift**: each stroke is shifted from left to right to achieve a graphical coolness effect.
 
-    <div markdown="1">
-      <div markdown="1">
+# research: |
 
-    ![](FCB_Research_Cru_1.jpg)
+#     ## FILTER Research
 
-      </div>
-      <div markdown="1">
+#     <div markdown="1">
+#       <div markdown="1">
 
-    Ja we hebben dat gemaakt, maar waarom? Wel pakt u nen stoel en ik leg het uit.
+#     ![](FCB_Research_Cru_1.jpg)
 
-      </div>
-    </div>
+#       </div>
+#       <div markdown="1">
+
+
+
+#       </div>
+#     </div>
 
 library_preview:
     - FCB_Library_Filter_1.svg

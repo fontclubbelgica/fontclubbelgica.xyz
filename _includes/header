@@ -38,6 +38,8 @@
         <nav class="cart">
             {% if page.paypro %}
                 <a href="https://shop.fontclubbelgica.com#{{ page.paypro }}" target="_blank" >Add to cart</a>
+            {% elsif page.buy_redirect %}
+                <a href="{{ page.buy_redirect.url }}" target="_blank" >{{ page.buy_redirect.title }}</a>
             {% else %}
                 <a href="https://shop.fontclubbelgica.com">Buy fonts</a>
             {% endif %}
