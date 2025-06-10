@@ -5,6 +5,12 @@ import base64
 import io
 from glyphNameFormatter import getRangeName
 
+try:
+    from hyperglot.checker import FontChecker
+    hasHyperglot = True
+except ImportError:
+    hasHyperglot = False
+
 
 fontFace_template = """@font-face {{
   font-family: "{fullName}";
@@ -382,6 +388,7 @@ class Controller(ezui.WindowController):
         > ( Opentype Features ) @buildOpentypeFeatures
         > ( Font Variations ) @buildFontVariations
         > ( Character set ) @buildCharacterSet
+        > ( Language support ) @buildLanguageSupport
         """
         descriptionData = dict(
             output=dict(
@@ -574,5 +581,19 @@ class Controller(ezui.WindowController):
         out.dedent()
         self.write(out.get())
 
+    def buildLanguageSupportCallback(self, sender):
+        if not hasHyperglot:
+            self.write("Install hypherglot first, ask Frederik!")
+            return
+        out = Writer()
+        out += "languageSupport:"
+        out.indent()
+
+        for font, path in self.fonts():
+            support = FontChecker(path).get_supported_languages()
+            for script, languages in support.items():
+                out += f"{script}: {', '.join([language.name for language in languages.values()])}"
+        out.dedent()
+        self.write(out.get())
 
 Controller()
