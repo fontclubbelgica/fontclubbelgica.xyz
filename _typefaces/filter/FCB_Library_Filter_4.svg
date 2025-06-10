@@ -50,7 +50,7 @@
     <path
        id="path1"
        d="M 0,3000 V 0 H 3000 V 3000 H 0"
-       style="fill:#461e96;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:rgba(96,159,255);fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0.13333333,0,0,-0.13333333,0,400)" />
     <path
        id="path2"

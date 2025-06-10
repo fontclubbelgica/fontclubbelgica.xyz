@@ -33,70 +33,79 @@ technicalSupport:
     variable: true
 
 languageSupport:
-    Latin: A B C D E Fill out further
+    Latin: Batak Karo, Shipibo-Conibo, Kimbundu, North Ndebele, Batak Mandailing, Afar, Kongo, Portuguese, Chiga, Nomatsiguenga, Bena (Tanzania), Oroqen, Gheg Albanian, Anaang, Swahili, Wiradjuri, Buginese, Balinese, Quechua, Amis, Kalaallisut, Walloon, Tedim Chin, Sranan Tongo, Kinyarwanda, Fijian, Indonesian, Konzo, Piemontese, Ese Ejja, Waray (Philippines), Meru, Kabuverdianu, Swedish, Eastern Arrernte, Irish, Papiamento, Southern Qiandong Miao, Mískito, Potawatomi, Kalenjin, Anuta, Malaysian, Ndonga, Hiligaynon, Iloko, Nyankole, Sango, Nobiin, Sundanese, Javanese, Bislama, Pintupi-Luritja, Maore Comorian, Arvanitika Albanian, Manx, Kaonde, Uab Meto, Amahuaca, Congo Swahili, Sardinian, Tumbuka, Swiss German, Taita, Zulu, Catalan, Neapolitan, Swati, Shambala, Chavacano, Mwani, Ladino, Gusii, Rwa, Standard Malay, Shawnee, Wayuu, Minangkabau, Western Frisian, Soga, Mapudungun, Bikol, Friulian, Batak Toba, Guadeloupean Creole French, Filipino, Luba-Lulua, Batak Simalungun, Afrikaans, Jamaican Creole English, Western Abnaki, Sena, Xhosa, Pichis Ashéninka, Tsonga, Murrinh-Patha, Banjar, Tok Pisin, Northern Qiandong Miao, Hani, Tosk Albanian, South Ndebele, Acheron, Khasi, Kenzi, Mattokki, Tetun Dili, Scottish Gaelic, Breton, Luo (Kenya and Tanzania), Rotokas, Chokwe, Naga Pidgin, Ao Naga, Andaandi, Dongolawi, Japanese, Samburu, Malagasy, Haitian, Pohnpeian, Cebuano, Meriam Mir, Finnish, Chuukese, Shona, Warlpiri, Seri, Alekano, Wik-Mungkan, Kuanyama, Mauritian Creole, Batak Dairi, Pampanga, Asu (Tanzania), Scots, Makhuwa-Meetto, Seselwa Creole French, Tiv, Aragonese, Ashéninka Perené, Romansh, Tagalog, Rundi, Yapese, Arbëreshë Albanian, Hopi, Bemba (Zambia), Paluan, Saramaccan, Wangaaybuwan-Ngiyambaa, Cornish, Sangu (Tanzania), Italian, Spanish, Kituba (DRC), Gilbertese, Ngazidja Comorian, Makwe, Yindjibarndi, Corsican, Basque, Occitan, Somali, Galician, Makhuwa, Tetum, Chamorro, Dehu, Makonde, Sicilian
 
 css: filter-style.css
 
-splash: filter-splash.svg
+splash: FCB_Filter_splash.png
 
 hometile: FCB_Library_Filter_Large.svg
 
 showcases:
-    -
-    - ABCDEFGHIJKLMN
-    - OPQRSTUVWXYZ
+    - More sources
+    - than glyphs!
+    - with 378 sources
     - abcdefghijklm
     - nopqrstuvwxyz
-    - 0123456789
+    - width, weight, slant
+    - stroke & shift
 
 styles:
-    - FC Filter Engraved Light Normal Roman  Rounded:
-        glyphCount: 73
-        fastspring: FC_Filter_Engraved_Light_Normal_Roman__Rounded
+   - FC Filter Engraved Light Normal Roman  Rounded:
+        glyphCount: 151
+        paypro: FC_Filter_Engraved_Light_Normal_Roman__Rounded
         characterset:
-           Basic Latin: "& , - . 0 1 2 3 4 5 6 7 8 9 : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-           Latin-1 Supplement: "é"
-           Emoticons: "😀 😎"
-           Transport and Map Symbols: "🚲"
-    - FC Filter Machine Tool Light Normal Roman  Rounded:
-        glyphCount: 64
-        fastspring: FC_Filter_Machine_Tool_Light_Normal_Roman__Rounded
+           Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
+           Latin Extended-A: "ı ŭ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
+           Private Use Area: ""
+   - FC Filter Machine Tool Light Normal Roman  Rounded:
+        glyphCount: 151
+        paypro: FC_Filter_Machine_Tool_Light_Normal_Roman__Rounded
         characterset:
-           Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-    - FC Filter Vlotte Light Normal Roman  Rounded:
-        glyphCount: 66
-        fastspring: FC_Filter_Vlotte_Light_Normal_Roman__Rounded
+           Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
+           Latin Extended-A: "ı ŭ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
+           Private Use Area: ""
+   - FC Filter Vlotte Light Normal Roman  Rounded:
+        glyphCount: 151
+        paypro: FC_Filter_Vlotte_Light_Normal_Roman__Rounded
         characterset:
-           Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-           Latin Extended-A: "ŭ"
-           Spacing Modifier Letters: "˘"
+           Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
+           Latin Extended-A: "ı ŭ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
+           Private Use Area: ""
+
 
 fontVariations:
     - wght:
-      name: Weight
-      minValue: 1.0
-      maxValue: 1000.0
-      defaultValue: 400.0
+        name: Weight
+        minValue: 1.0
+        maxValue: 1000.0
+        defaultValue: 400.0
     - wdth:
-      name: Width
-      minValue: 30
-      maxValue: 100
-      defaultValue: 300
+        name: Width
+        minValue: 30
+        maxValue: 100
+        defaultValue: 300
     - slnt:
-      name: Slant
-      minValue: -30.0
-      maxValue: 30.0
-      defaultValue: 0.0
+        name: Slant
+        minValue: -30.0
+        maxValue: 30.0
+        defaultValue: 0.0
     - shft:
-      name: Shift
-      minValue: -40.0
-      maxValue: 40.0
-      defaultValue: 0.0
+        name: Shift
+        minValue: -40.0
+        maxValue: 40.0
+        defaultValue: 0.0
     - cap_:
-      name: Capstyle
-      minValue: 0.0
-      maxValue: 1.0
-      defaultValue: 1.0
+        name: Capstyle
+        minValue: 0.0
+        maxValue: 1.0
+        defaultValue: 1.0
 
 # openTypeFeatures:
 #    - dnom:
@@ -269,18 +278,13 @@ testers:
       fontSize: 120
 
 about:
-    - image: FCB_Articles_Cru.jpg
-      caption: "Leavenworth: Sixteen and Twelve Lines Condensed Gothic"
+    - image: FCB_Filter_about.png
+      caption: "Botanical Garden, Ghent, Belgium."
 
       text: |
-        ## FILTER korte uitleg
-
         Skeleton to stretch! Filter is a collection of skeleton based fonts dropped in a magical melting pot of sliders.
         Moving from fine to mega-black over a back slant to ultra wide where curves are dancing and while maintaining the
-        line thickness at all cost.
-
-        Filter has multiple transformations in a variable font:
-
+        line thickness at all cost. Filter has multiple transformations in a variable font:
         * **Weight**: going from thin over black to mega-black.
         * **Slant**: going from a backslant to a slant in the reading direction.
         * **Width**: Going from extremely compressed to extremely extended
@@ -315,9 +319,9 @@ library_preview:
     - FCB_Library_Filter_8.svg
     - FCB_Library_Filter_9.svg
 
-font_match:
-    - FC Nib
-    - FC Crimp
-    - FC MAD Sans
-    - FC Cru
+# font_match:
+#     - FC Nib
+#     - FC Crimp
+#     - FC MAD Sans
+#     - FC Cru
 ---
