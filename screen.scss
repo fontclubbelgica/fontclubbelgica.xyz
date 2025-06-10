@@ -637,6 +637,13 @@ section.about {
     p+p {
         text-indent: 33px;
     }
+    li {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    ul {
+        margin-left: 33px;
+    }
     .text-content>div {
       padding-bottom: 80px;
       display: grid;

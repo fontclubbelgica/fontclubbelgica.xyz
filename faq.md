@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 
 seo_description: |
-    Discover how Font Club Belgica wants to be a plaftorm for Belgian type design. Discover who we are, what we do and all the ins and outs of our business. 
+    Discover how Font Club Belgica wants to be a plaftorm for Belgian type design. Discover who we are, what we do and all the ins and outs of our business.
 seo_image: FCB_SEO_FAQ.jpg
 
 ---
@@ -16,12 +16,12 @@ seo_image: FCB_SEO_FAQ.jpg
 
   In a world with a myriad of Dutch, Swiss, American,... boutique type foundries there is limited
   Belgian representation. Belgians are known for being humble, understated rooted in history, but also
-  very hardworking with a dash of dark humor. All qualities which are apparant in our library
+  very hardworking with a dash of dark humor. All qualities which are apparant in our library.
 
   The intent behind {% include fcb %} is to form a union of fonts, an outlet to promote the Belgian
   Type Scene. With three national languages, properly reflecting the complex nature of Belgium won’t
   be easy, but we will try our hardest. If you are a designer with a connection to our chaotic country
-  and are you looking for an outlet for your type, do get in touc
+  and are you looking for an outlet for your type, do get in touch.
 
   The raison d’être of {% include fcb %} isn’t to make variations of Times, Caslon or the known Swiss
   Modernistic sans typefaces.

@@ -37,7 +37,7 @@ languageSupport:
 
 css: filter-style.css
 
-splash: filter-splash.svg
+splash: FCB_Filter_splash.png
 
 hometile: FCB_Library_Filter_Large.svg
 
@@ -71,32 +71,33 @@ styles:
            Latin Extended-A: "ŭ"
            Spacing Modifier Letters: "˘"
 
+
 fontVariations:
     - wght:
-      name: Weight
-      minValue: 1.0
-      maxValue: 1000.0
-      defaultValue: 400.0
+        name: Weight
+        minValue: 1.0
+        maxValue: 1000.0
+        defaultValue: 400.0
     - wdth:
-      name: Width
-      minValue: 30
-      maxValue: 100
-      defaultValue: 300
+        name: Width
+        minValue: 30
+        maxValue: 100
+        defaultValue: 300
     - slnt:
-      name: Slant
-      minValue: -30.0
-      maxValue: 30.0
-      defaultValue: 0.0
+        name: Slant
+        minValue: -30.0
+        maxValue: 30.0
+        defaultValue: 0.0
     - shft:
-      name: Shift
-      minValue: -40.0
-      maxValue: 40.0
-      defaultValue: 0.0
+        name: Shift
+        minValue: -40.0
+        maxValue: 40.0
+        defaultValue: 0.0
     - cap_:
-      name: Capstyle
-      minValue: 0.0
-      maxValue: 1.0
-      defaultValue: 1.0
+        name: Capstyle
+        minValue: 0.0
+        maxValue: 1.0
+        defaultValue: 1.0
 
 # openTypeFeatures:
 #    - dnom:
@@ -269,18 +270,13 @@ testers:
       fontSize: 120
 
 about:
-    - image: FCB_Articles_Cru.jpg
-      caption: "Leavenworth: Sixteen and Twelve Lines Condensed Gothic"
+    - image: FCB_Filter_about.png
+      caption: "Botanical Garden, Ghent, Belgium."
 
       text: |
-        ## FILTER korte uitleg
-
         Skeleton to stretch! Filter is a collection of skeleton based fonts dropped in a magical melting pot of sliders.
         Moving from fine to mega-black over a back slant to ultra wide where curves are dancing and while maintaining the
-        line thickness at all cost.
-
-        Filter has multiple transformations in a variable font:
-
+        line thickness at all cost. Filter has multiple transformations in a variable font:
         * **Weight**: going from thin over black to mega-black.
         * **Slant**: going from a backslant to a slant in the reading direction.
         * **Width**: Going from extremely compressed to extremely extended
