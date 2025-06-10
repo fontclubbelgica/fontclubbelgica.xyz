@@ -33,7 +33,7 @@ technicalSupport:
     variable: true
 
 languageSupport:
-    Latin: A B C D E Fill out further
+    Latin: Batak Karo, Shipibo-Conibo, Kimbundu, North Ndebele, Batak Mandailing, Afar, Kongo, Portuguese, Chiga, Nomatsiguenga, Bena (Tanzania), Oroqen, Gheg Albanian, Anaang, Swahili, Wiradjuri, Buginese, Balinese, Quechua, Amis, Kalaallisut, Walloon, Tedim Chin, Sranan Tongo, Kinyarwanda, Fijian, Indonesian, Konzo, Piemontese, Ese Ejja, Waray (Philippines), Meru, Kabuverdianu, Swedish, Eastern Arrernte, Irish, Papiamento, Southern Qiandong Miao, Mískito, Potawatomi, Kalenjin, Anuta, Malaysian, Ndonga, Hiligaynon, Iloko, Nyankole, Sango, Nobiin, Sundanese, Javanese, Bislama, Pintupi-Luritja, Maore Comorian, Arvanitika Albanian, Manx, Kaonde, Uab Meto, Amahuaca, Congo Swahili, Sardinian, Tumbuka, Swiss German, Taita, Zulu, Catalan, Neapolitan, Swati, Shambala, Chavacano, Mwani, Ladino, Gusii, Rwa, Standard Malay, Shawnee, Wayuu, Minangkabau, Western Frisian, Soga, Mapudungun, Bikol, Friulian, Batak Toba, Guadeloupean Creole French, Filipino, Luba-Lulua, Batak Simalungun, Afrikaans, Jamaican Creole English, Western Abnaki, Sena, Xhosa, Pichis Ashéninka, Tsonga, Murrinh-Patha, Banjar, Tok Pisin, Northern Qiandong Miao, Hani, Tosk Albanian, South Ndebele, Acheron, Khasi, Kenzi, Mattokki, Tetun Dili, Scottish Gaelic, Breton, Luo (Kenya and Tanzania), Rotokas, Chokwe, Naga Pidgin, Ao Naga, Andaandi, Dongolawi, Japanese, Samburu, Malagasy, Haitian, Pohnpeian, Cebuano, Meriam Mir, Finnish, Chuukese, Shona, Warlpiri, Seri, Alekano, Wik-Mungkan, Kuanyama, Mauritian Creole, Batak Dairi, Pampanga, Asu (Tanzania), Scots, Makhuwa-Meetto, Seselwa Creole French, Tiv, Aragonese, Ashéninka Perené, Romansh, Tagalog, Rundi, Yapese, Arbëreshë Albanian, Hopi, Bemba (Zambia), Paluan, Saramaccan, Wangaaybuwan-Ngiyambaa, Cornish, Sangu (Tanzania), Italian, Spanish, Kituba (DRC), Gilbertese, Ngazidja Comorian, Makwe, Yindjibarndi, Corsican, Basque, Occitan, Somali, Galician, Makhuwa, Tetum, Chamorro, Dehu, Makonde, Sicilian
 
 css: filter-style.css
 
@@ -319,9 +319,9 @@ library_preview:
     - FCB_Library_Filter_8.svg
     - FCB_Library_Filter_9.svg
 
-font_match:
-    - FC Nib
-    - FC Crimp
-    - FC MAD Sans
-    - FC Cru
+# font_match:
+#     - FC Nib
+#     - FC Crimp
+#     - FC MAD Sans
+#     - FC Cru
 ---
