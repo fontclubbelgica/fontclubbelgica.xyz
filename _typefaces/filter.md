@@ -42,11 +42,13 @@ splash: FCB_Filter_splash.png
 hometile: FCB_Library_Filter_Large.svg
 
 showcases:
-    - More sources than glyphs!
+    - More sources
+    - than glyphs!
     - with 378 sources
     - abcdefghijklm
     - nopqrstuvwxyz
-    - width, weight, slant, stroke shift and ending
+    - width, weight, slant
+    - stroke & shift
 
 styles:
    - FC Filter Engraved Light Normal Roman  Rounded:
