@@ -42,34 +42,40 @@ splash: FCB_Filter_splash.png
 hometile: FCB_Library_Filter_Large.svg
 
 showcases:
-    -
-    - ABCDEFGHIJKLMN
-    - OPQRSTUVWXYZ
+    - More sources than glyphs!
+    - with 378 sources
     - abcdefghijklm
     - nopqrstuvwxyz
-    - 0123456789
+    - width, weight, slant, stroke shift and ending
 
 styles:
-    - FC Filter Engraved Light Normal Roman  Rounded:
-        glyphCount: 73
-        fastspring: FC_Filter_Engraved_Light_Normal_Roman__Rounded
+   - FC Filter Engraved Light Normal Roman  Rounded:
+        glyphCount: 151
+        paypro: FC_Filter_Engraved_Light_Normal_Roman__Rounded
         characterset:
-           Basic Latin: "& , - . 0 1 2 3 4 5 6 7 8 9 : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-           Latin-1 Supplement: "é"
-           Emoticons: "😀 😎"
-           Transport and Map Symbols: "🚲"
-    - FC Filter Machine Tool Light Normal Roman  Rounded:
-        glyphCount: 64
-        fastspring: FC_Filter_Machine_Tool_Light_Normal_Roman__Rounded
+           Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
+           Latin Extended-A: "ı ŭ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
+           Private Use Area: ""
+   - FC Filter Machine Tool Light Normal Roman  Rounded:
+        glyphCount: 151
+        paypro: FC_Filter_Machine_Tool_Light_Normal_Roman__Rounded
         characterset:
-           Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-    - FC Filter Vlotte Light Normal Roman  Rounded:
-        glyphCount: 66
-        fastspring: FC_Filter_Vlotte_Light_Normal_Roman__Rounded
+           Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
+           Latin Extended-A: "ı ŭ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
+           Private Use Area: ""
+   - FC Filter Vlotte Light Normal Roman  Rounded:
+        glyphCount: 151
+        paypro: FC_Filter_Vlotte_Light_Normal_Roman__Rounded
         characterset:
-           Basic Latin: "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
-           Latin Extended-A: "ŭ"
-           Spacing Modifier Letters: "˘"
+           Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
+           Latin Extended-A: "ı ŭ"
+           Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
+           Private Use Area: ""
 
 
 fontVariations:
