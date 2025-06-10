@@ -637,6 +637,13 @@ section.about {
     p+p {
         text-indent: 33px;
     }
+    li {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    ul {
+        margin-left: 33px;
+    }
     .text-content>div {
       padding-bottom: 80px;
       display: grid;
@@ -1312,6 +1319,7 @@ section.table {
     font-size: 16px;
     line-height: 15px;
     font-family: 'FCBELGICA Condensed';
+    white-space: nowrap;
   }
   tr:first-child th {
     text-transform: uppercase;
@@ -1653,6 +1661,7 @@ body.index {
         overflow: hidden;
         justify-content: center;
         align-items: center;
+        background-color: var(--black);
       }
       img {
         object-fit: cover;
