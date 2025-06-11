@@ -19,7 +19,7 @@
             {% if page.layout == "font" %}
             <h2>{{ page.title }}</h2>
             {% else %}
-            <h2>Typefaces</h2>
+            <h2><a href="/typefaces">Typefaces</a></h2>
             {% endif %}
             <ul>
             {% assign typefaces = site.typefaces | sort:"title" %}

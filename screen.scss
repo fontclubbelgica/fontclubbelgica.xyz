@@ -188,9 +188,11 @@ header {
         }
         &.font-menu {
             text-align: center;
-            // h2 {
-            //     text-align: center;
-            // }
+            h2 {
+                a {
+                    font-size: 16px;
+                }
+            }
             a {
                 font-family: 'FCBELGICA Menu';
                 width: 100%;
