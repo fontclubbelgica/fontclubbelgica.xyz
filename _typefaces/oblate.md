@@ -12,7 +12,7 @@ information: |
     What started as a sans serif companion to FC Nib has turned into a highly multifunctional sans serif that just like it's companion is both highly usable and expressive.
 
 designer: Dries Wiewauters
-date: 2025-05-30
+date: 2025-06-11
 
 specimen: 25-04_FC-Oblate_Type-Specimen.pdf
 

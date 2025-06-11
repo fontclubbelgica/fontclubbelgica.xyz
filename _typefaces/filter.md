@@ -2,7 +2,7 @@
 layout: font
 title: FC Filter
 
-draft: true
+draft: false
 
 seo_description: |
     FC Filter is a variable font with the most axis possible that Future Fonts supports. What started as an inside joke now pushes the boundaries of type design.
@@ -12,11 +12,14 @@ information: |
     Filter is a collection of skeleton fonts brought in an experimental variable world.
 
 designer: Frederik Berlaen
-date: 2025-05-28
+date: 2025-06-10
+
+specimen: FC-Filter_Type-Specimen-V1.0.pdf
+
 
 buy_redirect:
     title: Buy on Future Fonts
-    url: https://www.futurefonts.xyz
+    url: https://www.future-fonts.com/fontclubbelgica/fc-filter
 
 technicalSupport:
 
@@ -42,36 +45,35 @@ splash: FCB_Filter_splash.png
 hometile: FCB_Library_Filter_Large.svg
 
 showcases:
-    - More sources
-    - than glyphs!
-    - with 378 sources
     - abcdefghijklm
     - nopqrstuvwxyz
-    - width, weight, slant
-    - stroke & shift
+    - ABCDEFGHIJKLMN
+    - OPQRSTUVWXYZ
+    - 012345679
+
 
 styles:
-   - FC Filter Engraved Light Normal Roman  Rounded:
+   - FC Filter Engraved:
         glyphCount: 151
-        paypro: FC_Filter_Engraved_Light_Normal_Roman__Rounded
+        paypro: FC_Filter_Engraved
         characterset:
            Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
            Latin Extended-A: "ı ŭ"
            Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
            Private Use Area: ""
-   - FC Filter Machine Tool Light Normal Roman  Rounded:
+   - FC Filter Machine Tool:
         glyphCount: 151
-        paypro: FC_Filter_Machine_Tool_Light_Normal_Roman__Rounded
+        paypro: FC_Filter_Machine_Tool
         characterset:
            Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
            Latin Extended-A: "ı ŭ"
            Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
            Private Use Area: ""
-   - FC Filter Vlotte Light Normal Roman  Rounded:
+   - FC Filter Vlotte:
         glyphCount: 151
-        paypro: FC_Filter_Vlotte_Light_Normal_Roman__Rounded
+        paypro: FC_Filter_Vlotte
         characterset:
            Basic Latin: "! & , - . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Latin-1 Supplement: "¡ ¨ ¯ ´ ¸ ¿ À Á Â Ã Ä Å Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ñ ò ó ô õ ö ù ú û ü ý ÿ"
@@ -89,8 +91,8 @@ fontVariations:
     - wdth:
         name: Width
         minValue: 30
-        maxValue: 100
-        defaultValue: 300
+        maxValue: 300
+        defaultValue: 100
     - slnt:
         name: Slant
         minValue: -30.0
@@ -128,7 +130,7 @@ testers:
         2. Créer une profondeur de champ : En floutant l'arrière-plan d'une image, il est possible de mettre en valeur le sujet principal.
         3. Réduire le bruit : Le flou gaussien peut aider à masquer les artefacts indésirables ou le bruit dans une image, surtout dans les photos prises dans des conditions de faible luminosité.
         Dans les logiciels de retouche d'images comme Adobe Photoshop, le flou gaussien est un outil facile à utiliser qui offre une grande flexibilité dans la création d'effets visuels.
-      fontStyle: FC Filter
+      fontStyle: FC Filter Engraved
       fontSize: 200
       fontVariations:
             - cap_: 1
@@ -145,8 +147,11 @@ testers:
         3.3 Küszöb (Threshold): Megadja, hogy mennyire legyen érzékeny az élesítés a képen található zajra. Magasabb küszöbértékek segítenek elkerülni a zaj kiemelését.
         Felhasználási területek
         Az élesítő maszk különösen hasznos lehet digitális fényképek utófeldolgozása során, mivel segít kiemelni a részleteket, és élesebb, professzionálisabb megjelenést kölcsönöz a képeknek. Az élesítés alkalmazásakor fontos azonban figyelni arra, hogy ne vigyük túlzásba, mert a túlzott élesítés zajos hatást eredményezhet, és ronthatja a kép minőségét.
-      fontStyle: FC Filter
-      fontSize: 30
+      fontStyle: FC Filter Vlotte
+      fontSize: 50
+      fontVariations:
+            - cap_: 1
+            - slnt: 10
 
     - text: |
         El filtro de paso alto es una técnica utilizada en la edición de imágenes para mejorar la nitidez y el detalle de una fotografía. A diferencia de los filtros convencionales que pueden suavizar la imagen, el filtro de paso alto se centra en resaltar las áreas de mayor contraste y definición, lo que lo convierte en una herramienta popular para la nitidez.
@@ -160,8 +165,12 @@ testers:
         c. Efectos Artísticos: A veces se utiliza en diseño gráfico para crear efectos visuales específicos.
         Consideraciones
         Aunque el filtro de paso alto es efectivo, es importante utilizarlo con moderación. Un uso excesivo puede resultar en una apariencia artificial, con bordes demasiado marcados y ruido visual. Por lo tanto, se recomienda ajustar la intensidad del filtro para lograr un equilibrio óptimo entre nitidez y naturalidad.
-      fontStyle: FC Filter
-      fontSize: 70
+      fontStyle: FC Filter Machine Tool
+      fontSize: 100
+      fontVariations:
+            - wdth: 150
+            - cap_: 0.5
+            - slnt: 15
 
     - text: |
          Brusfilter är en viktig teknik inom digital bildbehandling som används för att reducera oönskade störningar i bilder. Brus kan uppstå av olika anledningar, inklusive dåliga ljusförhållanden, hög ISO-inställning eller sensorproblem. Brus kan visa sig som korniga strukturer eller färgade prickar som distraherar från bildens huvudmotiv.
@@ -176,8 +185,13 @@ testers:
          Användningsområden
          Brusfilter används ofta inom fotografi, videoproduktion och medicinsk bildbehandling. I fotografi kan det förbättra bilder tagna under svaga ljusförhållanden. Inom medicinsk bildbehandling kan brusreducering förbättra diagnosticering genom att ge tydligare bilder.
          Att använda brusfilter effektivt kräver en balans mellan brusreducering och bevarande av bildens skärpa och detaljrikedom. En överanvändning av brusfilter kan leda till att bilden ser onaturlig eller för mjuk ut.
-      fontStyle: FC Filter
-      fontSize: 120
+      fontStyle: FC Filter Engraved
+      fontSize: 80
+      fontVariations:
+            - wght: 600
+            - wdth: 75
+            - cap_: 0.75
+            - slnt: -15
 
     - text: |
          Kleurbalans is een cruciaal concept in de digitale beeldbewerking en fotografie dat betrekking heeft op de aanpassing van de kleuren in een afbeelding om een gewenste visuele uitstraling te bereiken. Het doel van kleurbalans is om de verhouding tussen de primaire kleuren - rood, groen en blauw (RGB) - of hun equivalente waarden in andere kleurmodellen, zoals CMYK, te optimaliseren.
@@ -190,8 +204,13 @@ testers:
          3. Kleurcorrectie: Door de kleurverhoudingen in elk van deze gebieden aan te passen, kan de fotograaf of beeldbewerker een meer natuurlijke uitstraling creëren of artistieke effecten bereiken. Bijvoorbeeld, het verminderen van het rood in de schaduw kan een te warme afbeelding koeler maken.
          Belang van Kleurbalans
          Een goede kleurbalans is cruciaal voor het verkrijgen van aantrekkelijke en visueel samenhangende beelden. Het stelt de maker in staat om de emotionele impact van de afbeelding te beïnvloeden en ervoor te zorgen dat kleuren op de juiste manier worden weergegeven. Onjuiste kleurbalans kan leiden tot afbeeldingen die er niet alleen onaantrekkelijk uitzien, maar ook verwarrend voor de kijker kunnen zijn.
-               fontStyle: FC Filter
-      fontSize: 200
+      fontStyle: FC Filter Vlotte
+      fontSize: 150
+      fontVariations:
+            - wght: 700
+            - wdth: 150
+            - cap_: 0
+            - slnt: 15
 
 
     - text: |
@@ -206,8 +225,14 @@ testers:
          c. Umjetnički Efekti: Koristi se u umetničkim projektima kako bi se stvorili vizuelni efekti koji dodaju dubinu i karakter.
          Primenjivost
          Upečatljivost se široko koristi u različitim oblastima, uključujući grafički dizajn, reklamu, fotografiju i digitalnu umetnost. Dok se može koristiti za postizanje sofisticiranih efekata, važno je koristiti ga pažljivo, jer prekomerna primena može učiniti slike neurednim ili previše veštačkim.
-      fontStyle: FC Filter
+      fontStyle: FC Filter Machine Tool
       fontSize: 30
+      fontVariations:
+            - wght: 500
+            - wdth: 100
+            - cap_: 0
+            - slnt: 0
+            - shft: 20
 
     - text: |
         The Levels Filter is a fundamental tool used in image editing software that allows users to adjust the brightness and contrast of an image by manipulating its tonal range. This filter works by adjusting the input and output levels of the shadows, midtones, and highlights within an image. Here’s a breakdown of how it works and its significance:
@@ -219,8 +244,14 @@ testers:
         2.3 Midtones (Gamma): This slider adjusts the midrange tones of the image. Moving it left or right affects the overall brightness and contrast of the image, providing control over how much detail is visible in the middle range of tones.
         3. Output Levels: Users can also set output levels, which determines the tonal range that will be output from the image, effectively constraining the brightness values.
         The Levels Filter is an essential tool for photographers and graphic designers, as it offers a straightforward yet powerful way to control the tonal quality of an image. Mastering this filter can lead to more professional-looking results, enhancing both the clarity and impact of visual work.
-      fontStyle: FC Filter
+      fontStyle: FC Filter Engraved
       fontSize: 70
+      fontVariations:
+            - wght: 100
+            - wdth: 250
+            - cap_: 0
+            - slnt: 30
+            - shft: 20
 
     - text: |
          Der Kurvenfilter ist ein leistungsfähiges Werkzeug in der digitalen Bildbearbeitung, das es Benutzern ermöglicht, die Helligkeit und den Kontrast einer Grafik präzise zu steuern. Im Gegensatz zum Levels-Filter, der sich auf bestimmte Tonwerte konzentriert, bietet der Kurvenfilter eine umfassendere Kontrolle über die gesamte Tonwertskala eines Bildes. Hier ist eine detaillierte Erklärung, wie der Kurvenfilter funktioniert und welche Vorteile er bietet.
@@ -232,8 +263,14 @@ testers:
          2.3 Midtones: Durch die Anpassung der Mitte der Kurve können die mittleren Tonwerte bearbeitet werden, was die allgemeine Helligkeit und den Kontrast des Bildes beeinflusst.
          3. Spezifische Kanäle: Der Kurvenfilter kann für jeden Farbkanal (Rot, Grün, Blau) separat angewendet werden. Dies ermöglicht es Benutzern, die Farbbalance und -intensität zu verfeinern.
          Der Kurvenfilter ist ein unverzichtbares Werkzeug für Fotografen und Grafikdesigner, da er eine hohe Flexibilität und Präzision bei der Anpassung von Helligkeit und Kontrast bietet. Durch das Verständnis und die Anwendung des Kurvenfilters können Benutzer die visuelle Wirkung ihrer Bilder erheblich verbessern und professionellere Ergebnisse erzielen.
-      fontStyle: FC Filter
-      fontSize: 120
+      fontStyle: FC Filter Vlotte
+      fontSize: 60
+      fontVariations:
+            - wght: 300
+            - wdth: 250
+            - cap_: 1
+            - slnt: -10
+            - shft: 20
 
     - text: |
          Filtr nasycenia (Saturation Filter) jest narzędziem używanym w cyfrowej obróbce obrazów, które pozwala na regulację intensywności kolorów w fotografii. Zmiana nasycenia wpływa na to, jak żywe i intensywne są kolory w danym obrazie. Wysokie nasycenie sprawia, że kolory są bardziej wyraziste, podczas gdy niskie nasycenie prowadzi do bardziej stonowanych, przygaszonych barw.
@@ -242,8 +279,14 @@ testers:
          2. Interfejs Użytkownika: W programach do edycji zdjęć, takich jak Adobe Photoshop czy GIMP, filtr nasycenia zazwyczaj zawiera suwak, który pozwala użytkownikowi zwiększyć lub zmniejszyć nasycenie. Przesunięcie suwaka w prawo zwiększa nasycenie, podczas gdy przesunięcie w lewo je zmniejsza.
          3. Wybór Kolorów: W niektórych programach użytkownicy mogą także wybierać konkretne kolory do nasycenia, co pozwala na bardziej precyzyjne dostosowanie efektu. Na przykład, można zwiększyć nasycenie niebieskich lub zielonych tonów, jednocześnie zachowując inne kolory w ich naturalnym stanie.
          Podczas korzystania z filtra nasycenia, ważne jest, aby używać go z umiarem. Przesadne nasycenie może prowadzić do nienaturalnego wyglądu obrazu, co sprawia, że wygląda on sztucznie. Najlepiej jest eksperymentować z nasyceniem, aby znaleźć optymalny poziom, który podkreśla naturalne kolory bez ich przerysowania.
-      fontStyle: FC Filter
-      fontSize: 200
+      fontStyle: FC Filter Machine Tool
+      fontSize: 150
+      fontVariations:
+            - wght: 600
+            - wdth: 300
+            - cap_: 1
+            - slnt: -20
+            - shft: 0
 
     - text: |
          Rásarblöndunarfílar (Channel Mixer Filter) er öflugt tæki í myndvinnsluforritum sem leyfir notendum að aðlaga litaraðir í myndum. Þessi sía gerir notendum kleift að breyta hlutföllum hverrar litaraðar (rauður, grænn og blár) til að búa til nýja liti, bæta litaflæðið í myndum eða breyta þeim á skapandi hátt.
@@ -252,8 +295,14 @@ testers:
           2. Blöndunarhlutföll: Notandi getur stillt hlutföllin fyrir hvern litarað. Til dæmis, ef þú vilt auka hlutfall rauða litarins í mynd, geturðu aukið rauðblöndunina, en dregið úr grænni eða blárri. Þetta getur leitt til þess að litirnir í myndinni breytist og nýjar litakannanir skapast.
           3. Aðlögun: Með rásarblöndun getur notandi einnig fært litaraðir yfir í aðra liti. Til dæmis, ef þú blandar meiri grænni í rauðu, geturðu breytt rauðum tóninum í grænni lit.
           Rásarblöndunarfílar veita notendum mikla stjórn á litum í myndum. Þeir leyfa sköpun nýrra litakanna og útlit sem annars væri erfitt að ná. Einnig er mikilvægt að nota rásarblöndunarfílar með varúð, þar sem of mikil breyting getur leitt til náttúrulegs útlits. Með réttri notkun geta þeir fært listræna gæði í myndir og bæta heildarupplifun á myndunum.
-      fontStyle: FC Filter
-      fontSize: 30
+      fontStyle: FC Filter Engraved
+      fontSize: 50
+      fontVariations:
+            - wght: 500
+            - wdth: 175
+            - cap_: 1
+            - slnt: 0
+            - shft: 0
 
     - text: |
          Il mappa di gradiente è uno strumento utilizzato nella grafica digitale e nell'editing fotografico che consente di applicare una transizione di colore uniforme a un'immagine. Questo strumento è particolarmente utile per creare effetti artistici, alterare la tonalità di un'immagine o migliorare il contrasto. Ecco una spiegazione dettagliata su come funziona e quali sono i suoi utilizzi.
@@ -263,8 +312,14 @@ testers:
          2. Regolazioni Personalizzate: Gli utenti possono modificare la mappa di gradiente per creare effetti personalizzati. Ad esempio, possono aggiungere punti di controllo per cambiare il colore a livelli specifici di luminosità o modificare la disposizione dei colori per ottenere diversi effetti visivi.
          Vantaggi della Mappa di Gradiente
          La mappa di gradiente offre agli artisti e ai fotografi un alto grado di controllo e flessibilità nella modifica dei colori. Consente di esplorare combinazioni di colori in modo intuitivo e visivo, creando risultati unici e personalizzati. Con l'uso della mappa di gradiente, è possibile trasformare immagini comuni in opere straordinarie, rendendola uno strumento essenziale nella toolbox di ogni artista digitale.
-      fontStyle: FC Filter
-      fontSize: 70
+      fontStyle: FC Filter Vlotte
+      fontSize: 50
+      fontVariations:
+            - wght: 500
+            - wdth: 300
+            - cap_: 1
+            - slnt: 30
+            - shft: 10
 
     - text: |
         Hue/Saturation filtrs ir rīks digitālajā attēlu rediģēšanā, kas ļauj lietotājiem pielāgot attēla krāsu toņus un intensitāti. Šis filtrs nodrošina lielu elastību, lai mainītu attēla krāsu shēmas, padarot to par būtisku instrumentu gan profesionāliem fotogrāfiem, gan amatieriem. Šeit ir detalizēts skaidrojums par to, kā darbojas Hue/Saturation filtrs un kādas ir tā izmantošanas iespējas.
@@ -274,22 +329,34 @@ testers:
         3. Gaismas intensitātes (Lightness) regulēšana: Dažos programmatūras risinājumos šis filtrs ietver arī iespēju mainīt gaismas intensitāti, ļaujot lietotājiem padarīt attēlu gaišāku vai tumšāku, nezaudējot krāsu toņu nianses.
         Priekšrocības
         Hue/Saturation filtrs ir nenovērtējams rīks ikvienam, kas strādā ar attēliem. Tas piedāvā intuitīvu pieeju krāsu regulēšanai un ļauj lietotājiem viegli radīt stilistiskas izmaiņas, kas var ievērojami uzlabot attēla kvalitāti un vizuālo ietekmi. Arī ar nelielām izmaiņām var panākt nozīmīgas izmaiņas, padarot to par svarīgu instrumentu digitālajā mākslā un fotogrāfijā.
-      fontStyle: FC Filter
-      fontSize: 120
+      fontStyle: FC Filter Machine Tool
+      fontSize: 200
+      fontVariations:
+            - wght: 900
+            - wdth: 50
+            - cap_: 1
+            - slnt: 10
+            - shft: 0
 
 about:
-    - image: FCB_Filter_about.png
-      caption: "Botanical Garden, Ghent, Belgium."
+    - image: preview-engraved.gif
+#      caption: "Botanical Garden, Ghent, Belgium."
 
       text: |
         Skeleton to stretch! Filter is a collection of skeleton based fonts dropped in a magical melting pot of sliders.
-        Moving from fine to mega-black over a back slant to ultra wide where curves are dancing and while maintaining the
-        line thickness at all cost. Filter has multiple transformations in a variable font:
+        Moving from fine to mega-black over a back slant to ultra wide where curves are dancing, while maintaining the
+        line thickness at all cost.
+
+    - image: Filter_explained.png
+
+      text: |
+        Filter has multiple transformations in a variable font:
+
         * **Weight**: going from thin over black to mega-black.
+        * **Width**: going from extremely compressed to extremely extended.
         * **Slant**: going from a backslant to a slant in the reading direction.
-        * **Width**: Going from extremely compressed to extremely extended
-        * **Stroke endings**: stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
-        * **Stroke shift**: each stroke is shifted from left to right to achieve a graphical coolness effect.
+        * **Stroke Shift**: each stroke is shifted from left to right to achieve a graphical coolness effect.
+        * **Stroke Endings**: stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
 
 # research: |
 

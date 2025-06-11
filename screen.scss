@@ -188,9 +188,12 @@ header {
         }
         &.font-menu {
             text-align: center;
-            // h2 {
-            //     text-align: center;
-            // }
+            h2 {
+                a {
+                    font-size: 16px;
+                    text-transform: uppercase;
+                }
+            }
             a {
                 font-family: 'FCBELGICA Menu';
                 width: 100%;
@@ -912,6 +915,12 @@ section.details>div {
   min-width: 130px;
   text-align: center;
 }
+.language-support .btn.expand {
+  z-index: 8;
+}
+.language-support.expandable:after {
+  z-index: 7;
+}
 .details .opentype.open:after, .details .characterSets.open:after, .expandable.open:after {
   display: none;
 }
@@ -1062,6 +1071,7 @@ section.details>div {
     // opacity: 0;
     pointer-events: none;
     // transition: opacity .3s;
+    z-index: 9;
     left: calc(50% - 150px);
     position: absolute;
     transform: translateX(-50%);
@@ -1071,6 +1081,7 @@ section.details>div {
     width: 520px;
     padding: 24px;
     box-shadow: 0 5px 11px 0 rgba(0,0,0,0.2), 0 1px 15px 0 rgba(0,0,0,0.19) !important;
+    z-index:1000;
 
     .glyph-popup-top {
         display: flex;
@@ -1661,7 +1672,10 @@ body.index {
         overflow: hidden;
         justify-content: center;
         align-items: center;
-        background-color: var(--black);
+
+      }
+      .filter {
+        background: linear-gradient(90deg,rgba(255, 0, 225, 1) 0%, rgba(0, 238, 255, 1) 100%);
       }
       img {
         object-fit: cover;
@@ -1683,6 +1697,9 @@ body.index {
         padding-left: 0;
         height: 100svh;
         padding-right: 0;
+        a {
+            border-radius: 0;
+        }
       }
     }
   }

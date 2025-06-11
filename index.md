@@ -4,7 +4,7 @@ js: assets/js/flickity.pkgd.min.js
 css: assets/css/flickity.css
 
 seo_description: |
-    Font Club is the Belgian type foundry selling fonts that make you happy! Discover our library, ideal for branding, graphic, editorial and digital projects. 
+    Font Club is the Belgian type foundry selling fonts that make you happy! Discover our library, ideal for branding, graphic, editorial and digital projects.
 seo_image: FCB_SEO_Index.jpg
 
 slogans:
@@ -17,7 +17,7 @@ slogans:
     - /typefaces/pep/FCB_Slogans_1.svg
     - /typefaces/cru/FCB_Slogans_2.svg
     - /typefaces/nib/FCB_Slogans_2.svg
-    
+
 title: Home
 ---
 
@@ -27,7 +27,7 @@ title: Home
         {% unless typeface.draft %}
             {% if typeface.splash %}
             <div class="slide">
-                <a href="{{ typeface.url }}">
+                <a href="{{ typeface.url }}" class="{{ typeface.slug }}">
                     <img src="{{ typeface.url }}{{ typeface.splash }}"/>
                 </a>
             </div>
