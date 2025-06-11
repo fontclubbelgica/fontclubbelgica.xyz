@@ -19,7 +19,7 @@ specimen: FC-Filter_Type-Specimen-V1.0.pdf
 
 buy_redirect:
     title: Buy on Future Fonts
-    url: https://www.futurefonts.xyz
+    url: https://www.future-fonts.com/fontclubbelgica/fc-filter
 
 technicalSupport:
 
@@ -45,20 +45,12 @@ splash: FCB_Filter_splash.png
 hometile: FCB_Library_Filter_Large.svg
 
 showcases:
-    - ABCDEFGHIJKLM
-    - NOPQRSTUVWXYZ
     - abcdefghijklm
     - nopqrstuvwxyz
-    - 0123456789
+    - ABCDEFGHIJKLMN
+    - OPQRSTUVWXYZ
+    - 012345679
 
-# showcases:
-#     - More sources
-#     - than glyphs!
-#     - with 378 sources
-#     - abcdefghijklm
-#     - nopqrstuvwxyz
-#     - width, weight, slant
-#     - stroke & shift
 
 styles:
    - FC Filter Engraved:
@@ -347,14 +339,19 @@ testers:
             - shft: 0
 
 about:
-    - image: FCB_Filter_about.png
+    - image: preview-engraged.gif
       caption: "Botanical Garden, Ghent, Belgium."
 
       text: |
-        Skeleton to stretch! Filter is a collection of skeleton based fonts dropped in a magical melting pot of sliders. Moving from fine to mega-black over a back slant to ultra wide where curves are dancing and while maintaining the line thickness at all cost.
+        Skeleton to stretch! Filter is a collection of skeleton based fonts dropped in a magical melting pot of sliders.
+        Moving from fine to mega-black over a back slant to ultra wide where curves are dancing, while maintaining the
+        line thickness at all cost.
 
+    - image: Filter_explained.png
 
+      text: |
         Filter has multiple transformations in a variable font:
+
         * **Weight**: going from thin over black to mega-black.
         * **Slant**: going from a backslant to a slant in the reading direction.
         * **Width**: Going from extremely compressed to extremely extended
