@@ -1078,6 +1078,7 @@ section.details>div {
     width: 520px;
     padding: 24px;
     box-shadow: 0 5px 11px 0 rgba(0,0,0,0.2), 0 1px 15px 0 rgba(0,0,0,0.19) !important;
+    z-index:1000;
 
     .glyph-popup-top {
         display: flex;
@@ -1668,7 +1669,10 @@ body.index {
         overflow: hidden;
         justify-content: center;
         align-items: center;
-        background-color: var(--black);
+
+      }
+      .filter {
+        background: linear-gradient(90deg,rgba(255, 0, 225, 1) 0%, rgba(0, 238, 255, 1) 100%);
       }
       img {
         object-fit: cover;
@@ -1690,6 +1694,9 @@ body.index {
         padding-left: 0;
         height: 100svh;
         padding-right: 0;
+        a {
+            border-radius: 0;
+        }
       }
     }
   }
