@@ -339,7 +339,7 @@ testers:
             - shft: 0
 
 about:
-    - image: preview-engraged.gif
+    - image: preview-engraved.gif
 #      caption: "Botanical Garden, Ghent, Belgium."
 
       text: |
