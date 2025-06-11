@@ -912,6 +912,12 @@ section.details>div {
   min-width: 130px;
   text-align: center;
 }
+.language-support .btn.expand {
+  z-index: 8;
+}
+.language-support.expandable:after {
+  z-index: 7;
+}
 .details .opentype.open:after, .details .characterSets.open:after, .expandable.open:after {
   display: none;
 }
@@ -1062,6 +1068,7 @@ section.details>div {
     // opacity: 0;
     pointer-events: none;
     // transition: opacity .3s;
+    z-index: 9;
     left: calc(50% - 150px);
     position: absolute;
     transform: translateX(-50%);
