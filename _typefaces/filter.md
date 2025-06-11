@@ -340,7 +340,7 @@ testers:
 
 about:
     - image: preview-engraged.gif
-      caption: "Botanical Garden, Ghent, Belgium."
+#      caption: "Botanical Garden, Ghent, Belgium."
 
       text: |
         Skeleton to stretch! Filter is a collection of skeleton based fonts dropped in a magical melting pot of sliders.
@@ -352,11 +352,11 @@ about:
       text: |
         Filter has multiple transformations in a variable font:
 
-        * **Weight**: going from thin over black to mega-black.
-        * **Slant**: going from a backslant to a slant in the reading direction.
-        * **Width**: Going from extremely compressed to extremely extended
-        * **Stroke endings**: stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
-        * **Stroke shift**: each stroke is shifted from left to right to achieve a graphical coolness effect.
+        * **Weight**: Going from thin over black to mega-black.
+        * **Slant**: Going from a backslant to a slant in the reading direction.
+        * **Width**: Going from extremely compressed to extremely extended.
+        * **Stroke Endings**: Stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
+        * **Stroke Shift**: Each stroke is shifted from left to right to achieve a graphical coolness effect.
 
 # research: |
 
