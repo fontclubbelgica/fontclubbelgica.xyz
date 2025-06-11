@@ -352,11 +352,11 @@ about:
       text: |
         Filter has multiple transformations in a variable font:
 
-        * **Weight**: Going from thin over black to mega-black.
-        * **Slant**: Going from a backslant to a slant in the reading direction.
-        * **Width**: Going from extremely compressed to extremely extended.
-        * **Stroke Endings**: Stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
-        * **Stroke Shift**: Each stroke is shifted from left to right to achieve a graphical coolness effect.
+        * **Weight**: going from thin over black to mega-black.
+        * **Width**: going from extremely compressed to extremely extended.
+        * **Slant**: going from a backslant to a slant in the reading direction.
+        * **Stroke Shift**: each stroke is shifted from left to right to achieve a graphical coolness effect.
+        * **Stroke Endings**: stroke endings are going from flat, square to rounded. The rounding starts at the corner of each stroke ending.
 
 # research: |
 
