@@ -12,7 +12,7 @@ information: |
     FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
 
 designer: Dries Wiewauters
-date: 2025-05-29
+date: 2025-06-11
 
 specimen: 25-04_FC-Bol_Type-Specimen.pdf
 
