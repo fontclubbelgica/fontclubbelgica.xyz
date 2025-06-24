@@ -191,6 +191,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	    	preloadElement.style.fontFamily = "'" + nextFont + "'";
 	    	preloadElement.style.position = 'absolute';
 	    	preloadElement.style.visibility = 'hidden';
+			preloadElement.style.height = '0px';
+			preloadElement.style.overflow = 'hidden';
 	    	preloadElement.textContent = 'Preload';
 	    	document.body.appendChild(preloadElement);
 	    	
@@ -201,7 +203,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	    	// Remove preload element after a short delay
 	    	setTimeout(() => {
 	    		document.body.removeChild(preloadElement);
-	    	}, 100);
+	    	}, 200);
 	    	
 	    	currentZoneIndex = nextIndex;
 	    }
