@@ -152,7 +152,7 @@ seo_image: FCB_SEO_FAQ.jpg
 
   ### Payment Process
 
-  All purchases are handled securily by our payment partner Fastspring. Their platform accepts many
+  All purchases are handled securily by our payment partner [Pay Pro Global](https://payproglobal.com). Their platform accepts many
   different payment methods and automatically adds the specific VAT needed for your region. Regardless
   of payment method, you will receive an invoice from us in an email after purchase.
 
@@ -278,7 +278,7 @@ seo_image: FCB_SEO_FAQ.jpg
 
   We handle personal data with care, adhering strictly to legal regulations. We believe in a free internet,
   as such we don’t track our website usage with cookies. Your personal data only gets stored and processed
-  when you leave our platform to finish the checkout process at our payment partner Fastspring.
+  when you leave our platform to finish the checkout process at our payment partner [Pay Pro Global](https://payproglobal.com).
 
   If you subscribe to our newsletter, we'll keep you updated on relevant developments and offers. By
   clicking on newsletter links, you authorize us to process your IP address, geodata, and similar
