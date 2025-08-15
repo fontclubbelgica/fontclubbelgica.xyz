@@ -5,14 +5,14 @@ title: FC Oblate
 draft: true
 
 seo_description: |
-    FC Oblate is the sans serif companion to Nib, that evolved into a multifunctional sans serif that is both usable and expressive. Perfect for all business needs.
+    FC Bol is a display typeface that is perfect for animations and other experimantal usage. It's elements can be allowed to dance at will.
 seo_image: FCB_SEO_Oblate.jpg
 
 information: |
     What started as a sans serif companion to FC Nib has turned into a highly multifunctional sans serif that just like it's companion is both highly usable and expressive.
 
 designer: Dries Wiewauters
-date: 2025-06-11
+date: 2025-08-03
 
 specimen: 25-04_FC-Oblate_Type-Specimen.pdf
 

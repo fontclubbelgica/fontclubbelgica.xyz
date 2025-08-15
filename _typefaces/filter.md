@@ -16,7 +16,6 @@ date: 2025-06-10
 
 specimen: FC-Filter_Type-Specimen-V1.0.pdf
 
-
 buy_redirect:
     title: Buy on Future Fonts
     url: https://www.future-fonts.com/fontclubbelgica/fc-filter
@@ -50,7 +49,6 @@ showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ
     - 012345679
-
 
 styles:
    - FC Filter Engraved:
