@@ -12,7 +12,7 @@ information: |
     FC Crimp combines monospaced font but with better ragging by using half widths for narrow and wide characters. It revives W.A. Dwiggins' ingenious idea of using variable-width characters to enhance fixed-width type, blending historical innovation with modern design.
 
 designer: Dries Wiewauters
-date: 2025-05-27
+date: 2025-08-20
 
 specimen: FC-Crimp_Type-Specimen-V1.0.pdf
 
@@ -3056,6 +3056,21 @@ about:
 
       text: |
         FC Crimp by Font Club Belgica is a modern revival of a brilliant yet overlooked idea from type history, blending technical precision with contemporary design. Inspired by W.A. Dwiggins’ concept of variable-width characters to improve fixed-width typewriters, Crimp features 50% and 150% glyphs for refined spacing. Historically, engineering and technical industries relied on rigid, monospaced typefaces like Courier and OCR-A, designed for clarity and machine readability, but these came with visual constraints. Crimp transcends these limitations by incorporating angled, stubbed terminals and half-width spaces, adding a distinctive mechanical flair while enhancing legibility and efficiency. Ideal for applications in engineering, aerospace, gaming, and outdoor branding, Crimp offers a nod to tradition while delivering a fresh, versatile tool for modern design.
+
+researchtop: |
+        
+         <div markdown="1">
+           <div markdown="1">
+        
+         ![](FCB_HVDV_1.svg)
+        
+           </div>
+           <div markdown="1">
+        
+         ![](FCB_HVDV_2.svg)
+        
+           </div>
+         </div>
 
 research: |
     ## Introducing Crimp: Resurrecting an Ingenious Idea for Modern Design
