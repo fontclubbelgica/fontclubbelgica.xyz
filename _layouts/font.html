@@ -26,6 +26,16 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 </section>
 {% endif %}
 
+{% if page.researchtop %}
+<section class="research research-top">
+    <div class="research-title">
+    </div>
+    <div class="research-content">
+        {{ page.researchtop | markdownify }}
+    </div>
+</section>
+{% endif %}
+
 {% if page.showcases %}
 <section class="showcase">
     <div id="zones" style="font-family: '{{ font_styles[0] }}';">
