@@ -673,7 +673,7 @@ hometile: FCB_Library_Nib_Large.svg
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZΩД
-    - äbcdęfghijklmnơ
+    - äbcdęfghijklmn&#417;
     - pqrstuvwxyzωд
     - 0123456789
 
