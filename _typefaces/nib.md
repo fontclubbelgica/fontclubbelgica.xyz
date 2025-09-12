@@ -14,7 +14,7 @@ information: |
 designer: Dries Wiewauters
 date: 2019-01-01
 
-specimen: FC-Nib_Type-Specimen-V1.0.pdf
+specimen: FC-Nib_Type-Specimen-V1.1.pdf
 
 paypro: fc-nib
 
@@ -22,8 +22,8 @@ technicalSupport:
     latin: true
     cyrillic: true
     greek: true
-    vietnamese: false
-
+    vietnamese: true
+ 
     weights: 6
 
     widths:
@@ -33,7 +33,7 @@ technicalSupport:
     variable: false
 
 languageSupport:
-    Latin: Achinese, Acoli, Afar, Afrikaans, Alago, Albanian, Alekano, Aleut, Anaang, Ao Naga, Arabic, Chadian Spoken, Aragonese, Aromanian, Asu, Awak, Aymara, Balinese, Banda, West Central, Bangwinji, Bapuku, Basque, Batak Toba, Bedawiyet, Bekwarra, Belanda Viri, Latin, Bemba, Bena, Bench, Benga, Bikol, Bilen, Bislama, Bokobaru, Bosnian, Bube, C’Lela, Catalan, Cebuano, Chamorro, Chiduruma, Chiga, Chimborazo Highland Quichua, Chokwe, Chuukese, Colognian, Comorian, Ngazidja, Cornish, Corsican, Crioulo, Upper Guinea, Croatian, Czech, Danish, Dawro, Delaware, Dikaka, Dutch, Ekajuk, Embu, English, Esperanto, Estonian, Faroese, Fijian, Filipino, Finnish, French, Friulian, Fuliiru, Gagauz, Galician, Gamo, Ganda, Gawwada, German, Gheg Albanian, Gilbertese, Gofa, Gourmanchéma, Gusii, Gwich'in, Gyele, Hadiyya, Haitian Creole, Hanga, Harari, Hiligaynon, Hmong, Hopi, Hungarian, Icelandic, Iloko, Inari Sami, Indonesian, Innu, Interlingua, Iraqw, Irish, Italian, Izere, Jamaican Creole English, Javanese, Jibu, Jola-Fonyi, Kabuverdianu, Kaingang, Kalaallisut, Kalanga, Kalenjin, Kamba, Kaonde, Karelian, Kashubian, Khasi, Kikuyu, Kimbundu, Kinyarwanda, Kirmanjki, Kituba, Kombe, Kongo, Konjo, Kuanyama, Kunama, Kurdish (Latin), Kutep, Kutu, Kwere, K'iche', Lamba, Lango, Uganda, Latgalian, Latin, Latvian, Lele, Ligurian, Lithuanian, Lombard, Lomwe, Low German, Lower Sorbian, Luba-Lulua, Luguru, Lule Sami, Lunda, Luo, Luvale, Luwo, Luxembourgish, Luyia, Machame, Makhuwa, Makhuwa-Meetto, Makonde, Malagasy, Malay (Latin), Maltese, Mam, Mambila, Nigeria, Mandinka, Mandjak, Mankanya, Manx, Manyika, Maori, Mapuche, Masaaba, Meru, Minangkabau, Mirandese, Mohawk, Morisyen, Muscogee, Mwani, Nara, Ndamba, Ndau, Ndonga, Neapolitan, Ngindo, Ngulu, Niuean, North Ndebele, Northern Sami, Northern Sotho, Norwegian, Norwegian Bokmål, Norwegian Nynorsk, Novial, Nupe-Nupe-Tako, Nyanja, Nyankole, Nyasa Tonga, Nyemba, Nyoro, Occitan, Ogbah, Okiek, Oromo, Otuho, Palauan, Pampanga, Papiamento, Picard, Piedmontese, Pogolo, Pohnpeian, Pökoot, Polish, Portuguese, Prussian, Punu, Rarotongan, Rendille, Réunion Creole French, Rinconada Bikol, Romanian, Romansh, Romany, Rombo, Ronga, Rundi, Rwa, Saho, Samburu, Samoan, Sandawe, Sango, Sangu, Sãotomense, Sapiny, Sardinian, Sassarese Sardinian, Scots, Scottish Gaelic, Sena, Serbian (Latin), Seri, Seselwa Creole French, Shambala, Shilluk, Shona, Sidamo, Silesian, Slovak, Slovenian, Soga, Somali, Soninke, South Ndebele, Southern Sami, Southern Sotho, Spanish, Sranan Tongo, Suba, Sukuma, Sundanese, Swahili, Swahili, Congo, Swati, Swedish, Swiss German, Tahitian, Taita, Takwane, Tedim Chin, Tetum, Tiv, Tok Pisin, Tokelau, Tonga, Tooro, Tsamai, Tsonga, Tsuvadi, Tswana, Tula, Tumbuka, Turkish, Turkmen (Latin), Tuvalu, Uab Meto, Umbundu, Upper Sorbian, Uyghur (Latin), Venetian, Veps, Vidunda, Volapük, Võro, Vunjo, Walloon, Walser, Waray, Warlpiri, Wayuu, Welsh, Wendat, West Albay Bikol, Western Frisian, Wolaytta (Latin), Wolof, Xavánte, Xhosa, Yao, Yapese, Yasa, Yucateco, Zaghawa, Zande, Zayse, Zaza, Zigula, Zulu
+    Latin: Acheron, Achinese, Acholi, Achuar-Shiwiar, Afar, Afrikaans, Aguaruna, Alekano, Aleut, Alonquin, Amahuaca, Amarakaeri, Amis, Anaang, Andaandi, Dongolawi, Anuta, Aragonese, Arbëreshë Albanian, Asháninka, Ashéninka Perené, Balinese, Banjar, Bari, Basque, Batak Dairi, Batak Karo, Batak Mandailing, Batak Simalungun, Batak Toba, Bemba (Zambia), Bena (Tanzania), Bikol, Bini, Bislama, Borana-Arsi-Guji Oromo, Bosnian, Breton, Buginese, Candoshi-Shapra, Caquinte, Caribbean Hindustani, Cashibo-Cacataibo, Cashinahua, Catalan, Cebuano, Central Aymara, Central Kurdish, Chachi, Chamorro, Chavacano, Chiga, Chiltepec Chinantec, Chokwe, Chuukese, Cimbrian, Cofán, Cook Islands Māori, Cornish, Corsican, Creek, Crimean Tatar, Croatian, Czech, Danish, Dehu, Dimli, Dutch, Eastern Arrernte, Eastern Oromo, Efik, English, Faroese, Fijian, Filipino, Finnish, French, Friulian, Gagauz, Galician, Ganda, Garifuna, German, Gheg Albanian, Gilbertese, Gooniyandi, Gourmanchéma, Guadeloupean Creole French, Gusii, Haitian, Hani, Hiligaynon, Hopi, Huastec, Hungarian, Hän, Icelandic, Iloko, Inari Sami, Indonesian, Irish, Istro Romanian, Italian, Ixcatlán Mazatec, Jamaican Creole English, Japanese, Javanese, Jola-Fonyi, K'iche', Kabuverdianu, Kaingang, Kala Lagaw Ya, Kalaallisut, Kalenjin, Kamba (Kenya), Kaonde, Karelian, Kashubian, Kekchí, Kenzi, Mattokki, Khasi, Kikuyu, Kimbundu, Kinyarwanda, Kirmanjki, Kituba (DRC), Kongo, Konzo, Kven Finnish, Kölsch, Ladin, Ladino, Latgalian, Lithuanian, Lombard, Low German, Lower Sorbian, Luba-Lulua, Lule Sami, Luo (Kenya and Tanzania), Luxembourgish, Macedo-Romanian, Makonde, Malagasy, Malaysian, Maltese, Mandinka, Mandjak, Mankanya, Manx, Maore Comorian, Maori, Mapudungun, Marshallese, Matsés, Mauritian Creole, Meriam Mir, Meru, Minangkabau, Mirandese, Mohawk, Montenegrin, Munsee, Murrinh-Patha, Mwani, Mískito, Naga Pidgin, Ndonga, Neapolitan, Ngazidja Comorian, Niuean, Nobiin, Nomatsiguenga, North Ndebele, Northern Kurdish, Northern Qiandong Miao, Northern Sami, Northern Uzbek, Norwegian, Nyanja, Nyankole, Occitan, Ojitlán Chinantec, Orma, Oroqen, Palauan, Pampanga, Papantla Totonac, Papiamento, Pedi, Picard, Pichis Ashéninka, Piemontese, Pijin, Pintupi-Luritja, Pipil, Pohnpeian, Polish, Pontic Greek, Portuguese, Potawatomi, Purepecha, Páez, Quechua, Romanian, Romansh, Rotokas, Rundi, Samoan, Sango, Sangu (Tanzania), Saramaccan, Sardinian, Scots, Scottish Gaelic, Sena, Serbian, Seri, Seselwa Creole French, Shawnee, Shipibo-Conibo, Shona, Shuar, Sicilian, Silesian, Slovak, Slovenian, Soga, Somali, Soninke, South Ndebele, Southern Aymara, Southern Qiandong Miao, Southern Sami, Southern Sotho, Spanish, Sranan Tongo, Standard Estonian, Standard Latvian, Standard Malay, Sundanese, Swahili, Swedish, Swiss German, Tagalog, Tahitian, Tedim Chin, Tetum, Tetun Dili, Toba, Tok Pisin, Tokelau, Tonga (Tonga Islands), Tonga (Zambia), Tosk Albanian, Tumbuka, Turkish, Turkmen, Tzeltal, Tzotzil, Uab Meto, Umbundu, Ume Sami, Upper Guinea Crioulo, Upper Sorbian, Venetian, Veps, Vietnamese, Võro, Walloon, Walser, Waray (Philippines), Warlpiri, Wayuu, Welsh, West Central Oromo, Western Abnaki, Western Frisian, Wiradjuri, Wolof, Xhosa, Yanesha', Yao, Yucateco, Zapotec, Zulu, Záparo
     Cyrillic: Abaza, Belarusian, Bosnian (Cyrillic), Bulgarian, Crimean Turkish, Cyrillic, Erzya, Gagauz (Cyrillic), Karachay-Balkar, Komi, Komi-Permyak, Kumyk, Macedonian, Moksha, Nogai, Romanian (Cyrillic), Russian, Rusyn, Serbian, Udmurt, Ukranian, Western Mari
     Greek: Ελληνικά (Greek)
 
@@ -673,7 +673,7 @@ hometile: FCB_Library_Nib_Large.svg
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZΩД
-    - äbcdęfghijklmno
+    - äbcdęfghijklmnơ
     - pqrstuvwxyzωд
     - 0123456789
 
@@ -759,20 +759,20 @@ testers:
       fontSize: 50
 
     - text: |
-        В образотворчому мистецтві антитеза стосується навмисного протиставлення двох протилежних елементів з метою створення напруги, балансу або глибшого сенсу в композиції. Ця концепція може виражатися через контраст кольорів, форм, текстур або тематики та часто використовується для підкреслення складності тем або для викликання сильних емоційних реакцій у глядача.
-        Наприклад, використання світла і тіні (кьяроскуро) в бароковому мистецтві, особливо в роботах Караваджо, створює антитезу між світлом і темрявою, підкреслюючи драму та контраст між божественним і земним світами. Так само абстрактні художники можуть використовувати гострі, кутові форми у протиставленні з м’якими, органічними, щоб підкреслити конфлікт або гармонію в композиції.
-        Щодо тематики, художники можуть протиставляти фігури, що представляють протилежні ідеї, такі як життя і смерть, краса і розпад, хаос і порядок. Ці візуальні контрасти спонукають до роздумів над дуалістичною природою людського досвіду.
-        Використовуючи антитезу, художники створюють динамічну напругу, яка привертає увагу глядача і заохочує глибше занурення у твір, що веде до більш глибокого розуміння представленого контрасту.
-      fontStyle: FC Nib Black
-      fontSize: 200
-
-    - text: |
         Trong nghệ thuật thị giác, “antitesi” (sự đối lập) đề cập đến sự tương phản có chủ ý giữa hai yếu tố đối lập nhằm tạo ra sự căng thẳng, cân bằng hoặc mang lại ý nghĩa sâu sắc hơn trong một bố cục. Khái niệm này có thể được thể hiện thông qua màu sắc, hình dạng, kết cấu hoặc chủ đề tương phản, và thường được sử dụng để làm nổi bật sự phức tạp của các chủ đề hoặc để khơi gợi phản ứng cảm xúc mạnh mẽ từ phía người xem.
         Ví dụ, việc sử dụng ánh sáng và bóng tối (kỹ thuật chiaroscuro) trong nghệ thuật Baroque, đặc biệt là trong các tác phẩm của Caravaggio, tạo nên sự đối lập giữa ánh sáng và bóng tối, nhấn mạnh yếu tố kịch tính và sự tương phản giữa thế giới thần thánh và trần tục. Tương tự, các nghệ sĩ trừu tượng có thể sử dụng hình dạng sắc nhọn và góc cạnh đối lập với hình khối mềm mại và hữu cơ để nhấn mạnh xung đột hoặc sự hài hòa trong một bố cục.
         Về mặt chủ đề, các nghệ sĩ có thể đặt cạnh nhau những hình ảnh đại diện cho các ý tưởng đối lập, chẳng hạn như sự sống và cái chết, vẻ đẹp và sự suy tàn, hoặc hỗn loạn và trật tự. Những sự tương phản thị giác này gợi mở suy ngẫm về những lưỡng tính vốn có trong trải nghiệm con người. Việc sử dụng sự đối lập trong nghệ thuật thị giác cũng có thể nhằm nhấn mạnh các chủ đề đạo đức hoặc triết học – tương tự như trong văn học – nhưng được thể hiện qua một ngôn ngữ hoàn toàn thị giác.
         Bằng cách sử dụng sự đối lập, các nghệ sĩ tạo ra một căng thẳng năng động thu hút sự chú ý của người xem và khuyến khích sự tương tác sâu sắc hơn với tác phẩm, từ đó dẫn đến sự thấu hiểu sâu sắc hơn về sự tương phản được thể hiện.
-      fontStyle: FC Nib Black Italic
+      fontStyle: FC Nib Black
       fontSize: 20
+
+    - text: |
+        В образотворчому мистецтві антитеза стосується навмисного протиставлення двох протилежних елементів з метою створення напруги, балансу або глибшого сенсу в композиції. Ця концепція може виражатися через контраст кольорів, форм, текстур або тематики та часто використовується для підкреслення складності тем або для викликання сильних емоційних реакцій у глядача.
+        Наприклад, використання світла і тіні (кьяроскуро) в бароковому мистецтві, особливо в роботах Караваджо, створює антитезу між світлом і темрявою, підкреслюючи драму та контраст між божественним і земним світами. Так само абстрактні художники можуть використовувати гострі, кутові форми у протиставленні з м’якими, органічними, щоб підкреслити конфлікт або гармонію в композиції.
+        Щодо тематики, художники можуть протиставляти фігури, що представляють протилежні ідеї, такі як життя і смерть, краса і розпад, хаос і порядок. Ці візуальні контрасти спонукають до роздумів над дуалістичною природою людського досвіду.
+        Використовуючи антитезу, художники створюють динамічну напругу, яка привертає увагу глядача і заохочує глибше занурення у твір, що веде до більш глибокого розуміння представленого контрасту.
+      fontStyle: FC Nib Black Italic
+      fontSize: 200
 
 about:
     - text: |
