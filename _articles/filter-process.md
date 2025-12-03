@@ -17,7 +17,7 @@ seo_image: FCB_SEO_Filter.jpg
 
 ---
 
-# Filter: A Typeface Built on Skeletons
+# Filter: A Typeface&nbsp;Built on&nbsp;Skeletons
 
 <div markdown="1">
   <div>
@@ -32,14 +32,13 @@ The talk can be found on Vimeo (embedded below). Below is an article based upon 
   </div>
   </div>
 
+# Your&nbsp;skeleton looks&nbsp;different han&nbsp;mine?
 
 <div markdown="1">
   <div markdown="1">
 
   </div>
   <div markdown="1">
-
-# Your skeleton looks different than mine?
 
 In my own practice I’ve been fascinated for years in skeletons by building tools and experiments around the construction of letterforms. Finally bundled in a typeface called FC Filter, published by Font Club Belgica and available through Future Fonts.
 
