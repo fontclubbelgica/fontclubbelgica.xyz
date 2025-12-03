@@ -49,7 +49,8 @@ In my own practice I’ve been fascinated for years in skeletons by building too
 <div markdown="1">
   <div markdown="1">
 
-  ![](missing.jpg)
+  ![](kalliCulator.png)
+  ![](kalliCulator2.png)
 
   </div>
   <div markdown="1">
@@ -72,7 +73,9 @@ A physical pen cannot endlessly rotate or distort the nib while following a skel
 <div markdown="1">
   <div markdown="1">
 
-  ![](missing.jpg)
+  ![](outliner1.png)
+  ![](outliner2.png)
+  ![](outliner3.png)
 
   </div>
   <div markdown="1">
@@ -91,7 +94,9 @@ One of these tools is Outliner. It can turn anything from a simple single-stroke
 <div markdown="1">
   <div markdown="1">
 
-  ![](missing.jpg)
+  ![](botanicalGarden1.png)
+  ![](botanicalGarden2.png)
+  ![](botanicalGarden3.png)
 
   </div>
   <div markdown="1">
@@ -112,7 +117,7 @@ Related a indept articel from Florian Hardwig and Thomas Maier: [From Lettering 
 <div markdown="1">
   <div markdown="1">
 
-  ![](missing.jpg)
+  ![](preview-allAxes.mp4)
 
   </div>
   <div markdown="1">
@@ -130,7 +135,8 @@ Instance names inside the variable font are dynamically generating for each vari
 <div markdown="1">
   <div markdown="1">
 
-  ![](missing.jpg)
+  ![](technical1.png)
+  ![](technical2.png)
 
   </div>
   <div markdown="1">
@@ -145,7 +151,7 @@ Creating [FC Filter](https://fontclubbelgica.com/typefaces/filter/) involved add
 <div markdown="1">
   <div markdown="1">
 
-  ![](missing.jpg)
+  ![](previewReel.mp4)
 
   </div>
   <div markdown="1">
