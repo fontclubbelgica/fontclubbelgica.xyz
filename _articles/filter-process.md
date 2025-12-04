@@ -79,7 +79,7 @@ A physical pen cannot endlessly rotate or distort the nib while following a skel
   </div>
   <div markdown="1">
 
-## From KalliCulator to Outliner
+## From&nbsp;KalliCulator to&nbsp;Outliner
 
 [RoboFont](https://robofont.com), the most powerful font editor, provides designers the flexibility to automate parts of the design process using [Python](https://www.python.org) programming and to share custom tools through extensions.
 
@@ -121,7 +121,7 @@ Related a indept articel from Florian Hardwig and Thomas Maier: [From Lettering 
   </div>
   <div markdown="1">
 
-## Filter: Naming, Structure, and Play
+## Filter: Naming, Structure and Play
 
 The birthday-revival evolved into [FC Filter](https://fontclubbelgica.com/typefaces/filter/), a name chosen as a playful reference to the new “filter” sorting options introduced by Future Fonts. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) pops up in what ever filter is selected. FC Filter fully embraces the possibilities of the variable font format by offering a wide range of customization options. It includes multiple writing styles, such as engraving, machine-tool, and a variant inspired by a speedball. The typeface allows adjustments in width, ranging from condensed to expanded, and in weight, from hairline to ultra-bold. Its slant can be modified from backslant to frontslant, while the stroke endings can vary from square to rounded. Finally, Filter features a shift axis, enabling the stroke position to move relative to the underlying skeleton of the letterforms.
 
