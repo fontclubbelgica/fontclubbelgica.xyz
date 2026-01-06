@@ -728,9 +728,23 @@ section.research {
       padding-left: 25px;
       padding-bottom: 24px;
     }
+    img+img,em+img{
+       padding-top: 30px;
+    }
+    img+em{
+      font-size: 10px;
+      line-height: 14px;
+      text-align: center;
+      padding-top: 20px;
+      font-style: normal;
+    }
     p+p {
         text-indent: 33px;
+        img {
+        padding-top: 30px;
+        }
     }
+    p
     p+h2, p+h3 {
         padding-top: 24px;
     }

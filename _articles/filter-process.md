@@ -9,7 +9,7 @@ tags:
 featuredImage: FCB_Article_Splash_Filter.svg
 thumbnailImage: FCB_ANR_Filter.svg
 
-draft: true
+draft: false
 
 seo_description: |
     Discover why custom fonts matter—how bespoke type elevates branding, cuts licensing costs, and helps your brand stand out with lasting visual impact.
@@ -21,18 +21,17 @@ seo_image: FCB_SEO_Filter.jpg
 
 <div markdown="1">
   <div>
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1109336903?h=1b7cdcce2e" width="100%" height="400px" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
   </div>
   <div markdown="1">
 
 *This article accompanies Frederik Berlaen’s Typographics 2025 talk, “Your Skeleton looks different than mine?” held in New York at Cooper Union. A glimpse into a 20+ year fascination with skeleton fonts.*
 
-The talk can be found on Vimeo (embedded below). Below is an article based upon the research presented.
-
   </div>
   </div>
 
-# Your&nbsp;skeleton looks&nbsp;different han&nbsp;mine?
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1109336903?h=1b7cdcce2e" width="100%" height="600px" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+# Your&nbsp;skeleton looks&nbsp;different than&nbsp;mine?
 
 <div markdown="1">
   <div markdown="1">
@@ -40,7 +39,7 @@ The talk can be found on Vimeo (embedded below). Below is an article based upon 
   </div>
   <div markdown="1">
 
-In my own practice I’ve been fascinated for years in skeletons by building tools and experiments around the construction of letterforms. Finally bundled in a typeface called FC Filter, published by Font Club Belgica and available through Future Fonts.
+In his own practice *Frederik* has been fascinated for years in skeletons by building tools and experiments around the construction of letterforms. Finally bundled in a typeface called [FC Filter](https://fontclubbelgica.com/typefaces/filter/), published by [Font Club Belgica](https://fontclubbelgica.com/typefaces/filter/) and available through [Future Fonts](https://www.futurefonts.com/fontclubbelgica/fc-filter).
 
   </div>
   </div>
@@ -49,6 +48,7 @@ In my own practice I’ve been fascinated for years in skeletons by building too
   <div markdown="1">
 
   ![](kalliCulator.png)
+
   ![](kalliCulator2.png)
 
   </div>
@@ -56,15 +56,15 @@ In my own practice I’ve been fascinated for years in skeletons by building too
 
 ## Origins: TypeMedia and “KalliCulator”
 
-During my studies at [Type and Media (KABK, The Hague)](https://typemedia.org), my graduation project called [Kalliculator](https://typemytype.com/typedesign/KalliCulator/), an application and research tool for exploring calligraphic contrasts through skeletons.
+During his studies at [Type and Media](https://typemedia.org) (KABK, The Hague) his graduation project was called [Kalliculator](https://typemytype.com/typedesign/KalliCulator/), an application and research tool for exploring calligraphic contrasts through skeletons.
 
 The intention was to explore the concept of a skeleton. In calligraphy a skeleton is the movement of the hand when writing a character. It can also be seen as the middle of a stroke. However, the exact mathematical middle is not equal to the movement of the hand of that stroke. A skeleton is something in between. A pen in a hand turns around and the mathematical middle does not take these rotations into account.
 
 Different tools create different skeletons. For example, a broad nip and a pointed nib each create very different letter shapes, even when working from the same underlying skeleton.
 
-A physical pen cannot endlessly rotate or distort the nib while following a skeleton. [Kalliculator](https://typemytype.com/typedesign/KalliCulator/) allowed me to apply contrast mathematically, applying transformation to skeletons before adding penlike shapes, and generate over a thousand typeface variations.
+A physical pen cannot endlessly rotate or distort the nib while following a skeleton. [Kalliculator](https://typemytype.com/typedesign/KalliCulator/) allowed Frederik to apply contrast mathematically, applying transformation to skeletons before adding penlike shapes, and generate over a thousand typeface variations.
 
-[Kalliculator](https://typemytype.com/typedesign/KalliCulator/) was never released publicly, but used heavily in a design process.
+[Kalliculator](https://typemytype.com/typedesign/KalliCulator/) was never released publicly, but used heavily in the design process.
 
   </div>
   </div>
@@ -73,8 +73,11 @@ A physical pen cannot endlessly rotate or distort the nib while following a skel
   <div markdown="1">
 
   ![](outliner1.png)
+    *[Outliner: a Robofont extension outlining all your contours](https://version1.robofont.com/extensions/download-extensions/outliner/)*
   ![](outliner2.png)
+    *[Atelier Carvalho Bernau's Bill](https://carvalho-bernau.com/sandberg-bill/)*
   ![](outliner3.png)
+    *[François Chastanet's Relief & Mistral SingleLine](https://github.com/isdat-type/Relief-SingleLine)*
 
   </div>
   <div markdown="1">
@@ -85,7 +88,7 @@ A physical pen cannot endlessly rotate or distort the nib while following a skel
 
 One of these tools is Outliner. It can turn anything from a simple single-stroke skeleton into an outlined glyph, apply basic width and contrast adjustments and keep all generated versions compatible for interpolation by maintaining the same point structure.
 
-[Outliner](https://github.com/typemytype/outlinerRoboFontExtension) is being used outside my practice by others building fonts from skeletons like [Kai Bernau & Susana Carvalho](https://carvalho-bernau.com/sandberg-bill/) – Variable identity for the [Sandberg Instituut](https://sandberg.nl) — and [François Chastanet](https://github.com/isdat-type/Relief-SingleLine) – Single-line engravings for CNC machines, later adapted into SVG fonts usable directly in InDesign.
+[Outliner](https://github.com/typemytype/outlinerRoboFontExtension) is being used outside Frederik's practice by others building fonts from skeletons like [Kai Bernau & Susana Carvalho](https://carvalho-bernau.com/sandberg-bill/) (Variable identity for the [Sandberg Instituut](https://sandberg.nl)) and [François Chastanet](https://github.com/isdat-type/Relief-SingleLine) (Single-line engravings for CNC machines), later adapted into SVG fonts usable directly in InDesign, presented at [Automatic Type Design](https://vimeo.com/1061511522?fl=pl&fe=sh)
 
   </div>
   </div>
@@ -102,7 +105,7 @@ One of these tools is Outliner. It can turn anything from a simple single-stroke
 
 ## The CNC Connection
 
-In 2018, while organizing a birthday party for my daughter at the [Ghent University Botanical Garden](https://www.gum.gent/nl/plantentuin-gent). A dirty revival was made for the invitation of her birthday party.
+In 2018, while organizing a birthday party for his daughter at the [Ghent University Botanical Garden](https://www.gum.gent/nl/plantentuin-gent). A dirty revival was made for the invitation of her birthday party.
 
 The plants nameplates are engraved by a CNC tool, names are squeezed in the physical space of the plate. Long names are hyper condensed, the skeleton is transformed before the router engraved the letters.
 
@@ -116,14 +119,18 @@ Related a indept articel from Florian Hardwig and Thomas Maier: [From Lettering 
 <div markdown="1">
   <div markdown="1">
 
-  ![](preview-allAxes.mp4)
+<video loop autoplay width="{{ include.width | default: '80%' }}">
+  <source src="preview-allAxes.mp4" type="video/mp4">
+</video>
 
   </div>
   <div markdown="1">
 
 ## Filter: Naming, Structure and Play
 
-The birthday-revival evolved into [FC Filter](https://fontclubbelgica.com/typefaces/filter/), a name chosen as a playful reference to the new “filter” sorting options introduced by Future Fonts. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) pops up in what ever filter is selected. FC Filter fully embraces the possibilities of the variable font format by offering a wide range of customization options. It includes multiple writing styles, such as engraving, machine-tool, and a variant inspired by a speedball. The typeface allows adjustments in width, ranging from condensed to expanded, and in weight, from hairline to ultra-bold. Its slant can be modified from backslant to frontslant, while the stroke endings can vary from square to rounded. Finally, Filter features a shift axis, enabling the stroke position to move relative to the underlying skeleton of the letterforms.
+The birthday-revival evolved into [FC Filter](https://fontclubbelgica.com/typefaces/filter/), a name chosen as a playful reference to the new “filter” sorting options introduced by Future Fonts. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) pops up in what ever filter is selected. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) fully embraces the possibilities of the variable font format by offering a wide range of customization options. It includes multiple writing styles, such as engraving, machine-tool, and a variant inspired by a speedball.
+
+The typeface allows adjustments in width, ranging from condensed to expanded, and in weight, from hairline to ultra-bold. Its slant can be modified from backslant to frontslant, while the stroke endings can vary from square to rounded. Finally, Filter features a shift axis, enabling the stroke position to move relative to the underlying skeleton of the letterforms.
 
 Instance names inside the variable font are dynamically generating for each variation of the typeface. For example: Filter enough regular less condensed mostly Roman shifted to the right squashy. While this approach was entertaining, it demonstrated how far Filter pushes the limits of variable type design, sometimes beyond practical use as it often breaks design software.
 
@@ -150,7 +157,9 @@ Creating [FC Filter](https://fontclubbelgica.com/typefaces/filter/) involved add
 <div markdown="1">
   <div markdown="1">
 
-  ![](previewReel.mp4)
+<video loop autoplay width="{{ include.width | default: '80%' }}">
+  <source src="previewReel.mp4" type="video/mp4">
+</video>
 
   </div>
   <div markdown="1">
