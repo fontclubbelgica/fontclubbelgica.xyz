@@ -9,7 +9,7 @@ tags:
 featuredImage: FCB_Article_Splash_Filter.svg
 thumbnailImage: FCB_ANR_Filter.svg
 
-draft: false
+draft: true
 
 seo_description: |
     Discover why custom fonts matter—how bespoke type elevates branding, cuts licensing costs, and helps your brand stand out with lasting visual impact.
@@ -27,7 +27,7 @@ seo_image: FCB_SEO_Filter.jpg
 *This article accompanies Frederik Berlaen’s Typographics 2025 talk, “Your Skeleton looks different than mine?” held in New York at Cooper Union. A glimpse into a 20+ year fascination with skeleton fonts.*
 
   </div>
-  </div>
+</div>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1109336903?h=1b7cdcce2e" width="100%" height="600px" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
@@ -42,7 +42,7 @@ seo_image: FCB_SEO_Filter.jpg
 In his own practice *Frederik* has been fascinated for years in skeletons by building tools and experiments around the construction of letterforms. Finally bundled in a typeface called [FC Filter](https://fontclubbelgica.com/typefaces/filter/), published by [Font Club Belgica](https://fontclubbelgica.com/typefaces/filter/) and available through [Future Fonts](https://www.futurefonts.com/fontclubbelgica/fc-filter).
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -67,7 +67,7 @@ A physical pen cannot endlessly rotate or distort the nib while following a skel
 [Kalliculator](https://typemytype.com/typedesign/KalliCulator/) was never released publicly, but used heavily in the design process.
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -91,7 +91,7 @@ One of these tools is Outliner. It can turn anything from a simple single-stroke
 [Outliner](https://github.com/typemytype/outlinerRoboFontExtension) is being used outside Frederik's practice by others building fonts from skeletons like [Kai Bernau & Susana Carvalho](https://carvalho-bernau.com/sandberg-bill/) (Variable identity for the [Sandberg Instituut](https://sandberg.nl)) and [François Chastanet](https://github.com/isdat-type/Relief-SingleLine) (Single-line engravings for CNC machines), later adapted into SVG fonts usable directly in InDesign, presented at [Automatic Type Design](https://vimeo.com/1061511522?fl=pl&fe=sh)
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -114,7 +114,7 @@ The intriguing imperfections of the font, doubled strokes slightly out of alignm
 Related a indept articel from Florian Hardwig and Thomas Maier: [From Lettering Guides to CNC Plotters — A Brief History of Technical Lettering Tools](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters).
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -130,13 +130,13 @@ Related a indept articel from Florian Hardwig and Thomas Maier: [From Lettering 
 
 The birthday-revival evolved into [FC Filter](https://fontclubbelgica.com/typefaces/filter/), a name chosen as a playful reference to the new “filter” sorting options introduced by Future Fonts. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) pops up in what ever filter is selected. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) fully embraces the possibilities of the variable font format by offering a wide range of customization options. It includes multiple writing styles, such as engraving, machine-tool, and a variant inspired by a speedball.
 
-The typeface allows adjustments in width, ranging from condensed to expanded, and in weight, from hairline to ultra-bold. Its slant can be modified from backslant to frontslant, while the stroke endings can vary from square to rounded. Finally, Filter features a shift axis, enabling the stroke position to move relative to the underlying skeleton of the letterforms.
+The typeface allows adjustments in width, ranging from condensed to expanded, and in weight, from hairline to ultra-bold. Its slant can be modified from backslant to frontslant, while the stroke endings can vary from square to rounded. Finally, [FC Filter](https://fontclubbelgica.com/typefaces/filter/) features a shift axis, enabling the stroke position to move relative to the underlying skeleton of the letterforms.
 
-Instance names inside the variable font are dynamically generating for each variation of the typeface. For example: Filter enough regular less condensed mostly Roman shifted to the right squashy. While this approach was entertaining, it demonstrated how far Filter pushes the limits of variable type design, sometimes beyond practical use as it often breaks design software.
+Instance names inside the variable font are dynamically generating for each variation of the typeface. For example: [FC Filter](https://fontclubbelgica.com/typefaces/filter/) enough regular less condensed mostly Roman shifted to the right squashy. While this approach was entertaining, it demonstrated how far [FC Filter](https://fontclubbelgica.com/typefaces/filter/) pushes the limits of variable type design, sometimes beyond practical use as it often breaks design software.
 
 
   </div>
-  </div>
+</div>
 
 <div markdown="1">
   <div markdown="1">
@@ -149,7 +149,7 @@ Instance names inside the variable font are dynamically generating for each vari
 
 ## Technical Challenges
 
-Creating [FC Filter](https://fontclubbelgica.com/typefaces/filter/) involved addressing complex issues inherent to the extreme skeleton-based transformations. Condensed is really condensed and the black weight has overlapping and skipping the inner whitespace. Key challenges included preserving uniform stroke weight during width, weight, slant and shift adjustments, eliminating angular distortions at tight curvature points, and maintaining proportional integrity by strategically inserting tangent points at fixed percentages along the skeleton path. The compilation process was equally demanding: each style required 378 master outlines, with generation times averaging ten minutes per build. The resulting variable font weighs approximately 30 MB, deliberately left unoptimized for web use to retain full design fidelity.
+Creating [FC Filter](https://fontclubbelgica.com/typefaces/filter/) involved addressing complex issues inherent to the extreme skeleton-based transformations. Condensed is really condensed and the black weight has overlapping and skipping the inner whitespace. Key challenges included preserving uniform stroke weight during width, weight, slant and shift adjustments, eliminating angular distortions at tight curvature points, and maintaining proportional integrity by strategically inserting tangent points at fixed percentages along the skeleton path. The compilation process was equally demanding: each style required 378 master outlines, with generation times averaging ten minutes per build. The resulting variable font weighs approximately 30 MB, deliberately left unoptimized for web use to retain full design fidelity.
 
   </div>
   </div>
@@ -166,7 +166,7 @@ Creating [FC Filter](https://fontclubbelgica.com/typefaces/filter/) involved add
 
 ## So what’s Next
 
-[FC Filter](https://fontclubbelgica.com/typefaces/filter/)’s roadmap and related projects include expanding the character set, exploring revivals of other CNC-era typefaces, continuing research into skeleton-based variable designs and adding a static font export function to reduce webfont file size. For me, technology and design are inseparable. The tools are part of the creative process. Filter exists because of that intersection and reflects the quirks, experiments, and mechanical charm of its origins.
+[FC Filter](https://fontclubbelgica.com/typefaces/filter/)’s roadmap and related projects include expanding the character set, exploring revivals of other CNC-era typefaces, continuing research into skeleton-based variable designs and adding a static font export function to reduce webfont file size. For me, technology and design are inseparable. The tools are part of the creative process. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) exists because of that intersection and reflects the quirks, experiments, and mechanical charm of its origins.
 
   </div>
-  </div>
+</div>
