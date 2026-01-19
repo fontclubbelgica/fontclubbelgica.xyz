@@ -8,7 +8,7 @@ tags:
 featuredImage: FCB_Article_Splash_Quotes.svg
 thumbnailImage: FCB_ANR_Quotes.svg
 
-draft: true
+draft: false
 
 seo_description: |
     Discover why custom fonts matter—how bespoke type elevates branding, cuts licensing costs, and helps your brand stand out with lasting visual impact.
@@ -45,7 +45,7 @@ Historically, Belgian graphic designers are trained to follow what’s often rem
 - So it’s it’s and not it&apos;s.
 - And it’s ’29 and not &lsquo;12.<br>
 
-Different languages follow different conventions for quotation marks. Most word processors will autocorrect them for you, but not all errors are caught—and some are broken on purpose. As with any great rule, there are exceptions. One notable outlier? Streetwear. More specifically: [Off-White](https://www.off---white.com) and its late founder, [Virgil Abloh](https://www.youtube.com/live/nkMWMBsCd9k?si=w9MaYtG-ol2xZFwz), who became a champion of the straight quote.
+Different languages follow different conventions for quotation marks. Most word processors will autocorrect them for you, but not all errors are caught—and some are broken on purpose. As with any great rule, there are exceptions. One notable outlier? Streetwear. More specifically: [Off-White](https://www.off---white.com) and its late founder, [Virgil Abloh](https://www.youtube.com/live/nkMWMBsCd9k?si=w9MaYtG-ol2xZFwz), who became a champion of the straight quote.<br><br>
 
 ## But what are “proper” quotation marks, anyway?<br>
 
