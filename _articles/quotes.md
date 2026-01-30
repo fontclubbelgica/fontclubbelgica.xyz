@@ -116,17 +116,30 @@ As with most things in design, context is key:
 - Typesetting a long article with multiple quotes and source? … **Use curly quotes.**
 - Designing a poster or branding some merch with key words in sans serif type? … **Go ahead and use straight quotes.**
 
+## Cheatsheet: Common HTML entities
+
+| CHARACTER              | GLYPH     | ALPHA          | UNICODE         | W3C                   | 
+| -----------------------| ----------| ---------------| ----------------|-----------------------| 
+| Guillemets             | « »       | &laquo; &raquo;| &#171; &#187;   | &quote;               | 
+| Single quotes          | ‘ ’       | &lsquo; &rsquo;| &#8216; &#8217; | ' or &apos;           | 
+| Single low quote       | ‚         | &sbquo;        | &#8218;         | ' or comma            | 
+| Double quotes          | “ ”       | &ldquo; &rdquo;| &#8220; &#8221; | ", &quot;, , or ``    | 
+| Double low quote       | „         | &bdquo;        | &#8222;         | &quot; or ,,          | 
+| Prime & double prime   | ′ ″       | &prime; &Prime;| &#8242; &#8243; | ', , &apos;, &quot;,  | 
+
+[SOURCE W3C Wiki](https://www.w3.org/wiki/Common_HTML_entities_used_for_typography)<br><br>
+
 ## So what should you do?
 
 To quote Stanley Morison: *“Type design moves at the pace of the most conservative reader.”*<br>
 <br>
 Typography is about communication. Every mark matters. As long as your quote style matches your intent and context, you're on the right track. Just remember: consistency is key.<br>
 
-**Whether you use straight quotes depends on your flavor and your medium.** But please, don’t abbreviate a date like this: &lsquo;18.<br>
+**Whether you use straight quotes depends on your flavor and medium.** But please, don’t abbreviate a date like this: &lsquo;18.<br>
 <br>
 Do yourself —and your readers— a favor:<br>
 
-*Cmd+F / Ctrl+F your document for quote consistency before exporting your: Project_final_final-FINAL-really.pdf*<br>
+Cmd+F / Ctrl+F your document for quote consistency before exporting your: *Project_final_final-FINAL-really.pdf*<br>
 <br>
 **You can quote us on that.**
 

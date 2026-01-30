@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2025-05-12
+date: 2026-01-20
 type: article
 tags:
   - filter
@@ -9,7 +9,7 @@ tags:
 featuredImage: FCB_Article_Splash_Filter.svg
 thumbnailImage: FCB_ANR_Filter.svg
 
-draft: true
+draft: false
 
 seo_description: |
     Discover why custom fonts matter—how bespoke type elevates branding, cuts licensing costs, and helps your brand stand out with lasting visual impact.
@@ -119,7 +119,7 @@ Related a indept articel from Florian Hardwig and Thomas Maier: [From Lettering 
 <div markdown="1">
   <div markdown="1">
 
-<video loop autoplay width="{{ include.width | default: '80%' }}">
+<video loop autoplay muted width="{{ include.width | default: '80%' }}">
   <source src="preview-allAxes.mp4" type="video/mp4">
 </video>
 
@@ -157,14 +157,14 @@ Creating [FC Filter](https://fontclubbelgica.com/typefaces/filter/) involved add
 <div markdown="1">
   <div markdown="1">
 
-<video loop autoplay width="{{ include.width | default: '80%' }}">
+<video loop autoplay muted width="{{ include.width | default: '80%' }}">
   <source src="previewReel.mp4" type="video/mp4">
 </video>
 
   </div>
   <div markdown="1">
 
-## So what’s Next
+## So what’s Next 
 
 [FC Filter](https://fontclubbelgica.com/typefaces/filter/)’s roadmap and related projects include expanding the character set, exploring revivals of other CNC-era typefaces, continuing research into skeleton-based variable designs and adding a static font export function to reduce webfont file size. For me, technology and design are inseparable. The tools are part of the creative process. [FC Filter](https://fontclubbelgica.com/typefaces/filter/) exists because of that intersection and reflects the quirks, experiments, and mechanical charm of its origins.
 
