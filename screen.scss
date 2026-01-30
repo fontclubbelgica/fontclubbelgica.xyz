@@ -706,6 +706,9 @@ section.research {
     padding-top: 20px;
     padding-left: var(--padding);
     padding-right: var(--padding);
+    video {
+      max-width:100%;
+    }
     a {
       text-decoration: underline;
       text-underline-offset: 3px;
@@ -720,7 +723,22 @@ section.research {
       padding-right: var(--bigpadding);
       text-align: center;
     }
-    p, ol, ul {
+    table {
+        border-collapse: collapse;
+        margin-bottom: 10px;
+    }   
+    th {
+        text-align: left
+    }
+    th, td {
+        padding-right: 30px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    tr {
+        border-bottom: solid 1px black;
+    }
+    p, ol, ul , table{
         font-size: 15px;
         line-height: 24px;
     }
@@ -815,6 +833,7 @@ section.research {
         position: static;
       }
     }
+    table {display:none}
   }
 }
 
