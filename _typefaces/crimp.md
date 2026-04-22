@@ -2716,16 +2716,6 @@ openTypeFeatures:
        fontStyle: FC Crimp 150 X Condensed Extra Bold
        examples:
          - "€1.000 ⁴²⁰ ₅₀₈"
-   - ss07:
-       name: Circled Numbers
-       fontStyle: FC Crimp 150 X Condensed Extra Bold
-       examples:
-         - "34 815 96270"
-   - ss08:
-       name: Circled Numbers Negative
-       fontStyle: FC Crimp 150 X Condensed Extra Bold
-       examples:
-         - "6284 97 3145"
 
 css: crimp-style.css
 
