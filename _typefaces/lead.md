@@ -40,7 +40,7 @@ languageSupport:
 
 css: lead-style.css
 
-#splash: FCB_Filter_splash.png
+splash: lead-splash.png
 
 #hometile: FCB_Library_Filter_Large.svg
 
@@ -71,12 +71,12 @@ fontVariations:
       maxValue: 16.0
       defaultValue: 16.0
 
-openTypeFeatures:
-   - liga:
-       name: Standard Ligatures
-       fontStyle: FC Lead Glass
-       examples:
-         - "TT"
+# openTypeFeatures:
+#    - liga:
+#        name: Standard Ligatures
+#        fontStyle: FC Lead Glass
+#        examples:
+#          - "TT"
 
 testers:
     - text: |
