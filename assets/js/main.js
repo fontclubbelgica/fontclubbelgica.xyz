@@ -52,6 +52,19 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_font(element)
 	})
 
+	const control_select_fontColorPalettes = document.querySelectorAll('.select-fontColorPalettes select')
+
+	function apply_control_select_fontColorPalettes(element) {
+		preview = element.parentElement.parentElement.nextElementSibling;
+		preview.style.fontPalette = "--" + element.value
+	}
+
+	control_select_fontColorPalettes.forEach((element)=> {
+		element.addEventListener("change", (event) => {
+			apply_control_select_fontColorPalettes(element)
+		})
+		apply_control_select_fontColorPalettes(element)
+	})
 
 	const control_select_feature = document.querySelectorAll('.select-feature form');
 
@@ -185,7 +198,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	    	// Preload next font
 	    	const nextIndex = (currentZoneIndex + 1) >= font_styles.length ? 0 : currentZoneIndex + 1;
 	    	const nextFont = font_styles[nextIndex];
-	    	
+
 	    	// Create a temporary element to load the next font
 	    	const preloadElement = document.createElement('div');
 	    	preloadElement.style.fontFamily = "'" + nextFont + "'";
@@ -195,21 +208,21 @@ document.addEventListener('DOMContentLoaded', function() {
 			preloadElement.style.overflow = 'hidden';
 	    	preloadElement.textContent = 'Preload';
 	    	document.body.appendChild(preloadElement);
-	    	
+
 	    	// Switch to current font
 	    	zonecontainer.style.fontFamily = "'"+font_styles[currentZoneIndex]+"'"
 	    	zonefontname.textContent = font_styles[currentZoneIndex]
-	    	
+
 	    	// Remove preload element after a short delay
 	    	setTimeout(() => {
 	    		document.body.removeChild(preloadElement);
 	    	}, 200);
-	    	
+
 	    	currentZoneIndex = nextIndex;
 	    }
 	    setInterval(zoneInterval, 1000)
 	}
-	// expand glyphs sheet 
+	// expand glyphs sheet
 	document.querySelectorAll('.expand').forEach((element) => {
 		element.addEventListener("click", (event) => {
 			event.preventDefault();

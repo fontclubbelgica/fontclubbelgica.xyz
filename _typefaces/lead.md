@@ -59,18 +59,6 @@ styles:
         glyphCount: 45
         characterset:
            Basic Latin: "! , . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
-    # - FC Lead Glass Static Color:
-    #     glyphCount: 45
-    #     characterset:
-    #        Basic Latin: "! , . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
-    # - FC Lead Small Glass Static Color:
-    #     glyphCount: 45
-    #     characterset:
-    #        Basic Latin: "! , . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
-    # - FC Lead Condensed Glass Static Color:
-    #     glyphCount: 45
-    #     characterset:
-    #        Basic Latin: "! , . 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
 
 fontVariations:
    - wdth:
@@ -83,6 +71,11 @@ fontVariations:
       minValue: 10.0
       maxValue: 16.0
       defaultValue: 16.0
+
+
+fontColorPalettes:
+    - airport
+    - lead2
 
 # openTypeFeatures:
 #    - liga:
@@ -113,6 +106,15 @@ testers:
       fontVariations:
             - wdth: 50
             - opsz: 16
+      fontColorPalette: airport
+    - text: |
+        IN THE OLD STUDIO, THE GLAZIER SPENT DAYS CRAFTING A GOTHIC LEADLIGHT WINDOW FOR A SMALL CHAPEL. EACH PANEL OF TRANSLUCENT AND OPALESCENT GLASS WAS CAREFULLY CUT USING COPPER FOIL, LEAD CAME, AND SOLDER, WHILE COLORFUL TESSERAE FORMED A MOSAIC AROUND A MEDALLION AND AN ELEGANT ROSETTE. THROUGH THE PRISM OF THE SUNLIGHT, THE PIGMENTS, FIRED ENAMEL, AND GRISAILLE GAINED AN ALMOST LUMINESCENT APPEARANCE. THE TRACERY SURROUNDING THE LANCET WINDOW WAS FINISHED WITH FILIGREE, ORNAMENTS, AND A DARK PATINA, WHILE THE GLASS, AFTER SANDBLASTING AND ETCHING, WAS CAREFULLY PLACED INTO THE WINDOW FRAME. BESIDE THE KILN LAY FRAGMENTS OF SILICA, GLAZE, CAULK, AND BEVELED GLASS SCATTERED ACROSS THE CARTOON DESIGN, READY TO BE TRANSFORMED INTO ANOTHER CATHEDRAL WINDOW.
+      fontStyle: FC Lead Glass Color
+      fontSize: 60
+      fontVariations:
+            - wdth: 50
+            - opsz: 16
+      fontColorPalette: lead2
 
 
 about:
