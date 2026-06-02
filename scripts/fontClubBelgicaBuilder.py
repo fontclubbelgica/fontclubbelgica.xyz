@@ -502,24 +502,35 @@ class Controller(ezui.WindowController):
             self.write(out.get())
 
     def buildFontVariationsCallback(self, sender):
-        found = False
         out = Writer()
         out += "fontVariations:"
         out.indent()
+        variations = dict()
         for font, path in self.fonts():
             if "fvar" in font:
                 for axis in font["fvar"].axes:
 
-                    found = True
-                    out += f"- {axis.axisTag}:"
-                    out.indent()
-                    out += f"name: {font["name"].getDebugName(axis.axisNameID)}"
-                    out += f"minValue: {axis.minValue}"
-                    out += f"maxValue: {axis.maxValue}"
-                    out += f"defaultValue: {axis.defaultValue}"
-                    out.dedent()
+
+                    if axis.axisTag not in variations:
+                        variations[axis.axisTag] = dict()
+                    variations[axis.axisTag].update(dict(
+                        name=font["name"].getDebugName(axis.axisNameID),
+                        minValue=axis.minValue,
+                        maxValue=axis.maxValue,
+                        defaultValue=axis.defaultValue
+                    ))
+
+        for axisTag, variation in variations.items():
+            out += f"- {axisTag}:"
+            out.indent()
+            out += f"name: {variation['name']}"
+            out += f"minValue: {variation['minValue']}"
+            out += f"maxValue: {variation['maxValue']}"
+            out += f"defaultValue: {variation['defaultValue']}"
+            out.dedent()
         out.dedent()
-        if found:
+        if variations:
+
             self.write(out.get())
 
     def buildCharacterSetCallback(self, sender):
@@ -588,12 +599,17 @@ class Controller(ezui.WindowController):
         out = Writer()
         out += "languageSupport:"
         out.indent()
-
+        languageSupport = dict()
         for font, path in self.fonts():
-            support = FontChecker(path).get_supported_languages()
-            for script, languages in support.items():
-                out += f"{script}: {', '.join([language.name for language in languages.values()])}"
+            result = FontChecker(path).get_supported_languages()
+            for script, languages in result.items():
+                if script not in languageSupport:
+                    languageSupport[script] = set()
+                languageSupport[script].update([language.name for language in languages.values()])
+        for script, language in languageSupport.items():
+            out += f"{script}: {', '.join(sorted(language))}"
         out.dedent()
         self.write(out.get())
+
 
 Controller()
