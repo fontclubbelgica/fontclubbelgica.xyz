@@ -90,7 +90,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                  </select>
             </div>
 
-            {% if page.fontColorPalettes and tester.fontColorPalette %}
+            {% if page.fontColorPalettes %}
             <div class="select-fontColorPalettes">
                 <select>
                 {% for fontColorPalette in page.fontColorPalettes %}
