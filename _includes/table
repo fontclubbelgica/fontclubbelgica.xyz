@@ -8,7 +8,7 @@
                 <th onclick="sortTable(3)">Widths</th>
                 <th onclick="sortTable(4)">Italics</th>
                 <th onclick="sortTable(5)">Variable</th>
-                <th onclick="sortTable(6)">Latin CE</th>
+                <th onclick="sortTable(6)">Latin</th>
                 <th onclick="sortTable(7)">Cyrillic</th>
                 <th onclick="sortTable(8)">Greek</th>
                 <th onclick="sortTable(9)">Vietnam</th>
