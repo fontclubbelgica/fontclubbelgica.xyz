@@ -389,6 +389,8 @@ class Controller(ezui.WindowController):
         > ( Font Variations ) @buildFontVariations
         > ( Character set ) @buildCharacterSet
         > ( Language support ) @buildLanguageSupport
+        > ( Color Palettes ) @buildColorPalettes
+        > ( Color Palette Values ) @buildColorPaletteValues
         """
         descriptionData = dict(
             output=dict(
@@ -509,8 +511,6 @@ class Controller(ezui.WindowController):
         for font, path in self.fonts():
             if "fvar" in font:
                 for axis in font["fvar"].axes:
-
-
                     if axis.axisTag not in variations:
                         variations[axis.axisTag] = dict()
                     variations[axis.axisTag].update(dict(
@@ -609,6 +609,40 @@ class Controller(ezui.WindowController):
         for script, language in languageSupport.items():
             out += f"{script}: {', '.join(sorted(language))}"
         out.dedent()
+        self.write(out.get())
+
+    def buildColorPalettesCallback(self, sender):
+        colorPalettesNames = []
+        for font, path in self.fonts():
+            if "CPAL" in font:
+                name = font["name"]
+                for nameID in font["CPAL"].paletteLabels:
+                    colorPalettesNames.append(name.getDebugName(nameID))
+        if colorPalettesNames:
+            out = Writer()
+            out += "fontColorPalettes:"
+            out.indent()
+            for colorPalettesName in colorPalettesNames:
+                out += f"- {colorPalettesName}"
+            out.dedent()
+            self.write(out.get())
+
+    def buildColorPaletteValuesCallback(self, sender):
+        out = Writer()
+
+        for font, path in self.fonts():
+            if "CPAL" in font:
+                name = font["name"]
+                for index, nameID in enumerate(font["CPAL"].paletteLabels):
+                    colerPaletteName = name.getDebugName(nameID)
+
+                    out += f"@font-palette-values --{colerPaletteName} {{"
+                    out.indent()
+                    out += f"font-family: '{font["name"].getBestFullName()}';"
+                    out += f"base-palette: {index};"
+                    out.dedent()
+                    out += "}"
+                    out.newLine()
         self.write(out.get())
 
 
