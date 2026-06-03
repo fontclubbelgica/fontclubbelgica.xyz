@@ -55,13 +55,13 @@ styles:
         glyphCount: 51
         paypro: FC_Lead
         characterset:
-           Basic Latin: "! ( ) , . / 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Basic Latin: "! ' ( ) , . / 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Private Use Area: ""
     - FC Lead Color:
         glyphCount: 51
         paypro: FC_LeadColor
         characterset:
-           Basic Latin: "! ( ) , . / 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Basic Latin: "! ' ( ) , . / 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Private Use Area: ""
 
 fontVariations:
@@ -153,7 +153,8 @@ testers:
 
 about:
 
-    - image:
+    - image: FCB_Articles_Lead.svg
+      caption: All white whitespace are one piece, convex shapes.
 
       text: |
         Light, glass and lead, letters based on convex shapes and whole undivided whitespaces. Convert all limitations of cutting glass into a letter shapes. FC Lead is using the constraints of merging pieces of glass together with lead into one solid drawing. Counterparts are created with  light without any unnecessary cuts. Resulting in unconventional letters.
