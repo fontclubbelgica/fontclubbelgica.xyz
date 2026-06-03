@@ -12,6 +12,7 @@ slogans:
     - /typefaces/mad-serif/FCB_Slogans_1.svg
     - /typefaces/crimp/FCB_Slogans_1.svg
     - /typefaces/mad-sans/FCB_Slogans_1.svg
+    - /typefaces/filter/FCB_Slogans_1.svg
     - /typefaces/nib/FCB_Slogans_1.svg
     - /typefaces/cru/FCB_Slogans_1.svg
     - /typefaces/pep/FCB_Slogans_1.svg
