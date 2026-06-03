@@ -12,7 +12,7 @@ information: |
     What started as a sans serif companion to FC Nib has turned into a highly multifunctional sans serif that just like it's companion is both highly usable and expressive.
 
 designer: Dries Wiewauters
-date: 2025-08-03
+date: 2027-01-01
 
 specimen: 25-04_FC-Oblate_Type-Specimen.pdf
 
@@ -2775,7 +2775,7 @@ hometile: FCB_Library_Oblate_Large.svg
 showcases:
     - ABCDEFGHIJKLMN
     - OPQRSTUVWXYZ
-    - ΑΒΓΔΕΦ АБЦДЕФ 
+    - ΑΒΓΔΕΦ АБЦДЕФ
     - äbcdęfghijklmn
     - opqrstuvwxyz
     - αβγδεφ абцде
@@ -3038,7 +3038,7 @@ testers:
     - text: |
         Prismen zijn drie-dimensionale geometrische vormen die worden gekarakteriseerd door twee identieke, evenwijdige basissen en rechthoekige zijkanten die de basissen verbinden. De meest voorkomende prisma's zijn de rechte prisma's, waarbij de zijkanten loodrecht op de basissen staan. Een prisma wordt vaak genoemd naar de vorm van zijn basis. Bijvoorbeeld, een rechthoekig prisma heeft een rechthoekige basis, terwijl een driehoekig prisma een driehoekige basis heeft.
 
-        De eigenschappen van een prisma zijn eenvoudig te begrijpen. De zijvlakken van een prisma zijn altijd parallellogrammen, en de oppervlakte van het prisma kan worden berekend door de omtrek van de basis te vermenigvuldigen met de hoogte en daarna de oppervlakten van de twee basissen toe te voegen. 
+        De eigenschappen van een prisma zijn eenvoudig te begrijpen. De zijvlakken van een prisma zijn altijd parallellogrammen, en de oppervlakte van het prisma kan worden berekend door de omtrek van de basis te vermenigvuldigen met de hoogte en daarna de oppervlakten van de twee basissen toe te voegen.
 
         Prisma's komen vaak voor in de natuur en in verschillende technische toepassingen. In de natuur kunnen ze worden gevonden in de kristallijne structuren van sommige mineralen. In de techniek en architectuur worden prisma's vaak gebruikt om licht te breken of te reflecteren, bijvoorbeeld in optische instrumenten zoals prisma's in verrekijkers of telescooplenzen.
 
@@ -3051,8 +3051,8 @@ testers:
 about:
     - text: |
         The word oblate holds within it the soft whispers of the Earth’s true shape—a shape that is not quite spherical, but gracefully distorted by the forces that govern it. The Earth, as it spins on its axis, experiences a subtle yet powerful transformation. The forces of rotation push against the equator, causing it to swell ever so slightly, while the poles are compressed, creating a shape that is an imperfect harmony between expansion and contraction. This is the oblate spheroid.
-        
-        Like it’s sister typeface <ins>[FC Nib](https://fontclubbelgica.com/typefaces/nib)</ins>, FC Oblate blends the lines of font classification. It is neither a calligraphic humanist nor a mathematical modernist sans. It merges the usage of warm obloid curves in contrast with pointy and bulbous calligraphic touches. FC Oblate has the appearance of a neutral sans but details that are far from it. In a world of copious sans serifs it is a breath of fresh air. 
+
+        Like it’s sister typeface <ins>[FC Nib](https://fontclubbelgica.com/typefaces/nib)</ins>, FC Oblate blends the lines of font classification. It is neither a calligraphic humanist nor a mathematical modernist sans. It merges the usage of warm obloid curves in contrast with pointy and bulbous calligraphic touches. FC Oblate has the appearance of a neutral sans but details that are far from it. In a world of copious sans serifs it is a breath of fresh air.
 
         On top this visual uniqueness, it also boasts a wide array of weights and widths with matching calligraphic inspired italics. And if the six weights and 5 widths aren’t enough, there is even a variable version to help you further fine tune your ideal grayness and column widths. And then we haven’t even spoken about the extended language support: Extended Latin, Cyrillic, Greek and Vietnamese. To say that FC Oblate is an unique workhorse typeface is an understatement. As much so as saying that it was made on a perfect sphere floating around a nearly perfect sphere of hot plasma.
 
