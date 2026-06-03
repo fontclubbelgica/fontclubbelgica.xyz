@@ -7,7 +7,7 @@ draft: false
 seo_description: |
     FC Lead Light, glass and lead, letters based on convex shapes and whole undivided whitespaces. Convert all limitations of cutting glass into a letter shapes. FC Lead is using the constraints of merging pieces of glass together with lead into one solid drawing. Counterparts are created with  light without any unnecessary cuts. Resulting in unconventional letters.
 
-# seo_image: FCB_SEO_Filter.jpg
+seo_image: FCB_SEO_Lead.jpg
 
 information: |
     FC Lead, light, glass and lead, letters based on convex shapes and whole undivided whitespaces.
@@ -42,7 +42,7 @@ css: lead-style.css
 
 splash: lead-splash.png
 
-#hometile: FCB_Library_Filter_Large.svg
+hometile: FCB_Library_Lead_Large.svg
 
 showcases:
     - ABCDEFGHI
