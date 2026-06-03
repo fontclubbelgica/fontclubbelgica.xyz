@@ -101,7 +101,7 @@ testers:
             - wdth: 40
             - opsz: 10
     - text: |
-        IN THE OLD STUDIO, THE GLAZIER SPENT DAYS CRAFTING A GOTHIC LEADLIGHT WINDOW FOR A SMALL CHAPEL. EACH PANEL OF TRANSLUCENT AND OPALESCENT GLASS WAS CAREFULLY CUT USING COPPER FOIL, LEAD CAME, AND SOLDER, WHILE COLORFUL TESSERAE FORMED A MOSAIC AROUND A MEDALLION AND AN ELEGANT ROSETTE. THROUGH THE PRISM OF THE SUNLIGHT, THE PIGMENTS, FIRED ENAMEL, AND GRISAILLE GAINED AN ALMOST LUMINESCENT APPEARANCE. THE TRACERY SURROUNDING THE LANCET WINDOW WAS FINISHED WITH FILIGREE, ORNAMENTS, AND A DARK PATINA, WHILE THE GLASS, AFTER SANDBLASTING AND ETCHING, WAS CAREFULLY PLACED INTO THE WINDOW FRAME. BESIDE THE KILN LAY FRAGMENTS OF SILICA, GLAZE, CAULK, AND BEVELED GLASS SCATTERED ACROSS THE CARTOON DESIGN, READY TO BE TRANSFORMED INTO ANOTHER CATHEDRAL WINDOW.
+        Dans l'ancien atelier, le verrier consacra des jours entiers a la confection d'un vitrail gothique pour une petite chapelle. chaque panneau de verre translucide et opalescent etait soigneusement decoupe a l'aide de feuilles de cuivre, de plomb et de soudure, tandis que des tesselles colorees formaient une mosaique autour d'un medaillon et d'une elegante rosace. sous le prisme de la lumiere du soleil, les pigments, l'email cuit et la grisaille acqueraient un aspect presque luminescent. les ornements encadrant le vitrail etaient finis de filigranes, de decorations et d'une patine sombre, tandis que le verre, apres sablage et gravure, etait soigneusement place dans le cadre de la fenetre. a cote du four, des fragments de silice, d'email, de moulage et de verre biseaute eparpilles sur le motif de caractere, prets a etre transformes en une autre vitrine de cathedrale.
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
@@ -109,7 +109,7 @@ testers:
             - opsz: 16
       fontColorPalette: Chromium
     - text: |
-        IN THE OLD STUDIO, THE GLAZIER SPENT DAYS CRAFTING A GOTHIC LEADLIGHT WINDOW FOR A SMALL CHAPEL. EACH PANEL OF TRANSLUCENT AND OPALESCENT GLASS WAS CAREFULLY CUT USING COPPER FOIL, LEAD CAME, AND SOLDER, WHILE COLORFUL TESSERAE FORMED A MOSAIC AROUND A MEDALLION AND AN ELEGANT ROSETTE. THROUGH THE PRISM OF THE SUNLIGHT, THE PIGMENTS, FIRED ENAMEL, AND GRISAILLE GAINED AN ALMOST LUMINESCENT APPEARANCE. THE TRACERY SURROUNDING THE LANCET WINDOW WAS FINISHED WITH FILIGREE, ORNAMENTS, AND A DARK PATINA, WHILE THE GLASS, AFTER SANDBLASTING AND ETCHING, WAS CAREFULLY PLACED INTO THE WINDOW FRAME. BESIDE THE KILN LAY FRAGMENTS OF SILICA, GLAZE, CAULK, AND BEVELED GLASS SCATTERED ACROSS THE CARTOON DESIGN, READY TO BE TRANSFORMED INTO ANOTHER CATHEDRAL WINDOW.
+        Nel vecchio studio, il vetraio trascorreva giorni a realizzare una finestra gotica con vetri a piombo per una piccola cappella. ogni pannello di vetro traslucido e opalescente fu tagliato con cura utilizzando laminato di rame, mappatura di piombo e saldatura, mentre tessere colorate formavano un mosaico attorno a un medaglione e a un'elegante rosetta. attraverso il prisma della luce del sole, i pigmenti, lo smalto cotto e la grisaille acquisirono un aspetto quasi luminescente. il traccio che circondava la finestra a lancetta fu rifinito con filigrana, ornamenti e una patina scura, mentre il vetro, dopo sabbiatura e incisione, fu inserito con cura nel telaio della finestra. accanto al forno, frammenti di silice, smalto, stuccante e vetro smussato sono sparsi sul disegno cartoonico, pronti per essere trasformati in un'altra finestra di cattedrale.
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
@@ -117,7 +117,7 @@ testers:
             - opsz: 16
       fontColorPalette: Cobalt
     - text: |
-        IN THE OLD STUDIO, THE GLAZIER SPENT DAYS CRAFTING A GOTHIC LEADLIGHT WINDOW FOR A SMALL CHAPEL. EACH PANEL OF TRANSLUCENT AND OPALESCENT GLASS WAS CAREFULLY CUT USING COPPER FOIL, LEAD CAME, AND SOLDER, WHILE COLORFUL TESSERAE FORMED A MOSAIC AROUND A MEDALLION AND AN ELEGANT ROSETTE. THROUGH THE PRISM OF THE SUNLIGHT, THE PIGMENTS, FIRED ENAMEL, AND GRISAILLE GAINED AN ALMOST LUMINESCENT APPEARANCE. THE TRACERY SURROUNDING THE LANCET WINDOW WAS FINISHED WITH FILIGREE, ORNAMENTS, AND A DARK PATINA, WHILE THE GLASS, AFTER SANDBLASTING AND ETCHING, WAS CAREFULLY PLACED INTO THE WINDOW FRAME. BESIDE THE KILN LAY FRAGMENTS OF SILICA, GLAZE, CAULK, AND BEVELED GLASS SCATTERED ACROSS THE CARTOON DESIGN, READY TO BE TRANSFORMED INTO ANOTHER CATHEDRAL WINDOW.
+        No antigo estudio, o vidraceiro passou dias a fio a criar um vitral gotico para uma pequena capela. cada painel de vidro translucido e opalescente foi cuidadosamente cortado com folha de cobre, chumbo e solda, enquanto tesselas coloridas formavam um mosaico em torno de um medalhao e uma elegante roseta. atraves do prisma da luz solar, os pigmentos, o esmalte cozido e a grissali adquiriram uma aparencia quase luminescente. a trelica que circundava a janela lanceta foi finalizada com filigrana, ornamentos e uma patina escura, enquanto o vidro, apos jateamento de areia e gravacao, foi cuidadosamente colocado na moldura da janela. ao lado do forno, fragmentos de silica, esmalte, selante e vidro biselado estavam espalhados pelo desenho caricatural, prontos para serem transformados em outra janela de catedral.
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
@@ -125,7 +125,7 @@ testers:
             - opsz: 16
       fontColorPalette: Airport
     - text: |
-        IN THE OLD STUDIO, THE GLAZIER SPENT DAYS CRAFTING A GOTHIC LEADLIGHT WINDOW FOR A SMALL CHAPEL. EACH PANEL OF TRANSLUCENT AND OPALESCENT GLASS WAS CAREFULLY CUT USING COPPER FOIL, LEAD CAME, AND SOLDER, WHILE COLORFUL TESSERAE FORMED A MOSAIC AROUND A MEDALLION AND AN ELEGANT ROSETTE. THROUGH THE PRISM OF THE SUNLIGHT, THE PIGMENTS, FIRED ENAMEL, AND GRISAILLE GAINED AN ALMOST LUMINESCENT APPEARANCE. THE TRACERY SURROUNDING THE LANCET WINDOW WAS FINISHED WITH FILIGREE, ORNAMENTS, AND A DARK PATINA, WHILE THE GLASS, AFTER SANDBLASTING AND ETCHING, WAS CAREFULLY PLACED INTO THE WINDOW FRAME. BESIDE THE KILN LAY FRAGMENTS OF SILICA, GLAZE, CAULK, AND BEVELED GLASS SCATTERED ACROSS THE CARTOON DESIGN, READY TO BE TRANSFORMED INTO ANOTHER CATHEDRAL WINDOW.
+        In der alten werkstatt verbrachte der glaser tage damit, ein gotisches bleiglasfenster fur eine kleine kapelle anzufertigen. jede scheibe aus lichtdurchlassigem und opaleszentem glas wurde sorgfaltig mit kupferfolie, bleiglas und lotzinn zugeschnitten, wahrend farbenprachtige mosaiksteine ein medaillon und eine elegante rosette umrahmten. im prisma des sonnenlichts wirkten die pigmente, die gebrannte emaille und das grisaile beinahe leuchtend. das mawerk um das lanzettfenster wurde mit filigran, ornamenten und einer dunklen patina verziert, wahrend das glas nach dem sandstrahlen und atzen sorgfaltig in den fensterrahmen eingesetzt wurde. neben dem brennofen lagen bruchstucke von siliziumdioxid, glasur, dichtungsmasse und abgeschragtem glas, die uber das cartoon-design verstreut waren und bereit waren, in ein weiteres kathedralenfenster verwandelt zu werden.
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
@@ -134,7 +134,7 @@ testers:
       fontColorPalette: Pastel
 
     - text: |
-        IN THE OLD STUDIO, THE GLAZIER SPENT DAYS CRAFTING A GOTHIC LEADLIGHT WINDOW FOR A SMALL CHAPEL. EACH PANEL OF TRANSLUCENT AND OPALESCENT GLASS WAS CAREFULLY CUT USING COPPER FOIL, LEAD CAME, AND SOLDER, WHILE COLORFUL TESSERAE FORMED A MOSAIC AROUND A MEDALLION AND AN ELEGANT ROSETTE. THROUGH THE PRISM OF THE SUNLIGHT, THE PIGMENTS, FIRED ENAMEL, AND GRISAILLE GAINED AN ALMOST LUMINESCENT APPEARANCE. THE TRACERY SURROUNDING THE LANCET WINDOW WAS FINISHED WITH FILIGREE, ORNAMENTS, AND A DARK PATINA, WHILE THE GLASS, AFTER SANDBLASTING AND ETCHING, WAS CAREFULLY PLACED INTO THE WINDOW FRAME. BESIDE THE KILN LAY FRAGMENTS OF SILICA, GLAZE, CAULK, AND BEVELED GLASS SCATTERED ACROSS THE CARTOON DESIGN, READY TO BE TRANSFORMED INTO ANOTHER CATHEDRAL WINDOW.
+        En el antiguo taller, el vidriero dedico dias a crear una vidriera gotica para una pequena capilla. cada panel de vidrio translucido y opalescente fue cuidadosamente cortado con lamina de cobre, plomo y soldadura, mientras que coloridas teselas formaban un mosaico alrededor de un medallon y una elegante roseta. bajo el prisma de la luz solar, los pigmentos, el esmalte cocido y la grisalla adquirieron un aspecto casi luminiscente. la traceria que rodeaba la vidriera ojival se remato con filigrana, ornamentos y una patina oscura, mientras que el vidrio, tras ser arenado y grabado, se coloco cuidadosamente en el marco. junto al horno yacian fragmentos de silice, esmalte, masilla y vidrio biselado dispersados sobre el diseno de dibujos animados, listos para ser transformados en otra ventana de catedral.
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
@@ -142,7 +142,7 @@ testers:
             - opsz: 16
       fontColorPalette: Granberry
     - text: |
-        IN THE OLD STUDIO, THE GLAZIER SPENT DAYS CRAFTING A GOTHIC LEADLIGHT WINDOW FOR A SMALL CHAPEL. EACH PANEL OF TRANSLUCENT AND OPALESCENT GLASS WAS CAREFULLY CUT USING COPPER FOIL, LEAD CAME, AND SOLDER, WHILE COLORFUL TESSERAE FORMED A MOSAIC AROUND A MEDALLION AND AN ELEGANT ROSETTE. THROUGH THE PRISM OF THE SUNLIGHT, THE PIGMENTS, FIRED ENAMEL, AND GRISAILLE GAINED AN ALMOST LUMINESCENT APPEARANCE. THE TRACERY SURROUNDING THE LANCET WINDOW WAS FINISHED WITH FILIGREE, ORNAMENTS, AND A DARK PATINA, WHILE THE GLASS, AFTER SANDBLASTING AND ETCHING, WAS CAREFULLY PLACED INTO THE WINDOW FRAME. BESIDE THE KILN LAY FRAGMENTS OF SILICA, GLAZE, CAULK, AND BEVELED GLASS SCATTERED ACROSS THE CARTOON DESIGN, READY TO BE TRANSFORMED INTO ANOTHER CATHEDRAL WINDOW.
+        I det gamle atelier brugte glarmesteren dage pa at lave et gotisk blyindfattet vindue til et lille kapel. hvert panel af gennemsigtigt og opalescerende glas blev omhyggeligt skaret med kobberfolie, bly og lodning, mens farverige tesseraer dannede en mosaik omkring en medaljon og en elegant roset. gennem sollysets prisme fik pigmenter, brndt emalje og grisaille et nsten selvlysende udseende. maskeriet omkring lancetvinduet blev afsluttet med filigran, ornamenter og en mrk patina, mens glasset, efter sandblsning og tsning, omhyggeligt blev placeret i vinduesrammen. ved siden af ovnen la fragmenter af silica, glasur, fugemasse og skraslebet glas spredt ud over tegneseriedesignet, klar til at blive forvandlet til endnu et katedralvindue.
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
