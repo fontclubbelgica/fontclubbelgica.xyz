@@ -105,7 +105,7 @@ testers:
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
-            - wdth: 50
+            - wdth: 80
             - opsz: 16
       fontColorPalette: Chromium
     - text: |
@@ -121,7 +121,7 @@ testers:
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
-            - wdth: 50
+            - wdth: 100
             - opsz: 16
       fontColorPalette: Airport
     - text: |
@@ -130,7 +130,7 @@ testers:
       fontSize: 100
       fontVariations:
             - wdth: 50
-            - opsz: 16
+            - opsz: 10
       fontColorPalette: Pastel
 
     - text: |
@@ -138,7 +138,7 @@ testers:
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
-            - wdth: 50
+            - wdth: 75
             - opsz: 16
       fontColorPalette: Granberry
     - text: |
@@ -146,15 +146,15 @@ testers:
       fontStyle: FC Lead Color
       fontSize: 100
       fontVariations:
-            - wdth: 50
-            - opsz: 16
+            - wdth: 100
+            - opsz: 10
       fontColorPalette: Miniral
 
 
 about:
 
     - image: FCB_Articles_Lead.svg
-      caption: All white whitespace are one piece, convex shapes.
+      caption: Every whitespace is one piece, a convex shape.
 
       text: |
         Light, glass and lead, letters based on convex shapes and whole undivided whitespaces. Convert all limitations of cutting glass into a letter shapes. FC Lead is using the constraints of merging pieces of glass together with lead into one solid drawing. Counterparts are created with  light without any unnecessary cuts. Resulting in unconventional letters.
