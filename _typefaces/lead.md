@@ -97,9 +97,23 @@ testers:
     - text: |
         LOODRAAM LOODPROFIEL SOLDEER KATHEDRAAL MOZAIEK DOORSCHIJNEND OPAALACHTIG OVEN GLAZENIER ROZET LANCETVENSTER STIJL GRIJSSCHILDERING TESSELS FACET FOLIE PATINA KARTON MAASWERK VENSTERINDELING GLAS RAAM PANEEL KAPEL GOTISCH MEDAILLON ETSWERK ATELIER ZANDBLAASTRALING GEBRAND EMAIL KOPER DIAMANT JUWEEL TIFFANY PRISMA ZONLICHT LICHTGEVEND BOOG STEENGROEVE GLAZUUR RAND FILIGRAAN RELIEKHOUER ORNAMENT KIT GLASBREKEN LOODHOUDEND SILICA PIGMENT
       fontStyle: FC Lead Sans Color
-      fontSize: 85
+      fontSize: 70
       fontVariations:
             - wdth: 40
+            - opsz: 10
+    - text: |
+        In der alten werkstatt verbrachte der glaser tage damit, ein gotisches bleiglasfenster fur eine kleine kapelle anzufertigen. jede scheibe aus lichtdurchlassigem und opaleszentem glas wurde sorgfaltig mit kupferfolie, bleiglas und lotzinn zugeschnitten, wahrend farbenprachtige mosaiksteine ein medaillon und eine elegante rosette umrahmten. im prisma des sonnenlichts wirkten die pigmente, die gebrannte emaille und das grisaile beinahe leuchtend. das mawerk um das lanzettfenster wurde mit filigran, ornamenten und einer dunklen patina verziert, wahrend das glas nach dem sandstrahlen und atzen sorgfaltig in den fensterrahmen eingesetzt wurde. neben dem brennofen lagen bruchstucke von siliziumdioxid, glasur, dichtungsmasse und abgeschragtem glas, die uber das cartoon-design verstreut waren und bereit waren, in ein weiteres kathedralenfenster verwandelt zu werden.
+      fontStyle: FC Lead Sans Color
+      fontSize: 100
+      fontVariations:
+            - wdth: 50
+            - opsz: 16
+    - text: |
+        En el antiguo taller, el vidriero dedico dias a crear una vidriera gotica para una pequena capilla. cada panel de vidrio translucido y opalescente fue cuidadosamente cortado con lamina de cobre, plomo y soldadura, mientras que coloridas teselas formaban un mosaico alrededor de un medallon y una elegante roseta. bajo el prisma de la luz solar, los pigmentos, el esmalte cocido y la grisalla adquirieron un aspecto casi luminiscente. la traceria que rodeaba la vidriera ojival se remato con filigrana, ornamentos y una patina oscura, mientras que el vidrio, tras ser arenado y grabado, se coloco cuidadosamente en el marco. junto al horno yacian fragmentos de silice, esmalte, masilla y vidrio biselado dispersados sobre el diseno de dibujos animados, listos para ser transformados en otra ventana de catedral.
+      fontStyle: FC Lead Sans Color
+      fontSize: 300
+      fontVariations:
+            - wdth: 90
             - opsz: 10
     - text: |
         Dans l'ancien atelier, le verrier consacra des jours entiers a la confection d'un vitrail gothique pour une petite chapelle. chaque panneau de verre translucide et opalescent etait soigneusement decoupe a l'aide de feuilles de cuivre, de plomb et de soudure, tandis que des tesselles colorees formaient une mosaique autour d'un medaillon et d'une elegante rosace. sous le prisme de la lumiere du soleil, les pigments, l'email cuit et la grisaille acqueraient un aspect presque luminescent. les ornements encadrant le vitrail etaient finis de filigranes, de decorations et d'une patine sombre, tandis que le verre, apres sablage et gravure, etait soigneusement place dans le cadre de la fenetre. a cote du four, des fragments de silice, d'email, de moulage et de verre biseaute eparpilles sur le motif de caractere, prets a etre transformes en une autre vitrine de cathedrale.
@@ -133,7 +147,6 @@ testers:
             - wdth: 50
             - opsz: 10
       fontColorPalette: Pastel
-
     - text: |
         En el antiguo taller, el vidriero dedico dias a crear una vidriera gotica para una pequena capilla. cada panel de vidrio translucido y opalescente fue cuidadosamente cortado con lamina de cobre, plomo y soldadura, mientras que coloridas teselas formaban un mosaico alrededor de un medallon y una elegante roseta. bajo el prisma de la luz solar, los pigmentos, el esmalte cocido y la grisalla adquirieron un aspecto casi luminiscente. la traceria que rodeaba la vidriera ojival se remato con filigrana, ornamentos y una patina oscura, mientras que el vidrio, tras ser arenado y grabado, se coloco cuidadosamente en el marco. junto al horno yacian fragmentos de silice, esmalte, masilla y vidrio biselado dispersados sobre el diseno de dibujos animados, listos para ser transformados en otra ventana de catedral.
       fontStyle: FC Lead Color
