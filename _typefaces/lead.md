@@ -51,15 +51,15 @@ showcases:
     - 012345679.,?!
 
 styles:
-    - FC Lead:
-        glyphCount: 51
-        paypro: FC_Lead
-        characterset:
-           Basic Latin: "! ' ( ) , . / 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] a b c d e f g h i j k l m n o p q r s t u v w x y z"
-           Private Use Area: ""
     - FC Lead Color:
         glyphCount: 51
         paypro: FC_LeadColor
+        characterset:
+           Basic Latin: "! ' ( ) , . / 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] a b c d e f g h i j k l m n o p q r s t u v w x y z"
+           Private Use Area: ""
+    - FC Lead Sans Color:
+        glyphCount: 51
+        paypro: FC_Lead
         characterset:
            Basic Latin: "! ' ( ) , . / 0 1 2 3 4 5 6 7 8 9 : ; ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ ] a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Private Use Area: ""
@@ -83,19 +83,20 @@ fontColorPalettes:
    - Airport
    - Pastel
    - Granberry
-   - Miniral
+   - Mineral
 
 testers:
     - text: |
         LEADLIGHT CAME SOLDER CATHEDRAL MOSAIC TRANSLUCENT OPALESCENT KILN GLAZIER ROSETTE LANCET MULLION GRISAILLE TESSERAE BEVEL FOIL PATINA CARTON TRACERY FENESTRATION GLASS WINDOW PANEL CHAPEL GOTHIC MEDALLION ETCHING STUDIO SANDBLAST FIRED ENAMEL COPPER DIAMOND JEWEL TIFFANY PRISM SUNLIGHT LUMINESCENT ARCH QUARRY GLAZE BORDER FILIGREE RELIQUARY ORNAMENT CAULK GROZING LEADED SILICA PIGMENT
-      fontStyle: FC Lead
+      fontStyle: FC Lead Color
+      fontColorPalette: Mineral
       fontSize: 200
       fontVariations:
             - wdth: 100
             - opsz: 16
     - text: |
         LOODRAAM LOODPROFIEL SOLDEER KATHEDRAAL MOZAIEK DOORSCHIJNEND OPAALACHTIG OVEN GLAZENIER ROZET LANCETVENSTER STIJL GRIJSSCHILDERING TESSELS FACET FOLIE PATINA KARTON MAASWERK VENSTERINDELING GLAS RAAM PANEEL KAPEL GOTISCH MEDAILLON ETSWERK ATELIER ZANDBLAASTRALING GEBRAND EMAIL KOPER DIAMANT JUWEEL TIFFANY PRISMA ZONLICHT LICHTGEVEND BOOG STEENGROEVE GLAZUUR RAND FILIGRAAN RELIEKHOUER ORNAMENT KIT GLASBREKEN LOODHOUDEND SILICA PIGMENT
-      fontStyle: FC Lead
+      fontStyle: FC Lead Sans Color
       fontSize: 85
       fontVariations:
             - wdth: 40
@@ -148,7 +149,7 @@ testers:
       fontVariations:
             - wdth: 100
             - opsz: 10
-      fontColorPalette: Miniral
+      fontColorPalette: Mineral
 
 
 about:
@@ -200,7 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // helper to show/hide the color palette controll base on the font name
     function checkColerPaletteControl(element) {
         subitem = element.parentElement.nextElementSibling
-        if ( element.value.includes("Color") ) {
+        if ( element.value == "FC Lead Color" ) {
             subitem.style.visibility = "inherit"
         }
         else {
