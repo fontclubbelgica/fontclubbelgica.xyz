@@ -214,11 +214,13 @@ document.addEventListener('DOMContentLoaded', function() {
     // helper to show/hide the color palette controll base on the font name
     function checkColerPaletteControl(element) {
         subitem = element.parentElement.nextElementSibling
-        if ( element.value == "FC Lead Color" ) {
-            subitem.style.visibility = "inherit"
-        }
-        else {
-            subitem.style.visibility = "hidden"
+        if ( subitem ) {
+            if ( element.value == "FC Lead Color" ) {
+                subitem.style.visibility = "inherit"
+            }
+            else {
+                subitem.style.visibility = "hidden"
+            }
         }
     }
     const control_select_font = document.querySelectorAll('.select-font select')
