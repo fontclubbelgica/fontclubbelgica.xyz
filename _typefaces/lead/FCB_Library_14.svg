@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="400" height="400" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="M0,0 l0,750 l432.0,0 l0,-750 l-432.0,0 Z M0,0" fill="rgb(245,242,232)" transform="matrix(18.666666666666668,0.0,0.0,-18.666666666666668,0.0,400.0)"/>
  <path d="M-200,0 l400,0" fill="rgb(0,0,0)" stroke="rgb(91,103,107)" stroke-dasharray="2,2" stroke-width="1" transform="matrix(1,0,0,-1,200.0,256.0)"/>
  <path d="M-200,140 l400,0" fill="rgb(0,0,0)" stroke="rgb(91,103,107)" stroke-dasharray="2,2" stroke-width="1" transform="matrix(1,0,0,-1,200.0,256.0)"/>
  <path d="M0,0 l0,750 l861.34,0 l0,-750 l-861.34,0 Z M0,0" fill="rgb(245,242,232)" transform="matrix(0.18666666666666668,0.0,0.0,-0.18666666666666668,46.5,256.0)"/>
