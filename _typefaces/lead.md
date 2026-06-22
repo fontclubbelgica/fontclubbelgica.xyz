@@ -15,7 +15,7 @@ information: |
 designer: Frederik Berlaen
 date: 2026-05-20
 
-# specimen: FC-Filter_Type-Specimen-V1.0.pdf
+specimen: FC-Lead_Specimen-V1.0.pdf
 
 buy_redirect:
     title: Buy on Future Fonts
@@ -206,6 +206,10 @@ library_preview:
     - FCB_Library_26.svg
     - FCB_Library_27.svg
     - FCB_Library_28.svg
+
+font_match:
+    - FC MAD Serif
+    - FC Filter
 
 ---
 
