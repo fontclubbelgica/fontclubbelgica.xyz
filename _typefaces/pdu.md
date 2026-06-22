@@ -303,7 +303,7 @@ styles:
         characterset:
            Basic Latin: "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z"
            Small Capitals: "A-smcp B-smcp C-smcp D-smcp E-smcp F-smcp G-smcp H-smcp I-smcp J-smcp K-smcp L-smcp M-smcp N-smcp O-smcp P-smcp Q-smcp R-smcp S-smcp T-smcp U-smcp V-smcp W-smcp X-smcp Y-smcp Z-smcp a-smcp b-smcp c-smcp d-smcp e-smcp f-smcp g-smcp h-smcp i-smcp j-smcp k-smcp l-smcp m-smcp n-smcp o-smcp p-smcp q-smcp r-smcp s-smcp t-smcp u-smcp v-smcp w-smcp x-smcp y-smcp z-smcp"
-          
+
 
 openTypeFeatures:
 
@@ -826,7 +826,7 @@ library_preview:
 
 font_match:
     - FC Nib
-    - FC Ueli
+    - FC Crimp
     - FC MAD Sans
     - FC Pep
 
