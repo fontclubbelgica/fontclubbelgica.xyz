@@ -389,6 +389,8 @@ class Controller(ezui.WindowController):
         > ( Font Variations ) @buildFontVariations
         > ( Character set ) @buildCharacterSet
         > ( Language support ) @buildLanguageSupport
+        > ( Color Palettes ) @buildColorPalettes
+        > ( Color Palette Values ) @buildColorPaletteValues
         """
         descriptionData = dict(
             output=dict(
@@ -502,24 +504,33 @@ class Controller(ezui.WindowController):
             self.write(out.get())
 
     def buildFontVariationsCallback(self, sender):
-        found = False
         out = Writer()
         out += "fontVariations:"
         out.indent()
+        variations = dict()
         for font, path in self.fonts():
             if "fvar" in font:
                 for axis in font["fvar"].axes:
+                    if axis.axisTag not in variations:
+                        variations[axis.axisTag] = dict()
+                    variations[axis.axisTag].update(dict(
+                        name=font["name"].getDebugName(axis.axisNameID),
+                        minValue=axis.minValue,
+                        maxValue=axis.maxValue,
+                        defaultValue=axis.defaultValue
+                    ))
 
-                    found = True
-                    out += f"- {axis.axisTag}:"
-                    out.indent()
-                    out += f"name: {font["name"].getDebugName(axis.axisNameID)}"
-                    out += f"minValue: {axis.minValue}"
-                    out += f"maxValue: {axis.maxValue}"
-                    out += f"defaultValue: {axis.defaultValue}"
-                    out.dedent()
+        for axisTag, variation in variations.items():
+            out += f"- {axisTag}:"
+            out.indent()
+            out += f"name: {variation['name']}"
+            out += f"minValue: {variation['minValue']}"
+            out += f"maxValue: {variation['maxValue']}"
+            out += f"defaultValue: {variation['defaultValue']}"
+            out.dedent()
         out.dedent()
-        if found:
+        if variations:
+
             self.write(out.get())
 
     def buildCharacterSetCallback(self, sender):
@@ -588,12 +599,51 @@ class Controller(ezui.WindowController):
         out = Writer()
         out += "languageSupport:"
         out.indent()
-
+        languageSupport = dict()
         for font, path in self.fonts():
-            support = FontChecker(path).get_supported_languages()
-            for script, languages in support.items():
-                out += f"{script}: {', '.join([language.name for language in languages.values()])}"
+            result = FontChecker(path).get_supported_languages()
+            for script, languages in result.items():
+                if script not in languageSupport:
+                    languageSupport[script] = set()
+                languageSupport[script].update([language.name for language in languages.values()])
+        for script, language in languageSupport.items():
+            out += f"{script}: {', '.join(sorted(language))}"
         out.dedent()
         self.write(out.get())
+
+    def buildColorPalettesCallback(self, sender):
+        colorPalettesNames = []
+        for font, path in self.fonts():
+            if "CPAL" in font:
+                name = font["name"]
+                for nameID in font["CPAL"].paletteLabels:
+                    colorPalettesNames.append(name.getDebugName(nameID))
+        if colorPalettesNames:
+            out = Writer()
+            out += "fontColorPalettes:"
+            out.indent()
+            for colorPalettesName in colorPalettesNames:
+                out += f"- {colorPalettesName}"
+            out.dedent()
+            self.write(out.get())
+
+    def buildColorPaletteValuesCallback(self, sender):
+        out = Writer()
+
+        for font, path in self.fonts():
+            if "CPAL" in font:
+                name = font["name"]
+                for index, nameID in enumerate(font["CPAL"].paletteLabels):
+                    colerPaletteName = name.getDebugName(nameID)
+
+                    out += f"@font-palette-values --{colerPaletteName} {{"
+                    out.indent()
+                    out += f"font-family: '{font["name"].getBestFullName()}';"
+                    out += f"base-palette: {index};"
+                    out.dedent()
+                    out += "}"
+                    out.newLine()
+        self.write(out.get())
+
 
 Controller()

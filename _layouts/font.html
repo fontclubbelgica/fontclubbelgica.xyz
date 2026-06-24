@@ -90,6 +90,16 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                  </select>
             </div>
 
+            {% if page.fontColorPalettes %}
+            <div class="select-fontColorPalettes">
+                <select>
+                {% for fontColorPalette in page.fontColorPalettes %}
+                    <option value="{{ fontColorPalette }}"{%if fontColorPalette == tester.fontColorPalette %} selected{% endif %}>{{ fontColorPalette }}</option>
+                 {% endfor %}
+                </select>
+            </div>
+            {% endif %}
+
             {% if page.fontVariations %}
             <div class="select-fontVariation">
                 <form>
@@ -233,7 +243,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
         <a href="#" class="btn expand">&#8595; Expand &#8595;</a>
     </div>
     {% endif %}
-    
+
 </section>
 
 <section class="buy">

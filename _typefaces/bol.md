@@ -12,7 +12,7 @@ information: |
     FC Bol Regular tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
 
 designer: Dries Wiewauters
-date: 2025-08-01
+date: 2027-01-01
 
 specimen: 25-04_FC-Bol_Type-Specimen.pdf
 
@@ -24,7 +24,7 @@ technicalSupport:
     vietnamese: true
 
     weights: ⇄
-    widths: 
+    widths:
 
     italics: true
 
@@ -152,13 +152,13 @@ language_support:
     cyrillic: true
     greek: true
     vietnamese: false
-    
-weights: ✅  
-    
-widths: 
-    
+
+weights: ✅
+
+widths:
+
 italics: true
-    
+
 variable: true
 
 testers:
@@ -286,7 +286,7 @@ testers:
             - SHPE: 25
 
 about:
-    - image: 
+    - image:
       caption: "small text under the images that has to be designed"
 
       text: |
