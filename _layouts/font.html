@@ -26,8 +26,22 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 </section>
 {% endif %}
 
+{% if page.splashanim %}
+<section class="hero">
+    <lottie-player
+    src="{{ page.splashanim }}"
+    background="transparent"
+    speed="1"
+    style="width: 100%; height: auto;"
+    autoplay
+    loop>
+</lottie-player>
+</section>
+{% endif %}
+
+
 {% if page.researchtop %}
-<section class="research research-top">
+<section class="research research-top"
     <div class="research-title">
     </div>
     <div class="research-content">
