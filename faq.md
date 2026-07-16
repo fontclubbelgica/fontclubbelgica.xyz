@@ -39,7 +39,7 @@ seo_image: FCB_SEO_FAQ.jpg
   has an affinity for type design that is rooted in history, but always tries to add something to the
   typographic canon.
 
-  His type can be characterized as have a duality. It is inviting, yet hardworking. Friendly and
+  His type can be characterized as have a duality. It is inviting, yet stern. Friendly and
   approachable, whilst being versatile and hardworking.
 
   Being mostly self thought, after 15 years in the industry, Dries co-founded {% include fcb %}, to
