@@ -14,7 +14,7 @@ information: |
 designer: Frederik Berlaen
 date: 2025-06-10
 
-specimen: FC-Filter_Type-Specimen-V1.0.pdf
+specimen: FC-Filter_Type-Specimen-V1.1.pdf
 
 buy_redirect:
     title: Buy on Future Fonts

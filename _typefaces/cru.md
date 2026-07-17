@@ -14,7 +14,7 @@ information: |
 designer: Dries Wiewauters
 date: 2023-04-01
 
-specimen: FC-Cru_Type-Specimen-V1.0.pdf
+specimen: FC-Cru_Type-Specimen-V1.1.pdf
 
 paypro: fc-cru
 
