@@ -132,7 +132,7 @@ seo_image: FCB_SEO_FAQ.jpg
   ### Are you a student that wants to use them for a school assignment?
 
   You may use trial fonts for the production of finished student work, although such work may not be
-  distributed outside of the educational conext without purchasing the appropriate license. If at any
+  distributed outside of the educational context without purchasing the appropriate license. If at any
   point the work is repurposed for a commercial project, a standard license must be purchased.
 
   ### Where can I download them?
