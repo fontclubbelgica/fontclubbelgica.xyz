@@ -2,7 +2,7 @@
 layout: font
 title: FC Bol
 
-draft: true
+draft: false
 
 seo_description: |
     FC Bol Regular tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
@@ -11,8 +11,8 @@ seo_image: FCB_SEO_Bol.jpg
 information: |
     FC Bol Regular tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
 
-designer: Dries Wiewauters
-date: 2027-01-01
+designer: Dries Wiewauters (glyphs) & Frederik Berlaen (variableness)
+date: 2026-09-20
 
 specimen: 25-04_FC-Bol_Type-Specimen.pdf
 
@@ -24,7 +24,7 @@ technicalSupport:
     vietnamese: true
 
     weights: ⇄
-    widths:
+    widths: ⇄
 
     italics: true
 
@@ -34,10 +34,11 @@ languageSupport:
     Latin: Acheron, Achinese, Acholi, Achuar-Shiwiar, Afar, Afrikaans, Aguaruna, Alekano, Aleut, Alonquin, Amahuaca, Amarakaeri, Amis, Anaang, Andaandi, Dongolawi, Anuta, Ao Naga, Apinayé, Aragonese, Arbëreshë Albanian, Arvanitika Albanian, Asháninka, Ashéninka Perené, Asu (Tanzania), Atayal, Balinese, Banjar, Bari, Basque, Batak Dairi, Batak Karo, Batak Mandailing, Batak Simalungun, Batak Toba, Bemba (Zambia), Bena (Tanzania), Bikol, Bini, Bislama, Borana-Arsi-Guji Oromo, Bosnian, Breton, Buginese, Candoshi-Shapra, Caquinte, Caribbean Hindustani, Cashibo-Cacataibo, Cashinahua, Catalan, Cebuano, Central Aymara, Central Kurdish, Chachi, Chamorro, Chavacano, Chiga, Chiltepec Chinantec, Chokwe, Chuukese, Cimbrian, Cofán, Congo Swahili, Cook Islands Māori, Cornish, Corsican, Creek, Crimean Tatar, Croatian, Czech, Danish, Dehu, Dimli, Dutch, Eastern Arrernte, Eastern Oromo, Efik, Embu, English, Ese Ejja, Faroese, Fijian, Filipino, Finnish, French, Friulian, Gagauz, Galician, Ganda, Garifuna, Ga’anda, German, Gheg Albanian, Gilbertese, Gooniyandi, Gourmanchéma, Guadeloupean Creole French, Gusii, Haitian, Hani, Hawaiian, Hiligaynon, Ho-Chunk, Hopi, Huastec, Hungarian, Hän, Icelandic, Iloko, Inari Sami, Indonesian, Irish, Istro Romanian, Italian, Ixcatlán Mazatec, Jamaican Creole English, Japanese, Javanese, Jola-Fonyi, K'iche', Kabuverdianu, Kaingang, Kala Lagaw Ya, Kalaallisut, Kalenjin, Kamba (Kenya), Kaonde, Karelian, Kashubian, Kekchí, Kenzi, Mattokki, Khasi, Kikuyu, Kimbundu, Kinyarwanda, Kirmanjki, Kituba (DRC), Kongo, Konzo, Kuanyama, Kven Finnish, Kölsch, Ladin, Ladino, Latgalian, Ligurian, Lithuanian, Lombard, Low German, Lower Sorbian, Luba-Lulua, Lule Sami, Luo (Kenya and Tanzania), Luxembourgish, Macedo-Romanian, Makhuwa, Makhuwa-Meetto, Makonde, Makwe, Malagasy, Malaysian, Maltese, Mandinka, Mandjak, Mankanya, Manx, Maore Comorian, Maori, Mapudungun, Matsés, Mauritian Creole, Meriam Mir, Meru, Minangkabau, Mirandese, Mohawk, Montenegrin, Munsee, Murrinh-Patha, Mwani, Mískito, Naga Pidgin, Ndonga, Neapolitan, Ngazidja Comorian, Niuean, Nobiin, Nomatsiguenga, North Marquesan, North Ndebele, Northern Kurdish, Northern Qiandong Miao, Northern Sami, Northern Uzbek, Northwestern Ojibwa, Norwegian, Nyanja, Nyankole, Occitan, Ojitlán Chinantec, Orma, Oroqen, Palauan, Paluan, Pampanga, Papantla Totonac, Papiamento, Pedi, Picard, Pichis Ashéninka, Piemontese, Pijin, Pintupi-Luritja, Pipil, Pohnpeian, Polish, Portuguese, Potawatomi, Purepecha, Páez, Quechua, Romanian, Romansh, Rotokas, Rundi, Rwa, Samburu, Samoan, Sango, Sangu (Tanzania), Saramaccan, Sardinian, Scots, Scottish Gaelic, Sena, Serbian, Seri, Seselwa Creole French, Shambala, Shawnee, Shipibo-Conibo, Shona, Shuar, Sicilian, Silesian, Slovak, Slovenian, Soga, Somali, Soninke, South Marquesan, South Ndebele, Southern Aymara, Southern Qiandong Miao, Southern Sami, Southern Sotho, Spanish, Sranan Tongo, Standard Estonian, Standard Latvian, Standard Malay, Sundanese, Swahili, Swati, Swedish, Swiss German, Tagalog, Tahitian, Taita, Tedim Chin, Tetum, Tetun Dili, Tiv, Toba, Tojolabal, Tok Pisin, Tokelau, Tonga (Tonga Islands), Tonga (Zambia), Tosk Albanian, Tsonga, Tswana, Tumbuka, Turkish, Turkmen, Tzeltal, Tzotzil, Uab Meto, Umbundu, Ume Sami, Upper Guinea Crioulo, Upper Sorbian, Venetian, Veps, Vietnamese, Võro, Wallisian, Walloon, Walser, Wangaaybuwan-Ngiyambaa, Waorani, Waray (Philippines), Warlpiri, Wayuu, Welsh, West Central Oromo, Western Abnaki, Western Frisian, Wik-Mungkan, Wiradjuri, Wolof, Xavánte, Xhosa, Yanesha', Yao, Yapese, Yindjibarndi, Yucateco, Zulu, Záparo
     Cyrillic: Abaza, Belarusian, Bosnian (Cyrillic), Bulgarian, Crimean Turkish, Cyrillic, Erzya, Gagauz (Cyrillic), Karachay-Balkar, Komi, Komi-Permyak, Kumyk, Macedonian, Moksha, Nogai, Romanian (Cyrillic), Russian, Rusyn, Serbian, Udmurt, Ukranian, Western Mari
     Greek: Ελληνικά (Greek)
+
 styles:
    - FC Bol Regular:
-        glyphCount: 1050
-        paypro: FC_Bol_Regular
+        glyphCount: 1051
+        paypro: FC Bol Regular
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -57,86 +58,104 @@ styles:
            Arrows: "← ↑ → ↓ ↔ ↕"
            Mathematical Operators: "∂ ∏ ∑ − √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
-           Miscellaneous Symbols: "☜ ☝ ☞ ☟ ♥"
-           Dingbats: "✋ ✺"
+           Dingbats: "✋ ✺ ❤"
            Supplemental Punctuation: "⸘"
            Latin Extended-D: "Ꞌ ꞌ"
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
-           Miscellaneous Symbols and Pictographs: "👌 👍 🖕"
+           Miscellaneous Symbols and Pictographs: "👆 👇 👈 👉 👌 👍 🖕"
            Case-Sensitive Forms: "–-case —-case ⸘-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
            Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
            Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
-           Localized Forms: "i-locl"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
-           Oldstyle Figures: "²-onum ³-onum ₴-onum ƒ-onum −-onum \"-onum #-onum ¢-onum $-onum £-onum '-onum ¥-onum ₩-onum ª-onum +-onum €-onum %-onum 0-onum 1-onum 2-onum 3-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum º-onum ¹-onum ¼-onum ½-onum ¾-onum ₹-onum ₺-onum ₽-onum ₿-onum =-onum >-onum <-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum ‰-onum °-onum ÷-onum ±-onum"
-           alternate schoolbook a: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ả-ss01 ấ-ss01 ầ-ss01 ẩ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 ằ-ss01 ẳ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 ã-ss01 æ-ss01 ǻ-ss01 ǽ-ss01"
-           alternate schoolbook g: "ġ-ss02 ḡ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Tabular Figures: "²-tnum ³-tnum ₴-tnum ƒ-tnum −-tnum \"-tnum #-tnum ¢-tnum $-tnum £-tnum '-tnum ¥-tnum ₩-tnum ª-tnum +-tnum €-tnum %-tnum 0-tnum 1-tnum 2-tnum 3-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum º-tnum ¹-tnum ¼-tnum ½-tnum ¾-tnum ₹-tnum ₺-tnum ₽-tnum ₿-tnum =-tnum >-tnum <-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum ‰-tnum °-tnum ÷-tnum ±-tnum"
-           Slashed Zero: "0-zero ⁰-zero ₀-zero"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum ƒ-onum −-onum ₹-onum ¢-onum #-onum $-onum %-onum \"-onum '-onum £-onum ₩-onum ª-onum +-onum €-onum ¥-onum °-onum 1-onum ‰-onum ±-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum º-onum 3-onum <-onum =-onum >-onum ½-onum ¼-onum ¾-onum ¹-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum 0-onum ÷-onum 2-onum"
+           Stylistic Set 1: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ả-ss01 ấ-ss01 ầ-ss01 ẩ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 а-ss01 ằ-ss01 ẳ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 æ-ss01 ã-ss01 ǻ-ss01 ǽ-ss01"
+           Stylistic Set 2: "ġ-ss02 ḡ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
+           Tabular Figures: "²-tnum ³-tnum ₴-tnum ƒ-tnum −-tnum ₹-tnum ¢-tnum #-tnum $-tnum %-tnum \"-tnum '-tnum £-tnum ₩-tnum ª-tnum +-tnum €-tnum ¥-tnum °-tnum 1-tnum ‰-tnum ±-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum º-tnum 3-tnum <-tnum =-tnum >-tnum ½-tnum ¼-tnum ¾-tnum ¹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum 0-tnum ÷-tnum 2-tnum"
+           Slashed Zero: "⁰-zero 0-zero ₀-zero"
 
 fontVariations:
-   - wght:
-      name: Weight
+   - sizx:
+      name: Size X
       minValue: 0.0
-      maxValue: 100.0
-      defaultValue: 50.0
-   - SHPE:
-      name: Shape
+      maxValue: 2.0
+      defaultValue: 1.0
+   - sizy:
+      name: Size Y
       minValue: 0.0
-      maxValue: 100.0
-      defaultValue: 25.0
+      maxValue: 2.0
+      defaultValue: 1.0
+   - lmnt:
+      name: Element
+      minValue: 0.0
+      maxValue: 7.0
+      defaultValue: 5.0
+   - slnt:
+      name: Slant
+      minValue: -45.0
+      maxValue: 45.0
+      defaultValue: 0.0
+   - rndm:
+      name: Random
+      minValue: 0.0
+      maxValue: 1.0
+      defaultValue: 0.0
+   - wdth:
+      name: Width
+      minValue: 40.0
+      maxValue: 200.0
+      defaultValue: 100.0
 
 openTypeFeatures:
-   - case:
-       name: Case-Sensitive Forms
-       fontStyle: FC Bol Regular
-       examples:
-         - "()-/[\\]{|}¡¦«»¿–—‹›⸘"
-   - dnom:
-       name: Denominators
-       fontStyle: FC Bol Regular
-       examples:
-         - "0123456789"
-   - frac:
-       name: Fractions
-       fontStyle: FC Bol Regular
-       examples:
-         - "/0123456789"
-   - numr:
-       name: Numerators
-       fontStyle: FC Bol Regular
-       examples:
-         - "0123456789"
-   - onum:
-       name: Oldstyle Figures
-       fontStyle: FC Bol Regular
-       examples:
-         - "\"#$%'+0123456789<=>¢£¥ª°±²³¹º¼½¾×÷ƒ‰₩€₴₹₺₽₿⅓⅔⅛⅜⅝⅞−≈≠≤≥"
    - ss01:
        name: alternate schoolbook a
        fontStyle: FC Bol Regular
        examples:
-         - "aàáâãäåæāăąǎǻǽȃạảấầẩẫậắằẳẵặ"
+         - "Taramasalata salad"
    - ss02:
        name: alternate schoolbook g
        fontStyle: FC Bol Regular
        examples:
-         - "gĝğġģǧḡ"
+         - "Integrated geography"
+   - case:
+       name: Case-Sensitive Forms
+       fontStyle: FC Bol Regular
+       examples:
+         - "¿Qué? (Cap-1/2) [3] {4}"
+   - onum:
+       name: Oldstyle Figures
+       fontStyle: FC Bol Regular
+       examples:
+         - "€1.420,99 67% + 2 ⅝ inches"
    - tnum:
        name: Tabular Figures
        fontStyle: FC Bol Regular
        examples:
-         - " \"#$%'+0123456789<=>¢£¥ª°±²³¹º¼½¾×÷ƒ‰₩€₴₹₺₽₿⅓⅔⅛⅜⅝⅞−≈≠≤≥"
+         - "$9,087,125.00 31% + 5 ⅔ inches"
+   - frac:
+       name: Fractions
+       fontStyle: FC Bol Regular
+       examples:
+         - "12345/67890"
    - zero:
        name: Slashed Zero
        fontStyle: FC Bol Regular
        examples:
-         - "0⁰₀"
+         - "¥6.000.000"
+   - numr:
+       name: Numerators
+       fontStyle: FC Bol Regular
+       examples:
+         - "5 Footnote: 1234567890"
+   - dnom:
+       name: Denominators
+       fontStyle: FC Bol Regular
+       examples:
+         - "1234567890"
 
 css: Bol-style.css
 
-splash: bol-splash.jpg
+splash: bol-splash.svg
 
 hometile: FCB_Library_Bol_Large.svg
 
@@ -163,18 +182,28 @@ variable: true
 
 testers:
     - text: |
-        Nimbostratus Clouds er en type sky som ofte er assosiert med dårlig vær og langvarig nedbør. De er lavtliggende skyer, som vanligvis befinner seg mellom 1 000 og 2 000 meter over bakken, og de dekker ofte store deler av himmelen. Nimbostratus-skyer er tette, mørke skyer som kan skape et tykt, grått og overcast utseende på himmelen.
+        Stratus Clouds (Nubes estratiformes) son un tipo de nubes bajas que se caracterizan por cubrir grandes áreas del cielo con una capa densa y uniforme. Se encuentran generalmente a altitudes entre los 600 y 2,000 metros sobre el nivel del mar, y su apariencia es la de un manto gris que a menudo oscurece el cielo. A diferencia de las nubes cúmulo o cirros, las nubes estratiformes no tienen la misma estructura visible de cúmulos o formaciones en capas.
 
-        Disse skyene dannes når varm, fuktig luft stiger og møter kald luft, noe som får vanndampene til å kondensere og danne skyene. Nimbostratus-skyer er ofte forbundet med langvarig og jevn nedbør, som kan være i form av regn, snø eller sludd. De er forskjellige fra cumulus- og cumulonimbus-skyer, som er mer knyttet til kortvarige, intense regnbyger og tordenvær.
+        Estas nubes se forman cuando el aire húmedo se eleva suavemente y se enfría a medida que asciende, lo que provoca la condensación de la humedad presente en el aire. El resultado es una capa de nubes gruesas y uniformes que pueden provocar condiciones meteorológicas estables, como cielos nublados, lluvias ligeras o lloviznas. En ocasiones, las nubes estratiformes también pueden generar niebla o neblina cerca del suelo, dificultando la visibilidad.
 
-        Et av kjennetegnene ved Nimbostratus-skyer er deres evne til å dekke store områder av himmelen, og de gir et inntrykk av at været er stabilt og ugunstig i lengre tid. Nedbøren som følger med disse skyene er vanligvis lett til moderat, men kan vedvare i flere timer eller til og med dager. På grunn av den jevne og langvarige nedbøren er Nimbostratus-skyer ofte et tegn på at været vil være grått og overskyet i lengre tid.
+        Las nubes estratiformes son comunes en muchas regiones del mundo, especialmente en áreas donde la atmósfera se mantiene estable y la humedad es alta. Aunque no suelen traer tormentas intensas, las nubes estratiformes son responsables de períodos prolongados de tiempo nublado y lluvias suaves. Este tipo de nubes es más común en los meses de otoño e invierno, cuando las condiciones atmosféricas son más propensas a la formación de capas de nubes estables.
 
-        Disse skyene er viktige for landbruket, da de gir den typen jevn og forsiktig nedbør som er gunstig for plantevekst. På den annen side kan de også være et hinder for friluftsliv og soling, da de dekker solens lys fullstendig.
+        En resumen, las nubes estratiformes son un fenómeno meteorológico importante que influye en las condiciones climáticas locales, proporcionando nublados constantes y lluvias ligeras que afectan el tiempo en las regiones donde se forman.
       fontStyle: FC Bol Regular
       fontSize: 200
       fontVariations:
-            - wght: 75
-            - SHPE: 50
+            - sizx: 2.0 
+            #Range 0-1-2
+            - sizy: 0.2
+            #Range 0-1-2
+            - lmnt: 5.0
+            #Range 0-5-7
+            - slnt: 0.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 120.0
+            #Range 40-100-200
 
     - text: |
        Altocumulus Clouds (Αλτοκουμuluς σύννεφα) είναι σύννεφα μεσαίου ύψους, που βρίσκονται συνήθως σε υψόμετρα μεταξύ 2.000 και 6.000 μέτρων πάνω από την επιφάνεια της Γης. Αυτά τα σύννεφα συνήθως εμφανίζονται ως μικρές, λευκές ή γκρι κηλίδες, που συχνά σχηματίζουν σειρές ή ομάδες στον ουρανό. Τα Αλτοκουμuluς σύννεφα έχουν μια χαρακτηριστική εμφάνιση, με κυρτό ή επίπεδο σχήμα και μπορεί να καλύπτουν μεγάλες εκτάσεις του ουρανού.
@@ -187,8 +216,18 @@ testers:
       fontStyle: FC Bol Regular
       fontSize: 40
       fontVariations:
-            - wght: 25
-            - SHPE: 0
+            - sizx: 1.0 
+            #Range 0-1-2
+            - sizy: 1.0
+            #Range 0-1-2
+            - lmnt: 6.0
+            #Range 0-5-7
+            - slnt: 0.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 100.0
+            #Range 40-100-200
 
     - text: |
         Cirrus Clouds are high-altitude clouds that form above 20,000 feet (6,000 meters) in the sky. These clouds are often recognized for their delicate, wispy appearance, resembling strands of hair or feathery strokes across the vast expanse of the heavens. Made up of ice crystals due to the extremely cold temperatures at these altitudes, cirrus clouds are typically white or light gray, and their thin, transparent nature allows them to appear almost ethereal.
@@ -199,10 +238,20 @@ testers:
 
         In addition to their role in weather prediction, cirrus clouds are an important part of Earth's energy balance. They can both trap heat in the atmosphere and reflect sunlight, affecting the global climate in subtle ways. Thus, cirrus clouds, though small in size, are integral to the intricate processes that govern Earth's weather and climate.
       fontStyle: FC Bol Regular
-      fontSize: 140
+      fontSize: 180
       fontVariations:
-            - wght: 25
-            - SHPE: 0
+            - sizx: 0.2
+            #Range 0-1-2
+            - sizy: 0.2
+            #Range 0-1-2
+            - lmnt: 6.0
+            #Range 0-5-7
+            - slnt: 0.0
+            #Range -45-0-45
+            - rndm: 0.8
+            #Range 0-0-1
+            - wdth: 100.0
+            #Range 40-100-200
 
     - text: |
        Cumulus Clouds (Кумулятивні хмари) — це тип хмар, який легко впізнається завдяки їх пухнастому, білій і об'ємному вигляду. Вони утворюються на низьких висотах, зазвичай між 1,000 і 2,000 метрами над рівнем моря, і зазвичай асоціюються з гарною погодою. Кумулятивні хмари мають округлу форму, з рівною, чітко вираженою основою та піками, що можуть виглядати схожими на купи вати або бавовни. Вони можуть варіюватися за розмірами — від маленьких пухнастих купок до великих, величезних хмар, які можуть досягати величезних висот.
@@ -213,22 +262,42 @@ testers:
       fontStyle: FC Bol Regular
       fontSize: 80
       fontVariations:
-            - wght: 100
-            - SHPE: 50
+            - sizx: 1.0 
+            #Range 0-1-2
+            - sizy: 1.0
+            #Range 0-1-2
+            - lmnt: 5.0
+            #Range 0-5-7
+            - slnt: 20.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 160.0
+            #Range 40-100-200
 
     - text: |
-        Stratus Clouds (Nubes estratiformes) son un tipo de nubes bajas que se caracterizan por cubrir grandes áreas del cielo con una capa densa y uniforme. Se encuentran generalmente a altitudes entre los 600 y 2,000 metros sobre el nivel del mar, y su apariencia es la de un manto gris que a menudo oscurece el cielo. A diferencia de las nubes cúmulo o cirros, las nubes estratiformes no tienen la misma estructura visible de cúmulos o formaciones en capas.
+        Nimbostratus Clouds er en type sky som ofte er assosiert med dårlig vær og langvarig nedbør. De er lavtliggende skyer, som vanligvis befinner seg mellom 1 000 og 2 000 meter over bakken, og de dekker ofte store deler av himmelen. Nimbostratus-skyer er tette, mørke skyer som kan skape et tykt, grått og overcast utseende på himmelen.
 
-        Estas nubes se forman cuando el aire húmedo se eleva suavemente y se enfría a medida que asciende, lo que provoca la condensación de la humedad presente en el aire. El resultado es una capa de nubes gruesas y uniformes que pueden provocar condiciones meteorológicas estables, como cielos nublados, lluvias ligeras o lloviznas. En ocasiones, las nubes estratiformes también pueden generar niebla o neblina cerca del suelo, dificultando la visibilidad.
+        Disse skyene dannes når varm, fuktig luft stiger og møter kald luft, noe som får vanndampene til å kondensere og danne skyene. Nimbostratus-skyer er ofte forbundet med langvarig og jevn nedbør, som kan være i form av regn, snø eller sludd. De er forskjellige fra cumulus- og cumulonimbus-skyer, som er mer knyttet til kortvarige, intense regnbyger og tordenvær.
 
-        Las nubes estratiformes son comunes en muchas regiones del mundo, especialmente en áreas donde la atmósfera se mantiene estable y la humedad es alta. Aunque no suelen traer tormentas intensas, las nubes estratiformes son responsables de períodos prolongados de tiempo nublado y lluvias suaves. Este tipo de nubes es más común en los meses de otoño e invierno, cuando las condiciones atmosféricas son más propensas a la formación de capas de nubes estables.
+        Et av kjennetegnene ved Nimbostratus-skyer er deres evne til å dekke store områder av himmelen, og de gir et inntrykk av at været er stabilt og ugunstig i lengre tid. Nedbøren som følger med disse skyene er vanligvis lett til moderat, men kan vedvare i flere timer eller til og med dager. På grunn av den jevne og langvarige nedbøren er Nimbostratus-skyer ofte et tegn på at været vil være grått og overskyet i lengre tid.
 
-        En resumen, las nubes estratiformes son un fenómeno meteorológico importante que influye en las condiciones climáticas locales, proporcionando nublados constantes y lluvias ligeras que afectan el tiempo en las regiones donde se forman.
+        Disse skyene er viktige for landbruket, da de gir den typen jevn og forsiktig nedbør som er gunstig for plantevekst. På den annen side kan de også være et hinder for friluftsliv og soling, da de dekker solens lys fullstendig.
       fontStyle: FC Bol Regular
       fontSize: 200
       fontVariations:
-            - wght: 25
-            - SHPE: 25
+            - sizx: 2.0 
+            #Range 0-1-2
+            - sizy: 1.0
+            #Range 0-1-2
+            - lmnt: 0.0
+            #Range 0-5-7
+            - slnt: 0.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 200.0
+            #Range 40-100-200
 
     - text: |
         Altocumulus Clouds (Altokumulusz felhők) közepes magasságú felhők, amelyek jellemzően 2 000 és 6 000 méter közötti magasságban alakulnak ki. Ezek a felhők gyakran fehér vagy szürke foltokban jelennek meg az égen, és szabad szemmel kis, puffadt halmazokra emlékeztetnek. Az altokumulusz felhők gyakran csoportosulnak vagy sorba rendeződnek, és bár nem hoznak mindig esőt, jelzésértékűek lehetnek a közelgő időjárási változások szempontjából.
@@ -239,8 +308,18 @@ testers:
       fontStyle: FC Bol Regular
       fontSize: 40
       fontVariations:
-            - wght: 50
-            - SHPE: 25
+            - sizx: 1.3 
+            #Range 0-1-2
+            - sizy: 1.0
+            #Range 0-1-2
+            - lmnt: 5.0
+            #Range 0-5-7
+            - slnt: 0.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 120.0
+            #Range 40-100-200
 
     - text: |
         Cumulonimbus Clouds (Cúmuls nimbus) són un tipus de núvols que es formen en condicions meteorològiques molt específiques i que són coneguts per la seva capacitat de produir tempestes i fenòmens meteorològics extremadament intensos. Aquestes formacions nuvoloses són enormes i tenen una estructura vertical que pot arribar a molts quilòmetres d'altura. Els cúmuls nimbus són els responsables de tempestes fortes, ruixats torrencials, llamps i fins i tot tornados en casos més extrems.
@@ -251,24 +330,20 @@ testers:
 
         En resum, els cúmuls nimbus són núvols massius i impressionants que marquen la intensitat dels fenòmens meteorològics, i la seva formació i comportament són essencials per entendre el clima dinàmic del nostre planeta.
       fontStyle: FC Bol Regular
-      fontSize: 140
+      fontSize: 180
       fontVariations:
-            - wght: 50
-            - SHPE: 25
-
-    - text: |
-        Stratocumulus Clouds (Stratocumuluswolken) sind eine Art von Wolken, die in niedrigen bis mittelhohen Höhen vorkommen, typischerweise zwischen 600 und 2.000 Metern über dem Erdboden. Sie erscheinen oft als flache, dichte, graue oder weiße Wolkenschichten, die den Himmel in großen, unregelmäßigen Blöcken oder Flocken bedecken. Stratocumuluswolken können verschiedene Größen und Formen haben, aber sie sind in der Regel nicht so hoch wie Cumuluswolken und haben weniger vertikale Entwicklung.
-
-        Diese Wolken entstehen, wenn feuchte Luftmassen aufsteigen und abkühlen, wodurch die enthaltene Feuchtigkeit kondensiert und Wolken bilden. Stratocumuluswolken können auch aus anderen Wolkenarten wie Altostratus oder Cumulus entstehen, wenn sich die atmosphärischen Bedingungen ändern. Sie sind oft mit ruhigem, aber bedecktem Wetter verbunden und können leichtes bis mäßiges Niederschlagsgeschehen verursachen, wie zum Beispiel Nieselregen oder leichten Regen.
-
-        Obwohl Stratocumuluswolken nicht mit schweren Stürmen verbunden sind, können sie die Sonne vollständig verdecken und somit für eine graue, trübe Atmosphäre sorgen. In einigen Fällen, wenn sie sich verdicken oder größere Ausdehnung erreichen, können sie intensiveren Regen oder sogar Gewitter hervorrufen. Jedoch bleibt die Niederschlagsmenge in der Regel im Vergleich zu anderen Wolkenarten wie den Cumulonimbuswolken relativ gering.
-
-        Stratocumuluswolken sind häufig und können in vielen verschiedenen Klimazonen weltweit auftreten. Sie sind ein wichtiger Bestandteil des Wettergeschehens, da sie den Übergang zwischen stabilen und instabilen atmosphärischen Bedingungen darstellen. Ihr Erscheinen am Himmel kann auf Veränderungen im Wetter hinweisen, auch wenn sie selbst nicht zu extremen Wetterereignissen führen.
-      fontStyle: FC Bol Regular
-      fontSize: 80
-      fontVariations:
-            - wght: 50
-            - SHPE: 25
+            - sizx: 2.0 
+            #Range 0-1-2
+            - sizy: 2.0
+            #Range 0-1-2
+            - lmnt: 4.0
+            #Range 0-5-7
+            - slnt: 0.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 80.0
+            #Range 40-100-200
 
     - text: |
         Mây Pyrocumulus (Pyrocumulus clouds) là một loại mây hiếm gặp, hình thành từ các nguồn nhiệt mạnh như cháy rừng, núi lửa phun trào hoặc vụ nổ lớn. Chúng thường xuất hiện dưới dạng những cột mây cao, trắng hoặc xám, vươn lên từ khu vực có hiện tượng phát sinh nhiệt cực mạnh. Mây Pyrocumulus có hình dáng tương tự như mây Cumulus thông thường nhưng có thể phát triển cao hơn nhiều và kèm theo hiện tượng đối lưu mạnh.
@@ -280,36 +355,182 @@ testers:
         Mây Pyrocumulus là một hiện tượng đặc biệt hiếm gặp, thường chỉ thấy ở những khu vực có hoạt động địa chất mạnh hoặc khí hậu khô nóng dễ xảy ra cháy rừng. Chúng phản ánh mối liên hệ trực tiếp giữa các hiện tượng khí tượng và hoạt động bề mặt Trái Đất, đồng thời cho thấy mức độ tác động của thiên nhiên và con người đến khí quyển.
 
       fontStyle: FC Bol Regular
-      fontSize: 40
+      fontSize: 70
       fontVariations:
-            - wght: 50
-            - SHPE: 25
+            - sizx: 1.0 
+            #Range 0-1-2
+            - sizy: 1.0
+            #Range 0-1-2
+            - lmnt: 6.0
+            #Range 0-5-7
+            - slnt: -7.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 100.0
+            #Range 40-100-200
+
+    - text: |
+        Stratocumulus Clouds (Stratocumuluswolken) sind eine Art von Wolken, die in niedrigen bis mittelhohen Höhen vorkommen, typischerweise zwischen 600 und 2.000 Metern über dem Erdboden. Sie erscheinen oft als flache, dichte, graue oder weiße Wolkenschichten, die den Himmel in großen, unregelmäßigen Blöcken oder Flocken bedecken. Stratocumuluswolken können verschiedene Größen und Formen haben, aber sie sind in der Regel nicht so hoch wie Cumuluswolken und haben weniger vertikale Entwicklung.
+
+        Diese Wolken entstehen, wenn feuchte Luftmassen aufsteigen und abkühlen, wodurch die enthaltene Feuchtigkeit kondensiert und Wolken bilden. Stratocumuluswolken können auch aus anderen Wolkenarten wie Altostratus oder Cumulus entstehen, wenn sich die atmosphärischen Bedingungen ändern. Sie sind oft mit ruhigem, aber bedecktem Wetter verbunden und können leichtes bis mäßiges Niederschlagsgeschehen verursachen, wie zum Beispiel Nieselregen oder leichten Regen.
+
+        Obwohl Stratocumuluswolken nicht mit schweren Stürmen verbunden sind, können sie die Sonne vollständig verdecken und somit für eine graue, trübe Atmosphäre sorgen. In einigen Fällen, wenn sie sich verdicken oder größere Ausdehnung erreichen, können sie intensiveren Regen oder sogar Gewitter hervorrufen. Jedoch bleibt die Niederschlagsmenge in der Regel im Vergleich zu anderen Wolkenarten wie den Cumulonimbuswolken relativ gering.
+
+        Stratocumuluswolken sind häufig und können in vielen verschiedenen Klimazonen weltweit auftreten. Sie sind ein wichtiger Bestandteil des Wettergeschehens, da sie den Übergang zwischen stabilen und instabilen atmosphärischen Bedingungen darstellen. Ihr Erscheinen am Himmel kann auf Veränderungen im Wetter hinweisen, auch wenn sie selbst nicht zu extremen Wetterereignissen führen.
+      fontStyle: FC Bol Regular
+      fontSize: 120
+      fontVariations:
+            - sizx: 0.35 
+            #Range 0-1-2
+            - sizy: 1.0
+            #Range 0-1-2
+            - lmnt: 1.0
+            #Range 0-5-7
+            - slnt: 0.0
+            #Range -45-0-45
+            - rndm: 0.0
+            #Range 0-0-1
+            - wdth: 40.0
+            #Range 40-100-200
 
 about:
-    - image:
+    - image: Bike.png
       caption: "small text under the images that has to be designed"
 
       text: |
-        ## Yes this is a title
+        ## Type Synthesizer for web and motion graphics
 
         INSERT INTERESTING TEXT
 
 research: |
 
-    ## Yes this is a title
+    ## Type Synthesizier for web and motion graphics
 
     <div markdown="1">
       <div markdown="1">
 
-    ![]()
+    ![](Bike.png)
 
       </div>
       <div markdown="1">
 
-        INSERT INTERESTING TEXT
+      Introduction including Stef Birthday card
+ 
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](Kenny.png)
+
+      </div>
+      <div markdown="1">
+
+      History of font including Colophon era
 
       </div>
     </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](Bike.png)
+
+      </div>
+      <div markdown="1">
+
+      Inside out coding with Frederik
+
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](Kenny.png)
+
+      </div>
+      <div markdown="1">
+
+      Opentype Axis 1
+
+      ##Element
+
+      Uitleg
+
+      ##Size X and Y
+
+      Uitleg
+
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](Bike.png)
+
+      </div>
+      <div markdown="1">
+
+      ## Opentype Axis 2
+
+      #Slant
+
+      Uitleg
+
+      ##Width
+
+      Uitleg
+
+      ##Random
+
+      Uitleg
+
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](Kenny.png)
+
+      </div>
+      <div markdown="1">
+
+      Compiling and font size
+
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](Bike.png)
+
+      </div>
+      <div markdown="1">
+
+      Implementation in animations and glide.
+
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](FC-Bol_Research_8.svg)
+
+      </div>
+      <div markdown="1">
+
+      Pricing, experimentalness availability to the masses and outro
+
+      </div>
+    </div>
+
 
 library_preview:
     - FCB_Library_Bol_1.svg
@@ -321,9 +542,12 @@ library_preview:
     - FCB_Library_Bol_7.svg
     - FCB_Library_Bol_8.svg
     - FCB_Library_Bol_9.svg
+    - FCB_Library_Bol_10.svg
+    - FCB_Library_Bol_11.svg
 
 font_match:
+    - FC Crimp
     - FC Nib
     - FC MAD Sans
-    - FC Crimp
+    - FC Cru
 ---
