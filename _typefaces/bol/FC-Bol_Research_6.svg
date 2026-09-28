@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 6667 3334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Background">
+    </g>
+    <g id="Content">
+    </g>
+    <g id="Content-2" affinity:id="Content 2">
+    </g>
+    <g transform="matrix(2.302026,0,0,2.246181,-1171.731123,-970.350404)">
+        <rect x="509" y="432" width="2896" height="1484" style="fill:rgb(151,225,254);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,831.3,779.057136)">
+        <text x="429.768px" y="735.917px" style="font-family:'FCBol-SquareFalse110100', 'FC Bol';font-size:1333.333px;fill:white;">C<tspan x="988.361px " y="735.917px ">o</tspan>mpi<tspan x="3053.466px 3285.236px " y="735.917px 735.917px ">li</tspan>ng</text>
+        <text x="1771.565px" y="2069.25px" style="font-family:'FCBol-SquareFalse110100', 'FC Bol';font-size:1333.333px;fill:white;">TTF</text>
+    </g>
+</svg>

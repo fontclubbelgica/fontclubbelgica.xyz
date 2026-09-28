@@ -2,19 +2,19 @@
 layout: font
 title: FC Bol
 
-draft: false
+draft: true
 
 seo_description: |
-    FC Bol Regular tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
+    FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic websites and motion graphics.
 seo_image: FCB_SEO_Bol.jpg
 
 information: |
-    FC Bol Regular tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic web typography and motion graphics.
+    FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic websites and motion graphics.
 
 designer: Dries Wiewauters (glyphs) & Frederik Berlaen (variableness)
 date: 2026-09-20
 
-specimen: 25-04_FC-Bol_Type-Specimen.pdf
+specimen: FC-Bol_Type-Specimen-V1.0.pdf
 
 technicalSupport:
 
@@ -410,36 +410,42 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](Bike.png)
+    ![](FC-Bol_Research_1.svg)
 
       </div>
       <div markdown="1">
 
-      Introduction including Stef Birthday card
- 
-      </div>
-    </div>
+    In 2014, for the birth announcement of his first born a friend of Dries Wiewauters invited a handful of designer and artist friends to contribute a letter. He was assigned the "A" and decided to play with the idea of potential and dreaming by exploring cloud forms. In the end, the cloudier "A" on the right was chosen, though a few lowercase options were also in the running.
 
-    <div markdown="1">
-      <div markdown="1">
-
-    ![](Kenny.png)
-
-      </div>
-      <div markdown="1">
-
-      History of font including Colophon era
-
+    A few years later when variable fonts became a thing, some of the unused ideas were revisited with the idea of animation the ball elements. What if they could morf into other forms? What if they could change in size? What if they could drift in position? What if those actions could be combined so that when people scroll a website the headlines "fog" away when its elements scatter in direction and fade away into tiny pixels. The font became a test bed for the potential that variable fonts could be.
       </div>
     </div>
 
     <div markdown="1">
       <div markdown="1">
 
-    ![](Bike.png)
+    ![](FC-Bol_Research_2.svg)
 
       </div>
       <div markdown="1">
+
+    The glyphs in the first version —represented on the left in grey— were heavily constrained to the grid the elements were placed upon. This compromised the legibility all those glpyhs that normally feature curves and angled stems. A compromise was made to keep as many straight lines as possible, but have the angled lines only constrained in the vertical direction but give them liberty of movement in the horizontal direction if there is no other option.
+
+    In final version for the "S" —represented in blue— this happens to be horizontally still on the grid, but the "K" and "Y" benefit from this horizontal freedrom from the grid. The stem of the Y even falls between grid lines to improve legibility, even if that isn't the end all be all of this typeface. That would be animated, visual chaos.
+
+    At the time Dries was still publishing his fonts through Colophon Foundry, but they never released this typeface, citing technical limitations for displaying variable fonts on their website. Which wasn't addressed between 2018 and 2024, the time that the glyphset was finished and Colophon Foundry was disbanded.
+      </div>
+    </div>
+
+    <div markdown="1">
+      <div markdown="1">
+
+    ![](FC-Bol_Research_3.svg)
+
+      </div>
+      <div markdown="1">
+
+      First coding with Hermine
 
       Inside out coding with Frederik
 
@@ -449,7 +455,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](Kenny.png)
+    ![](FC-Bol_Research_4.svg)
 
       </div>
       <div markdown="1">
@@ -470,7 +476,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](Bike.png)
+    ![](FC-Bol_Research_5.svg)
 
       </div>
       <div markdown="1">
@@ -495,7 +501,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](Kenny.png)
+    ![](FC-Bol_Research_6.svg)
 
       </div>
       <div markdown="1">
@@ -508,7 +514,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](Bike.png)
+    ![](FC-Bol_Research_7.svg)
 
       </div>
       <div markdown="1">
