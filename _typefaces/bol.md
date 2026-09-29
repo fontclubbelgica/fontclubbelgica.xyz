@@ -2,7 +2,7 @@
 layout: font
 title: FC Bol
 
-draft: true
+draft: false
 
 seo_description: |
     FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic websites and motion graphics.
@@ -405,7 +405,7 @@ about:
 
 research: |
 
-    ## Type Synthesizier for web and motion graphics
+    ## Type Synthesizer for web and motion graphics
 
     <div markdown="1">
       <div markdown="1">
@@ -415,7 +415,7 @@ research: |
       </div>
       <div markdown="1">
 
-    In 2014, for the birth announcement of his first born a friend of Dries Wiewauters invited a handful of designer and artist friends to contribute a letter. He was assigned the "A" and decided to play with the idea of potential and dreaming by exploring cloud forms. In the end, the cloudier "A" on the right was chosen, though a few lowercase options were also in the running.
+    In 2014 a friend of [Dries Wiewauters](https://drieswiewauters.eu/) invited a handful of designer and artist friends to contribute a letter for the birth announcement of his first born. Dries was assigned the "A" and decided to play with the idea of potential and dreaming by exploring cloud forms. In the end, the cloudier "A" on the right was chosen, though a few lowercase options were also in the running.
 
     A few years later when variable fonts became a thing, some of the unused ideas were revisited with the idea of animation the ball elements. What if they could morf into other forms? What if they could change in size? What if they could drift in position? What if those actions could be combined so that when people scroll a website the headlines "fog" away when its elements scatter in direction and fade away into tiny pixels. The font became a test bed for the potential that variable fonts could be.
       </div>
@@ -433,6 +433,10 @@ research: |
 
     In final version for the "S" —represented in blue— this happens to be horizontally still on the grid, but the "K" and "Y" benefit from this horizontal freedrom from the grid. The stem of the Y even falls between grid lines to improve legibility, even if that isn't the end all be all of this typeface. That would be animated, visual chaos.
 
+    &nbsp;
+
+    ## The first unreleased version
+
     At the time Dries was still publishing his fonts through Colophon Foundry, but they never released this typeface, citing technical limitations for displaying variable fonts on their website. Which wasn't addressed between 2018 and 2024, the time that the glyphset was finished and Colophon Foundry was disbanded.
       </div>
     </div>
@@ -445,9 +449,11 @@ research: |
       </div>
       <div markdown="1">
 
-      First coding with Hermine
+      For the first version the coördinates of the elements were manipulated via XML. But when we discussed digging up this project Frederik proposed to rebuild the manipulations via Python during the compilation phase of the font. This opened up more possibilities for experimentation with a smaller room for errors.
 
-      Inside out coding with Frederik
+      In a normal variable font designers work in an outside in fashion. A handfull of master styles are drawn up that are compatible so that any other font within the confines of outlines can be rendered. But just as with FC Filter this font is unusual in that it uses an inside out approach. 
+
+      This means that the master —known as a UFO, short for Unified Font Object— at the origin of the variable font is used as the starting point where all the other masters are derived from. In the instance of these two fonts, through coding. Whilst Filter uses a manipulation of the outlines to generate the other master files, Bol manipulates the coördinates of the elements as well as the form and size of the elements. It does all this whilst keeping all design work limited to just 2 UFO files. One with all the glyphs and one with the animation of the element.
 
       </div>
     </div>

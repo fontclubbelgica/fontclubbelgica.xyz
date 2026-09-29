@@ -3108,7 +3108,7 @@ about:
         FC Crimp by Font Club Belgica is a modern revival of a brilliant yet overlooked idea from type history, blending technical precision with contemporary design. Inspired by W.A. Dwiggins’ concept of variable-width characters to improve fixed-width typewriters, Crimp features 50% and 150% glyphs for refined spacing. Historically, engineering and technical industries relied on rigid, monospaced typefaces like Courier and OCR-A, designed for clarity and machine readability, but these came with visual constraints. Crimp transcends these limitations by incorporating angled, stubbed terminals and half-width spaces, adding a distinctive mechanical flair while enhancing legibility and efficiency. Ideal for applications in engineering, aerospace, gaming, and outdoor branding, Crimp offers a nod to tradition while delivering a fresh, versatile tool for modern design.
 
 research: |
-    ## Introducing Crimp: Resurrecting an Ingenious Idea for Modern Design
+    ## Introducing Crimp: resurrecting an ingenious idea for modern design
 
     <div markdown="1">
       <div markdown="1">
@@ -3133,7 +3133,7 @@ research: |
        </div>
        <div markdown="1">
 
-    ## Addressing the Limits of Ragging in Monospaced Fonts
+    ## Addressing the limits of ragging in monospaced fonts
 
     One of the inherent challenges of traditional monospaced fonts is the lack of control over ragging—the uneven alignment of text on the right margin in left-aligned typesetting. Because each character takes up the same amount of space, shorter letters like i or l leave excessive gaps, while wider letters like m or w struggle to fit within their fixed width. This results in uneven, jagged text edges and disrupts the rhythm and flow of paragraphs. The uniform spacing, while useful for typewriters and early computing, compromises visual harmony and legibility in modern design contexts.
 
@@ -3150,7 +3150,7 @@ research: |
       </div>
       <div markdown="1">
 
-    ## A Typeface for Precision and Technical Design
+    ## A typeface for precision and technical design
 
     These design choices give Crimp a distinctly technical flair, making it an excellent fit for industries that value precision and functionality: engineering, aerospace, space exploration, gaming, racing, and outdoor brands. In fact, Crimp’s name itself nods to outdoor culture, being a type of climbing hold. A crimp in climbing is a small edge or ledge that a climber grips using bent fingers. It’s an high-tension hold that is commonly used on steep or technical routes.
 
