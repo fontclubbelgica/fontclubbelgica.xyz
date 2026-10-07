@@ -5,7 +5,7 @@ title: FC Bol
 draft: false
 
 seo_description: |
-    FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic websites and motion graphics.
+    FC Bol, a type synthesizer for dynamic web and motion graphics. Push the boundaries of variable fonts and animate your typography.
 seo_image: FCB_SEO_Bol.jpg
 
 information: |
@@ -36,9 +36,9 @@ languageSupport:
     Greek: Ελληνικά (Greek)
 
 styles:
-   - FC Bol Regular:
-        glyphCount: 1051
-        paypro: FC Bol Regular
+   - FC Bol Sans:
+        glyphCount: 1132
+        paypro: FC_Bol_Sans
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
@@ -48,17 +48,17 @@ styles:
            Spacing Modifier Letters: "ʻ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
            Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌ ̒ ̛ ̣ ̦ ̧ ̨"
            Greek and Coptic: "΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ Ү ү Һ һ Ӏ ӏ Ә ә Ө ө"
            Latin Extended Additional: "Ḡ ḡ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ"
            General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ‽ ⁄"
            Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Currency Symbols: "₩ € ₴ ₹ ₺ ₽ ₿"
            Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
-           Arrows: "← ↑ → ↓ ↔ ↕"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
            Mathematical Operators: "∂ ∏ ∑ − √ ∞ ∫ ≈ ≠ ≤ ≥"
            Geometric Shapes: "◊"
-           Dingbats: "✋ ✺ ❤"
+           Dingbats: "✋ ✺ ❤ ➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉"
            Supplemental Punctuation: "⸘"
            Latin Extended-D: "Ꞌ ꞌ"
            Private Use Area: ""
@@ -69,12 +69,62 @@ styles:
            Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
            Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
            Oldstyle Figures: "²-onum ³-onum ₴-onum ƒ-onum −-onum ₹-onum ¢-onum #-onum $-onum %-onum \"-onum '-onum £-onum ₩-onum ª-onum +-onum €-onum ¥-onum °-onum 1-onum ‰-onum ±-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum º-onum 3-onum <-onum =-onum >-onum ½-onum ¼-onum ¾-onum ¹-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum 0-onum ÷-onum 2-onum"
-           Stylistic Set 1: "ā-ss01 ă-ss01 ȃ-ss01 ą-ss01 ạ-ss01 ả-ss01 ấ-ss01 ầ-ss01 ẩ-ss01 ẫ-ss01 ậ-ss01 ắ-ss01 а-ss01 ằ-ss01 ẳ-ss01 ẵ-ss01 ặ-ss01 ǎ-ss01 à-ss01 a-ss01 á-ss01 â-ss01 ä-ss01 å-ss01 æ-ss01 ã-ss01 ǻ-ss01 ǽ-ss01"
-           Stylistic Set 2: "ġ-ss02 ḡ-ss02 ģ-ss02 ǧ-ss02 g-ss02 ĝ-ss02 ğ-ss02"
-           Tabular Figures: "²-tnum ³-tnum ₴-tnum ƒ-tnum −-tnum ₹-tnum ¢-tnum #-tnum $-tnum %-tnum \"-tnum '-tnum £-tnum ₩-tnum ª-tnum +-tnum €-tnum ¥-tnum °-tnum 1-tnum ‰-tnum ±-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum º-tnum 3-tnum <-tnum =-tnum >-tnum ½-tnum ¼-tnum ¾-tnum ¹-tnum ₺-tnum ₽-tnum ₿-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum 0-tnum ÷-tnum 2-tnum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Stylistic Set 1: "І-ss01 Ї-ss01 Ỉ-ss01 I-ss01 Ị-ss01 Ī-ss01 Ĭ-ss01 Í-ss01 Î-ss01 Ï-ss01 İ-ss01 Ì-ss01 Į-ss01 Ϊ-ss01 Ί-ss01 Ĩ-ss01 Ι-ss01"
+           Stylistic Set 2: "ā-ss02 ă-ss02 ȃ-ss02 ą-ss02 ạ-ss02 ả-ss02 ấ-ss02 ầ-ss02 ẩ-ss02 ẫ-ss02 ậ-ss02 ắ-ss02 а-ss02 ằ-ss02 ẳ-ss02 ẵ-ss02 ặ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 æ-ss02 ã-ss02 ǻ-ss02 ǽ-ss02"
+           Stylistic Set 3: "ġ-ss03 ḡ-ss03 ģ-ss03 ǧ-ss03 g-ss03 ĝ-ss03 ğ-ss03"
+           Stylistic Set 4: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum 3-tnum ³-tnum ₴-tnum ƒ-tnum −-tnum ₹-tnum ¢-tnum #-tnum $-tnum %-tnum \"-tnum '-tnum £-tnum ¹-tnum ª-tnum +-tnum €-tnum ,-tnum .-tnum ₩-tnum °-tnum 1-tnum ‰-tnum ±-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum º-tnum <-tnum =-tnum >-tnum ½-tnum ¼-tnum ;-tnum ¾-tnum ₺-tnum ₽-tnum ₿-tnum ¥-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum 0-tnum ÷-tnum 2-tnum"
+           Slashed Zero: "⁰-zero 0-zero ₀-zero"
+   - FC Bol Serif:
+        glyphCount: 1132
+        paypro: FC_Bol_Serif
+        characterset:
+           Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
+           Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
+           Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
+           Latin Extended-B: "Ə ƒ Ơ ơ Ư ư Ƶ Ǎ ǎ Ǧ ǧ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
+           IPA Extensions: "ə"
+           Spacing Modifier Letters: "ʻ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌ ̒ ̛ ̣ ̦ ̧ ̨"
+           Greek and Coptic: "΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ Ү ү Һ һ Ӏ ӏ Ә ә Ө ө"
+           Latin Extended Additional: "Ḡ ḡ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ"
+           General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ‽ ⁄"
+           Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
+           Currency Symbols: "₩ € ₴ ₹ ₺ ₽ ₿"
+           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
+           Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
+           Mathematical Operators: "∂ ∏ ∑ − √ ∞ ∫ ≈ ≠ ≤ ≥"
+           Geometric Shapes: "◊"
+           Dingbats: "✋ ✺ ❤ ➀ ➁ ➂ ➃ ➄ ➅ ➆ ➇ ➈ ➉"
+           Supplemental Punctuation: "⸘"
+           Latin Extended-D: "Ꞌ ꞌ"
+           Private Use Area: ""
+           Alphabetic Presentation Forms: "ﬁ ﬂ"
+           Miscellaneous Symbols and Pictographs: "👆 👇 👈 👉 👌 👍 🖕"
+           Case-Sensitive Forms: "–-case —-case ⸘-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
+           Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
+           Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
+           Numerators: "0-numr 1-numr 2-numr 3-numr 4-numr 5-numr 6-numr 7-numr 8-numr 9-numr"
+           Oldstyle Figures: "²-onum ³-onum ₴-onum ƒ-onum −-onum ₹-onum ¢-onum #-onum $-onum %-onum \"-onum '-onum £-onum ₩-onum ª-onum +-onum €-onum ¥-onum °-onum 1-onum ‰-onum ±-onum 4-onum 5-onum 6-onum 7-onum 8-onum 9-onum º-onum 3-onum <-onum =-onum >-onum ½-onum ¼-onum ¾-onum ¹-onum ₺-onum ₽-onum ₿-onum ≈-onum ⅓-onum ⅔-onum ×-onum ⅛-onum ⅜-onum ⅝-onum ⅞-onum ≠-onum ≤-onum ≥-onum 0-onum ÷-onum 2-onum"
+           Scientific Inferiors: "0-sinf 1-sinf 2-sinf 3-sinf 4-sinf 5-sinf 6-sinf 7-sinf 8-sinf 9-sinf"
+           Stylistic Set 1: "І-ss01 Ї-ss01 Ỉ-ss01 I-ss01 Ị-ss01 Ī-ss01 Ĭ-ss01 Í-ss01 Î-ss01 Ï-ss01 İ-ss01 Ì-ss01 Į-ss01 Ϊ-ss01 Ί-ss01 Ĩ-ss01 Ι-ss01"
+           Stylistic Set 2: "ā-ss02 ă-ss02 ȃ-ss02 ą-ss02 ạ-ss02 ả-ss02 ấ-ss02 ầ-ss02 ẩ-ss02 ẫ-ss02 ậ-ss02 ắ-ss02 а-ss02 ằ-ss02 ẳ-ss02 ẵ-ss02 ặ-ss02 ǎ-ss02 à-ss02 a-ss02 á-ss02 â-ss02 ä-ss02 å-ss02 æ-ss02 ã-ss02 ǻ-ss02 ǽ-ss02"
+           Stylistic Set 3: "ġ-ss03 ḡ-ss03 ģ-ss03 ǧ-ss03 g-ss03 ĝ-ss03 ğ-ss03"
+           Stylistic Set 4: "0-ss04 1-ss04 2-ss04 3-ss04 4-ss04 5-ss04 6-ss04 7-ss04 8-ss04 9-ss04"
+           Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
+           Tabular Figures: "²-tnum 3-tnum ³-tnum ₴-tnum ƒ-tnum −-tnum ₹-tnum ¢-tnum #-tnum $-tnum %-tnum \"-tnum '-tnum £-tnum ¹-tnum ª-tnum +-tnum €-tnum ,-tnum .-tnum ₩-tnum °-tnum 1-tnum ‰-tnum ±-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum º-tnum <-tnum =-tnum >-tnum ½-tnum ¼-tnum ;-tnum ¾-tnum ₺-tnum ₽-tnum ₿-tnum ¥-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum 0-tnum ÷-tnum 2-tnum"
            Slashed Zero: "⁰-zero 0-zero ₀-zero"
 
 fontVariations:
+   - lmnt:
+      name: Element
+      minValue: 0.0
+      maxValue: 7.0
+      defaultValue: 5.0
    - sizx:
       name: Size X
       minValue: 0.0
@@ -85,11 +135,11 @@ fontVariations:
       minValue: 0.0
       maxValue: 2.0
       defaultValue: 1.0
-   - lmnt:
-      name: Element
-      minValue: 0.0
-      maxValue: 7.0
-      defaultValue: 5.0
+   - wdth:
+      name: Width
+      minValue: 40.0
+      maxValue: 200.0
+      defaultValue: 100.0
    - slnt:
       name: Slant
       minValue: -45.0
@@ -100,56 +150,51 @@ fontVariations:
       minValue: 0.0
       maxValue: 1.0
       defaultValue: 0.0
-   - wdth:
-      name: Width
-      minValue: 40.0
-      maxValue: 200.0
-      defaultValue: 100.0
 
 openTypeFeatures:
    - ss01:
        name: alternate schoolbook a
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "Taramasalata salad"
    - ss02:
        name: alternate schoolbook g
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "Integrated geography"
    - case:
        name: Case-Sensitive Forms
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "¿Qué? (Cap-1/2) [3] {4}"
    - onum:
        name: Oldstyle Figures
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "€1.420,99 67% + 2 ⅝ inches"
    - tnum:
        name: Tabular Figures
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "$9,087,125.00 31% + 5 ⅔ inches"
    - frac:
        name: Fractions
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "12345/67890"
    - zero:
        name: Slashed Zero
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "¥6.000.000"
    - numr:
        name: Numerators
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "5 Footnote: 1234567890"
    - dnom:
        name: Denominators
-       fontStyle: FC Bol Regular
+       fontStyle: FC Bol Sans
        examples:
          - "1234567890"
 
@@ -189,7 +234,7 @@ testers:
         Las nubes estratiformes son comunes en muchas regiones del mundo, especialmente en áreas donde la atmósfera se mantiene estable y la humedad es alta. Aunque no suelen traer tormentas intensas, las nubes estratiformes son responsables de períodos prolongados de tiempo nublado y lluvias suaves. Este tipo de nubes es más común en los meses de otoño e invierno, cuando las condiciones atmosféricas son más propensas a la formación de capas de nubes estables.
 
         En resumen, las nubes estratiformes son un fenómeno meteorológico importante que influye en las condiciones climáticas locales, proporcionando nublados constantes y lluvias ligeras que afectan el tiempo en las regiones donde se forman.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 200
       fontVariations:
             - sizx: 2.0 
@@ -213,7 +258,7 @@ testers:
         Τα Αλτοκουμuluς σύννεφα αποτελούνται από σταγόνες νερού ή κρυστάλλους πάγου, και η πυκνότητά τους εξαρτάται από τη θερμοκρασία και την υγρασία στην ατμόσφαιρα. Σε ορισμένες περιπτώσεις, τα Αλτοκουμuluς σύννεφα μπορούν να φέρουν ελαφριά βροχή ή χιονόνερο, αλλά γενικά η βροχόπτωση είναι ελαφριά και βραχύβια.
 
         Παρά την ήπια φύση τους, τα Αλτοκουμuluς σύννεφα είναι όμορφα και εντυπωσιακά, προσφέροντας μια απαλή και γραφική εμφάνιση στον ουρανό. Οι αλλαγές στη μορφή τους μπορούν να μας δώσουν ενδείξεις για τον καιρό που πλησιάζει, καθιστώντας τα ένα χρήσιμο εργαλείο για τη μελέτη των καιρικών φαινομένων.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 40
       fontVariations:
             - sizx: 1.0 
@@ -237,7 +282,7 @@ testers:
         Though beautiful to observe, cirrus clouds are not typically associated with severe weather. They form when moist air rises and cools at high altitudes, causing water vapor to freeze into ice crystals. These clouds are often seen in the early stages of storms, as they appear long before more substantial cloud systems, such as nimbostratus or cumulonimbus clouds, take shape.
 
         In addition to their role in weather prediction, cirrus clouds are an important part of Earth's energy balance. They can both trap heat in the atmosphere and reflect sunlight, affecting the global climate in subtle ways. Thus, cirrus clouds, though small in size, are integral to the intricate processes that govern Earth's weather and climate.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 180
       fontVariations:
             - sizx: 0.2
@@ -259,7 +304,7 @@ testers:
         Ці хмари формуються через конвекцію, коли тепле повітря піднімається вгору, охолоджується, і водяна пара конденсується, утворюючи водяні краплі. Кумулятивні хмари зазвичай не приносять дощу, але можуть бути першими ознаками більш серйозних погодних змін. Якщо кумулятивні хмари зростають вгору і набувають більш густого вигляду, вони можуть перетворитися на грозові хмари — кумулонімбуси, які приносять сильні дощі, грози і навіть град.
 
         Кумулятивні хмари часто стають чудовим об'єктом для спостережень, особливо в ясний день, коли вони створюють яскраві контрасти на фоні синього неба. Їх популярний образ у природі та мистецтві символізує спокійну, безтурботну погоду. Ці хмари не лише милують око, але й є важливим індикатором атмосферних процесів, що відбуваються на земній поверхні.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 80
       fontVariations:
             - sizx: 1.0 
@@ -283,7 +328,7 @@ testers:
         Et av kjennetegnene ved Nimbostratus-skyer er deres evne til å dekke store områder av himmelen, og de gir et inntrykk av at været er stabilt og ugunstig i lengre tid. Nedbøren som følger med disse skyene er vanligvis lett til moderat, men kan vedvare i flere timer eller til og med dager. På grunn av den jevne og langvarige nedbøren er Nimbostratus-skyer ofte et tegn på at været vil være grått og overskyet i lengre tid.
 
         Disse skyene er viktige for landbruket, da de gir den typen jevn og forsiktig nedbør som er gunstig for plantevekst. På den annen side kan de også være et hinder for friluftsliv og soling, da de dekker solens lys fullstendig.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 200
       fontVariations:
             - sizx: 2.0 
@@ -305,7 +350,7 @@ testers:
         Ezek a felhők a légkör közepes magasságaiban képződnek, ahol a levegő viszonylag stabil, de még elég nedvességet tartalmaz ahhoz, hogy kondenzációt eredményezzen. Az altokumulusz felhők előfordulása gyakran annak a jele, hogy egy időjárási front közeledik, amely esetleg esőt, havat vagy más csapadékkal kapcsolatos jelenségeket hozhat. Ha az altokumulusz felhők sűrűsödnek vagy növekednek, akkor egy erősebb légköri zűrzavart jelezhetnek, mint például egy esőfrontot.
 
         Bár az altokumulusz felhők nem általában veszélyesek, mégis fontos szerepet játszanak az időjárás előrejelzésében. Ezek a felhők képesek jelezni a változó időjárást, mint például eső, szél vagy más légköri jelenségek. Az altokumuluszok gyakran az égbolt festői látványát nyújtják, szépen szétterjedve az égen, amelyek nemcsak meteorológiai jelentőséggel bírnak, hanem esztétikai élményt is nyújtanak.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Serif
       fontSize: 40
       fontVariations:
             - sizx: 1.3 
@@ -329,7 +374,7 @@ testers:
         Els cúmuls nimbus són també responsables de canvis meteorològics sobtats. A mesura que s'intensifiquen, poden alliberar grans quantitats d’aigua, donant lloc a pluges fortes que poden provocar inundacions. El seu caràcter imprevisible fa que aquests núvols siguin un dels principals focus d’estudi per als meteoròlegs. Malgrat la seva bellesa, els cúmuls nimbus són un recordatori del poder destructiu de la natura, i la seva presència al cel és sovint un presagi de condicions perilloses a la superfície.
 
         En resum, els cúmuls nimbus són núvols massius i impressionants que marquen la intensitat dels fenòmens meteorològics, i la seva formació i comportament són essencials per entendre el clima dinàmic del nostre planeta.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 180
       fontVariations:
             - sizx: 2.0 
@@ -354,7 +399,7 @@ testers:
 
         Mây Pyrocumulus là một hiện tượng đặc biệt hiếm gặp, thường chỉ thấy ở những khu vực có hoạt động địa chất mạnh hoặc khí hậu khô nóng dễ xảy ra cháy rừng. Chúng phản ánh mối liên hệ trực tiếp giữa các hiện tượng khí tượng và hoạt động bề mặt Trái Đất, đồng thời cho thấy mức độ tác động của thiên nhiên và con người đến khí quyển.
 
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 70
       fontVariations:
             - sizx: 1.0 
@@ -378,7 +423,7 @@ testers:
         Obwohl Stratocumuluswolken nicht mit schweren Stürmen verbunden sind, können sie die Sonne vollständig verdecken und somit für eine graue, trübe Atmosphäre sorgen. In einigen Fällen, wenn sie sich verdicken oder größere Ausdehnung erreichen, können sie intensiveren Regen oder sogar Gewitter hervorrufen. Jedoch bleibt die Niederschlagsmenge in der Regel im Vergleich zu anderen Wolkenarten wie den Cumulonimbuswolken relativ gering.
 
         Stratocumuluswolken sind häufig und können in vielen verschiedenen Klimazonen weltweit auftreten. Sie sind ein wichtiger Bestandteil des Wettergeschehens, da sie den Übergang zwischen stabilen und instabilen atmosphärischen Bedingungen darstellen. Ihr Erscheinen am Himmel kann auf Veränderungen im Wetter hinweisen, auch wenn sie selbst nicht zu extremen Wetterereignissen führen.
-      fontStyle: FC Bol Regular
+      fontStyle: FC Bol Sans
       fontSize: 120
       fontVariations:
             - sizx: 0.35 
@@ -481,7 +526,7 @@ research: |
 
     <div markdown="1">
       <div markdown="1">
-
+ 
     ![](FC-Bol_Research_5.svg)
 
       </div>
