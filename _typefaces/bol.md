@@ -114,15 +114,25 @@ fontVariations:
 
 openTypeFeatures:
    - ss01:
-       name: alternate schoolbook a
+       name: "Stylistic Set 1: alternate capital I"
+       fontStyle: FC Bol Sans
+       examples:
+         - "INĨTỊALΪZATION"    
+   - ss02:
+       name: "Stylistic Set 2: alternate schoolbook a"
        fontStyle: FC Bol Sans
        examples:
          - "Taramasalata salad"
-   - ss02:
-       name: alternate schoolbook g
+   - ss03:
+       name: "Stylistic Set 3: alternate schoolbook g"
        fontStyle: FC Bol Sans
        examples:
          - "Integrated geography"
+   - ss04:
+       name: "Circled Numbers"
+       fontStyle: FC Bol Sans
+       examples:
+         - "1 23 456 7890"
    - case:
        name: Case-Sensitive Forms
        fontStyle: FC Bol Sans
@@ -130,6 +140,16 @@ openTypeFeatures:
          - "¿Qué? (Cap-1/2) [3] {4}"
    - onum:
        name: Oldstyle Figures
+       fontStyle: FC Bol Sans
+       examples:
+         - "€1.420,99 67% + 2 ⅝ inches"
+   - lnum:
+       name: Lining Figures
+       fontStyle: FC Bol Sans
+       examples:
+         - "$9,087,125.00 31% + 5 ⅔ inches"         
+   - pnum:
+       name: Proportional Figures
        fontStyle: FC Bol Sans
        examples:
          - "€1.420,99 67% + 2 ⅝ inches"
@@ -148,6 +168,11 @@ openTypeFeatures:
        fontStyle: FC Bol Sans
        examples:
          - "¥6.000.000"
+   - sinf:
+       name: Superscript
+       fontStyle: FC Bol Sans
+       examples:
+         - "1234567890"  
    - numr:
        name: Numerators
        fontStyle: FC Bol Sans
@@ -158,6 +183,11 @@ openTypeFeatures:
        fontStyle: FC Bol Sans
        examples:
          - "1234567890"
+   - sinf:
+       name: Scientific Inferiors
+       fontStyle: FC Bol Sans
+       examples:
+         - "1234567890"  
 
 css: Bol-style.css
 
@@ -425,9 +455,8 @@ testers:
             #Range 40-100-200
 
 about:
-    - image: Bike.png
-      caption: "small text under the images that has to be designed"
-
+    - video: Bol_Information.mp4
+      controls: true
       text: |
         ## Type Synthesizer for web and motion graphics
 
@@ -619,7 +648,7 @@ research: |
       </div>
       <div markdown="1">
 
-    From Structure to Evaporation
+    ## From Structure to Evaporation
 
     The sixth and final axis disperses the elements, bringing the experiment back to one of its original impulses: the possibility that a letter might dissolve.
 

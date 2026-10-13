@@ -626,6 +626,13 @@ section.about {
 
     figure {
         padding-bottom: 20px;
+
+        video {
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+
         &.small {
             max-width: 520px;
             margin: 0 auto;
