@@ -673,7 +673,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](lottie: FC-Bol_Research_10.json)
+    <div class="lottie" data-lottie="FC-Bol_Research_10.json"></div>
 
       </div>
       <div markdown="1">

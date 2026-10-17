@@ -1,19 +1,19 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang }}">
 <head>
-    <title>{{ page.title }} | Font Club Belgica</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     {% include META %}
     {% include HEAD %}
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/screen.css" />
     <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml">
     {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}{{ page.url}}{{ page.css }}" />{% endif %}
 
-    <script src="{{ site.baseurl }}/assets/js/main.js?v=1"></script>
-    {% if page.js %} <script src="{{ site.baseurl }}{{ page.js }}"></script>{% endif %}
+    {% if content contains "data-lottie" %}<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js" defer></script>{% endif %}
+    <script src="{{ site.baseurl }}/assets/js/main.js?v=2" defer></script>
+    {% if page.js %}<script src="{{ site.baseurl }}/{{ page.js }}" defer></script>{% endif %}
 
 <!-- Matomo -->
 <script>
@@ -30,10 +30,6 @@
         })();
 </script>
 <!-- End Matomo Code -->
-
-<!-- Lottie player for playing Cavalry json animations -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<!-- End Lottie -->
 
 </head>
 <body class="{{ page.path | replace: '.md', '' | split: '/' | last }}">

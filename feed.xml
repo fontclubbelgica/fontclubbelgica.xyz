@@ -14,9 +14,10 @@ layout: null
     {% assign items = site.typefaces | concat: site.articles | sort:"date" | reverse %}
 
     {% for item in items %}
+      {% if item.draft or item.date > site.time %}{% continue %}{% endif %}
       <item>
         <title>{{ item.title | xml_escape }}</title>
-        <description>{{ item.seo_description | xml_escape }}</description>
+        <description>{{ item.seo_description | strip_newlines | strip | xml_escape }}</description>
         <pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
         <link>{{ item.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ item.url | prepend: site.baseurl | prepend: site.url }}</guid>

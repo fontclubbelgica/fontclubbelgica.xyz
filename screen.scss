@@ -188,7 +188,7 @@ header {
         }
         &.font-menu {
             text-align: center;
-            h2 {
+            h1, h2 {
                 a {
                     font-size: 16px;
                     text-transform: uppercase;
@@ -633,6 +633,11 @@ section.about {
             height: auto;
         }
 
+        .lottie {
+            display: block;
+            width: 100%;
+        }
+
         &.small {
             max-width: 520px;
             margin: 0 auto;
@@ -715,6 +720,10 @@ section.research {
     padding-right: var(--padding);
     video {
       max-width:100%;
+    }
+    .lottie {
+      display: block;
+      width: 100%;
     }
     a {
       text-decoration: underline;
@@ -1766,7 +1775,7 @@ body.index {
   @media(max-width: 600px) {
     margin-top: 60px;
   }
-  h2 {
+  h1 {
     font-family: 'FCBELGICA Condensed';
     font-weight: 120;
     font-size: 37px;

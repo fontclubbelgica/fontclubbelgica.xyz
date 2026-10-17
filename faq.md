@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 
 seo_description: |
-    Discover how Font Club Belgica wants to be a plaftorm for Belgian type design. Discover who we are, what we do and all the ins and outs of our business.
+    Discover how Font Club Belgica wants to be a platform for Belgian type design. Discover who we are, what we do and all the ins and outs of our business.
 seo_image: FCB_SEO_FAQ.jpg
 
 ---
