@@ -139,6 +139,18 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_size(element)
 	})
 
+	document.querySelectorAll('.fontVariation-reset').forEach((element) => {
+		element.addEventListener("click", (event) => {
+			form = element.parentElement.parentElement
+			inputs = form.querySelectorAll('input')
+			for (var index = 0; index < inputs.length; index++) {
+				input = inputs[index]
+				input.value = input.dataset.defaultValue
+			}
+			apply_control_select_fontVariation(form)
+		})
+	})
+
 	// characeterset popup
 
 	document.querySelectorAll('.glyph').forEach((element) => {
