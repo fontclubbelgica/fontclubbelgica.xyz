@@ -3,16 +3,17 @@ layout: default
 ---
 
 {% if page.featuredImage %}
-<img src="{{ page.featuredImage }}">
+<img src="{{ page.featuredImage }}" alt="{{ page.title | escape }}" fetchpriority="high">
 {% endif %}
 
+{% capture article_alt %}alt="{{ page.title | escape }} illustration"{% endcapture %}
 <main class="">
 	<section class="research">
 		<div class="research-content">
-			{{ content | markdownify }}
+			{{ content | markdownify | replace: '<img src=', '<img loading="lazy" src=' | replace: 'alt=""', article_alt }}
 		</div>
 	</section>
-	<p class="return"><a class="btn" href="/articles">Read more articles</a></p>
+	<p class="return"><a class="btn" href="/articles/">Read more articles</a></p>
 	{% if page.font_match %}
 	{% include library fontcount=3 %}
 	{% endif %}

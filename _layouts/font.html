@@ -5,7 +5,7 @@ layout: default
 {% if page.draft %}
 {% if page.splash %}
 <section class="hero">
-    <figure><img src="{{ page.url }}{{ page.splash }}"></figure>
+    <figure><img src="{{ page.url }}{{ page.splash }}" alt="{{ page.title }} typeface specimen" fetchpriority="high"></figure>
 </section>
 {% endif %}
 {% else %}
@@ -22,20 +22,13 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 
 {% if page.splash %}
 <section class="hero">
-    <figure><img src="{{ page.url }}{{ page.splash }}"></figure>
+    <figure><img src="{{ page.url }}{{ page.splash }}" alt="{{ page.title }} typeface specimen" fetchpriority="high"></figure>
 </section>
 {% endif %}
 
 {% if page.splashanim %}
 <section class="hero">
-    <lottie-player
-    src="{{ page.splashanim }}"
-    background="transparent"
-    speed="1"
-    style="width: 100%; height: auto;"
-    autoplay
-    loop>
-</lottie-player>
+    <div class="lottie" data-lottie="{{ page.splashanim }}"></div>
 </section>
 {% endif %}
 
@@ -74,7 +67,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
             <div>
                 {% if about.image %}
                 <figure>
-                <img src="{{ page.url }}{{ about.image }}">
+                <img src="{{ page.url }}{{ about.image }}" alt="{{ about.caption | default: page.title | escape }}" loading="lazy">
                     {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
                 </figure>
                 {% endif %}
@@ -84,6 +77,13 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                     <video loop playsinline{% if about.controls %} controls{% endif %} preload="metadata">
                         <source src="{{ page.url }}{{ about.video }}" type="video/mp4">
                     </video>
+                    {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
+                </figure>
+                {% endif %}
+
+                {% if about.lottie %}
+                <figure>
+                    <div class="lottie" data-lottie="{{ page.url }}{{ about.lottie }}"></div>
                     {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
                 </figure>
                 {% endif %}
@@ -167,12 +167,13 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 {% endif %}
 
 {% if page.research %}
+{% capture research_alt %}alt="{{ page.title }} research illustration"{% endcapture %}
 <section class="research">
     <div class="research-title">
         <h3 class="section-title">Research</h3>
     </div>
     <div class="research-content expandable">
-        {{ page.research | markdownify }}
+        {{ page.research | markdownify | replace: '<img src=', '<img loading="lazy" src=' | replace: 'alt=""', research_alt }}
         <a href="#" class="btn expand">&#8595; Expand &#8595;</a>
     </div>
 </section>

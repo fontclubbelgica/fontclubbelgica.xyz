@@ -455,12 +455,19 @@ testers:
             #Range 40-100-200
 
 about:
-    - video: Bol_Information.mp4
-      controls: true
+    - lottie: FC-Bol_Research_10.json
+#      video: Bol_Information.mp4
+#      controls: true
       text: |
-        ## Type Synthesizer for web and motion graphics
+        What if letters could stretch, drift, distort and evaporate into pixels? FC Bol explores this question, transforming typography from a static form into a system only limited by your imagination.
 
-        INSERT INTERESTING TEXT
+        The project began in 2014, when Dries Wiewauters designed a cloud-inspired letter A for a friend's birth announcement. Years later in 2018, the emergence of variable fonts sparked a new idea: what if the individual elements of a letter could change shape, move and disperse in response to interaction?
+
+        Using Python, FC Bol reverses the conventional variable font workflow. Rather than drawing multiple master styles, a single source becomes the foundation for a system that generates variations. Six axes control the shape, size, width, slant and dispersion of the elements, transforming 1,136 glyphs across 1,296 masters.
+
+        The result is a typeface that canmove from legibility to visual chaos when needed. Elements can stretch into glitchy textures, slant like trees fighting a storm, or shrink and scatter until letters appear to evaporate.
+
+        More than a collection of styles, FC Bol is a generative instrument for web and motion graphics. You push some sliders and explore the possibilities. In line with this idea of experimentation we decided to heavily discount the lower tiers of this font ranging from 25% to 80%!
 
 research: |
 
@@ -656,39 +663,26 @@ research: |
 
     This is where the initial cloud returns, no longer simply as the inspiration for a letterform but as a model for the behaviour of the typeface itself. Elements separate, become smaller and drift away. What was once a solid arrangement begins to disperse into something less tangible.
 
+    The axes are most interesting when they are not considered in isolation. A change in size can be combined with a change in shape; slant can intensify dispersion; width can transform the space through which the elements appear to move. Each parameter changes the effect of the others. The result is not merely a collection of six independent controls, but a system in which their interactions create a much larger field of expression.
+
+    The typeface becomes an instrument for tuning between order and disorder, between the legible and the illegible, between a letter that holds together and one that is on the verge of disappearing.
+
       </div>
     </div>
 
     <div markdown="1">
       <div markdown="1">
 
-    ![](FC-Bol_Research_10.svg)
+    <div class="lottie" data-lottie="FC-Bol_Research_10.json"></div>
 
       </div>
       <div markdown="1">
-
-    The axes are most interesting when they are not considered in isolation. A change in size can be combined with a change in shape; slant can intensify dispersion; width can transform the space through which the elements appear to move. Each parameter changes the effect of the others. The result is not merely a collection of six independent controls, but a system in which their interactions create a much larger field of expression.
-
-    The typeface becomes an instrument for tuning between order and disorder, between the legible and the illegible, between a letter that holds together and one that is on the verge of disappearing.
-
-    &nbsp;
 
     ## The Typeface as an Event
 
     FC Bol begins with a cloud, but it does not end there. Between the first hand-drawn A and the eventual variable font lies a shift in the understanding of what a typeface can be.
 
     A letter is usually encountered as a stable shape, repeated across different contexts. Even when its weight, width or slant changes, its identity remains relatively secure. FC Bol places this stability under pressure. It treats the letter as a collection of elements whose relationships can be continuously altered, whose positions can be recalculated and whose forms can move towards disappearance.
-
-      </div>
-    </div>
-
-    <div markdown="1">
-      <div markdown="1">
-
-    ![](FC-Bol_Research_11.svg)
-
-      </div>
-      <div markdown="1">
 
     This opens a different relationship between typography and time. On a website, a word need not remain fixed as the reader encounters it. The movement of a cursor can initiate a transformation; interaction can become a form of choreography. A headline is no longer merely a container for language, but a temporary arrangement of elements responding to an action.
 

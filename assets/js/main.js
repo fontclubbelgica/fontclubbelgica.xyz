@@ -22,6 +22,20 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	})
 
+	// lottie animations
+
+	if (window.lottie) {
+		document.querySelectorAll('[data-lottie]').forEach((element)=> {
+			lottie.loadAnimation({
+				container: element,
+				renderer: 'svg',
+				loop: true,
+				autoplay: true,
+				path: element.dataset.lottie
+			})
+		})
+	}
+
 	// font tester
 
 	const control_select_font = document.querySelectorAll('.select-font select')

@@ -20,7 +20,7 @@
             <a href="{{ typeface.url }}">
                 <div class="stack stack-{{ typeface.library_preview | size }}">
                 {% for library-preview in typeface.library_preview %}
-                    <figure><img src="{{ typeface.url }}{{ library-preview }}"></figure>
+                    <figure><img src="{{ typeface.url }}{{ library-preview }}" alt="{{ typeface.title }} specimen" loading="lazy"></figure>
                 {% endfor %}
                 </div>
                 <div class="font-info">
@@ -35,7 +35,7 @@
         {% endunless %}
     </div>
     {% if include.fontcount %}
-    <p><a href="/typefaces" class="library-btn">Explore full library</a></p>
+    <p><a href="/typefaces/" class="library-btn">Explore full library</a></p>
     {% endif %}
 </section>
 {% endif %}

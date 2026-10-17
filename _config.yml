@@ -24,6 +24,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Fonts from Belgium
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fontclubbelgica.com" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+
+# One URL style everywhere: pages live at /faq/, /typefaces/, ... like the typeface and article pages
+permalink: pretty
+
+# Used in the structured data (JSON-LD) in _includes/META
+social:
+  - https://www.instagram.com/fontclubbelgica
+  - https://typo.social/@FontClubBelgica
 
 collections:
   typefaces:

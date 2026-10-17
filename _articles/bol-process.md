@@ -208,22 +208,20 @@ In more restrained combinations, particularly when used with the rounded element
 
 This is where the initial cloud returns, no longer simply as the inspiration for a letterform but as a model for the behaviour of the typeface itself. Elements separate, become smaller and drift away. What was once a solid arrangement begins to disperse into something less tangible.
 
+The axes are most interesting when they are not considered in isolation. A change in size can be combined with a change in shape; slant can intensify dispersion; width can transform the space through which the elements appear to move. Each parameter changes the effect of the others. The result is not merely a collection of six independent controls, but a system in which their interactions create a much larger field of expression.
+
+The typeface becomes an instrument for tuning between order and disorder, between the legible and the illegible, between a letter that holds together and one that is on the verge of disappearing.
+
   </div>
 </div>
 
 <div markdown="1">
   <div markdown="1">
 
-![](FC-Bol_Research_10.svg)
+![](FC-Bol_Research_10.gif)
 
   </div>
   <div markdown="1">
-
-The axes are most interesting when they are not considered in isolation. A change in size can be combined with a change in shape; slant can intensify dispersion; width can transform the space through which the elements appear to move. Each parameter changes the effect of the others. The result is not merely a collection of six independent controls, but a system in which their interactions create a much larger field of expression.
-
-The typeface becomes an instrument for tuning between order and disorder, between the legible and the illegible, between a letter that holds together and one that is on the verge of disappearing.
-
-&nbsp;
 
 ## The Typeface as an Event
 
@@ -231,24 +229,13 @@ FC Bol begins with a cloud, but it does not end there. Between the first hand-dr
 
 A letter is usually encountered as a stable shape, repeated across different contexts. Even when its weight, width or slant changes, its identity remains relatively secure. FC Bol places this stability under pressure. It treats the letter as a collection of elements whose relationships can be continuously altered, whose positions can be recalculated and whose forms can move towards disappearance.
 
-  </div>
-</div>
-
-<div markdown="1">
-  <div markdown="1">
-
-![](FC-Bol_Research_11.svg)
-
-  </div>
-  <div markdown="1">
-
 This opens a different relationship between typography and time. On a website, a word need not remain fixed as the reader encounters it. The movement of a cursor can initiate a transformation; interaction can become a form of choreography. A headline is no longer merely a container for language, but a temporary arrangement of elements responding to an action.
 
 The typeface becomes a meeting point between graphic design, computation and motion. Its letters can hold together, break apart and reform. Their behaviour is determined not by a sequence of individually drawn frames, but by a system capable of generating variation.
 
 Perhaps this is the most interesting aspect of FC Bol: not the sheer number of forms it can produce, but the change in authorship that makes those forms possible. The designer establishes the conditions. The code creates the relationships. The variable font opens up the space between them.
 
-And somewhere in that space, a letter can begin to evaporate.
+*And somewhere in that space, a letter can begin to evaporate.*
 
 What began as a small experiment in imagining the future of a newborn child has become an investigation into the future of typography itself: a typeface that does not simply offer a choice between styles, but allows the very elements from which letters are made to enter into motion.
 
