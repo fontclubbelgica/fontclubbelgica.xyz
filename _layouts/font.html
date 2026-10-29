@@ -74,13 +74,13 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 
                 {% if about.video %}
                 <figure>
-                    <video loop playsinline{% if about.controls %} controls{% endif %} preload="metadata">
-                        <source src="{{ page.url }}{{ about.video }}" type="video/mp4">
+                    <video autoplay muted loop playsinline>
+                       <source src="{{ page.url }}{{ about.video }}" type="video/mp4">
                     </video>
                     {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
                 </figure>
                 {% endif %}
-
+                
                 {% if about.lottie %}
                 <figure>
                     <div class="lottie" data-lottie="{{ page.url }}{{ about.lottie }}"></div>

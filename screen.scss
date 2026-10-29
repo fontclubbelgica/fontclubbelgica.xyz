@@ -98,6 +98,11 @@ img {
     width: 100%;
     height: auto;
     display: block;
+    border-radius: 12px;
+}
+
+img.featuredImage {
+    border-radius: 0;
 }
 
 body {
@@ -590,6 +595,7 @@ section.hero {
         align-items: center;
     }
     img {
+        border-radius:0;
         object-fit: cover;
         object-position: center center;
         min-width: 100%;
@@ -786,7 +792,7 @@ section.research {
       padding-bottom: 24px;
     }
     img+img,em+img{
-       padding-top: 30px;
+        margin-top: 30px;
     }
     img+em{
       font-size: 10px;
@@ -798,7 +804,7 @@ section.research {
     p+p {
         text-indent: 33px;
         img {
-        padding-top: 30px;
+        margin-top: 30px;
         }
     }
     p
@@ -839,7 +845,7 @@ section.research {
       column-gap: 60px;
       row-gap: 20px;
       img {
-        padding-bottom: 7px;
+        margin-bottom: 7px;
       }
       h2 {
         font-size: 24px;
@@ -1812,7 +1818,6 @@ body.index {
     margin-left: 2px;
     top: 29px;
     padding: 0 var(--padding);
-
 
     @media(max-width: 600px) {
       font-size: 25px;

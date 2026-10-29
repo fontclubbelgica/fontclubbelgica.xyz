@@ -40,7 +40,7 @@ languageSupport:
 
 css: lead-style.css
 
-splash: lead-splash.png
+splash: lead-splash.jpg
 
 hometile: FCB_Library_Lead_Large.svg
 
@@ -164,15 +164,13 @@ testers:
             - opsz: 10
       fontColorPalette: Mineral
 
-
 about:
 
     - image: FCB_Articles_Lead.svg
       caption: Every whitespace is one piece, a convex shape.
 
       text: |
-        Light, glass and lead, letters based on convex shapes and whole undivided whitespaces. Convert all limitations of cutting glass into a letter shapes. FC Lead is using the constraints of merging pieces of glass together with lead into one solid drawing. Counterparts are created with  light without any unnecessary cuts. Resulting in unconventional letters.
-
+        *Light, glass and lead*, letters based on convex shapes and whole undivided whitespaces. Convert all limitations of cutting glass into a letter shapes. *FC Lead* is using the constraints of merging pieces of glass together with lead into one solid drawing. Counterparts are created with light without any unnecessary cuts. Resulting in unconventional letters.
 
 research: |
 
