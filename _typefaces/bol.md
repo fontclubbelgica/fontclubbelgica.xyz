@@ -457,6 +457,7 @@ testers:
 
 about:
     - video: Bol_Information.mp4
+    - lottie: FC-Bol_Research_10.json
       text: |
         What if letters could stretch, drift, distort and evaporate into pixels? *FC Bol* explores this question, transforming typography from a static form into a system only limited by your imagination.
 
@@ -689,6 +690,10 @@ research: |
     <video autoplay muted loop playsinline>
         <source src="FC-Bol_Research_10.mp4" type="video/mp4">
     </video>
+
+    <!-- To use an mp4 instead of the lottie, replace the line above with:
+    <video autoplay muted loop playsinline preload="metadata"><source src="Bol_Information.mp4" type="video/mp4"></video>
+    -->
 
       </div>
       <div markdown="1">

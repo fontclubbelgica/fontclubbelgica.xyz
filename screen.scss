@@ -749,6 +749,9 @@ section.research {
     padding-right: var(--padding);
     video {
       max-width:100%;
+      display: block;
+      width: 100%;
+      max-width: 100%;
     }
     .lottie {
       display: block;
@@ -1152,6 +1155,10 @@ section.details>div {
     z-index: 9;
     left: calc(50% - 150px);
     position: absolute;
+    // fixed, so the collapsed glyph sheet (overflow: hidden) doesn't cut it off; top is set in main.js
+    left: 50%;
+    top: var(--popup-top, 0);
+    position: fixed;
     transform: translateX(-50%);
     background-color: white;
     border-radius: 18px;

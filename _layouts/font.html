@@ -76,6 +76,8 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                 <figure>
                     <video autoplay muted loop playsinline>
                        <source src="{{ page.url }}{{ about.video }}" type="video/mp4">
+                    <video autoplay muted loop playsinline{% if about.controls %} controls{% endif %} preload="metadata">
+                        <source src="{{ page.url }}{{ about.video }}" type="video/mp4">
                     </video>
                     {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
                 </figure>
