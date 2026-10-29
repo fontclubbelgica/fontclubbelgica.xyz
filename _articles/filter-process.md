@@ -29,7 +29,11 @@ seo_image: FCB_SEO_Filter.jpg
   </div>
 </div>
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1109336903?h=1b7cdcce2e" width="100%" height="600px" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1109336903?h=1b7cdcce2e" width="100%" height="600px" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+&nbsp;
 
 # Your&nbsp;skeleton looks&nbsp;different than&nbsp;mine?
 

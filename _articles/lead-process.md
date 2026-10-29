@@ -6,10 +6,10 @@ tags:
   - lead
   - researh
   - glass
-featuredImage: FCB_Article_Splash_Lead.png
+featuredImage: FCB_Article_Splash_Lead.jpg
 thumbnailImage: FCB_ANR_Lead.svg
 
-draft: true
+draft: false
 
 seo_description: |
     FC Lead Light, glass and lead, letters based on convex shapes and whole undivided whitespaces. Convert all limitations of cutting glass into a letter shapes. FC Lead is using the constraints of merging pieces of glass together with lead into one solid drawing. Counterparts are created with  light without any unnecessary cuts. Resulting in unconventional letters.
@@ -17,9 +17,27 @@ seo_image: FCB_SEO_lead.jpg
 
 ---
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1204341661?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="FC Lead, Frederik Berlaen, Typelab 2026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+# Lead: Every whitespace is one piece
 
-# Light, glass and lead.  
+<div markdown="1">
+  <div>
+  </div>
+  <div markdown="1">
+
+*This article accompanies Frederik Berlaen’s Typographics talk, “Light, Glass and Lead” held online during Typelab 2026.*
+
+  </div>
+</div>
+
+<div style="width:66.67%; margin:0 auto; padding:37.5% 0 0 0; position:relative;">
+<iframe src="https://player.vimeo.com/video/1204341661?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="FC Lead, Frederik Berlaen, Typelab 2026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+&nbsp;
+
+&nbsp;
+
+# Light, Glass and Lead
+
 <div markdown="1">
   <div markdown="1">
 
