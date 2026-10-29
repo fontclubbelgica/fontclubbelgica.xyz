@@ -12,7 +12,7 @@ information: |
     FC Bol tries to showcase the possibilities of variable type. It is highly effective when it is used in dynamic websites and motion graphics.
 
 designer: Dries Wiewauters (glyphs) & Frederik Berlaen (variableness)
-date: 2026-09-20
+date: 2026-10-28
 
 specimen: FC-Bol_Type-Specimen-V1.0.pdf
 
@@ -38,24 +38,24 @@ languageSupport:
     Greek: Ελληνικά (Greek)
 
 styles:
-   - FC Bol Sans:
-        glyphCount: 1132
-        paypro: FC_Bol_Sans
+   - FC Bol Circle Regular:
+        glyphCount: 1168
+        paypro: FC_Bol_Circle_Regular
         characterset:
            Basic Latin: "! \" # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \\ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~"
            Latin-1 Supplement: "¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü Ý Þ ß à á â ã ä å æ ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ÷ ø ù ú û ü ý þ ÿ"
            Latin Extended-A: "Ā ā Ă ă Ą ą Ć ć Ĉ ĉ Ċ ċ Č č Ď ď Đ đ Ē ē Ĕ ĕ Ė ė Ę ę Ě ě Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ Ĥ ĥ Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ Į į İ ı Ĳ ĳ Ĵ ĵ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ł ł Ń ń Ņ ņ Ň ň Ŋ ŋ Ō ō Ŏ ŏ Ő ő Œ œ Ŕ ŕ Ŗ ŗ Ř ř Ś ś Ŝ ŝ Ş ş Š š Ţ ţ Ť ť Ŧ ŧ Ũ ũ Ū ū Ŭ ŭ Ů ů Ű ű Ų ų Ŵ ŵ Ŷ ŷ Ÿ Ź ź Ż ż Ž ž ſ"
            Latin Extended-B: "Ə ƒ Ơ ơ Ư ư Ƶ Ǎ ǎ Ǧ ǧ ǻ Ǽ ǽ Ǿ ǿ ȃ Ș ș Ț ț ȷ"
            IPA Extensions: "ə"
-           Spacing Modifier Letters: "ʻ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
+           Spacing Modifier Letters: "ʻ ʼ ˆ ˇ ˉ ˘ ˙ ˚ ˛ ˜ ˝"
            Combining Diacritical Marks: "̀ ́ ̂ ̃ ̄ ̆ ̇ ̈ ̉ ̊ ̋ ̌ ̒ ̛ ̣ ̦ ̧ ̨"
            Greek and Coptic: "΄ ΅ Ά · Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ"
-           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ Ү ү Һ һ Ӏ ӏ Ә ә Ө ө"
+           Cyrillic: "Ѐ Ё Ђ Ѓ Є Ѕ І Ї Ј Љ Њ Ћ Ќ Ѝ Ў Џ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѐ ё ђ ѓ є ѕ і ї ј љ њ ћ ќ ѝ ў џ Ѣ ѣ Ѳ ѳ Ѵ ѵ Ґ ґ Ү ү Ұ ұ Һ һ Ӏ ӏ Ә ә Ө ө"
            Latin Extended Additional: "Ḡ ḡ Ẁ ẁ Ẃ ẃ Ẅ ẅ ẞ Ạ ạ Ả ả Ấ ấ Ầ ầ Ẩ ẩ Ẫ ẫ Ậ ậ Ắ ắ Ằ ằ Ẳ ẳ Ẵ ẵ Ặ ặ Ẹ ẹ Ẻ ẻ Ẽ ẽ Ế ế Ề ề Ể ể Ễ ễ Ệ ệ Ỉ ỉ Ị ị Ọ ọ Ỏ ỏ Ố ố Ồ ồ Ổ ổ Ỗ ỗ Ộ ộ Ớ ớ Ờ ờ Ở ở Ỡ ỡ Ợ ợ Ụ ụ Ủ ủ Ứ ứ Ừ ừ Ử ử Ữ ữ Ự ự Ỳ ỳ Ỵ ỵ Ỷ ỷ Ỹ ỹ"
            General Punctuation: "– — ‘ ’ ‚ “ ” „ † ‡ • … ‰ ‹ › ‽ ⁄"
            Superscripts and Subscripts: "⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉"
            Currency Symbols: "₩ € ₴ ₹ ₺ ₽ ₿"
-           Letterlike Symbols: "ℓ ℗ ℠ ™ Ω ℮"
+           Letterlike Symbols: "ℓ № ℗ ℠ ™ Ω ℮"
            Number Forms: "⅓ ⅔ ⅛ ⅜ ⅝ ⅞"
            Arrows: "← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙"
            Mathematical Operators: "∂ ∏ ∑ − √ ∞ ∫ ≈ ≠ ≤ ≥"
@@ -66,6 +66,7 @@ styles:
            Private Use Area: ""
            Alphabetic Presentation Forms: "ﬁ ﬂ"
            Miscellaneous Symbols and Pictographs: "👆 👇 👈 👉 👌 👍 🖕"
+           Emoticons: "😉 😍 🙂 🙃"
            Case-Sensitive Forms: "–-case —-case ⸘-case ¡-case ¦-case (-case )-case «-case --case /-case ‹-case ›-case »-case ¿-case [-case \\-case ]-case {-case |-case }-case"
            Denominators: "0-dnom 1-dnom 2-dnom 3-dnom 4-dnom 5-dnom 6-dnom 7-dnom 8-dnom 9-dnom"
            Fractions: "/-frac 0-frac 1-frac 2-frac 3-frac 4-frac 5-frac 6-frac 7-frac 8-frac 9-frac"
@@ -79,7 +80,7 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "²-tnum 3-tnum ³-tnum ₴-tnum ƒ-tnum −-tnum ₹-tnum ¢-tnum #-tnum $-tnum %-tnum \"-tnum '-tnum £-tnum ¹-tnum ª-tnum +-tnum €-tnum ,-tnum .-tnum ₩-tnum °-tnum 1-tnum ‰-tnum ±-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum º-tnum <-tnum =-tnum >-tnum ½-tnum ¼-tnum ;-tnum ¾-tnum ₺-tnum ₽-tnum ₿-tnum ¥-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum 0-tnum ÷-tnum 2-tnum"
            Slashed Zero: "⁰-zero 0-zero ₀-zero"
-
+           
 fontVariations:
    - lmnt:
       name: Element
@@ -115,77 +116,77 @@ fontVariations:
 openTypeFeatures:
    - ss01:
        name: "Stylistic Set 1: alternate capital I"
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "INĨTỊALΪZATION"    
    - ss02:
        name: "Stylistic Set 2: alternate schoolbook a"
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "Taramasalata salad"
    - ss03:
        name: "Stylistic Set 3: alternate schoolbook g"
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "Integrated geography"
    - ss04:
        name: "Circled Numbers"
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "1 23 456 7890"
    - case:
        name: Case-Sensitive Forms
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "¿Qué? (Cap-1/2) [3] {4}"
    - onum:
        name: Oldstyle Figures
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "€1.420,99 67% + 2 ⅝ inches"
    - lnum:
        name: Lining Figures
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "$9,087,125.00 31% + 5 ⅔ inches"         
    - pnum:
        name: Proportional Figures
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "€1.420,99 67% + 2 ⅝ inches"
    - tnum:
        name: Tabular Figures
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "$9,087,125.00 31% + 5 ⅔ inches"
    - frac:
        name: Fractions
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "12345/67890"
    - zero:
        name: Slashed Zero
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "¥6.000.000"
    - sinf:
        name: Superscript
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "1234567890"  
    - numr:
        name: Numerators
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "5 Footnote: 1234567890"
    - dnom:
        name: Denominators
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "1234567890"
    - sinf:
        name: Scientific Inferiors
-       fontStyle: FC Bol Sans
+       fontStyle: FC Bol Circle Regular
        examples:
          - "1234567890"  
 
@@ -225,7 +226,7 @@ testers:
         Las nubes estratiformes son comunes en muchas regiones del mundo, especialmente en áreas donde la atmósfera se mantiene estable y la humedad es alta. Aunque no suelen traer tormentas intensas, las nubes estratiformes son responsables de períodos prolongados de tiempo nublado y lluvias suaves. Este tipo de nubes es más común en los meses de otoño e invierno, cuando las condiciones atmosféricas son más propensas a la formación de capas de nubes estables.
 
         En resumen, las nubes estratiformes son un fenómeno meteorológico importante que influye en las condiciones climáticas locales, proporcionando nublados constantes y lluvias ligeras que afectan el tiempo en las regiones donde se forman.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 200
       fontVariations:
             - sizx: 2.0 
@@ -257,7 +258,7 @@ testers:
         Τα Αλτοκουμuluς σύννεφα αποτελούνται από σταγόνες νερού ή κρυστάλλους πάγου, και η πυκνότητά τους εξαρτάται από τη θερμοκρασία και την υγρασία στην ατμόσφαιρα. Σε ορισμένες περιπτώσεις, τα Αλτοκουμuluς σύννεφα μπορούν να φέρουν ελαφριά βροχή ή χιονόνερο, αλλά γενικά η βροχόπτωση είναι ελαφριά και βραχύβια.
 
         Παρά την ήπια φύση τους, τα Αλτοκουμuluς σύννεφα είναι όμορφα και εντυπωσιακά, προσφέροντας μια απαλή και γραφική εμφάνιση στον ουρανό. Οι αλλαγές στη μορφή τους μπορούν να μας δώσουν ενδείξεις για τον καιρό που πλησιάζει, καθιστώντας τα ένα χρήσιμο εργαλείο για τη μελέτη των καιρικών φαινομένων.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 40
       fontVariations:
             - sizx: 1.0 
@@ -281,7 +282,7 @@ testers:
         Though beautiful to observe, cirrus clouds are not typically associated with severe weather. They form when moist air rises and cools at high altitudes, causing water vapor to freeze into ice crystals. These clouds are often seen in the early stages of storms, as they appear long before more substantial cloud systems, such as nimbostratus or cumulonimbus clouds, take shape.
 
         In addition to their role in weather prediction, cirrus clouds are an important part of Earth's energy balance. They can both trap heat in the atmosphere and reflect sunlight, affecting the global climate in subtle ways. Thus, cirrus clouds, though small in size, are integral to the intricate processes that govern Earth's weather and climate.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 180
       fontVariations:
             - sizx: 0.2
@@ -311,7 +312,7 @@ testers:
         Ці хмари формуються через конвекцію, коли тепле повітря піднімається вгору, охолоджується, і водяна пара конденсується, утворюючи водяні краплі. Кумулятивні хмари зазвичай не приносять дощу, але можуть бути першими ознаками більш серйозних погодних змін. Якщо кумулятивні хмари зростають вгору і набувають більш густого вигляду, вони можуть перетворитися на грозові хмари — кумулонімбуси, які приносять сильні дощі, грози і навіть град.
 
         Кумулятивні хмари часто стають чудовим об'єктом для спостережень, особливо в ясний день, коли вони створюють яскраві контрасти на фоні синього неба. Їх популярний образ у природі та мистецтві символізує спокійну, безтурботну погоду. Ці хмари не лише милують око, але й є важливим індикатором атмосферних процесів, що відбуваються на земній поверхні.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 80
       fontVariations:
             - sizx: 1.0 
@@ -335,7 +336,7 @@ testers:
         Et av kjennetegnene ved Nimbostratus-skyer er deres evne til å dekke store områder av himmelen, og de gir et inntrykk av at været er stabilt og ugunstig i lengre tid. Nedbøren som følger med disse skyene er vanligvis lett til moderat, men kan vedvare i flere timer eller til og med dager. På grunn av den jevne og langvarige nedbøren er Nimbostratus-skyer ofte et tegn på at været vil være grått og overskyet i lengre tid.
 
         Disse skyene er viktige for landbruket, da de gir den typen jevn og forsiktig nedbør som er gunstig for plantevekst. På den annen side kan de også være et hinder for friluftsliv og soling, da de dekker solens lys fullstendig.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 200
       fontVariations:
             - sizx: 2.0 
@@ -365,7 +366,7 @@ testers:
         Ezek a felhők a légkör közepes magasságaiban képződnek, ahol a levegő viszonylag stabil, de még elég nedvességet tartalmaz ahhoz, hogy kondenzációt eredményezzen. Az altokumulusz felhők előfordulása gyakran annak a jele, hogy egy időjárási front közeledik, amely esetleg esőt, havat vagy más csapadékkal kapcsolatos jelenségeket hozhat. Ha az altokumulusz felhők sűrűsödnek vagy növekednek, akkor egy erősebb légköri zűrzavart jelezhetnek, mint például egy esőfrontot.
 
         Bár az altokumulusz felhők nem általában veszélyesek, mégis fontos szerepet játszanak az időjárás előrejelzésében. Ezek a felhők képesek jelezni a változó időjárást, mint például eső, szél vagy más légköri jelenségek. Az altokumuluszok gyakran az égbolt festői látványát nyújtják, szépen szétterjedve az égen, amelyek nemcsak meteorológiai jelentőséggel bírnak, hanem esztétikai élményt is nyújtanak.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 40
       fontVariations:
             - sizx: 1.3 
@@ -389,7 +390,7 @@ testers:
         Els cúmuls nimbus són també responsables de canvis meteorològics sobtats. A mesura que s'intensifiquen, poden alliberar grans quantitats d’aigua, donant lloc a pluges fortes que poden provocar inundacions. El seu caràcter imprevisible fa que aquests núvols siguin un dels principals focus d’estudi per als meteoròlegs. Malgrat la seva bellesa, els cúmuls nimbus són un recordatori del poder destructiu de la natura, i la seva presència al cel és sovint un presagi de condicions perilloses a la superfície.
 
         En resum, els cúmuls nimbus són núvols massius i impressionants que marquen la intensitat dels fenòmens meteorològics, i la seva formació i comportament són essencials per entendre el clima dinàmic del nostre planeta.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 180
       fontVariations:
             - sizx: 2.0 
@@ -414,7 +415,7 @@ testers:
 
         Mây Pyrocumulus là một hiện tượng đặc biệt hiếm gặp, thường chỉ thấy ở những khu vực có hoạt động địa chất mạnh hoặc khí hậu khô nóng dễ xảy ra cháy rừng. Chúng phản ánh mối liên hệ trực tiếp giữa các hiện tượng khí tượng và hoạt động bề mặt Trái Đất, đồng thời cho thấy mức độ tác động của thiên nhiên và con người đến khí quyển.
 
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 70
       fontVariations:
             - sizx: 1.0 
@@ -438,7 +439,7 @@ testers:
         Obwohl Stratocumuluswolken nicht mit schweren Stürmen verbunden sind, können sie die Sonne vollständig verdecken und somit für eine graue, trübe Atmosphäre sorgen. In einigen Fällen, wenn sie sich verdicken oder größere Ausdehnung erreichen, können sie intensiveren Regen oder sogar Gewitter hervorrufen. Jedoch bleibt die Niederschlagsmenge in der Regel im Vergleich zu anderen Wolkenarten wie den Cumulonimbuswolken relativ gering.
 
         Stratocumuluswolken sind häufig und können in vielen verschiedenen Klimazonen weltweit auftreten. Sie sind ein wichtiger Bestandteil des Wettergeschehens, da sie den Übergang zwischen stabilen und instabilen atmosphärischen Bedingungen darstellen. Ihr Erscheinen am Himmel kann auf Veränderungen im Wetter hinweisen, auch wenn sie selbst nicht zu extremen Wetterereignissen führen.
-      fontStyle: FC Bol Sans
+      fontStyle: FC Bol Circle Regular
       fontSize: 120
       fontVariations:
             - sizx: 0.35 
@@ -455,19 +456,17 @@ testers:
             #Range 40-100-200
 
 about:
-    - lottie: FC-Bol_Research_10.json
-#      video: Bol_Information.mp4
-#      controls: true
+    - video: Bol_Information.mp4
       text: |
-        What if letters could stretch, drift, distort and evaporate into pixels? FC Bol explores this question, transforming typography from a static form into a system only limited by your imagination.
+        What if letters could stretch, drift, distort and evaporate into pixels? *FC Bol* explores this question, transforming typography from a static form into a system only limited by your imagination.
 
-        The project began in 2014, when Dries Wiewauters designed a cloud-inspired letter A for a friend's birth announcement. Years later in 2018, the emergence of variable fonts sparked a new idea: what if the individual elements of a letter could change shape, move and disperse in response to interaction?
+        The project began in 2014, when [Dries Wiewauters](https://drieswiewauters.eu/) designed a cloud-inspired letter A for a friend’s birth announcement. Years later in 2018, the emergence of variable fonts sparked a new idea: what if the individual elements of a letter could change shape, move and disperse in response to interaction?
 
-        Using Python, FC Bol reverses the conventional variable font workflow. Rather than drawing multiple master styles, a single source becomes the foundation for a system that generates variations. Six axes control the shape, size, width, slant and dispersion of the elements, transforming 1,136 glyphs across 1,296 masters.
+        Using [Python](https://www.python.org/doc/essays/blurb/), *FC Bol* reverses the conventional variable font workflow. Rather than drawing multiple master styles, a single source becomes the foundation for a system that generates variations. Six axes control the shape, size, width, slant and dispersion of the elements, transforming *1,167 glyphs* across *1,296 masters*.
 
-        The result is a typeface that canmove from legibility to visual chaos when needed. Elements can stretch into glitchy textures, slant like trees fighting a storm, or shrink and scatter until letters appear to evaporate.
+        The result is a typeface that can move from legibility to visual chaos when needed. Elements can stretch into glitchy textures, slant like trees fighting a storm, or shrink and scatter until letters appear to evaporate.
 
-        More than a collection of styles, FC Bol is a generative instrument for web and motion graphics. You push some sliders and explore the possibilities. In line with this idea of experimentation we decided to heavily discount the lower tiers of this font ranging from 25% to 80%!
+        More than a collection of styles, *FC Bol* is a generative instrument for web and motion graphics. You push some sliders and explore the possibilities. In line with this idea of experimentation we decided to heavily discount the lower tiers of this font ranging from *25%* to *80%!
 
 research: |
 
@@ -483,15 +482,17 @@ research: |
 
     ## It begins with a birth announcement.
 
-    In 2014 a friend of [Dries Wiewauters](https://drieswiewauters.eu/) invited a small group of designers and artists to contribute a letter for the announcement of his first child. Dries was given the letter A. He began thinking about clouds, about looking upwards, about the future and the almost limitless possibilities that lie ahead. What might a letter look like if it could contain a little of this uncertainty? Several proposals emerged, many of them built around a circular element. In the end, it was the cloud-like “A” that was selected.
+    In 2014 a friend of [Dries Wiewauters](https://drieswiewauters.eu/) invited a small group of designers and artists to contribute a letter for the announcement of his first child. [Dries](https://drieswiewauters.eu/) was given the letter A. He began thinking about clouds, about looking upwards, about the future and the almost limitless possibilities that lie ahead. What might a letter look like if it could contain a little of this uncertainty? Several proposals emerged, many of them built around a circular element. In the end, it was the cloud-like “A” that was selected.
 
-    But some ideas have a life beyond their original occasion.
+    &nbsp;
 
-    A few years later, as variable fonts began to find their place in the design landscape, Dries returned to the unused drawings. This time, the question was no longer simply what a letter might look like, but what it might do.
+    ## Some ideas have a life beyond their original application.
 
-    What if the circular elements could change shape? What if they could grow or shrink, drift across the page, or dissolve altogether? And what if these transformations could happen in real time, responding to the movement of the cursor as somebody navigates content on a website? A headline might begin to fog, its components scattering in different directions before fading into tiny pixels.
+    A few years later, as variable fonts began to find their place in the design landscape, [Dries](https://drieswiewauters.eu/) returned to the unused drawings. This time, the question was no longer simply what a letter might look like, *but what it might morph into*.
 
-    The typeface became a laboratory. Variable typography was no longer confined to familiar parameters such as *weight* and *width*, nor to the *addition of serifs* to a sans serif. It became a space in which letters could be understood as events: forms that appear, transform, disperse and reassemble.
+    What if the circular elements could *change shape*? What if they could *grow* or *shrink*, *drift across the page*, or *dissolve altogether*? And what if these transformations could happen in real time, responding to the movement of the cursor as somebody navigates content on a website? A headline might begin to fog, its components scattering in different directions before fading into tiny pixels.
+
+    The typeface became a laboratory. Variable typography was no longer confined to familiar parameters such as *weight* and *width*, nor to the *addition of serifs* to a *sans serif*. It became a space in which letters could be understood as events: *forms that appear, transform, disperse and reassemble*.
 
       </div>
     </div>
@@ -506,7 +507,7 @@ research: |
 
     ## What happens when typography stops behaving like typography?
 
-    This question soon led to another, more fundamental one: how much freedom can be given to the individual elements of a letter without losing the letter itself?
+    This question soon led to another, more fundamental one: *how much freedom can be given to the individual elements of a letter without losing the readability*?
 
     In the first version, shown in grey, the glyphs were closely bound to a grid. The constraint was useful for maintaining a coherent system, but it also introduced a problem. Curves and angled stems became difficult to read. The solution was not to abandon the grid altogether, but to negotiate with it. Straight lines remained largely constrained, while angled lines were allowed to move horizontally when necessary.
 
@@ -518,7 +519,7 @@ research: |
 
     ## An Unreleased Experiment
 
-    The first version of FC Bol was never released. At the time, Dries was publishing his typefaces through Colophon Foundry, but technical limitations prevented the foundry from displaying variable fonts on its website. The glyph set was completed in 2018, yet the necessary functionality remained unavailable until 2024. By then, the institutional context had changed, and the project remained unpublished.
+    The first version of *FC Bol* was never released. At the time, Dries was publishing his typefaces through [Colophon Foundry](https://colophon-foundry.github.io/fontview/bol/), but technical limitations prevented the foundry from displaying variable fonts on its website. The glyph set was completed in 2018, yet the necessary functionality remained unavailable until 2024. By then, the institutional context had changed, and the project remained unpublished.
 
       </div>
     </div>
@@ -533,7 +534,7 @@ research: |
 
     ## Sometimes a project has to wait for its tools to catch up with its imagination.
 
-    When the idea of reviving FC Bol resurfaced, Frederik proposed a different approach to its construction. The original version relied on manipulating the coordinates of individual elements through XML. By moving these operations into the font compilation process and using Python, the team could open the system to a much wider field of experimentation, while making the process more reliable and repeatable.
+    When the idea of reviving *FC Bol* resurfaced, [Frederik Berlaen](https://typemytype.com/) proposed a different approach to its construction. The original version relied on manipulating the coordinates of individual elements through XML. By moving these operations into the font compilation process and using [Python](https://www.python.org/doc/essays/blurb/), the team could open the system to a much wider field of experimentation, while making the process more reliable and repeatable.
 
     This change was more than a technical improvement. It altered the way the typeface could be conceived.
 
@@ -543,7 +544,7 @@ research: |
 
     ## FC Bol proposes a reversal.
 
-    As in FC Filter, another Python-driven type project, the process begins with a single master, a UFO, or Unified Font Object. Rather than drawing every possible variation, the team develops a system that generates them. Python transforms the skeleton of a letter in *FC Filter*, or the coordinates of individual elements in *FC Bol*, producing shapes that would be extraordinarily time-consuming to construct through a conventional drawing workflow.
+    As in [FC Filter](https://fontclubbelgica.com/typefaces/filter/), another Python-driven type project, the process begins with a single master, a [UFO](https://unifiedfontobject.org/), or [Unified Font Object](https://unifiedfontobject.org/). Rather than drawing every possible variation, the team develops a system that generates them. *Python* transforms the skeleton of a letter in [FC Filter](https://fontclubbelgica.com/typefaces/filter/), or the coordinates of individual elements in *FC Bol*, producing shapes that would be extraordinarily time-consuming to construct through a conventional drawing workflow.
 
     The designer no longer has to anticipate every possible outcome. Instead, the designer establishes a set of rules and allows the system to explore the territory they define.
 
@@ -562,11 +563,11 @@ research: |
 
     ## Six Axes of possibility 
 
-    In FC Bol, the experiment extends beyond the position of the elements. Their shape, size and proportions can also change, independently along the horizontal and vertical axes. The typeface becomes a synthesizer in which several parameters interact, producing combinations that range from the geometric to the glitch-like, from the recognisable to the almost evaporated.
+    In *FC Bol*, the experiment extends beyond the position of the elements. Their shape, size and proportions can also change, independently along the horizontal and vertical axes. The typeface becomes a synthesizer in which several parameters interact, producing combinations that range from the geometric to the glitch-like, from the recognisable to the almost evaporated.
 
-    Remarkably, the entire design process is contained within just two UFO files: one holding the glyphs, the other defining the animation of the elements. Behind this apparently compact arrangement lies a considerable computational landscape.
+    Remarkably, the entire design process is contained within just two *UFO* files: one holding the glyphs, the other defining the animation of the elements. Behind this apparently compact arrangement lies a considerable computational landscape.
 
-    The typeface contains 1,136 glyphs, including support for Greek, Cyrillic and Vietnamese. The system generates 1,296 masters, each representing a particular combination of six axes of variation.
+    The typeface contains *1,167 glyphs*, including support for *Greek*, *Cyrillic* and *Vietnamese*. The system generates *1,296 masters*, each representing a particular combination of *six axes of variation*.
 
       </div>
     </div>
@@ -574,18 +575,22 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](FC-Bol_Research_5.svg)
+    <video autoplay muted loop playsinline>
+        <source src="FC-Bol_Research_5.mp4" type="video/mp4">
+    </video>
 
       </div>
       <div markdown="1">
 
-    Eight masters control the form of the element, moving from glitchy to geometric. Three masters govern its horizontal size, from nonexistent to 100% and 200%. Another three do the same vertically. Three more control the width of the font, from radically compressed through condensed to expanded. Three control the slant, from −45 degrees through upright to +45 degrees. Finally, two masters define the transition from structured to chaotic, almost evaporated.
+    ## Mesh, Cross, Fence, Diamond, Star, Square, Circle & Sails
 
-    The calculation is straightforward: 8 × 3 × 3 × 3 × 3 × 2 = 1,296 masters.
+    *Eight interpolatable layers* control the form of the element, moving from glitchy to geometric. *Three masters* govern its *horizontal size*, from nonexistent to 100% and 200%. Another three do the same *vertically*. Three more control the *width* of the font, from *radically compressed* through *condensed* to *expanded*. Three control the *slant*, from *−45 degrees* through *upright* to *+45 degrees*. Finally, two masters define the transition from *structured* to *chaotic*, almost *evaporated*.
+
+    The calculation is straightforward: *8 × 3 × 3 × 3 × 3 × 2 = 1,296 masters*.
 
     Yet the number is not simply a measure of technical complexity. It describes the scale of the space that the typeface is able to explore. Each axis introduces a different kind of movement; together, they allow these movements to combine into forms that cannot easily be predicted in advance, hence the idea that this is more of a type synthesizer than a font in the classic sense.
 
-    More axes could have been added, extending the system into even more elaborate animations. For the first version, however, the decision was to concentrate on exaggerated extremes. The intention was not to provide every conceivable variation, but to make the available ones sufficiently expressive. The original font file weighed 94 MB and contained 1,472,256 glyphs. Through optimisation, its size was reduced to roughly a third, while preserving all six axes and the extensive language support.
+    More axes could have been added, extending the system into even more elaborate animations. For the first version, however, the decision was to concentrate on exaggerated extremes. The intention was not to provide every conceivable variation, but to make the available ones sufficiently expressive. The original font file weighed 94 MB and contained 1,512,432 glyphs. Through optimisation, its size was halved, while preserving all *six axes* and the *extensive language support*.
 
       </div>
     </div>
@@ -593,14 +598,16 @@ research: |
     <div markdown="1">
       <div markdown="1">
  
-    ![](FC-Bol_Research_6.svg)
+    <video autoplay muted loop playsinline>
+        <source src="FC-Bol_Research_6.mp4" type="video/mp4">
+    </video>
 
       </div>
       <div markdown="1">
 
     ## Distortion as a Design Tool
 
-    Consider the sizing of the elements. By separating horizontal and vertical control, FC Bol allows them to be stretched, compressed or distorted in ways that go beyond ordinary scaling. Their proportions can shift, producing striations and layered effects. An element can become almost imperceptible or expand into an exaggerated form. Several layers can be combined to create concentric patterns, or pushed further towards visual chaos.
+    Consider the sizing of the elements. By separating horizontal and vertical control, *FC Bol* allows them to be stretched, compressed or distorted in ways that go beyond ordinary scaling. Their proportions can shift, producing striations and layered effects. An element can become almost imperceptible or expand into an exaggerated form. Several layers can be combined to create concentric patterns, or pushed further towards visual chaos.
 
     The distinction between horizontal and vertical movement becomes important here. An element is no longer obliged to preserve its proportions. It can be stretched in one direction while remaining compressed in the other, opening up a vocabulary of shapes that sits somewhere between typography, texture and image-making.
 
@@ -610,14 +617,16 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](FC-Bol_Research_7.svg)
+    <video autoplay muted loop playsinline>
+        <source src="FC-Bol_Research_7.mp4" type="video/mp4">
+    </video>
 
       </div>
       <div markdown="1">
 
     ## The fourth axis introduces a different kind of transformation: width.
 
-    Although the standard glyphs are already condensed, they can be compressed further, beyond any practical notion of readability, or expanded to accommodate the particular demands of a medium. Here, a familiar typographic parameter becomes an invitation to test its limits. How narrow can a letter become before it ceases to function as a letter? And what happens when the width is no longer determined primarily by the need to fit words into a line, but by the visual possibilities of the space around them?
+    Although the standard glyphs are already condensed, they can be compressed further, beyond any practical notion of readability, or expanded to accommodate the particular demands of a medium. Here, a familiar typographic parameter becomes an invitation to test its limits. *How narrow can a letter become before it ceases to function as a letter?* And what happens when the width is no longer determined primarily by the need to fit words into a line, but by the visual possibilities of the space around them?
 
     There is a productive tension between economy and excess. The system is built from two source files, yet it can generate an enormous number of possibilities. Its underlying structure is compact; its visible behaviour can be anything but.
 
@@ -627,18 +636,20 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](FC-Bol_Research_8.svg)
+    <video autoplay muted loop playsinline>
+        <source src="FC-Bol_Research_8.mp4" type="video/mp4">
+    </video>
 
       </div>
       <div markdown="1">
 
-    The fifth axis controls slant, but again the intention is to move beyond the comfortable and the useful.
+    ## The fifth axis controls slant
 
-    A conventional italic or oblique typeface tends to operate within a relatively restrained range. For FC Bol, the question is different: if slant is a parameter, why not amplify it? Why stop at the familiar ten, when the scale could go to eleven, or further?
+    But again the intention is to move beyond the comfortable and the useful. A conventional italic or oblique typeface tends to operate within a relatively restrained range. For *FC Bol*, the question is different: *if slant is a parameter, why not amplify it? Why stop at the familiar ten, when the scale could go to eleven, or further?*
 
-    The axis allows movement from a backward slant of −45 degrees, through upright, to a forward slant of +45 degrees. For a more conventional application, one might stay within the familiar range of 9 to 12 degrees. An avant-garde treatment might push towards 15 degrees. But FC Bol makes it possible to venture much further, into angles that are less about typographic convention than about the sensation of movement itself.
+    The axis allows movement from a backward slant of *−45 degrees*, through *upright*, to a forward slant of *+45 degrees*. For a more conventional application, one might stay within the familiar range of *9* to *12* degrees. An avant-garde treatment might push towards *15* degrees. But *FC Bol* makes it possible to venture much further, into angles that are less about typographic convention than about the sensation of movement itself.
 
-    There is another distinction. A conventional slant generally translates the letterforms linearly. In FC Bol, the effect is exponential: the further an element sits from the baseline, the more strongly it is affected. The result recalls the clouds that inspired the original A, as if the elements were being caught by a gust of wind and carried into an oblique space.
+    *There is another distinction.* A conventional slant generally translates the letterforms linearly. In *FC Bol*, the effect is exponential: the further an element sits from the baseline, the more strongly it is affected. The result recalls the clouds that inspired the original *A*, as if the elements were being caught by a gust of wind and carried into an oblique space.
 
     Even the direction of that movement contains a surprise. Below the baseline, the elements are blown in the opposite direction. Given the short descenders of many glyphs, this behaviour can remain almost hidden. It is an Easter egg within the system, a detail that may not be noticed immediately but gives the typeface a quality beyond what one might expect from a mathematical transformation.
 
@@ -650,16 +661,18 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    ![](FC-Bol_Research_9.svg)
+    <video autoplay muted loop playsinline>
+        <source src="FC-Bol_Research_9.mp4" type="video/mp4">
+    </video>
 
       </div>
       <div markdown="1">
 
     ## From Structure to Evaporation
 
-    The sixth and final axis disperses the elements, bringing the experiment back to one of its original impulses: the possibility that a letter might dissolve.
+    The *sixth and final axis* disperses the elements, bringing the experiment back to one of its original impulses: the possibility that a letter might dissolve.
 
-    In more restrained combinations, particularly when used with the rounded elements, dispersion can produce textures reminiscent of Risograph printing, with layers of shapes accumulating into a tactile, almost printed surface. Pushed to an extreme and combined with shrinking elements, it creates a different sensation altogether. The letters appear to lose their substance, as if moisture were evaporating from the page.
+    In more restrained combinations, particularly when used with the rounded elements, dispersion can produce textures reminiscent of risograph printing, with layers of shapes accumulating into a tactile, almost printed surface. Pushed to an extreme and combined with shrinking elements, it creates a different sensation altogether. The letters appear to lose their substance, as if moisture were evaporating from the page.
 
     This is where the initial cloud returns, no longer simply as the inspiration for a letterform but as a model for the behaviour of the typeface itself. Elements separate, become smaller and drift away. What was once a solid arrangement begins to disperse into something less tangible.
 
@@ -673,14 +686,16 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-    <div class="lottie" data-lottie="FC-Bol_Research_10.json"></div>
+    <video autoplay muted loop playsinline>
+        <source src="FC-Bol_Research_10.mp4" type="video/mp4">
+    </video>
 
       </div>
       <div markdown="1">
 
     ## The Typeface as an Event
 
-    FC Bol begins with a cloud, but it does not end there. Between the first hand-drawn A and the eventual variable font lies a shift in the understanding of what a typeface can be.
+    *FC Bol* begins with a cloud, but it does not end there. Between the first hand-drawn *A* and the eventual variable font lies a shift in the understanding of what a typeface can be.
 
     A letter is usually encountered as a stable shape, repeated across different contexts. Even when its weight, width or slant changes, its identity remains relatively secure. FC Bol places this stability under pressure. It treats the letter as a collection of elements whose relationships can be continuously altered, whose positions can be recalculated and whose forms can move towards disappearance.
 
@@ -690,7 +705,7 @@ research: |
 
     Perhaps this is the most interesting aspect of FC Bol: not the sheer number of forms it can produce, but the change in authorship that makes those forms possible. The designer establishes the conditions. The code creates the relationships. The variable font opens up the space between them.
 
-    And somewhere in that space, a letter can begin to evaporate.
+    *And somewhere in that space, a letter can begin to evaporate.*
 
     What began as a small experiment in imagining the future of a newborn child has become an investigation into the future of typography itself: a typeface that does not simply offer a choice between styles, but allows the very elements from which letters are made to enter into motion.
 
