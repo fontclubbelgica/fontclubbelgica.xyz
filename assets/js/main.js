@@ -204,6 +204,11 @@ document.addEventListener('DOMContentLoaded', function() {
 			container.appendChild(e)
 
 			element.appendChild(container)
+
+			// position the fixed popup under the glyph and keep it inside the window
+			const glyphRect = element.getBoundingClientRect()
+			const top = Math.max(10, Math.min(glyphRect.bottom, window.innerHeight - container.offsetHeight - 10))
+			container.style.setProperty('--popup-top', top + 'px')
 		})
 		element.addEventListener("mouseleave", (event) => {
 			container = element.lastElementChild

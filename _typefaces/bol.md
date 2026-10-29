@@ -456,8 +456,10 @@ testers:
 
 about:
     - lottie: FC-Bol_Research_10.json
-#      video: Bol_Information.mp4
-#      controls: true
+      # Use an mp4 instead of the lottie: replace the line above with "- video: Bol_Information.mp4".
+      # Add "controls: true" to show play/pause and volume controls.
+      # - video: Bol_Information.mp4
+      #   controls: true
       text: |
         What if letters could stretch, drift, distort and evaporate into pixels? FC Bol explores this question, transforming typography from a static form into a system only limited by your imagination.
 
@@ -674,6 +676,10 @@ research: |
       <div markdown="1">
 
     <div class="lottie" data-lottie="FC-Bol_Research_10.json"></div>
+
+    <!-- To use an mp4 instead of the lottie, replace the line above with:
+    <video autoplay muted loop playsinline preload="metadata"><source src="Bol_Information.mp4" type="video/mp4"></video>
+    -->
 
       </div>
       <div markdown="1">
