@@ -748,7 +748,6 @@ section.research {
     padding-left: var(--padding);
     padding-right: var(--padding);
     video {
-      max-width:100%;
       display: block;
       width: 100%;
       max-width: 100%;
@@ -1153,8 +1152,6 @@ section.details>div {
     pointer-events: none;
     // transition: opacity .3s;
     z-index: 9;
-    left: calc(50% - 150px);
-    position: absolute;
     // fixed, so the collapsed glyph sheet (overflow: hidden) doesn't cut it off; top is set in main.js
     left: 50%;
     top: var(--popup-top, 0);
