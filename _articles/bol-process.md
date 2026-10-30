@@ -8,7 +8,7 @@ tags:
 featuredImage: FCB_Article_Splash_Bol.svg
 thumbnailImage: FCB_ANR_Bol.svg
 
-draft: false
+draft: true
 
 seo_description: |
     Discover why custom fonts matter—how bespoke type elevates branding, cuts licensing costs, and helps your brand stand out with lasting visual impact.
