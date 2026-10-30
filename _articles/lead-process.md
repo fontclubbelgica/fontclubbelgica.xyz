@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2026-08-20
+date: 2026-10-29
 type: article
 tags:
   - lead
