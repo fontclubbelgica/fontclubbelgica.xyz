@@ -798,9 +798,11 @@ research: |
 
     There is a certain tension within every typeface, a push and pull between form and function, history and innovation, precision and expression. Nib embodies this tension more than most. Like the dual nature of Dr. Jekyll and Mr. Hyde, Nib exists in a state of duality—seamlessly blending seemingly opposing design forces. It is both disciplined and free, chiseled and hand-drawn, restrained yet full of character.
 
-    This duality isn’t accidental. At the heart of Nib’s design is a dialogue between two distinct traditions: the sharp, sculptural quality of chiseled forms and the fluid, humanistic movement of letters drawn by hand with a pen. By marrying these opposing aesthetics, Nib captures a sense of controlled spontaneity—a typeface that wears two faces, each revealing a different aspect of its character depending on its application.
+    This duality isn’t accidental. At the heart of Nib’s design is a dialogue between two distinct traditions: the sharp, sculptural quality of chiseled forms and the fluid, humanistic movement of letters drawn by hand with a pen. By marrying these opposing aesthetics, Nib captures a sense of controlled spontaneity—a typeface that wears two faces, each revealing a different aspect of its character depending on its application.   
 
-    ## Jekyll and Hyde: The Dual Nature of Nib
+    &nbsp;
+
+    ## Jekyll and Hyde: the dual nature of Nib
 
     The duality of Dr. Jekyll and Mr. Hyde, Robert Louis Stevenson’s timeless tale of a man split between two personas, provides a fitting metaphor for Nib. Just as Jekyll represents the restrained, moral side, and Hyde embodies the raw, unbridled self, Nib offers a split personality: the sharp, mechanical precision of a chisel meeting the fluidity and warmth of the pen. One would assume this to be a a constructed marriage, but it was actually found on a chiseled poem in a quaint Danish church.
 
@@ -821,7 +823,7 @@ research: |
       </div>
       <div markdown="1">
 
-    ## The Fusion of Chisel and Pen
+    ## The fusion of chisel and pen
 
     To fully appreciate Nib’s design, we must explore the two traditions it draws from: the chiseled forms of stone and metal engraving,and the fluidity of letters drawn with a pen.
 
@@ -842,7 +844,7 @@ research: |
       </div>
       <div markdown="1">
 
-    ## A Typeface for the Modern Age
+    ## A typeface for the modern age
 
     Nib’s ability to navigate between these two extremes makes it uniquely suited for the demands of contemporary design. In today’s world, where the digital and the handmade often overlap, Nib finds itself perfectly at home. Its chiseled precision lends it an air of authority, making it ideal for editorial headlines, branding, and signage where clarity and impact are paramount. Yet its subtle pen-like qualities ensure that it never feels cold or mechanical, making it equally effective in text-heavy settings where readability and warmth are essential.
 
@@ -859,15 +861,17 @@ research: |
       </div>
       <div markdown="1">
 
-    ## Duality as a Design Principle
+    ## Duality as a design principle
 
     The duality at the heart of Nib reflects a broader design principle that resonates deeply in the world of typography: the balance between control and expression. Great typefaces often walk this line, offering both precision and personality, structure and freedom. Nib exemplifies this balance, inviting us to consider how these opposing forces can come together to create something greater than the sum of its parts.
 
     In this sense, Nib is not just a typeface—it is a study in the power of contrasts. It reminds us that even in design, where clarity and function are key, there is room for subtlety and nuance. The sharp can coexist with the soft, the mechanical with the human, the chiseled with the pen-drawn. This is the essence of Nib’s design, and what makes it a typeface that stands out in an increasingly homogenous typographic landscape.
 
     This duality was the brief during its development, as it was originally developed as a custom typeface for the MSK, the Museum of Fine Arts in Ghent, Belgium. After their period of exclusivity, the privilege of using it has now been opened up for the masses.
+    
+    &nbsp;
 
-    ## Nib: A Typeface for Both Sides of the Coin
+    ## Nib: a typeface for both sides of the coin
 
     In Nib, Dries Wiewauters has created a typeface that speaks to both sides of the design coin. Like Jekyll and Hyde, Nib lives in two worlds at once, its chiseled structure providing strength and clarity, while its pen-drawn elements offer warmth and humanity. This duality allows Nib to transcend the limitations of style, making it a typeface that is as versatile as it is distinctive.
 

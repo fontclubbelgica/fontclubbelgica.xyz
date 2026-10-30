@@ -98,6 +98,11 @@ img {
     width: 100%;
     height: auto;
     display: block;
+    border-radius: 12px;
+}
+
+img.featuredImage {
+    border-radius: 0;
 }
 
 body {
@@ -188,7 +193,7 @@ header {
         }
         &.font-menu {
             text-align: center;
-            h2 {
+            h1, h2 {
                 a {
                     font-size: 16px;
                     text-transform: uppercase;
@@ -365,6 +370,7 @@ figcaption {
                     left: 6px;
                 }
             }
+
         }
     }
     &:hover >  form {
@@ -432,7 +438,27 @@ figcaption {
                 line-height: 30px;
                 vertical-align: middle;
             }
+
+            .fontVariation-reset {
+                font-size:80%;
+
+                display: inline-block;
+                user-select: none;
+                -webkit-user-select: none;
+                cursor: pointer;
+                background-color: white;
+                border: 1px solid rgb(194,194,194);
+                border-radius: 22px;
+                padding: 6px 10px 4px 10px;
+                margin: 0px;
+
+                &:hover {
+                    background-color: var(--gray);
+                }
+            }
+
         }
+
     }
     &:hover >  form {
         display: table;
@@ -442,6 +468,8 @@ figcaption {
         display: table;
     }
 }
+
+
 
 input[type=range] {
   height: 20px;
@@ -567,6 +595,7 @@ section.hero {
         align-items: center;
     }
     img {
+        border-radius:0;
         object-fit: cover;
         object-position: center center;
         min-width: 100%;
@@ -626,6 +655,18 @@ section.about {
 
     figure {
         padding-bottom: 20px;
+
+        video {
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+
+        .lottie {
+            display: block;
+            width: 100%;
+        }
+
         &.small {
             max-width: 520px;
             margin: 0 auto;
@@ -707,7 +748,13 @@ section.research {
     padding-left: var(--padding);
     padding-right: var(--padding);
     video {
-      max-width:100%;
+      display: block;
+      width: 100%;
+      max-width: 100%;
+    }
+    .lottie {
+      display: block;
+      width: 100%;
     }
     a {
       text-decoration: underline;
@@ -747,7 +794,7 @@ section.research {
       padding-bottom: 24px;
     }
     img+img,em+img{
-       padding-top: 30px;
+        margin-top: 30px;
     }
     img+em{
       font-size: 10px;
@@ -759,7 +806,7 @@ section.research {
     p+p {
         text-indent: 33px;
         img {
-        padding-top: 30px;
+        margin-top: 30px;
         }
     }
     p
@@ -800,7 +847,7 @@ section.research {
       column-gap: 60px;
       row-gap: 20px;
       img {
-        padding-bottom: 7px;
+        margin-bottom: 7px;
       }
       h2 {
         font-size: 24px;
@@ -1105,8 +1152,10 @@ section.details>div {
     pointer-events: none;
     // transition: opacity .3s;
     z-index: 9;
-    left: calc(50% - 150px);
-    position: absolute;
+    // fixed, so the collapsed glyph sheet (overflow: hidden) doesn't cut it off; top is set in main.js
+    left: 50%;
+    top: var(--popup-top, 0);
+    position: fixed;
     transform: translateX(-50%);
     background-color: white;
     border-radius: 18px;
@@ -1759,7 +1808,7 @@ body.index {
   @media(max-width: 600px) {
     margin-top: 60px;
   }
-  h2 {
+  h1 {
     font-family: 'FCBELGICA Condensed';
     font-weight: 120;
     font-size: 37px;
@@ -1773,7 +1822,6 @@ body.index {
     margin-left: 2px;
     top: 29px;
     padding: 0 var(--padding);
-
 
     @media(max-width: 600px) {
       font-size: 25px;

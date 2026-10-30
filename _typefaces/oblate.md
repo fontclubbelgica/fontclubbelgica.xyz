@@ -5,7 +5,7 @@ title: FC Oblate
 draft: true
 
 seo_description: |
-    FC Bol is a display typeface that is perfect for animations and other experimantal usage. It's elements can be allowed to dance at will.
+    FC Bol is a display typeface that is perfect for animations and other experimental usage. Its elements can be allowed to dance at will.
 seo_image: FCB_SEO_Oblate.jpg
 
 information: |

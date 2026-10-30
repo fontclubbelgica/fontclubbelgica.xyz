@@ -474,9 +474,7 @@ research: |
     <div markdown="1">
       <div markdown="1">
 
-      <video loop autoplay muted width="100%">
-        <source src="previewReel.mp4" type="video/mp4">
-      </video>
+    lottie: FC-Bol_Research_10.json
 
       </div>
       <div markdown="1">

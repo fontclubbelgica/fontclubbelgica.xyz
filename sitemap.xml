@@ -1,0 +1,21 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for item in site.html_pages %}
+  {%- if item.sitemap == false or item.redirect_to or item.draft %}{% continue %}{% endif %}
+  <url>
+    <loc>{{ item.url | absolute_url }}</loc>
+  </url>
+{%- endfor %}
+{%- assign items = site.typefaces | concat: site.articles %}
+{%- for item in items %}
+  {%- if item.draft or item.date > site.time %}{% continue %}{% endif %}
+  <url>
+    <loc>{{ item.url | absolute_url }}</loc>
+    <lastmod>{{ item.last_modified_at | default: item.date | date_to_xmlschema }}</lastmod>
+  </url>
+{%- endfor %}
+</urlset>

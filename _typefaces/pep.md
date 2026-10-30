@@ -5,18 +5,14 @@ title: FC Pep
 draft: false
 
 seo_description: |
-    FC Pep is a typeface that explores the limits of the childs game “ABC Con Fantasia” by Bruno Munari. It searches for the limits of this childrens puzzle.
+    FC Pep is a typeface that explores the limits of the child’s game “ABC Con Fantasia” by Bruno Munari. It searches for the limits of this children’s puzzle.
 seo_image: FCB_SEO_Pep.jpg
 
 information: |
-    Pep is a typeface that explores the limits of the childs game “ABC Con Fantasia” by Bruno Munari.
+    Pep is a typeface that explores the limits of the child’s game “ABC Con Fantasia” by Bruno Munari.
 
 designer: Dries Wiewauters
 date: 2019-02-01
-
-seo_description: |
-    Pep is a font by Dries Wiewauters, available on Font Club Belgica.
-seo_image: best jpg van 630*1200px
 
 specimen: FC-Pep_Type-Specimen-V1.0.pdf
 

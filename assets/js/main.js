@@ -22,6 +22,20 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	})
 
+	// lottie animations
+
+	if (window.lottie) {
+		document.querySelectorAll('[data-lottie]').forEach((element)=> {
+			lottie.loadAnimation({
+				container: element,
+				renderer: 'svg',
+				loop: true,
+				autoplay: true,
+				path: element.dataset.lottie
+			})
+		})
+	}
+
 	// font tester
 
 	const control_select_font = document.querySelectorAll('.select-font select')
@@ -139,6 +153,18 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_size(element)
 	})
 
+	document.querySelectorAll('.fontVariation-reset').forEach((element) => {
+		element.addEventListener("click", (event) => {
+			form = element.parentElement.parentElement
+			inputs = form.querySelectorAll('input')
+			for (var index = 0; index < inputs.length; index++) {
+				input = inputs[index]
+				input.value = input.dataset.defaultValue
+			}
+			apply_control_select_fontVariation(form)
+		})
+	})
+
 	// characeterset popup
 
 	document.querySelectorAll('.glyph').forEach((element) => {
@@ -178,6 +204,11 @@ document.addEventListener('DOMContentLoaded', function() {
 			container.appendChild(e)
 
 			element.appendChild(container)
+
+			// position the fixed popup under the glyph and keep it inside the window
+			const glyphRect = element.getBoundingClientRect()
+			const top = Math.max(10, Math.min(glyphRect.bottom, window.innerHeight - container.offsetHeight - 10))
+			container.style.setProperty('--popup-top', top + 'px')
 		})
 		element.addEventListener("mouseleave", (event) => {
 			container = element.lastElementChild

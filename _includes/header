@@ -5,10 +5,10 @@
         <nav class="main-menu">
             <h2>{% include fcb %}</h2>
             <ul>
-                <li><a href="/typefaces">Typefaces</a></li>
-                <li><a href="/articles">Research & News</a></li>
-                <li><a href="/faq#about-us">About us</a></li>
-                <li><a href="/faq#contact">Contact</a></li>
+                <li><a href="/typefaces/">Typefaces</a></li>
+                <li><a href="/articles/">Research & News</a></li>
+                <li><a href="/faq/#about-us">About us</a></li>
+                <li><a href="/faq/#contact">Contact</a></li>
 
             </ul>
         </nav>
@@ -17,9 +17,9 @@
     <div>
         <nav class="font-menu">
             {% if page.layout == "font" %}
-            <h2>{{ page.title }}</h2>
+            <h1>{{ page.title }}</h1>
             {% else %}
-            <h2><a href="/typefaces">Typefaces</a></h2>
+            <h2><a href="/typefaces/">Typefaces</a></h2>
             {% endif %}
             <ul>
             {% assign typefaces = site.typefaces | sort:"title" %}
