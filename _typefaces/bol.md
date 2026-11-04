@@ -2,7 +2,7 @@
 layout: font
 title: FC Bol
 
-draft: true
+draft: false
 
 seo_description: |
     FC Bol, a type synthesizer for dynamic web and motion graphics. Push the boundaries of variable fonts and animate your typography.
@@ -118,7 +118,7 @@ openTypeFeatures:
        name: Ligatures
        fontStyle: FC Bol Circle Regular
        examples:
-         - "-> flink /> fietsen ;) :) (:"    
+         - "flink -> fietsen /> ;) :) (:"    
    - dlig:
        name: Discretionary Ligatures
        fontStyle: FC Bol Circle Regular
@@ -738,6 +738,6 @@ library_preview:
 font_match:
     - FC Crimp
     - FC Nib
-    - FC MAD Sans
+    - FC Filter
     - FC Cru
 ---
