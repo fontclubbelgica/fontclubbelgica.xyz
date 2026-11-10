@@ -1021,6 +1021,31 @@ div.characterSets {
 .glyph-preview {
     display: inline-block;
 }
+section.banner {
+    padding-bottom: 32px;
+}
+.banner-content {
+    border-radius: 32px;
+    margin: 0 var(--padding);
+    padding: var(--padding);
+    padding-top: calc(var(--padding) + 16px);
+    padding-bottom: calc(var(--padding) + 16px);
+}
+.banner h3 {
+    font-size: 200px;
+    line-height: 1;
+    margin: 0;
+    text-transform: none;
+    text-align: center;
+    width: 100%;
+}
+section.details>div>h2 {
+    font-size: 20px;
+    line-height: 25px;
+    padding-top: 3px;
+    text-transform: uppercase;
+    width: 300px;
+}
 .information p {
     font-size: 20px;
     font-family: 'FCBELGICA Condensed';

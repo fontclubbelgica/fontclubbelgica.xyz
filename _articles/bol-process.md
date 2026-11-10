@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2026-10-13
+date: 2026-11-06
 type: article
 tags:
   - custom fonts

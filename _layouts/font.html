@@ -54,6 +54,18 @@ const font_instances = { {% for instanceItem in page.fontInstances %}{% for inst
 </section>
 {% endif %}
 
+{% if page.banner %}
+<section class="banner">
+
+    <div class="banner-content">
+        {% if page.banner.title %}
+         <h3 class="banner-title">{{ page.banner.title }}</h3>
+        {% endif %}
+        {{ page.banner.text | markdownify }}
+    </div>
+</section>
+{% endif %}
+
 {{ content }}
 
 {% if page.about %}
