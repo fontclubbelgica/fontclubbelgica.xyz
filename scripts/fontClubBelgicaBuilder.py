@@ -387,6 +387,7 @@ class Controller(ezui.WindowController):
         > ( /@font-face ) @buildFontFace
         > ( Opentype Features ) @buildOpentypeFeatures
         > ( Font Variations ) @buildFontVariations
+        > ( Instances ) @buildFontInstances
         > ( Character set ) @buildCharacterSet
         > ( Language support ) @buildLanguageSupport
         > ( Color Palettes ) @buildColorPalettes
@@ -530,9 +531,27 @@ class Controller(ezui.WindowController):
             out.dedent()
         out.dedent()
         if variations:
-
             self.write(out.get())
-
+    
+    def buildFontInstancesCallback(self, sender):
+        out = Writer()
+        out += "fontInstances:"
+        out.indent()
+        foundInstances = False
+        for font, path in self.fonts():
+            if "fvar" in font:
+                name = font["name"]
+                for instance in font["fvar"].instances:
+                    foundInstances = True
+                    out += f"- {name.getDebugName(instance.subfamilyNameID))}:"
+                    out.indent()
+                    for tag, value in instance.coordinates.items():
+                        out += f"{tag}: {value}"
+                    out.dedent()                        
+        out.dedent()
+        if foundInstances:
+            self.write(out.get())
+        
     def buildCharacterSetCallback(self, sender):
         out = Writer()
         out += "styles:"

@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const control_select_fontColorPalettes = document.querySelectorAll('.select-fontColorPalettes select')
 
 	function apply_control_select_fontColorPalettes(element) {
-		preview = element.parentElement.parentElement.nextElementSibling;
+		preview = element.parentElement.parentElement.nextElementSibling
 		preview.style.fontPalette = "--" + element.value
 	}
 
@@ -80,7 +80,35 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_fontColorPalettes(element)
 	})
 
-	const control_select_feature = document.querySelectorAll('.select-feature form');
+	const control_select_fontInstances = document.querySelectorAll('.select-fontInstances select')
+
+	function apply_control_select_fontInstances(element) {
+		fontVariationForm = element.parentElement.parentElement.getElementsByClassName("select-fontVariation-form")[0]
+		console.log(fontVariationForm)
+		console.log(font_instances[element.value])
+		instanceLocation = JSON.parse(font_instances[element.value])
+
+		for ( tag in instanceLocation ) {
+			value = instanceLocation[tag]
+			console.log("[data-font-variation-tag='"+tag+"']")
+			slider = fontVariationForm.querySelectorAll("[data-font-variation-tag='"+tag+"']")
+			if ( slider.length ) {
+				slider[0].value = value
+			}
+		}
+		apply_control_select_fontVariation(fontVariationForm)
+
+	}
+
+	control_select_fontInstances.forEach((element)=> {
+		element.addEventListener("change", (event) => {
+			apply_control_select_fontInstances(element)
+		})
+		// dont apply instances while loading
+		// apply_control_select_fontInstances(element)
+	})
+
+	const control_select_feature = document.querySelectorAll('.select-feature form')
 
 	function apply_control_select_feature(element) {
 		const inputs = element.querySelectorAll('input')
@@ -102,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		apply_control_select_feature(element)
 	})
 
-	const control_select_fontVariation = document.querySelectorAll('.select-fontVariation form');
+	const control_select_fontVariation = document.querySelectorAll('.select-fontVariation form')
 
 	function apply_control_select_fontVariation(element) {
 		const inputs = element.querySelectorAll('input')

@@ -38,7 +38,7 @@ languageSupport:
     Greek: Ελληνικά (Greek)
 
 styles:
-   - FC Bol Circle Regular:
+   - FC Bol:
         glyphCount: 1168
         paypro: FC_Bol_Circle_Regular
         characterset:
@@ -80,7 +80,198 @@ styles:
            Superscript: "0-sups 1-sups 2-sups 3-sups 4-sups 5-sups 6-sups 7-sups 8-sups 9-sups"
            Tabular Figures: "²-tnum 3-tnum ³-tnum ₴-tnum ƒ-tnum −-tnum ₹-tnum ¢-tnum #-tnum $-tnum %-tnum \"-tnum '-tnum £-tnum ¹-tnum ª-tnum +-tnum €-tnum ,-tnum .-tnum ₩-tnum °-tnum 1-tnum ‰-tnum ±-tnum 4-tnum 5-tnum 6-tnum 7-tnum 8-tnum 9-tnum :-tnum º-tnum <-tnum =-tnum >-tnum ½-tnum ¼-tnum ;-tnum ¾-tnum ₺-tnum ₽-tnum ₿-tnum ¥-tnum ≈-tnum ⅓-tnum ⅔-tnum ×-tnum ⅛-tnum ⅜-tnum ⅝-tnum ⅞-tnum ≠-tnum ≤-tnum ≥-tnum 0-tnum ÷-tnum 2-tnum"
            Slashed Zero: "⁰-zero 0-zero ₀-zero"
-           
+
+fontInstances:
+   - Square Light Backslant:
+      lmnt: 5.0
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Square Light:
+      lmnt: 5.0
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Square Light Slant:
+      lmnt: 5.0
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Square Regular Backslant:
+      lmnt: 5.0
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Square Regular:
+      lmnt: 5.0
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Square Regular Slant:
+      lmnt: 5.0
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Square Bold Backslant:
+      lmnt: 5.0
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Square Bold:
+      lmnt: 5.0
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Square Bold Slant:
+      lmnt: 5.0
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Squircle Light Backslant:
+      lmnt: 5.399993896484375
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Squircle Light:
+      lmnt: 5.399993896484375
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Squircle Light Slant:
+      lmnt: 5.399993896484375
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Squircle Regular Backslant:
+      lmnt: 5.399993896484375
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Squircle Regular:
+      lmnt: 5.399993896484375
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Squircle Regular Slant:
+      lmnt: 5.399993896484375
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Squircle Bold Backslant:
+      lmnt: 5.399993896484375
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Squircle Bold:
+      lmnt: 5.399993896484375
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Squircle Bold Slant:
+      lmnt: 5.399993896484375
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Circle Light Backslant:
+      lmnt: 6.0
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Circle Light:
+      lmnt: 6.0
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Circle Light Slant:
+      lmnt: 6.0
+      sizx: 0.5
+      sizy: 0.5
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Circle Regular Backslant:
+      lmnt: 6.0
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Circle Regular:
+      lmnt: 6.0
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Circle Regular Slant:
+      lmnt: 6.0
+      sizx: 1.0
+      sizy: 1.0
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+   - Circle Bold Backslant:
+      lmnt: 6.0
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: -12.0
+      rndm: 0.0
+   - Circle Bold:
+      lmnt: 6.0
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: 0.0
+      rndm: 0.0
+   - Circle Bold Slant:
+      lmnt: 6.0
+      sizx: 1.600006103515625
+      sizy: 1.5
+      wdth: 100.0
+      slnt: 12.0
+      rndm: 0.0
+
 fontVariations:
    - lmnt:
       name: Element
@@ -118,17 +309,17 @@ openTypeFeatures:
        name: Ligatures
        fontStyle: FC Bol Circle Regular
        examples:
-         - "flink -> fietsen /> ;) :) (:"    
+         - "flink -> fietsen /> ;) :) (:"
    - dlig:
        name: Discretionary Ligatures
        fontStyle: FC Bol Circle Regular
        examples:
-         - "Estimate Actuate"    
+         - "Estimate Actuate"
    - ss01:
        name: "Stylistic Set 1: alternate capital I"
        fontStyle: FC Bol Circle Regular
        examples:
-         - "INĨTỊALΪZATION"    
+         - "INĨTỊALΪZATION"
    - ss02:
        name: "Stylistic Set 2: alternate schoolbook a"
        fontStyle: FC Bol Circle Regular
@@ -158,7 +349,7 @@ openTypeFeatures:
        name: Lining Figures
        fontStyle: FC Bol Circle Regular
        examples:
-         - "$9,087,125.00 31% + 5 ⅔ inches"         
+         - "$9,087,125.00 31% + 5 ⅔ inches"
    - pnum:
        name: Proportional Figures
        fontStyle: FC Bol Circle Regular
@@ -183,7 +374,7 @@ openTypeFeatures:
        name: Superscript
        fontStyle: FC Bol Circle Regular
        examples:
-         - "1234567890"  
+         - "1234567890"
    - numr:
        name: Numerators
        fontStyle: FC Bol Circle Regular
@@ -198,7 +389,7 @@ openTypeFeatures:
        name: Scientific Inferiors
        fontStyle: FC Bol Circle Regular
        examples:
-         - "1234567890"  
+         - "1234567890"
 
 css: Bol-style.css
 
@@ -239,7 +430,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 200
       fontVariations:
-            - sizx: 2.0 
+            - sizx: 2.0
             #Range 0-1-2
             - sizy: 0.2
             #Range 0-1-2
@@ -253,7 +444,7 @@ testers:
             #Range 40-100-200
       fontVariation: true
       fontScrollvariations:
-            - sizx: 2.0 
+            - sizx: 2.0
             - sizy: 0.2
             - lmnt: 5.0
             - slnt: 45.0
@@ -271,7 +462,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 40
       fontVariations:
-            - sizx: 1.0 
+            - sizx: 1.0
             #Range 0-1-2
             - sizy: 1.0
             #Range 0-1-2
@@ -309,7 +500,7 @@ testers:
             #Range 40-100-200
       fontVariation: true
       fontScrollvariations:
-            - sizx: 2.0 
+            - sizx: 2.0
             - sizy: 0.2
             - lmnt: 5.0
             - slnt: 45.0
@@ -325,7 +516,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 80
       fontVariations:
-            - sizx: 1.0 
+            - sizx: 1.0
             #Range 0-1-2
             - sizy: 1.0
             #Range 0-1-2
@@ -349,7 +540,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 200
       fontVariations:
-            - sizx: 2.0 
+            - sizx: 2.0
             #Range 0-1-2
             - sizy: 2.0
             #Range 0-1-2
@@ -363,7 +554,7 @@ testers:
             #Range 40-100-200
       fontVariation: true
       fontScrollvariations:
-            - sizx: 2.0 
+            - sizx: 2.0
             - sizy: 0.2
             - lmnt: 5.0
             - slnt: 45.0
@@ -379,7 +570,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 40
       fontVariations:
-            - sizx: 1.3 
+            - sizx: 1.3
             #Range 0-1-2
             - sizy: 1.0
             #Range 0-1-2
@@ -403,7 +594,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 180
       fontVariations:
-            - sizx: 2.0 
+            - sizx: 2.0
             #Range 0-1-2
             - sizy: 2.0
             #Range 0-1-2
@@ -428,7 +619,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 70
       fontVariations:
-            - sizx: 1.0 
+            - sizx: 1.0
             #Range 0-1-2
             - sizy: 1.0
             #Range 0-1-2
@@ -452,7 +643,7 @@ testers:
       fontStyle: FC Bol Circle Regular
       fontSize: 120
       fontVariations:
-            - sizx: 0.35 
+            - sizx: 0.35
             #Range 0-1-2
             - sizy: 1.0
             #Range 0-1-2
@@ -571,7 +762,7 @@ research: |
       </div>
       <div markdown="1">
 
-    ## Six Axes of possibility 
+    ## Six Axes of possibility
 
     In *FC Bol*, the experiment extends beyond the position of the elements. Their shape, size and proportions can also change, independently along the horizontal and vertical axes. The typeface becomes a synthesizer in which several parameters interact, producing combinations that range from the geometric to the glitch-like, from the recognisable to the almost evaporated.
 
@@ -607,7 +798,7 @@ research: |
 
     <div markdown="1">
       <div markdown="1">
- 
+
     <video autoplay muted loop playsinline>
         <source src="FC-Bol_Research_6.mp4" type="video/mp4">
     </video>

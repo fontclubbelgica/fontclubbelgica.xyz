@@ -17,7 +17,8 @@ layout: default
 {% endfor %}
 
 <script type="text/javascript">
-const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloop.last %},{% endunless -%}{% endfor %}];
+const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloop.last %},{% endunless -%}{% endfor %}]
+const font_instances = { {% for instanceItem in page.fontInstances %}{% for instance in instanceItem %}'{{ instance[0] }}':'{{ instance[1] | jsonify }}'{% endfor %}{% unless forloop.last %},{% endunless -%}{% endfor %} }
 </script>
 
 {% if page.splash %}
@@ -33,7 +34,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 {% endif %}
 
 {% if page.researchtop %}
-<section class="research research-top"
+<section class="research research-top">
     <div class="research-title">
     </div>
     <div class="research-content">
@@ -82,7 +83,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
                     {% if about.caption %}<figcaption>{{ about.caption }}</figcaption>{% endif %}
                 </figure>
                 {% endif %}
-                
+
                 {% if about.lottie %}
                 <figure>
                     <div class="lottie" data-lottie="{{ page.url }}{{ about.lottie }}"></div>
@@ -124,9 +125,21 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
             </div>
             {% endif %}
 
+            {% if page.fontInstances %}
+            <div class="select-fontInstances">
+                <select>
+                {% for instanceItem in page.fontInstances %}
+                    {% for instance in instanceItem %}
+                        <option value="{{ instance[0] }}"{%if instance[0] == tester.instance %} selected{% endif %} data-location="{{ instance[1] | jsonify }}">{{ instance[0] }}</option>
+                    {% endfor %}
+                 {% endfor %}
+                </select>
+            </div>
+            {% endif %}
+
             {% if page.fontVariations %}
             <div class="select-fontVariation">
-                <form>
+                <form class="select-fontVariation-form">
                 {% for fontVariationItem in page.fontVariations %}
                     {% for fontVariation in fontVariationItem %}
                         {% assign fontVariationsDefaultValue = fontVariation[1].defaultValue %}
