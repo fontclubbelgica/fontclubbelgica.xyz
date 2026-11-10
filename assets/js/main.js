@@ -84,20 +84,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	function apply_control_select_fontInstances(element) {
 		fontVariationForm = element.parentElement.parentElement.getElementsByClassName("select-fontVariation-form")[0]
-		console.log(fontVariationForm)
-		console.log(font_instances[element.value])
 		instanceLocation = JSON.parse(font_instances[element.value])
 
 		for ( tag in instanceLocation ) {
 			value = instanceLocation[tag]
-			console.log("[data-font-variation-tag='"+tag+"']")
 			slider = fontVariationForm.querySelectorAll("[data-font-variation-tag='"+tag+"']")
 			if ( slider.length ) {
 				slider[0].value = value
 			}
 		}
-		apply_control_select_fontVariation(fontVariationForm)
-
+		apply_control_select_fontVariation(element, updateInstances=false)
 	}
 
 	control_select_fontInstances.forEach((element)=> {
@@ -132,7 +128,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	const control_select_fontVariation = document.querySelectorAll('.select-fontVariation form')
 
-	function apply_control_select_fontVariation(element) {
+	function apply_control_select_fontVariation(element, updateInstances=true) {
 		const inputs = element.querySelectorAll('input')
 		const fontVariationSettings = []
 		for (var index = 0; index < inputs.length; index++) {
@@ -140,15 +136,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
 			fontVariationSettings.push("'" + input.dataset.fontVariationTag + "' " + input.value )
 		}
+
 		preview = element.parentElement.parentElement.nextElementSibling;
 		preview.style.fontVariationSettings = fontVariationSettings.join()
-	};
+
+		if (updateInstances) {
+			customInstances = element.parentElement.parentElement.getElementsByClassName("fontInstance-custom-value")
+			for (var index = 0; index < customInstances.length; index++) {
+				customInstance = customInstances[index]
+				customInstance.selected = true
+			}
+		}
+	}
 
 	control_select_fontVariation.forEach((element)=> {
 		element.addEventListener("input", (event) => {
 			apply_control_select_fontVariation(element)
 		})
-		apply_control_select_fontVariation(element)
+		apply_control_select_fontVariation(element, updateInstances=false)
 	})
 
 	const control_select_size = document.querySelectorAll('.select-size input')
@@ -172,7 +177,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			preview.className = "t-xsmall preview";
 		}
 		preview.style.fontSize = element.value + 'px'
-	};
+	}
 
 	control_select_size.forEach((element) => {
 		element.addEventListener("input", (event) => {

@@ -140,11 +140,12 @@ const font_instances = { {% for instanceItem in page.fontInstances %}{% for inst
             {% if page.fontInstances %}
             <div class="select-fontInstances">
                 <select>
-                {% for instanceItem in page.fontInstances %}
-                    {% for instance in instanceItem %}
-                        <option value="{{ instance[0] }}"{%if instance[0] == tester.instance %} selected{% endif %} data-location="{{ instance[1] | jsonify }}">{{ instance[0] }}</option>
+                    <option value="-" data-location="{}" class="fontInstance-custom-value">-</option>
+                    {% for instanceItem in page.fontInstances %}
+                        {% for instance in instanceItem %}
+                            <option value="{{ instance[0] }}"{%if instance[0] == tester.instance %} selected{% endif %} data-location="{{ instance[1] | jsonify }}">{{ instance[0] }}</option>
+                        {% endfor %}
                     {% endfor %}
-                 {% endfor %}
                 </select>
             </div>
             {% endif %}
