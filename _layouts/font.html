@@ -32,16 +32,6 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
 </section>
 {% endif %}
 
-{% if page.researchtop %}
-<section class="research research-top"
-    <div class="research-title">
-    </div>
-    <div class="research-content">
-        {{ page.researchtop | markdownify }}
-    </div>
-</section>
-{% endif %}
-
 {% if page.showcases %}
 <section class="showcase">
     <div id="zones" style="font-family: '{{ font_styles[0] }}';">
@@ -50,6 +40,18 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
     {% endfor %}
     </div>
     <div id="zone-fontname" class="btn">{{ font_styles[0] }}</div>
+</section>
+{% endif %}
+
+{% if page.banner %}
+<section class="banner">
+    
+    <div class="banner-content">
+        {% if page.banner.title %}
+         <h3 class="banner-title">{{ page.banner.title }}</h3>
+        {% endif %}
+        {{ page.banner.text | markdownify }}
+    </div>
 </section>
 {% endif %}
 

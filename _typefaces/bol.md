@@ -462,8 +462,14 @@ testers:
             #Range -45-0-45
             - rndm: 0.0
             #Range 0-0-1
-            - wdth: 40.0
+            - wdth: 70.0
             #Range 40-100-200
+
+banner:
+    title: 80% - 20% off
+    text: |
+        **To support experimental design, for individual designers and small studios, FC Bol is offered with discounts of 20–80% across its four lowest tiers. And this for both web and desktop licenses.**
+
 
 about:
     - video: Bol_Information.mp4
