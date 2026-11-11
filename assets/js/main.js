@@ -85,15 +85,15 @@ document.addEventListener('DOMContentLoaded', function() {
 	function apply_control_select_fontInstances(element) {
 		fontVariationForm = element.parentElement.parentElement.getElementsByClassName("select-fontVariation-form")[0]
 		instanceLocation = JSON.parse(font_instances[element.value])
-
 		for ( tag in instanceLocation ) {
 			value = instanceLocation[tag]
-			slider = fontVariationForm.querySelectorAll("[data-font-variation-tag='"+tag+"']")
-			if ( slider.length ) {
-				slider[0].value = value
+			sliders = fontVariationForm.querySelectorAll("[data-font-variation-tag='" + tag + "']")
+			if ( sliders.length ) {
+				slider = sliders[0]
+				slider.value = value
 			}
 		}
-		apply_control_select_fontVariation(element, updateInstances=false)
+		apply_control_select_fontVariation(fontVariationForm, updateInstances=false)
 	}
 
 	control_select_fontInstances.forEach((element)=> {
@@ -133,7 +133,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		const fontVariationSettings = []
 		for (var index = 0; index < inputs.length; index++) {
 			input = inputs[index]
-
 			fontVariationSettings.push("'" + input.dataset.fontVariationTag + "' " + input.value )
 		}
 
