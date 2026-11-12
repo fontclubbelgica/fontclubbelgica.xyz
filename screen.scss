@@ -660,16 +660,21 @@ section.about {
             display: block;
             max-width: 100%;
             height: auto;
+            border-radius: 12px;
+
         }
 
         .lottie {
             display: block;
             width: 100%;
+            border-radius: 12px;
+
         }
 
         &.small {
             max-width: 520px;
             margin: 0 auto;
+            border-radius: 12px;
         }
     }
 
@@ -1038,6 +1043,7 @@ section.banner {
     text-transform: none;
     text-align: center;
     width: 100%;
+    padding-bottom: 20px;
 }
 section.details>div>h2 {
     font-size: 20px;

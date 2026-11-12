@@ -12,16 +12,17 @@ section.banner {
     color: white;
 }
 .banner h3 {
-  font-family: 'FC Bol Circle Regular';
+  font-family: 'FC Bol';
   line-height: 1;
   font-variation-settings:
-        "sizx" 1.25,
-        "sizy" 1.0,
+        "sizx" 1.1,
+        "sizy" 0.9,
         "lmnt" 5.3,
         "slnt" 0,
         "rndm" 0,
-        "wdth" 80;
+        "wdth" 85;
   text-align: center;
+  color: #FF0057;
 }
 @media(max-width:600px) {
   .banner h3 {
@@ -33,7 +34,7 @@ section.banner {
   }
 }
 .banner-content {
-    background: #FF0057;
+    background: #681e01;
     max-width: 1000px;
     margin: 0 auto;
 }

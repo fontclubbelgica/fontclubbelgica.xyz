@@ -307,87 +307,87 @@ fontVariations:
 openTypeFeatures:
    - liga:
        name: Ligatures
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "flink -> fietsen /> ;) :) (:"
    - dlig:
        name: Discretionary Ligatures
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "Estimate Actuate"
    - ss01:
        name: "Stylistic Set 1: alternate capital I"
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "INĨTỊALΪZATION"
    - ss02:
        name: "Stylistic Set 2: alternate schoolbook a"
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "Taramasalata salad"
    - ss03:
        name: "Stylistic Set 3: alternate schoolbook g"
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "Integrated geography"
    - ss04:
        name: "Circled Numbers"
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "1 23 456 7890"
    - case:
        name: Case-Sensitive Forms
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "¿Qué? (Cap-1/2) [3] {4}"
    - onum:
        name: Oldstyle Figures
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "€1.420,99 67% + 2 ⅝ inches"
    - lnum:
        name: Lining Figures
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "$9,087,125.00 31% + 5 ⅔ inches"
    - pnum:
        name: Proportional Figures
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "€1.420,99 67% + 2 ⅝ inches"
    - tnum:
        name: Tabular Figures
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "$9,087,125.00 31% + 5 ⅔ inches"
    - frac:
        name: Fractions
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "12345/67890"
    - zero:
        name: Slashed Zero
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "¥6.000.000"
    - sinf:
        name: Superscript
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "1234567890"
    - numr:
        name: Numerators
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "5 Footnote: 1234567890"
    - dnom:
        name: Denominators
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "1234567890"
    - sinf:
        name: Scientific Inferiors
-       fontStyle: FC Bol Circle Regular
+       fontStyle: FC Bol
        examples:
          - "1234567890"
 
@@ -512,7 +512,7 @@ testers:
 
         Ці хмари формуються через конвекцію, коли тепле повітря піднімається вгору, охолоджується, і водяна пара конденсується, утворюючи водяні краплі. Кумулятивні хмари зазвичай не приносять дощу, але можуть бути першими ознаками більш серйозних погодних змін. Якщо кумулятивні хмари зростають вгору і набувають більш густого вигляду, вони можуть перетворитися на грозові хмари — кумулонімбуси, які приносять сильні дощі, грози і навіть град.
 
-        Кумулятивні хмари часто стають чудовим об'єктом для спостережень, особливо в ясний день, коли вони створюють яскраві контрасти на фоні синього неба. Їх популярний образ у природі та мистецтві символізує спокійну, безтурботну погоду. Ці хмари не лише милують око, але й є важливим індикатором атмосферних процесів, що відбуваються на земній поверхні.
+        Кумулятивні хмари часто стають чудовим об'єктом для спостережень, особливо в ясний день, коли вони створюють яскраві контрасти на фоні синього неба. Їх популярний образ у природі та мистецтві символізує спокійну, безтурботну погоду. і хмари не лише милують око, але й є важливим індикатором атмосферних процесів, що відбуваються на земній поверхні.
       fontStyle: FC Bol Circle Regular
       fontSize: 80
       fontVariations:
@@ -657,10 +657,9 @@ testers:
             #Range 40-100-200
 
 banner:
-    title: 80% - 20% off
+    title: Up to 80% off!
     text: |
-        **To support experimental design, for individual designers and small studios, FC Bol is offered with discounts of 20–80% across its four lowest tiers. And this for both web and desktop licenses.**
-
+        **To support experimental design: for individual designers and small studios FC Bol is offered with discounts of 20–80% across its four lowest tiers. And this for both web and desktop licenses.**
 
 about:
     - video: Bol_Information.mp4
