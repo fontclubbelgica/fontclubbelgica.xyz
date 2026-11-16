@@ -1286,6 +1286,9 @@ section.buy {
     display: inline-block;
     margin: 0 4px;
 }
+.buy-btns li {
+  margin-bottom: 8px;
+}
 .buy-btns li:nth-child(2) {
     color: var(--yellow);
 }

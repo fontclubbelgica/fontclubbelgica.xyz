@@ -16,6 +16,8 @@ date: 2026-10-28
 
 specimen: FC-Bol_Type-Specimen-V1.0.pdf
 
+instance: true
+
 paypro: fc-Bol
 
 technicalSupport:
