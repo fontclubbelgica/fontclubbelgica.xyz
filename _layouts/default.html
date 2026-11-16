@@ -32,6 +32,9 @@
 <!-- End Matomo Code -->
 
 </head>
+
+{% include idle-bouncer %}
+
 <body class="{{ page.path | replace: '.md', '' | split: '/' | last }}">
 
 {% include header %}
