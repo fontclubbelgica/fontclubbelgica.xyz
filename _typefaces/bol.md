@@ -279,7 +279,7 @@ fontVariations:
       name: Element
       minValue: 0.0
       maxValue: 7.0
-      defaultValue: 5.0
+      defaultValue: 6.0
    - sizx:
       name: Size X
       minValue: 0.0
