@@ -232,7 +232,7 @@ const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloo
             <div class="preview characterSets-viewer">
             {% for styleItem in page.styles %}
                 {% for style in styleItem %}
-                    <div class="characterSet" style="font-family: '{{ style[0] }}';">
+                    <div class="characterSet" data-font-style="{{ style[0] }}" style="font-family: '{{ style[0] }}';">
                     {% for characterset in style[1].characterset %}
                         <p class="meta">{{ characterset[0] }}</p>
                         {% assign characters = characterset[1] | split: " " %}

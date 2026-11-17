@@ -45,7 +45,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		if ( preview.classList.contains("characterSets-viewer") ) {
 			for (var i = 0; i < preview.children.length; i++) {
 				subitem = preview.children[i]
-				if ( subitem.style.fontFamily.slice(1, -1) == element.value ) {
+				// compare the data attribute: browsers serialize style.fontFamily with or without quotes
+				if ( subitem.dataset.fontStyle == element.value ) {
 					subitem.style.display = "flex"
 				}
 				else {
@@ -180,7 +181,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			if ( element.style.fontFeatureSettings ) {
 				featureTag = document.createElement("span")
 				featureTag.classList.add("glyph-popup-top-feature")
-				featureTag.textContent = element.style.fontFeatureSettings.slice(1, -1)
+				featureTag.textContent = (element.style.fontFeatureSettings.match(/[\w ]{4}/) || [''])[0]
 				e.appendChild(featureTag)
 			}
 			container.appendChild(e)
