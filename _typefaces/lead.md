@@ -17,6 +17,8 @@ date: 2026-05-20
 
 specimen: FC-Lead_Specimen-V1.0.pdf
 
+instance: true
+
 buy_redirect:
     title: Buy on Future Fonts
     url: https://www.future-fonts.com/fontclubbelgica/fc-lead

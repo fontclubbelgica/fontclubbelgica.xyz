@@ -1289,10 +1289,10 @@ section.buy {
 .buy-btns li {
   margin-bottom: 8px;
 }
-.buy-btns li:nth-child(2) {
+.buy-btns li:nth-child(n+2) {
     color: var(--yellow);
 }
-.buy-btns li:nth-child(3) {
+.buy-btns li:last-child:nth-child(n+3) {
     color: var(--red);
 }
 @media(max-width: 600px) {
@@ -2274,7 +2274,6 @@ body.shop {
     }
   }
 }
-
 
 // .text {
 //   h1 {

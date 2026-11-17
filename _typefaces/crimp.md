@@ -16,6 +16,8 @@ date: 2025-05-27
 
 specimen: FC-Crimp_Type-Specimen-V1.1.pdf
 
+instance: true
+
 paypro: fc-Crimp
 
 technicalSupport:
