@@ -543,7 +543,7 @@ class Controller(ezui.WindowController):
                 name = font["name"]
                 for instance in font["fvar"].instances:
                     foundInstances = True
-                    out += f"- {name.getDebugName(instance.subfamilyNameID))}:"
+                    out += f"- {name.getDebugName(instance.subfamilyNameID)}:"
                     out.indent()
                     for tag, value in instance.coordinates.items():
                         out += f"{tag}: {value}"
