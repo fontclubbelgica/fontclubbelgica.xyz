@@ -166,7 +166,7 @@ const font_instances = { {% for instanceItem in page.fontInstances %}{% for inst
                         <div><div class="fontVariation-name">{{ fontVariation[1].name }}</div> <input type="range" data-font-variation-tag="{{ fontVariation[0] }}" data-default-value="{{ fontVariation[1].defaultValue }}" min="{{ fontVariation[1].minValue }}" max="{{ fontVariation[1].maxValue }}" value="{{ fontVariationsDefaultValue }}"  step="0.001" class="slider"></div>
                     {% endfor %}
                 {% endfor %}
-                <div><div class="fontVariation-name"></div><div class="fontVariation-reset">Reset to Defaults</div></div>
+                <div><div class="fontVariation-name"></div><div class="fontVariation-reset">Reset to Defaults</div>{% if page.instance %}{% capture instance_base %}{{ site.instance_url }}/font/{{ page.title | slugify }}/{% endcapture %}<a class="fontVariation-generate" href="{{ instance_base }}" data-instance-base="{{ instance_base }}" target="_blank" rel="noopener">Generate instance</a>{% endif %}</div>
                 </form>
             </div>
             {% endif %}

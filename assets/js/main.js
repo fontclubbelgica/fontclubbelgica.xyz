@@ -60,9 +60,23 @@ document.addEventListener('DOMContentLoaded', function() {
 	}
 
 
+	// "Generate instance" link: opens the instance portal with the current style and axis values
+	function update_instance_link(tester) {
+		const link = tester ? tester.querySelector('.fontVariation-generate') : null
+		if ( !link ) return
+		const params = new URLSearchParams()
+		const styleSelect = tester.querySelector('.select-font select')
+		if ( styleSelect ) params.set('style', styleSelect.value)
+		tester.querySelectorAll('.select-fontVariation-form input[data-font-variation-tag]').forEach((slider) => {
+			params.set(slider.dataset.fontVariationTag, String(Math.round(Number(slider.value) * 1000) / 1000))
+		})
+		link.href = link.dataset.instanceBase + '?' + params.toString()
+	}
+
 	control_select_font.forEach((element)=> {
 		element.addEventListener("change", (event) => {
 			apply_control_select_font(element)
+			update_instance_link(element.closest('.tester'))
 		})
 		apply_control_select_font(element)
 	})
@@ -139,6 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 		preview = element.parentElement.parentElement.nextElementSibling;
 		preview.style.fontVariationSettings = fontVariationSettings.join()
+		update_instance_link(element.closest('.tester'))
 
 		if (updateInstances) {
 			customInstances = element.parentElement.parentElement.getElementsByClassName("fontInstance-custom-value")

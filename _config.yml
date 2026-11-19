@@ -26,6 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fontclubbelgica.com" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 
+# Customer portal where owners generate static instances of variable fonts (fonts with `instance: true`)
+instance_url: "https://shop.fontclubbelgica.com/instance"
+
 # One URL style everywhere: pages live at /faq/, /typefaces/, ... like the typeface and article pages
 permalink: pretty
 

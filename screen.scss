@@ -439,7 +439,7 @@ figcaption {
                 vertical-align: middle;
             }
 
-            .fontVariation-reset {
+            .fontVariation-reset, .fontVariation-generate {
                 font-size:80%;
 
                 display: inline-block;
@@ -455,6 +455,12 @@ figcaption {
                 &:hover {
                     background-color: var(--gray);
                 }
+            }
+
+            .fontVariation-generate {
+                margin-left: 5px;
+                color: inherit;
+                text-decoration: none;
             }
 
         }
