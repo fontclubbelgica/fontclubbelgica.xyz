@@ -12,13 +12,16 @@
     {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}{{ page.url}}{{ page.css }}" />{% endif %}
 
     {% if content contains "data-lottie" %}<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js" defer></script>{% endif %}
-    <script src="{{ site.baseurl }}/assets/js/main.js?v=2" defer></script>
+    <script src="{{ site.baseurl }}/assets/js/main.js?v=3" defer></script>
     {% if page.js %}<script src="{{ site.baseurl }}/{{ page.js }}" defer></script>{% endif %}
 
 <!-- Matomo -->
 <script>
     var _paq = window._paq = window._paq || [];
     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        /* Share one visitor between fontclubbelgica.com and shop.fontclubbelgica.com (the shop also reports to site 1) */
+        _paq.push(['setCookieDomain', '*.fontclubbelgica.com']);
+        _paq.push(['setDomains', ['*.fontclubbelgica.com']]);
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
         (function() {

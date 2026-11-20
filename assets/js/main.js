@@ -351,3 +351,54 @@ document.addEventListener('DOMContentLoaded', function() {
    	})
 })
 
+
+
+// Matomo: record the clicks and tester use that lead to a sale.
+// Shows up in Matomo under Behaviour > Events, and can be turned into Goals.
+;(function() {
+	function track(category, action, name) {
+		window._paq = window._paq || []
+		window._paq.push(['trackEvent', category, action, name])
+	}
+	// Typeface name of the current page, e.g. "FC Bol" ("Home" outside typeface pages)
+	function pageName() {
+		return document.title.split(' | ')[0]
+	}
+
+	document.addEventListener('click', (event) => {
+		const link = event.target.closest('a[href]')
+		if (!link) return
+		const href = link.href
+		const where = link.closest('header') ? 'Header' : (link.closest('.buy') ? 'Get it' : 'Page')
+
+		if (/shop\.fontclubbelgica\.com\/trials/.test(href)) {
+			track('Typeface', 'Get trials', pageName())
+		} else if (/shop\.fontclubbelgica\.com\/instance/.test(href)) {
+			track('Typeface', 'Instance generator', pageName())
+		} else if (/shop\.fontclubbelgica\.com\/?(#|$)/.test(href)) {
+			track('Typeface', 'Buy click', pageName() + ' (' + where + ')')
+		} else if (/future-fonts\.com/.test(href)) {
+			track('Typeface', 'Buy click Future Fonts', pageName() + ' (' + where + ')')
+		} else if (/\.pdf($|\?)/i.test(href)) {
+			track('Typeface', 'Specimen download', pageName())
+		}
+	})
+
+	// Once per page: someone typed in a tester, or moved a variable-font slider
+	const used = {}
+	function trackOnce(action) {
+		if (used[action]) return
+		used[action] = true
+		track('Typeface', action, pageName())
+	}
+	document.addEventListener('input', (event) => {
+		if (!event.target.closest || !event.target.closest('.tester')) return
+		if (event.target.matches('[contenteditable]')) trackOnce('Tester typed')
+		else if (event.target.matches('input[type=range][data-font-variation-tag]')) trackOnce('Variable axes moved')
+		else if (event.target.closest('.select-size')) trackOnce('Tester size changed')
+	})
+	document.addEventListener('change', (event) => {
+		if (!event.target.closest || !event.target.closest('.tester')) return
+		if (event.target.matches('select, input[type=checkbox]')) trackOnce('Tester style or feature changed')
+	})
+})()
