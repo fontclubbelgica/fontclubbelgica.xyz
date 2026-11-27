@@ -37,6 +37,21 @@ languageSupport:
     Cyrillic: Abaza, Belarusian, Bosnian (Cyrillic), Bulgarian, Crimean Turkish, Cyrillic, Erzya, Gagauz (Cyrillic), Karachay-Balkar, Komi, Komi-Permyak, Kumyk, Macedonian, Moksha, Nogai, Romanian (Cyrillic), Russian, Rusyn, Serbian, Udmurt, Ukranian, Western Mari
     Greek: Ελληνικά (Greek)
 
+css: Oblate-style.css
+
+splash: Oblate-splash.svg
+
+hometile: FCB_Library_Oblate_Large.svg
+
+showcases:
+    - ABCDEFGHIJKLMN
+    - OPQRSTUVWXYZ
+    - ΑΒΓΔΕΦ АБЦДЕФ
+    - äbcdęfghijklmn
+    - opqrstuvwxyz
+    - αβγδεφ абцде
+    - 0123456789
+
 styles:
    - FC Oblate:
         glyphCount: 1399
@@ -287,20 +302,6 @@ fontVariations:
       maxValue: 500.0
       defaultValue: 0.0
 
-css: Oblate-style.css
-
-splash: Oblate-splash.svg
-
-hometile: FCB_Library_Oblate_Large.svg
-
-showcases:
-    - ABCDEFGHIJKLMN
-    - OPQRSTUVWXYZ
-    - ΑΒΓΔΕΦ АБЦДЕФ
-    - äbcdęfghijklmn
-    - opqrstuvwxyz
-    - αβγδεφ абцде
-    - 0123456789
 
 testers:
     - text: |
