@@ -62,6 +62,17 @@ styles:
            Latin Extended-A: "ı ŭ"
            Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
            Private Use Area: ""
+        instances:
+           - Light Normal Roman Rounded: { wght: 400, wdth: 100, slnt: 0, shft: 0, cap_: 1 }
+           - Light Normal Roman Squared: { wght: 400, wdth: 100, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Small Roman Rounded: { wght: 0, wdth: 30, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Small Roman Squared: { wght: 0, wdth: 30, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Normal Roman Rounded: { wght: 0, wdth: 100, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Normal Roman Squared: { wght: 0, wdth: 100, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Expanded Roman Rounded: { wght: 0, wdth: 200, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Expanded Roman Squared: { wght: 0, wdth: 200, slnt: 0, shft: 0, cap_: 0 }
+           - Heavy Normal Roman on the Left Rounded: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 1 }
+           - Heavy Normal Roman on the Left Squared: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 0 }
    - FC Filter Machine Tool:
         glyphCount: 151
         paypro: FC_Filter_Machine_Tool
@@ -71,6 +82,17 @@ styles:
            Latin Extended-A: "ı ŭ"
            Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
            Private Use Area: ""
+        instances:
+           - Light Normal Roman Rounded: { wght: 400, wdth: 100, slnt: 0, shft: 0, cap_: 1 }
+           - Light Normal Roman Squared: { wght: 400, wdth: 100, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Small Roman Rounded: { wght: 0, wdth: 30, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Small Roman Squared: { wght: 0, wdth: 30, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Normal Roman Rounded: { wght: 0, wdth: 100, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Normal Roman Squared: { wght: 0, wdth: 100, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Expanded Roman Rounded: { wght: 0, wdth: 200, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Expanded Roman Squared: { wght: 0, wdth: 200, slnt: 0, shft: 0, cap_: 0 }
+           - Heavy Normal Roman on the Left Rounded: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 1 }
+           - Heavy Normal Roman on the Left Squared: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 0 }
    - FC Filter Vlotte:
         glyphCount: 151
         paypro: FC_Filter_Vlotte
@@ -80,7 +102,29 @@ styles:
            Latin Extended-A: "ı ŭ"
            Spacing Modifier Letters: "ˆ ˇ ˘ ˚ ˜"
            Private Use Area: ""
+        instances:
+           - Light Normal Roman Rounded: { wght: 400, wdth: 100, slnt: 0, shft: 0, cap_: 1 }
+           - Light Normal Roman Squared: { wght: 400, wdth: 100, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Small Roman Rounded: { wght: 0, wdth: 30, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Small Roman Squared: { wght: 0, wdth: 30, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Normal Roman Rounded: { wght: 0, wdth: 100, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Normal Roman Squared: { wght: 0, wdth: 100, slnt: 0, shft: 0, cap_: 0 }
+           - Thin Expanded Roman Rounded: { wght: 0, wdth: 200, slnt: 0, shft: 0, cap_: 1 }
+           - Thin Expanded Roman Squared: { wght: 0, wdth: 200, slnt: 0, shft: 0, cap_: 0 }
+           - Heavy Normal Roman on the Left Rounded: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 1 }
+           - Heavy Normal Roman on the Left Squared: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 0 }
 
+# openTypeFeatures:
+#    - dnom:
+#        name: Denominators
+#        fontStyle: FC MAD Serif Light
+#        examples:
+#          - "0123456789"
+#    - frac:
+#        name: Fractions
+#        fontStyle: FC MAD Serif Light
+#        examples:
+#          - "/0123456789"
 
 fontVariations:
     - wght:
@@ -108,18 +152,6 @@ fontVariations:
         minValue: 0.0
         maxValue: 1.0
         defaultValue: 1.0
-
-# openTypeFeatures:
-#    - dnom:
-#        name: Denominators
-#        fontStyle: FC MAD Serif Light
-#        examples:
-#          - "0123456789"
-#    - frac:
-#        name: Fractions
-#        fontStyle: FC MAD Serif Light
-#        examples:
-#          - "/0123456789"
 
 testers:
     - text: |
