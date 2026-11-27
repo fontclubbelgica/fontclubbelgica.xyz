@@ -18,7 +18,26 @@ layout: default
 
 <script type="text/javascript">
 const font_styles = [{% for style in font_styles %}"{{ style }}"{% unless forloop.last %},{% endunless -%}{% endfor %}]
-const font_instances = { {% for instanceItem in page.fontInstances %}{% for instance in instanceItem %}'{{ instance[0] }}':'{{ instance[1] | jsonify }}'{% endfor %}{% unless forloop.last %},{% endunless -%}{% endfor %} }
+const font_instances_by_style = {
+{%- for styleItem in page.styles -%}
+  {%- for style in styleItem -%}
+    {%- if style[1].instances -%}
+      {%- assign inst_source = style[1].instances -%}
+    {%- else -%}
+      {%- assign inst_source = page.fontInstances -%}
+    {%- endif -%}
+    {{ style[0] | jsonify }}: {
+    {%- for instanceItem in inst_source -%}
+      {%- for instance in instanceItem -%}
+        {{ instance[0] | jsonify }}: {{ instance[1] | jsonify }}
+      {%- endfor -%}
+      {%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+    }
+  {%- endfor -%}
+  {%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+};
 </script>
 
 {% if page.splash %}
@@ -87,8 +106,6 @@ const font_instances = { {% for instanceItem in page.fontInstances %}{% for inst
 
                 {% if about.video %}
                 <figure>
-                    <video autoplay muted loop playsinline>
-                       <source src="{{ page.url }}{{ about.video }}" type="video/mp4">
                     <video autoplay muted loop playsinline{% if about.controls %} controls{% endif %} preload="metadata">
                         <source src="{{ page.url }}{{ about.video }}" type="video/mp4">
                     </video>
@@ -137,13 +154,17 @@ const font_instances = { {% for instanceItem in page.fontInstances %}{% for inst
             </div>
             {% endif %}
 
-            {% if page.fontInstances %}
+            {% assign tester_style = tester.fontStyle | default: font_styles[0] %}
+            {% assign tester_instances = page.fontInstances %}
+            {% for styleItem in page.styles %}{% for style in styleItem %}{% if style[0] == tester_style and style[1].instances %}{% assign tester_instances = style[1].instances %}{% endif %}{% endfor %}{% endfor %}
+
+            {% if tester_instances %}
             <div class="select-fontInstances">
                 <select>
-                    <option value="-" data-location="{}" class="fontInstance-custom-value">-</option>
-                    {% for instanceItem in page.fontInstances %}
+                    <option value="-" class="fontInstance-custom-value">-</option>
+                    {% for instanceItem in tester_instances %}
                         {% for instance in instanceItem %}
-                            <option value="{{ instance[0] }}"{%if instance[0] == tester.instance %} selected{% endif %} data-location="{{ instance[1] | jsonify }}">{{ instance[0] }}</option>
+                            <option value="{{ instance[0] }}"{% if instance[0] == tester.instance %} selected{% endif %}>{{ instance[0] }}</option>
                         {% endfor %}
                     {% endfor %}
                 </select>
@@ -166,7 +187,7 @@ const font_instances = { {% for instanceItem in page.fontInstances %}{% for inst
                         <div><div class="fontVariation-name">{{ fontVariation[1].name }}</div> <input type="range" data-font-variation-tag="{{ fontVariation[0] }}" data-default-value="{{ fontVariation[1].defaultValue }}" min="{{ fontVariation[1].minValue }}" max="{{ fontVariation[1].maxValue }}" value="{{ fontVariationsDefaultValue }}"  step="0.001" class="slider"></div>
                     {% endfor %}
                 {% endfor %}
-                <div><div class="fontVariation-name"></div><div class="fontVariation-reset">Reset to Defaults</div>{% if page.instance %}{% capture instance_base %}{{ site.instance_url }}/font/{{ page.title | slugify }}/{% endcapture %}<a class="fontVariation-generate" href="{{ instance_base }}" data-instance-base="{{ instance_base }}" target="_blank" rel="noopener">Generate instance</a>{% endif %}</div>
+                <div><div class="fontVariation-name"></div><div class="fontVariation-reset">RESET</div>{% if page.instance %}{% capture instance_base %}{{ site.instance_url }}/font/{{ page.title | slugify }}/{% endcapture %}<a class="fontVariation-generate" href="{{ instance_base }}" data-instance-base="{{ instance_base }}" target="_blank" rel="noopener">INSTANCE GENERATOR</a>{% endif %}</div>
                 </form>
             </div>
             {% endif %}

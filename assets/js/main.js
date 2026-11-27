@@ -59,7 +59,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		}
 	}
 
-
 	// "Generate instance" link: opens the instance portal with the current style and axis values
 	function update_instance_link(tester) {
 		const link = tester ? tester.querySelector('.fontVariation-generate') : null
@@ -71,6 +70,47 @@ document.addEventListener('DOMContentLoaded', function() {
 			params.set(slider.dataset.fontVariationTag, String(Math.round(Number(slider.value) * 1000) / 1000))
 		})
 		link.href = link.dataset.instanceBase + '?' + params.toString()
+	}
+
+	control_select_font.forEach((element)=> {
+		element.addEventListener("change", (event) => {
+			apply_control_select_font(element)
+			sync_instances(element.closest('.tester'))   // <- nieuw
+			update_instance_link(element.closest('.tester'))
+		})
+		apply_control_select_font(element)
+	})
+
+	// when the font changes: rebuild the instance list for that font and
+	// pick the matching instance (same name, otherwise same relative position)
+	function sync_instances(tester) {
+		if ( !tester ) return   // the glyphs-sheet select is not inside a .tester
+		const instanceSelect = tester.querySelector('.select-fontInstances select')
+		if ( !instanceSelect ) return
+
+		const style = tester.querySelector('.select-font select').value
+		const names = Object.keys(font_instances_by_style[style] || {})
+
+		const oldNames = Array.from(instanceSelect.options)
+			.filter(o => !o.classList.contains('fontInstance-custom-value'))
+			.map(o => o.value)
+		const oldName = instanceSelect.value
+		const oldIndex = oldNames.indexOf(oldName)   // -1 = "-" (custom)
+
+		instanceSelect.length = 1   // keep only the "-" option
+		names.forEach(name => instanceSelect.add(new Option(name, name)))
+
+		// custom (sliders moved by hand): leave the sliders alone
+		if ( oldIndex === -1 || !names.length ) { instanceSelect.value = '-'; return }
+
+		let target = names.indexOf(oldName)
+		if ( target === -1 ) {
+			target = oldNames.length > 1
+				? Math.round(oldIndex / (oldNames.length - 1) * (names.length - 1))
+				: 0
+		}
+		instanceSelect.selectedIndex = target + 1   // +1 because of the "-" option
+		instanceSelect.dispatchEvent(new Event('change', { bubbles: true }))
 	}
 
 	control_select_font.forEach((element)=> {
@@ -99,7 +139,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	function apply_control_select_fontInstances(element) {
 		fontVariationForm = element.parentElement.parentElement.getElementsByClassName("select-fontVariation-form")[0]
-		instanceLocation = JSON.parse(font_instances[element.value])
+		const tester = element.closest('.tester')
+		const style = tester.querySelector('.select-font select').value
+		instanceLocation = (font_instances_by_style[style] || {})[element.value]
+		if ( !instanceLocation ) return   // de "-" optie heeft geen locatie
 		for ( tag in instanceLocation ) {
 			value = instanceLocation[tag]
 			sliders = fontVariationForm.querySelectorAll("[data-font-variation-tag='" + tag + "']")

@@ -55,6 +55,10 @@ section.testers {
     background: #97e1fe;
 }
 
+section.testers .t-xsmall {
+    color: white;
+}
+
 section.testers .t-small {
     color: white;
 }

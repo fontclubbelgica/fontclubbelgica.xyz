@@ -3,6 +3,7 @@ from fontTools.ttLib import TTFont
 from fontTools.fontBuilder import FontBuilder
 import base64
 import io
+import re
 from glyphNameFormatter import getRangeName
 
 try:
@@ -329,6 +330,40 @@ def getUnicodeBlock(unicode):
     return customRangeNames.get(unicode, getRangeName(unicode))
 
 
+def getInstanceData(font):
+    """Named instances of a variable font as a list of (name, {axisTag: value})."""
+    instances = []
+    if "fvar" not in font:
+        return instances
+    name = font["name"]
+    for index, instance in enumerate(font["fvar"].instances, start=1):
+        instanceName = name.getDebugName(instance.subfamilyNameID) or f"Instance {index}"
+        instances.append((instanceName, dict(instance.coordinates)))
+    return instances
+
+
+def formatAxisValue(value):
+    """300.0 -> 300, 87.5 -> 87.5"""
+    value = round(float(value), 3)
+    if value.is_integer():
+        return str(int(value))
+    return str(value)
+
+
+def yamlKey(text):
+    """Return text as a YAML key, quoted only when plain YAML would misread it."""
+    needsQuotes = (
+        re.search(r"[:#{}\[\],&*!|>'\"%@`]", text)
+        or text != text.strip()
+        or text.startswith(("-", "?"))
+        or re.fullmatch(r"[\d.]+", text)
+        or text.lower() in ("true", "false", "yes", "no", "on", "off", "null", "~")
+    )
+    if needsQuotes:
+        return '"' + text.replace("\\", "\\\\").replace('"', '\\"') + '"'
+    return text
+
+
 def buildWebfont(font):
     fullName = font["name"].getBestFullName()
     builder = FontBuilder(font=font)
@@ -607,6 +642,17 @@ class Controller(ezui.WindowController):
                     out += f"  {info['stylisticName']}: \"{text}\""
 
             out.dedent()
+
+            # named instances of this font, so every style carries its own list
+            instances = getInstanceData(font)
+            if instances:
+                out += "  instances:"
+                out.indent()
+                for instanceName, coordinates in instances:
+                    location = ", ".join(f"{tag}: {formatAxisValue(value)}" for tag, value in coordinates.items())
+                    out += f"  - {yamlKey(instanceName)}: {{ {location} }}"
+                out.dedent()
+
             out.dedent()
         out.dedent()
         self.write(out.get())
