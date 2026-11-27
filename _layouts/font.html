@@ -170,20 +170,31 @@ const font_instances_by_style = {
                 </select>
             </div>
             {% endif %}
-
+            
             {% if page.fontVariations %}
+                {% assign selectedInstanceValues = nil %}
+                {% for instanceItem in tester_instances %}
+                    {% for instance in instanceItem %}
+                        {% if instance[0] == tester.instance %}
+                            {% assign selectedInstanceValues = instance[1] %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
             <div class="select-fontVariation">
                 <form class="select-fontVariation-form">
                 {% for fontVariationItem in page.fontVariations %}
                     {% for fontVariation in fontVariationItem %}
+                        {% assign tag = fontVariation[0] %}
                         {% assign fontVariationsDefaultValue = fontVariation[1].defaultValue %}
-                        {% for testerFontVariationsItem in tester.fontVariations %}
-                            {% for testerFontVariations in testerFontVariationsItem %}
-                                {% if testerFontVariations[0] == fontVariation[0] %}
-                                    {% assign fontVariationsDefaultValue = testerFontVariations[1] %}
-                                {% endif %}
-                            {% endfor %}
-                        {% endfor %}
+                        
+                        {% if selectedInstanceValues %}
+                            {% assign instanceValue = selectedInstanceValues[tag] %}
+                        
+                            {% if instanceValue != nil %}
+                                {% assign fontVariationsDefaultValue = instanceValue %}
+                            {% endif %}
+                        {% endif %}
+                        
                         <div><div class="fontVariation-name">{{ fontVariation[1].name }}</div> <input type="range" data-font-variation-tag="{{ fontVariation[0] }}" data-default-value="{{ fontVariation[1].defaultValue }}" min="{{ fontVariation[1].minValue }}" max="{{ fontVariation[1].maxValue }}" value="{{ fontVariationsDefaultValue }}"  step="0.001" class="slider"></div>
                     {% endfor %}
                 {% endfor %}
