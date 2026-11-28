@@ -114,18 +114,6 @@ styles:
            - Heavy Normal Roman on the Left Rounded: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 1 }
            - Heavy Normal Roman on the Left Squared: { wght: 858.824, wdth: 100, slnt: 0, shft: -40, cap_: 0 }
 
-# openTypeFeatures:
-#    - dnom:
-#        name: Denominators
-#        fontStyle: FC MAD Serif Light
-#        examples:
-#          - "0123456789"
-#    - frac:
-#        name: Fractions
-#        fontStyle: FC MAD Serif Light
-#        examples:
-#          - "/0123456789"
-
 fontVariations:
     - wght:
         name: Weight
@@ -152,6 +140,18 @@ fontVariations:
         minValue: 0.0
         maxValue: 1.0
         defaultValue: 1.0
+
+# openTypeFeatures:
+#    - dnom:
+#        name: Denominators
+#        fontStyle: FC MAD Serif Light
+#        examples:
+#          - "0123456789"
+#    - frac:
+#        name: Fractions
+#        fontStyle: FC MAD Serif Light
+#        examples:
+#          - "/0123456789"
 
 testers:
     - text: |

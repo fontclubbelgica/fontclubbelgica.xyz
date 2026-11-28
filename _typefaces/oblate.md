@@ -2,7 +2,7 @@
 layout: font
 title: FC Oblate
 
-draft: false
+draft: true
 
 seo_description: |
     FC Bol is a display typeface that is perfect for animations and other experimental usage. Its elements can be allowed to dance at will.
@@ -12,7 +12,7 @@ information: |
     What started as a sans serif companion to FC Nib has turned into a highly multifunctional sans serif that just like it's companion is both highly usable and expressive.
 
 designer: Dries Wiewauters
-date: 2026-11-24
+date: 2027-01-01
 
 specimen: 25-04_FC-Oblate_Type-Specimen.pdf
 
@@ -203,6 +203,19 @@ styles:
            - 551 X Expanded Extra Bold Italic: { wdth: 500, wght: 358 }
            - 561 X Expanded Black Italic: { wdth: 500, wght: 500 }
 
+
+fontVariations:
+   - wdth:
+      name: Width
+      minValue: 100.0
+      maxValue: 500.0
+      defaultValue: 100.0
+   - wght:
+      name: Weight
+      minValue: 0.0
+      maxValue: 500.0
+      defaultValue: 0.0
+
 openTypeFeatures:
    - case:
        name: Case-Sensitive Forms
@@ -289,19 +302,6 @@ openTypeFeatures:
        fontStyle: FC Oblate 340 Bold
        examples:
          - "0"
-
-fontVariations:
-   - wdth:
-      name: Width
-      minValue: 100.0
-      maxValue: 500.0
-      defaultValue: 100.0
-   - wght:
-      name: Weight
-      minValue: 0.0
-      maxValue: 500.0
-      defaultValue: 0.0
-
 
 testers:
     - text: |
